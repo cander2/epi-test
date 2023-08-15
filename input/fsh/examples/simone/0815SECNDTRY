@@ -1,0 +1,57 @@
+Instance: //Add a unique name for this composition. Can use any name as long as it is unique.
+InstanceOf: CompositionUvEpi //Don't change this. It links to the profile template which is used for validation
+Title: "" // Add any title you like
+Description:  "" // Add any description you like
+Usage: #example / don't change.
+
+* identifier.system = "https://www.mhra.gov.uk/" //Don't change.
+* identifier.value = "" //Generate a new UUID from here: https://www.uuidgenerator.net/.
+
+* status = #final //Don't change this.
+
+* type = https://www.mhra.gov.uk/#100000155538 //Don't change.
+* type.text = "Package Leaflet" //Don't change this.
+
+* date = "2022-03-04T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
+* author = Reference() //Add the Instance name for the Organization inside the brackets
+
+* title = "" //change the title to any name you like
+* language = #en //ISO two letter language code. Defines what language the document text will be.
+
+//Don't change the structure here. Only change where the comments allow
+* section[+] //when there is only one section this means this is a first level section. E.g., 1.0
+  * title = "" //Add the section heading text that matches what is in the label
+  * code = https://www.mhra.gov.uk/# //After the # add the code for the section heading
+  * code.text = "" //Add the section heading text associated with the code. This text always matches the health authority terminology.
+  * text.status = #additional
+  //The text.div is where we put the semi-structured text as XHTML. The XHTML goes between the <div></div>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+  </div>"""
+ 
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = ""
+  * code = https://www.mhra.gov.uk/#
+  * code.text = ""
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+  </div>""" 
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = ""
+  * code = https://www.mhra.gov.uk/#
+  * code.text = ""
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+  </div>""" 
+
+* section[+] // When the seciton headings go back to one section it means it is back to the next level 1 heading. E.g., 2.0 
+  * title = ""
+  * code = https://www.mhra.gov.uk/#
+  * code.text = ""
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+  </div>""" 
