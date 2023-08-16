@@ -2,7 +2,7 @@ Instance: //Add a unique name for this composition. Can use any name as long as 
 InstanceOf: CompositionUvEpi //Don't change this. It links to the profile template which is used for validation
 Title: "" // Add any title you like
 Description:  "" // Add any description you like
-Usage: #example / don't change.
+Usage: #example // don't change.
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
 * identifier.value = "" //Generate a new UUID from here: https://www.uuidgenerator.net/.
