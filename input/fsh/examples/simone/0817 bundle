@@ -19,7 +19,4 @@ Usage: #example
 // Organization
 * entry[+].fullUrl = "Organization/0817Org"
 * entry[=].resource = 0817Org 
- 
-// Medicinal Product Definition
-* entry[+].fullUrl = "MedicinalProductDefinition/XXXX"
-* entry[=].resource = XXXX 
+
