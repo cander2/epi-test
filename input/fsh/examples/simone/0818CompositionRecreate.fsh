@@ -28,33 +28,7 @@ Usage: #example / don't change.
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
   </div>"""
- 
-* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
-  * title = ""
-  * code = https://www.mhra.gov.uk/#
-  * code.text = ""
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-  </div>""" 
-
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
-  * title = ""
-  * code = https://www.mhra.gov.uk/#
-  * code.text = ""
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-
-  </div>""" 
-
-* section[+] // When the seciton headings go back to one section it means it is back to the next level 1 heading. E.g., 2.0 
-  * title = ""
-  * code = https://www.mhra.gov.uk/#
-  * code.text = ""
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-
-  </div>""" 
 
 * section[+]
   * title = "What is in this leaflet"
