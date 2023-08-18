@@ -13,7 +13,7 @@ Usage: #example / don't change.
 * type.text = "Package Leaflet" //Don't change this.
 
 * date = "2022-03-04T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
-* author = Reference(Bristol Myers Squibb Pfizer EEIG) //Add the Instance name for the Organization inside the brackets
+* author = Reference(0817Org) //Add the Instance name for the Organization inside the brackets
 
 * title = "0815TestandLearnTitle2 input in code row 18" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
