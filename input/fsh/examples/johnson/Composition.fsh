@@ -1,4 +1,4 @@
-Instance: composition name  //question: does the name allow spaces?
+Instance: 0818composition  //question: does the name allow spaces?
 InstanceOf: CompositionUvEpi
 Title: "Test for compostion template"
 Description:  "Add description here"
