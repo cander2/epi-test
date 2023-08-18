@@ -1,7 +1,7 @@
-Instance: 0815TestandLearn //Add a unique name for this composition. Can use any name as long as it is unique.
+Instance: 0818TestandLearn //Add a unique name for this composition. Can use any name as long as it is unique.
 InstanceOf: CompositionUvEpi //Don't change this. It links to the profile template which is used for validation
-Title: "0815TestandLearnTitle" // Add any title you like
-Description:  "0815TestandLearn Description" // Add any description you like
+Title: "0818TestandLearnTitle" // Add any title you like
+Description:  "0818TestandLearn Description" // Add any description you like
 Usage: #example / don't change.
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
@@ -15,7 +15,7 @@ Usage: #example / don't change.
 * date = "2022-03-04T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
 * author = Reference(0817Org) //Add the Instance name for the Organization inside the brackets
 
-* title = "0815TestandLearnTitle2 input in code row 18" //change the title to any name you like
+* title = "0818TestandLearnTitle2 input in code row 18" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
 
 //Don't change the structure here. Only change where the comments allow
