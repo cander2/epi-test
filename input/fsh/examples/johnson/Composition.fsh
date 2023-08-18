@@ -66,7 +66,7 @@ Usage: #example
       <p>If you have any questions about how Talzenna works or why this medicine has been prescribed for you, ask your doctor.</p>
   </div>""" 
 
-  * section[+]
+* section[+]
   * title = "2. What you need to know before you take Talzenna"
   * code = https://www.mhra.gov.uk/#100000155538
   * code.text = "2. What you need to know before you take Talzenna"
