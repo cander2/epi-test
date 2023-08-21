@@ -2,7 +2,7 @@ Instance: 0818composition  //question: does the name allow spaces?
 InstanceOf: CompositionUvEpi
 Title: "Test for compostion template"
 Description:  "Add description here"
-Usage: #example /
+Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/"
 * identifier.value = "bf51f190-3c9f-11ee-be56-0242ac120002"
