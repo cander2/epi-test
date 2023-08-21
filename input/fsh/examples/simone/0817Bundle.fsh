@@ -1,7 +1,7 @@
-Instance: 0817Bundle //Add a unique name or identifier for this bundle
+Instance: 0817Bundle
 InstanceOf: BundleUvEpi
-Title: "Bundle UK EN - PIL Talzenna" //add title
-Description: "test bundle creation" //add description
+Title: "Bundle UK EN - PIL Talzenna"
+Description: "test bundle creation"
 Usage: #example
 
 * language = #en //change language if needed
