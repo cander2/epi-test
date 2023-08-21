@@ -1,4 +1,4 @@
-Instance: 0817Bundle//Add a unique name or identifier for this bundle
+Instance: 0817Bundle //Add a unique name or identifier for this bundle
 InstanceOf: BundleUvEpi
 Title: "Bundle UK EN - PIL Talzenna" //add title
 Description: "test bundle creation" //add description
@@ -6,7 +6,7 @@ Usage: #example
 
 * language = #en //change language if needed
 * identifier.system = "https://www.mhra.gov.uk/" 
-* identifier.value = "" //add identifier
+* identifier.value = "0817BundleUniqueIdentifier" //add identifier
 * type = #document
 * timestamp = "2022-03-04T00:00:00Z" //change date and time if you like
 
