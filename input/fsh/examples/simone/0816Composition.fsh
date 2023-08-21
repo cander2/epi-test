@@ -2,7 +2,7 @@ Instance: 0815TestandLearn //Add a unique name for this composition. Can use any
 InstanceOf: CompositionUvEpi //Don't change this. It links to the profile template which is used for validation
 Title: "0815TestandLearnTitle" // Add any title you like
 Description:  "0815TestandLearn Description" // Add any description you like
-Usage: #example / don't change.
+Usage: #example // don't change.
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
 * identifier.value = "c387d81a-3b28-11ee-be56-0242ac120002" //Generate a new UUID from here: https://www.uuidgenerator.net/.
