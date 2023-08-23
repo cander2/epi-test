@@ -19,6 +19,6 @@ Usage: #example
     * text = "221B Baker Street, London NW1 6XE" //Full address name
     * use = #work
     * type = #physical
-    * line = " Baker Street" //street name and address
+    * line = "Baker Street" //street name and address
     * city = "London" //add city
     * country = "UK" //add country
