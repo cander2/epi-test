@@ -1,7 +1,7 @@
 Instance: 0818TestandLearn
 InstanceOf: CompositionUvEpi 
 Title: "0818TestandLearnTitle"
-Description:  "0818TestandLearn Description"
+Description: "0818TestandLearn Description"
 Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
@@ -17,9 +17,6 @@ Usage: #example
 
 * title = "0818TestandLearnTitle2 input in code row 18" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
-
-
-
 
 * section[+]
   * title = "What is in this leaflet"
@@ -104,8 +101,7 @@ section 6)</li>
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
            <p>Talk to your doctor, pharmacist or nurse before taking Talzenna and during your treatment if you 
 experience signs or symptoms described in this section.</p>
-           <p> </p>
-           <p><u>Low blood cell counts</u></p>
+           <p><b>Low blood cell counts</b></p>
            <p>Talzenna lowers your blood cell counts, such as your red blood cell count (anaemia), white blood cell 
 count (neutropenia), or blood platelet count (thrombocytopenia). Signs and symptoms you need to 
 look out for include:</p>
@@ -117,7 +113,6 @@ white blood cell count</li>
                        <li><b>Thrombocytopenia:</b> Bruising or bleeding for longer than usual if you hurt yourself – these may 
 be signs of a low blood platelet count</li>
            </ul>
-           <p> </p>
            <p>Talzenna lowers your blood cell counts, such as your red blood cell count (anaemia), white blood cell 
 count (neutropenia), or blood platelet count (thrombocytopenia). Signs and symptoms you need to 
 look out for include:</p>
