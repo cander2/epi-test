@@ -113,7 +113,7 @@ section 6)</li>
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
            <p>Talk to your doctor, pharmacist or nurse before taking Talzenna and during your treatment if you 
 experience signs or symptoms described in this section.</p>
-           <p></p>
+           <p> </p>
            <p><u>Low blood cell counts</u></p>
            <p>Talzenna lowers your blood cell counts, such as your red blood cell count (anaemia), white blood cell 
 count (neutropenia), or blood platelet count (thrombocytopenia). Signs and symptoms you need to 
@@ -126,7 +126,7 @@ white blood cell count</li>
                        <li><b>Thrombocytopenia:<b> Bruising or bleeding for longer than usual if you hurt yourself – these may 
 be signs of a low blood platelet count</li>
            <ul>
-           <p></p>
+           <p> </p>
            <p>Talzenna lowers your blood cell counts, such as your red blood cell count (anaemia), white blood cell 
 count (neutropenia), or blood platelet count (thrombocytopenia). Signs and symptoms you need to 
 look out for include:</p>
