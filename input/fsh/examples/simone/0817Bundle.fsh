@@ -1,6 +1,6 @@
 Instance: 0817Bundle
 InstanceOf: BundleUvEpi
-Title: "Bundle UK EN - PIL Talzenna"
+Title: "TSZ 0818 Bundle UK EN - PIL Talzenna"
 Description: "test bundle creation"
 Usage: #example
 
