@@ -40,7 +40,6 @@ Usage: #example
   * code.text = "1. What Talzenna is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-       <p>PlaceholderTobeRemoved</p>
   </div>""" 
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -76,7 +75,6 @@ you, ask your doctor.</p>
   * code.text = "2. What you need to know before you take Talzenna"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-         <p>PlaceholderTobeRemoved</p>
   </div>""" 
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
