@@ -18,16 +18,7 @@ Usage: #example
 * title = "0818TestandLearnTitle2 input in code row 18" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
 
-//Don't change the structure here. Only change where the comments allow
-* section[+] //when there is only one section this means this is a first level section. E.g., 1.0
-  * title = "" //Add the section heading text that matches what is in the label
-  * code = https://www.mhra.gov.uk/# //After the # add the code for the section heading
-  * code.text = "" //Add the section heading text associated with the code. This text always matches the health authority terminology.
-  * text.status = #additional
-  //The text.div is where we put the semi-structured text as XHTML. The XHTML goes between the <div></div>
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-  </div>"""
 
 
 * section[+]
@@ -101,7 +92,7 @@ you, ask your doctor.</p>
                        <li>If you are allergic to talazoparib or any of the other ingredients of this medicine (listed in 
 section 6)</li>
                        <li>f you are breast-feeding.</li>
-           <ul>
+           </ul>
   </div>"""
 
 
@@ -125,7 +116,7 @@ signs of a low red blood cell count</li>
 white blood cell count</li>
                        <li><b>Thrombocytopenia:<b> Bruising or bleeding for longer than usual if you hurt yourself – these may 
 be signs of a low blood platelet count</li>
-           <ul>
+           </ul>
            <p> </p>
            <p>Talzenna lowers your blood cell counts, such as your red blood cell count (anaemia), white blood cell 
 count (neutropenia), or blood platelet count (thrombocytopenia). Signs and symptoms you need to 
