@@ -1,6 +1,6 @@
 Instance: 0817Org //add unique name or identifier
 InstanceOf: OrganizationUvEpi
-Title: "0817 Organization creation" //Add title
+Title: "TSZ 0817 Organization creation" //Add title
 Description: "test of organization creation" //Add description
 Usage: #example
 
