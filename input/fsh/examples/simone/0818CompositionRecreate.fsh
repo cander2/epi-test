@@ -1,6 +1,6 @@
 Instance: 0818TestandLearn
 InstanceOf: CompositionUvEpi 
-Title: "0818TestandLearnTitle"
+Title: "TSZ 0818TestandLearn Composition"
 Description: "0818TestandLearn Description"
 Usage: #example
 
