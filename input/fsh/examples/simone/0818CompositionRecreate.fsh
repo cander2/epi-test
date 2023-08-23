@@ -112,9 +112,9 @@ look out for include:</p>
            <ul>
                        <li><b>Anaemia:</b> Being short of breath, feeling very tired, pale skin, or fast heartbeat – these may be 
 signs of a low red blood cell count</li>
-                       <li><b>Neutropenia:<b> Infection, developing chills or shivering, or fever – these may be signs of a low 
+                       <li><b>Neutropenia:</b> Infection, developing chills or shivering, or fever – these may be signs of a low 
 white blood cell count</li>
-                       <li><b>Thrombocytopenia:<b> Bruising or bleeding for longer than usual if you hurt yourself – these may 
+                       <li><b>Thrombocytopenia:</b> Bruising or bleeding for longer than usual if you hurt yourself – these may 
 be signs of a low blood platelet count</li>
            </ul>
            <p> </p>
