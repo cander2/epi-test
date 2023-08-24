@@ -462,7 +462,7 @@ Usage: #example
 * section[+]
   * title = "9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION"
   * code = https://www.mhra.gov.uk/#200000029846
-  * code.text = "	9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION"
+  * code.text = "9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
