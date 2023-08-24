@@ -177,3 +177,148 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
+
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.6 Fertility, pregnancy and lactation"
+  * code = https://www.mhra.gov.uk/#200000029811
+  * code.text = "4.6 Fertility, pregnancy and lactation"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Pregnancy"
+  * code = https://www.mhra.gov.uk/#200000029812
+  * code.text = "Pregnancy"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Breast-feeding"
+  * code = https://www.mhra.gov.uk/#200000029813
+  * code.text = "Breast-feeding"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Fertility"
+  * code = https://www.mhra.gov.uk/#200000029814
+  * code.text = "Fertility"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.7 Effects on ability to drive and use machines"
+  * code = https://www.mhra.gov.uk/#200000029815
+  * code.text = "4.7 Effects on ability to drive and use machines"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.8 Undesirable effects"
+  * code = https://www.mhra.gov.uk/#200000029816
+  * code.text = "4.8 Undesirable effects"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Paediatric population"
+  * code = https://www.mhra.gov.uk/#200000029817
+  * code.text = "Paediatric population"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Reporting of suspected adverse reactions"
+  * code = https://www.mhra.gov.uk/#200000029818
+  * code.text = "Reporting of suspected adverse reactions"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.9 Overdose"
+  * code = https://www.mhra.gov.uk/#200000029819
+  * code.text = "4.9 Overdose"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Paediatric population"
+  * code = https://www.mhra.gov.uk/#200000029820
+  * code.text = "Paediatric population"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "5. PHARMACOLOGICAL PROPERTIES"
+  * code = https://www.mhra.gov.uk/#200000029821
+  * code.text = "5. PHARMACOLOGICAL PROPERTIES"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "5.1 Pharmacodynamic properties"
+  * code = https://www.mhra.gov.uk/#200000029822
+  * code.text = "5.1 Pharmacodynamic properties"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Mechanism of action"
+  * code = https://www.mhra.gov.uk/#200000029823
+  * code.text = "Paediatric population"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Pharmacodynamic effects"
+  * code = https://www.mhra.gov.uk/#200000029824
+  * code.text = "Pharmacodynamic effects"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Clinical efficacy and safety"
+  * code = https://www.mhra.gov.uk/#200000029825
+  * code.text = "Clinical efficacy and safety"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Paediatric population"
+  * code = https://www.mhra.gov.uk/#200000029826
+  * code.text = "Paediatric population"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "5.2 Pharmacokinetic properties"
+  * code = https://www.mhra.gov.uk/#200000029827
+  * code.text = "5.2 Pharmacokinetic properties"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+  * title = "Absorption"
+  * code = https://www.mhra.gov.uk/#200000029828
+  * code.text = "Absorption"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
