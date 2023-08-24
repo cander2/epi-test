@@ -122,7 +122,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Precautions to be taken before handling or administering the medicinal product"
   * code = https://www.mhra.gov.uk/#200000029804
   * code.text = "Precautions to be taken before handling or administering the medicinal product"
@@ -146,7 +146,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Traceability"
   * code = https://www.mhra.gov.uk/#200000029807
   * code.text = "Traceability"
@@ -154,7 +154,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029808
   * code.text = "Paediatric population"
@@ -170,7 +170,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029810
   * code.text = "Paediatric population"
@@ -187,7 +187,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Pregnancy"
   * code = https://www.mhra.gov.uk/#200000029812
   * code.text = "Pregnancy"
@@ -195,7 +195,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Breast-feeding"
   * code = https://www.mhra.gov.uk/#200000029813
   * code.text = "Breast-feeding"
@@ -203,7 +203,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Fertility"
   * code = https://www.mhra.gov.uk/#200000029814
   * code.text = "Fertility"
@@ -227,7 +227,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029817
   * code.text = "Paediatric population"
@@ -235,7 +235,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Reporting of suspected adverse reactions"
   * code = https://www.mhra.gov.uk/#200000029818
   * code.text = "Reporting of suspected adverse reactions"
@@ -251,7 +251,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029820
   * code.text = "Paediatric population"
@@ -275,7 +275,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Mechanism of action"
   * code = https://www.mhra.gov.uk/#200000029823
   * code.text = "Paediatric population"
@@ -283,7 +283,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Pharmacodynamic effects"
   * code = https://www.mhra.gov.uk/#200000029824
   * code.text = "Pharmacodynamic effects"
@@ -291,7 +291,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Clinical efficacy and safety"
   * code = https://www.mhra.gov.uk/#200000029825
   * code.text = "Clinical efficacy and safety"
@@ -299,7 +299,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029826
   * code.text = "Paediatric population"
@@ -315,7 +315,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Absorption"
   * code = https://www.mhra.gov.uk/#200000029828
   * code.text = "Absorption"
@@ -323,7 +323,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Distribution"
   * code = https://www.mhra.gov.uk/#200000029829
   * code.text = "Distribution"
@@ -331,7 +331,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "	Biotransformation"
   * code = https://www.mhra.gov.uk/#200000029830
   * code.text = "Biotransformation"
@@ -339,7 +339,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Elimination"
   * code = https://www.mhra.gov.uk/#200000029831
   * code.text = "Elimination"
@@ -347,7 +347,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Linearity/non-linearity"
   * code = https://www.mhra.gov.uk/#200000029832
   * code.text = "Linearity/non-linearity"
@@ -355,7 +355,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Pharmacokinetic/pharmacodynamic relationship(s)"
   * code = https://www.mhra.gov.uk/#200000029833
   * code.text = "Pharmacokinetic/pharmacodynamic relationship(s)"
@@ -371,7 +371,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Environmental risk assessment (ERA)"
   * code = https://www.mhra.gov.uk/#200000029835
   * code.text = "Environmental risk assessment (ERA)"
@@ -435,7 +435,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Use in the paediatric population"
   * code = https://www.mhra.gov.uk/#200000029843
   * code.text = "Use in the paediatric population"
@@ -474,4 +474,3 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
-
