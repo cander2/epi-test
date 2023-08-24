@@ -38,7 +38,7 @@ Usage: #example // don't change.
 
   </div>""" 
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = ""
   * code = https://www.mhra.gov.uk/#
   * code.text = ""
