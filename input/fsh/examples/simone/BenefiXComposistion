@@ -1,0 +1,76 @@
+Instance: BenefiXComposistion
+InstanceOf: CompositionUvEpi 
+Title: "BeneFIX SmPC Belgium"
+Description: "BeneFIX 250, 500, 1000 & 2000 IU - SUMMARY OF PRODUCT CHARACTERISTICS - Belgium"
+Usage: #example
+
+* identifier.system = "https://www.mhra.gov.uk/" //Don't change.
+* identifier.value = "1b5dd89a-423c-11ee-be56-0242ac120002" //Generate a new UUID from here: https://www.uuidgenerator.net/.
+
+* status = #final //Don't change this.
+
+* type = https://www.mhra.gov.uk/#100000155538 //Don't change.
+* type.text = "Package Leaflet" //Don't change this.
+
+* date = "2023-08-24T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
+* author = Reference(PfEUMA) //Add the Instance name for the Organization inside the brackets
+
+* title = "BeneFIX 250, 500, 1000 & 2000 IU - SUMMARY OF PRODUCT CHARACTERISTICS - Belgium" //change the title to any name you like
+* language = #en //ISO two letter language code. Defines what language the document text will be.
+
+* section[+]
+  * title = "SUMMARY OF PRODUCT CHARACTERISTICS"
+  * code = https://www.mhra.gov.uk/#200000029791
+  * code.text = "SUMMARY OF PRODUCT CHARACTERISTICS"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "1. NAME OF THE MEDICINAL PRODUCT"
+  * code = https://www.mhra.gov.uk/#200000029792
+  * code.text = "1. NAME OF THE MEDICINAL PRODUCT"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "2. QUALITATIVE AND QUANTITATIVE COMPOSITION"
+  * code = https://www.mhra.gov.uk/#200000029793
+  * code.text = "2. QUALITATIVE AND QUANTITATIVE COMPOSITION"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "3. PHARMACEUTICAL FORM"
+  * code = https://www.mhra.gov.uk/#200000029797
+  * code.text = "3. PHARMACEUTICAL FORM"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "4. CLINICAL PARTICULARS"
+  * code = https://www.mhra.gov.uk/#200000029798
+  * code.text = "4. CLINICAL PARTICULARS"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.1 Therapeutic indications"
+  * code = https://www.mhra.gov.uk/#200000029799
+  * code.text = "4.1 Therapeutic indications"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "4.2 Posology and method of administration"
+  * code = https://www.mhra.gov.uk/#200000029800
+  * code.text = "4.2 Posology and method of administration"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
