@@ -115,7 +115,12 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029800
   * code.text = "4.2 Posology and method of administration"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+          <p>Treatment should be under the supervision of a physician experienced in the treatment of haemophilia.</p>
+          <p><u>Treatment monitoring</u></p>
+          <p>During the course of treatment, appropriate determination of factor IX levels is advised to guide the dose to be administered and the frequency of repeated infusions. Individual patients may vary in their response to factor IX, demonstrating different half-lives and recoveries. Dose based on bodyweight may require adjustment in underweight or overweight patients. In the case of major surgical interventions in particular, precise monitoring of the substitution therapy by means of coagulation analysis (plasma factor IX activity) is indispensable.</p>
+          <p>When using an in vitro thromboplastin time (aPTT)-based one stage clotting assay for determining factor IX activity in patients' blood samples, plasma factor IX activity results can be significantly affected by both the type of aPTT reagent and the reference standard used in the assay. This is of importance particularly when changing the laboratory and/or reagents used in the assay.</p>
+
   </div>"""
 
 * section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
@@ -123,7 +128,13 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029801
   * code.text = "Posology"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+          <p>Dose and duration of the substitution therapy depend on the severity of the factor IX deficiency, on the location and extent of bleeding, and on the patient's clinical condition.</p>
+          <p>The number of units of factor IX administered is expressed in International Units (IU), which is related to the current WHO standard for factor IX products. Factor IX activity in plasma is expressed either as a percentage (relative to normal human plasma) or in International Units (relative to an international standard for factor IX in plasma).</p>
+          <p>One International Unit (IU) of factor IX activity is equivalent to that quantity of factor IX in one mL of normal human plasma.</p>
+          <p><u><i>On demand treatment</i></u></p>
+          <p>The calculation of the required dose of BeneFIX can be based on the finding that one unit of factor IX activity per kg body weight is expected to increase the circulating level of factor IX, an average of 0.8 IU/dL (range from 0.4 to 1.4 IU/dL) in patients  12 years (further information in section 5.2).</p>
+          <p>The required dose is determined using the following formula:</p>
   </div>"""
 
 * section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
