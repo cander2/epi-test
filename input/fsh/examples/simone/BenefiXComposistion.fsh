@@ -98,7 +98,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Posology"
   * code = https://www.mhra.gov.uk/#200000029801
   * code.text = "Posology"
@@ -106,7 +106,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Paediatric population"
   * code = https://www.mhra.gov.uk/#200000029802
   * code.text = "Paediatric population"
@@ -114,7 +114,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = "Method of administration"
   * code = https://www.mhra.gov.uk/#200000029803
   * code.text = "Method of administration"
