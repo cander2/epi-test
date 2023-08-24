@@ -31,7 +31,11 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029792
   * code.text = "1. NAME OF THE MEDICINAL PRODUCT"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>   
+           <p>BeneFIX 250 IU powder and solvent for solution for injection</p>
+           <p>BeneFIX 500 IU powder and solvent for solution for injection</p>
+           <p>BeneFIX 1000 IU powder and solvent for solution for injection</p>
+           <p>BeneFIX 2000 IU powder and solvent for solution for injection</p>
   </div>"""
 
 * section[+]
@@ -48,6 +52,7 @@ Usage: #example
   * code.text = "2.1 General description"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+           <p>BeneFIX contains recombinant coagulation factor IX, (INN = nonacog alfa). Nonacog alfa is a purified protein that has 415 amino acids in a single chain. It has a primary amino acid sequence that is comparable to the Ala<sup>148</sup> allelic form of plasma-derived factor IX, and some post-translational modifications of the recombinant molecule are different from those of the plasma-derived molecule. Recombinant coagulation factor IX is a glycoprotein that is secreted by genetically engineered mammalian cells derived from a Chinese hamster ovary (CHO) cell line. </p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -55,7 +60,16 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029795
   * code.text = "2.2 Qualitative and quantitative composition"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+          <p>BeneFIX 250 IU powder and solvent for solution for injection</p>
+          <p>Each vial contains nominally 250 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 50 IU nonacog alfa.</p>
+          <p>BeneFIX 500 IU powder and solvent for solution for injection</p>
+          <p>Each vial contains nominally 500 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 100 IU nonacog alfa.</p>
+          <p>BeneFIX 1000 IU powder and solvent for solution for injection</p>
+          <p>Each vial contains nominally 1000 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 200 IU nonacog alfa.</p>
+          <p>BeneFIX 2000 IU powder and solvent for solution for injection</p>
+          <p>Each vial contains nominally 2000 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 400 IU nonacog alfa.</p>
+          <p>The potency (IU) is determined using the European Pharmacopoeia one-stage clotting assay. The specific activity of BeneFIX is not less than 200 IU/mg protein.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -63,7 +77,8 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029796
   * code.text = "Excipient(s) with known effect"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+           <p>For the full list of excipients, see section 6.1.</p>
   </div>"""
 
 * section[+]
