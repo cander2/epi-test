@@ -451,7 +451,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
          <p>Do not use BeneFIX after the expiry date which is stated on the Vial label after EXP:. The expiry date refers to the last day of that month.</p>
-         <p>The reconstituted product does not contain a preservative and should be used immediately, but no longer than 3 hours after reconstitution. Chemical and physical in<wbr>use stability has been demonstrated for 3 hours at temperatures up to 25C.</p>
+         <p>The reconstituted product does not contain a preservative and should be used immediately, but no longer than 3 hours after reconstitution. Chemical and physical in-use stability has been demonstrated for 3 hours at temperatures up to 25C.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -470,7 +470,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
            <p><u>BeneFIX 250 IU, 500 IU, 1000 IU, 2000 IU powder and solvent for solution for injection</u></p>
-           <p>BeneFIX 250 IU, 500 IU, 1000 IU, 2000 IU of powder in a 10 mL vial (type 1 glass) with a stopper (chlorobutyl) and a flip<wbr>off seal (aluminium) and 5 mL of clear, colourless solvent in a prefilled syringe (type 1 glass) with a plunger stopper (bromobutyl), a tip<wbr>cap (bromobutyl) and a sterile vial adapter reconstitution device, a sterile infusion set, two alcohol swabs, a plaster, and a gauze pad.</p>
+           <p>BeneFIX 250 IU, 500 IU, 1000 IU, 2000 IU of powder in a 10 mL vial (type 1 glass) with a stopper (chlorobutyl) and a flip-off seal (aluminium) and 5 mL of clear, colourless solvent in a prefilled syringe (type 1 glass) with a plunger stopper (bromobutyl), a tip-cap (bromobutyl) and a sterile vial adapter reconstitution device, a sterile infusion set, two alcohol swabs, a plaster, and a gauze pad.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -479,7 +479,7 @@ Usage: #example
   * code.text = "6.6 Special precautions for disposal <and other handling>"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-           <p>BeneFIX is administered by intravenous infusion after reconstitution of the lyophilised powder for injection with the supplied solvent (0.234% w/v sodium chloride solution) in the pre<wbr>filled syringe (see also section 3 of the package leaflet for reconstitution instructions).</p>
+           <p>BeneFIX is administered by intravenous infusion after reconstitution of the lyophilised powder for injection with the supplied solvent (0.234% w/v sodium chloride solution) in the pre-filled syringe (see also section 3 of the package leaflet for reconstitution instructions).</p>
            <p>BeneFIX, when reconstituted, contains polysorbate-80, which is known to increase the rate of di-(2-ethylhexyl)phthalate (DEHP) extraction from polyvinyl chloride (PVC). This should be considered during the preparation and administration of BeneFIX. It is important that the recommendations in section 4.2 be followed closely.</p>
            <p>Any unused product or waste material should be disposed of in accordance with local requirements. </p>
            <p>Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment.</p>
