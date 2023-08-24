@@ -86,7 +86,10 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029797
   * code.text = "3. PHARMACEUTICAL FORM"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+          <p><u>BeneFIX 250 IU, 500 IU, 1000 IU, 2000 IU powder and solvent for solution for injection</u></p>
+          <p>Powder and solvent for solution for injection</p>
+          <p>White/almost white powder and clear and colourless solvent.</p>
   </div>"""
 
 * section[+]
@@ -103,6 +106,8 @@ Usage: #example
   * code.text = "4.1 Therapeutic indications"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+          <p>Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).</p>
+          <p>BeneFIX can be used for all age groups.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
