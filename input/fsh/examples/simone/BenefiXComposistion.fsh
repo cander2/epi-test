@@ -61,13 +61,13 @@ Usage: #example
   * code.text = "2.2 Qualitative and quantitative composition"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-          <p>BeneFIX 250 IU powder and solvent for solution for injection</p>
+          <p><u>BeneFIX 250 IU powder and solvent for solution for injection</u></p>
           <p>Each vial contains nominally 250 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 50 IU nonacog alfa.</p>
-          <p>BeneFIX 500 IU powder and solvent for solution for injection</p>
+          <p><u>BeneFIX 500 IU powder and solvent for solution for injection</u></p>
           <p>Each vial contains nominally 500 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 100 IU nonacog alfa.</p>
-          <p>BeneFIX 1000 IU powder and solvent for solution for injection</p>
+          <p><u>BeneFIX 1000 IU powder and solvent for solution for injection</u></p>
           <p>Each vial contains nominally 1000 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 200 IU nonacog alfa.</p>
-          <p>BeneFIX 2000 IU powder and solvent for solution for injection</p>
+          <p><u>BeneFIX 2000 IU powder and solvent for solution for injection</u></p>
           <p>Each vial contains nominally 2000 IU nonacog alfa (recombinant coagulation factor IX). After reconstitution with the accompanying 5 mL (0.234%) sodium chloride solution for injection, each mL of the solution contains approximately 400 IU nonacog alfa.</p>
           <p>The potency (IU) is determined using the European Pharmacopoeia one-stage clotting assay. The specific activity of BeneFIX is not less than 200 IU/mg protein.</p>
   </div>"""
