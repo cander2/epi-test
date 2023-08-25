@@ -133,7 +133,7 @@ Usage: #example
           <p>The number of units of factor IX administered is expressed in International Units (IU), which is related to the current WHO standard for factor IX products. Factor IX activity in plasma is expressed either as a percentage (relative to normal human plasma) or in International Units (relative to an international standard for factor IX in plasma).</p>
           <p>One International Unit (IU) of factor IX activity is equivalent to that quantity of factor IX in one mL of normal human plasma.</p>
           <p><u><i>On demand treatment</i></u></p>
-          <p>The calculation of the required dose of BeneFIX can be based on the finding that one unit of factor IX activity per kg body weight is expected to increase the circulating level of factor IX, an average of 0.8 IU/dL (range from 0.4 to 1.4 IU/dL) in patients  12 years (further information in section 5.2).</p>
+          <p>The calculation of the required dose of BeneFIX can be based on the finding that one unit of factor IX activity per kg body weight is expected to increase the circulating level of factor IX, an average of 0.8 IU/dL (range from 0.4 to 1.4 IU/dL) in patients	&ge; 12 years (further information in section 5.2).</p>
           <p>The required dose is determined using the following formula:</p>
           <table>
                 <tr>
