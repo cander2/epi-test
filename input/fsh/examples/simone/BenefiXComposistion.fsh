@@ -137,25 +137,25 @@ Usage: #example
           <p>The required dose is determined using the following formula:</p>
           <table>
                 <tr>
-                   <td>Number of factor IX IU required</td>
-                   <td>=</td>
-                   <td>body weight (in kg)</td>
-                   <td>X</td>
-                   <td>desired factor IX increase (%) or (IU/dL)</td>
-                   <td>X</td>
-                   <td>reciprocal of observed recovery</td>
+                   <th>Number of factor IX IU required</th>
+                   <th>=</th>
+                   <th>body weight (in kg)</th>
+                   <th>X</th>
+                   <th>desired factor IX increase (%) or (IU/dL)</th>
+                   <th>X</th>
+                   <th>reciprocal of observed recovery</th>
                 </tr>
           </table>
           <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
            <table>
                 <tr>
-                   <td>Number of factor IX IU required</td>
-                   <td>=</td>
-                   <td>body weight (in kg)</td>
-                   <td>X</td>
-                   <td>desired factor IX increase (%) or (IU/dL)</td>
-                   <td>X</td>
-                   <td>1.3 IU/kg</td>
+                   <th>Number of factor IX IU required</th>
+                   <th>=</th>
+                   <th>body weight (in kg)</th>
+                   <th>X</th>
+                   <th>desired factor IX increase (%) or (IU/dL)</th>
+                   <th>X</th>
+                   <th>1.3 IU/kg</th>
                 </tr>
           </table>
           <p>The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.</p>
