@@ -146,6 +146,7 @@ Usage: #example
                    <th>reciprocal of observed recovery</th>
                 </tr>
           </table>
+
           <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
            <table>
                 <tr>
