@@ -538,7 +538,7 @@ Usage: #example
   * code.text = "6.4 Special precautions for storage"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-         <p>Store and transport at 2- 30°C. Do not freeze, in order to prevent damage to the prefilled syringe.</p>
+         <p>Store and transport at 2-30°C. Do not freeze, in order to prevent damage to the prefilled syringe.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
