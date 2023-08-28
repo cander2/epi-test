@@ -160,47 +160,7 @@ Usage: #example
           </table>
           <p>The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.</p>
           <p>In the case of the following haemorrhagic events, the factor IX activity should not fall below the given plasma activity levels (in % of normal or in IU/dL) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery:</p>
-           <table>
-                   <tr>
-                      <th><b>Degree of haemorrhage/Type of surgical procedure</b></th>
-                      <th><b>Factor IX level required (%) or (IU/dL)</b></th>
-                      <th><b>Frequency of doses (hours)/Duration of Therapy (days)</b></th>
-                   </tr>
-                   //<tr>
-                     //<td colspan="3"><b>Haemorrhage</b></td>
-                   //</tr>
-                   <tr>
-                      <td>Early haemarthrosis, muscle bleeding or oral bleeding</p></td>
-                      <td>20-40</td>
-                      <td>Repeat every 24 hours. At least 1 day, until the bleeding episode as indicated by pain is resolved or healing is achieved.</td>
-                   </tr>
-                   <tr>
-                      <td>More extensive haemarthrosis, muscle bleeding or haematoma</td>
-                      <td>30-60</td>
-                      <td>Repeat infusion every 24 hours for 3 4 days or more until pain and acute disability are resolved.</td>
-                   </tr>
-                   <tr>
-                      <td>Life-threatening haemorrhages</td>
-                      <td>60-100</td>
-                      <td>Repeat infusion every 8 to 24 hours until threat is resolved.</td>
-                   </tr>
-                   //<tr>
-                     //<td colspan="3"><b>Surgery</b></td>
-                   //</tr>
-                   <tr>
-                      <td>
-                           <p>Minor:</p>
-                           <p>Including tooth extraction</p>
-                      </td>
-                      <td>30-60</td>
-                      <td>Every 24 hours, at least 1 day, until healing is achieved.</td>
-                   </tr>
-                   <tr>
-                      <td>Major</td>
-                      <td>80-100(pre- and postoperative)</td>
-                      <td>Repeat infusion every 8 24 hours until adequate wound healing, then therapy for at least another 7 days to maintain a factor IX activity of 30% to 60% (IU/dL)</td>
-                   </tr>
-  </table>
+ 
 
           <p><u>Prophylaxis</u></p>
           <p>BeneFIX may be administered for long term prophylaxis against bleeding in patients with haemophilia B. In a clinical study for routine secondary prophylaxis the average dose for previously treated patients (PTP) was 40<strong> </strong>IU/kg (range 13 to 78 IU/kg) at intervals of 3 to 4 days.</p>
