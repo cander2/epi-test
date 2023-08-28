@@ -72,7 +72,7 @@ Usage: #example
       </ul>
       <p>Talk to your doctor, pharmacist, or nurse before the vaccination if your child was born very prematurely (at or before 28 weeks of gestation), as longer gaps than normal between breaths may occur for 2-3 days after vaccination. See also section 4.</p>
       <p>As with any vaccine, Prevenar&nbsp;13 will not protect all persons who are vaccinated.</p>
-      <p>Prevenar&nbsp;13 will only protect against ear infections in children caused by the types of Streptococcus pneumoniae for which the vaccine has been developed. It will not protect against other infectious agents that can cause ear infections.<p>
+      <p>Prevenar&nbsp;13 will only protect against ear infections in children caused by the types of Streptococcus pneumoniae for which the vaccine has been developed. It will not protect against other infectious agents that can cause ear infections.</p>
   </div>""" 
 
 * section[=].section[+]
