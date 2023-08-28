@@ -134,7 +134,17 @@ Usage: #example
           <p><u><i>On demand treatment</i></u></p>
           <p>The calculation of the required dose of BeneFIX can be based on the finding that one unit of factor IX activity per kg body weight is expected to increase the circulating level of factor IX, an average of 0.8 IU/dL (range from 0.4 to 1.4 IU/dL) in patients	&ge; 12 years (further information in section 5.2).</p>
           <p>The required dose is determined using the following formula:</p>
-
+        <table>
+                <tr>
+                  <th>Number of factor IX IU required</th>
+                   <th>=</th>
+                   <th>body weight (in kg)</th>
+                   <th>X</th>
+                   <th>desired factor IX increase (%) or (IU/dL)</th>
+                   <th>X</th>
+                   <th>reciprocal of observed recovery</th>
+                </tr>
+          </table>
 
          <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
           <p>The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.</p>
