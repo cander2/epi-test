@@ -349,7 +349,7 @@ Usage: #example
   * code.text = "This leaflet was last revised in November 2020"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>----------------------------------------------------------------------------------------------------------------------------</p>
+      <p>----------------------------------------------------------------------------------------------------------------------------</p>
   </div>"""
 
 * section[=].section[+]
@@ -369,8 +369,8 @@ Usage: #example
       <p>Any unused product or waste material should be disposed of in accordance with local requirements.</p>
       <table>
         <tr>
-          <td width="100%" valign=top style='width:100.0%;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in;height:79.45pt'>
-            <p align=center><b>THIS IS A MEDICAMENT</b></p>
+          <td>
+            <p><b>THIS IS A MEDICAMENT</b></p>
             <ul>
                 <li>Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</li>
                 <li>Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</li>
@@ -378,7 +378,7 @@ Usage: #example
                 <li>Do not by yourself interrupt the period of treatment prescribed.</li>
                 <li>Do not repeat the same prescription without consulting your doctor.</li>
             </ul>
-            <p align=center><b>Keep all medicaments out of reach and sight of children</b></p>
+            <p><b>Keep all medicaments out of reach and sight of children</b></p>
             <p><b>Council of Arab Health Ministers</b></p>
             <p><b>Union of Arabic Pharmacists</b></p>
           </td>
