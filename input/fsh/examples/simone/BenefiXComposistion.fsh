@@ -136,17 +136,28 @@ Usage: #example
           <p>The required dose is determined using the following formula:</p>
         <table>
                 <tr>
-                  <th>Number of factor IX IU required</th>
-                   <th>=</th>
-                   <th>body weight (in kg)</th>
-                   <th>X</th>
-                   <th>desired factor IX increase (%) or (IU/dL)</th>
-                   <th>X</th>
-                   <th>reciprocal of observed recovery</th>
+                  <td>Number of factor IX IU required</td>
+                   <td>=</td>
+                   <td>body weight (in kg)</td>
+                   <td>X</td>
+                   <td>desired factor IX increase (%) or (IU/dL)</td>
+                   <td>X</td>
+                   <td>reciprocal of observed recovery</td>
                 </tr>
           </table>
 
          <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
+<table>
+                <tr>
+                   <td>Number of factor IX IU required</td>
+                   <td>=</td>
+                  <td>body weight (in kg)</td>
+                   <td>X</td>
+                   <td>desired factor IX increase (%) or (IU/dL)</td>
+                   <td>X</td>
+                   <td>1.3 IU/kg</td>
+                </tr>
+          </table>
           <p>The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.</p>
           <p>In the case of the following haemorrhagic events, the factor IX activity should not fall below the given plasma activity levels (in % of normal or in IU/dL) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery:</p>
           <p><u>Prophylaxis</u></p>
