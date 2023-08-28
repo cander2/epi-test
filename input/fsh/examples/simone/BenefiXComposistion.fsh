@@ -166,9 +166,9 @@ Usage: #example
                       <th><b>Factor IX level required (%) or (IU/dL)</b></th>
                       <th><b>Frequency of doses (hours)/Duration of Therapy (days)</b></th>
                    </tr>
-                   <tr>
-                     <td colspan="3"><b>Haemorrhage</b></td>
-                   </tr>
+                   //<tr>
+                     //<td colspan="3"><b>Haemorrhage</b></td>
+                   //</tr>
                    <tr>
                       <td>Early haemarthrosis, muscle bleeding or oral bleeding</p></td>
                       <td>20-40</td>
@@ -184,9 +184,9 @@ Usage: #example
                       <td>60-100</td>
                       <td>Repeat infusion every 8 to 24 hours until threat is resolved.</td>
                    </tr>
-                   <tr>
-                     <td colspan="3"><b>Surgery</b></td>
-                   </tr>
+                   //<tr>
+                     //<td colspan="3"><b>Surgery</b></td>
+                   //</tr>
                    <tr>
                       <td>
                            <p>Minor:</p>
