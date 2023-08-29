@@ -439,7 +439,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
           <p>In a randomized, cross-over pharmacokinetic study, BeneFIX reconstituted in 0.234% sodium chloride diluent was shown to be pharmacokinetically equivalent to the previously marketed BeneFIX (reconstituted with sterile water) in 24 previously treated patients (≥12 years) at a dose of 75 IU/kg. In addition, pharmacokinetic parameters were followed up in 23 of the same patients after repeated administration of BeneFIX for six months and found to be unchanged compared with those obtained at the initial evaluation. A summary of pharmacokinetic data is presented in Table 1.</p>
-<table>
+<table border="1">
 
 <thead>
      <tr><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></tr>
