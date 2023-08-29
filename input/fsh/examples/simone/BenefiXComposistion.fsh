@@ -543,7 +543,7 @@ Usage: #example
 </tbody>
 
 <tfoot>
-     <tr>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</tr>
+     <tr><p>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</p></tr>
 </tfoot>
 
 </table>
