@@ -22,7 +22,7 @@ Usage: #example
 
 * section[+]
   * title = "Package Leaflet: Information for the user"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029894
   * code.text = "Package Leaflet: Information for the user"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
