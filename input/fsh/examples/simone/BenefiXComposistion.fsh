@@ -134,32 +134,82 @@ Usage: #example
           <p><u><i>On demand treatment</i></u></p>
           <p>The calculation of the required dose of BeneFIX can be based on the finding that one unit of factor IX activity per kg body weight is expected to increase the circulating level of factor IX, an average of 0.8 IU/dL (range from 0.4 to 1.4 IU/dL) in patients	GREATER-THAN-OR-EQUAL-TO-BE-REPLACED 12 years (further information in section 5.2).</p>
           <p>The required dose is determined using the following formula:</p>
-        <table>
-                <tr>
-                  <td>Number of factor IX IU required</td>
-                   <td>=</td>
-                   <td>body weight (in kg)</td>
-                   <td>X</td>
-                   <td>desired factor IX increase (%) or (IU/dL)</td>
-                   <td>X</td>
-                   <td>reciprocal of observed recovery</td>
-                </tr>
-          </table>
+                    <table border="1">
+                  <tbody >
+				  <tr>
+                     <th>Number of factor IX IU required</th>
+                     <th>=</th>
+                     <th>body weight (in kg)</th>
+                     <th>X</th>
+                     <th>desired factor IX increase (%) or (IU/dL)</th>
+                     <th>X</th>
+                     <th>reciprocal of observed recovery</th>
+                  </tr>
+				  </tbody>
+            </table>
+
          <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
-<table>
-                <tr>
-                   <td>Number of factor IX IU required</td>
-                   <td>=</td>
-                  <td>body weight (in kg)</td>
-                   <td>X</td>
-                   <td>desired factor IX increase (%) or (IU/dL)</td>
-                   <td>X</td>
-                   <td>1.3 IU/kg</td>
-                </tr>
-          </table>
+             <table border="1">
+			      <tbody>
+                  <tr>
+                     <th>Number of factor IX IU required</th>
+                     <th>=</th>
+                     <th>body weight (in kg)</th>
+                     <th>X</th>
+                     <th>desired factor IX increase (%) or (IU/dL)</th>
+                     <th>X</th>
+                     <th>1.3 IU/kg</th>
+                  </tr>
+				  </tbody>
+            </table>
           <p>The amount to be administered and the frequency of administration should always be oriented to the clinical effectiveness in the individual case.</p>
           <p>In the case of the following haemorrhagic events, the factor IX activity should not fall below the given plasma activity levels (in % of normal or in IU/dL) in the corresponding period. The following table can be used to guide dosing in bleeding episodes and surgery:</p>
- 
+          <table border="1">
+			<tbody>
+                   <tr>
+                      <th><b>Degree of haemorrhage/Type of surgical procedure</b></th>
+                      <th><b>Factor IX level required (%) or (IU/dL)</b></th>
+                      <th><b>Frequency of doses (hours)/Duration of Therapy (days)</b></th>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="3"><b>Haemorrhage</b></td>
+                   </tr>
+                   <tr>
+                      <td>Early haemarthrosis, muscle bleeding or oral bleeding</p></td>
+                      <td>20-40</td>
+                      <td>Repeat every 24 hours. At least 1 day, until the bleeding episode as indicated by pain is resolved or healing is achieved.</td>
+                   </tr>
+                   <tr>
+                      <td>More extensive haemarthrosis, muscle bleeding or haematoma</td>
+                      <td>30-60</td>
+                      <td>Repeat infusion every 24 hours for 3 4 days or more until pain and acute disability are resolved.</td>
+                   </tr>
+                   <tr>
+                      <td>Life-threatening haemorrhages</td>
+                      <td>60-100</td>
+                      <td>Repeat infusion every 8 to 24 hours until threat is resolved.</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="3"><b>Surgery</b></td>
+                   </tr>
+                   <tr>
+                      <td>
+                           <p>Minor:</p>
+                           <p>Including tooth extraction</p>
+                      </td>
+                      <td>30-60</td>
+                      <td>Every 24 hours, at least 1 day, until healing is achieved.</td>
+                   </tr>
+                   <tr>
+                      <td>Major</td>
+                      <td>80-100(pre- and postoperative)</td>
+                      <td>Repeat infusion every 8 24 hours until adequate wound healing, then therapy for at least another 7 days to maintain a factor IX activity of 30% to 60% (IU/dL)</td>
+                   </tr>
+  </tbody>
+  </table>
+
+
+          
 
           <p><u>Prophylaxis</u></p>
           <p>BeneFIX may be administered for long term prophylaxis against bleeding in patients with haemophilia B. In a clinical study for routine secondary prophylaxis the average dose for previously treated patients (PTP) was 40 IU/kg (range 13 to 78 IU/kg) at intervals of 3 to 4 days.</p>
