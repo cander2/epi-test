@@ -318,12 +318,12 @@ Usage: #example
     <p>Boulevard de la Plaine 17</p>
     <p>1050 Bruxelles</p>
     <p>Belgium</p>
-    <p><b>"Manufactured by:"</b></p>
+    <p><b>Manufactured by:</b></p>
     <p>Pfizer Ireland Pharmaceuticals,</p>
     <p>Grange Castle Business Park,</p>
     <p>Clondalkin, Dublin 22,</p> 
     <p>Ireland</p>
-    <p><b>"Packed & released by:"</b></p>
+    <p><b>Packed & released by:</b></p>
     <p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
   </div>"""
 
