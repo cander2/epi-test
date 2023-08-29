@@ -1,4 +1,4 @@
-Instance: organization-prevenar
+Instance: organization_prevenar
 InstanceOf: OrganizationUvEpi
 Title: "org for Master Gulf and Levant- Prevenar 13--0.5 ml- PLD Jordan"
 Description: "org for Master Gulf and Levant- Prevenar 13--0.5 ml- PLD Jordan"
