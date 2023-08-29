@@ -323,7 +323,7 @@ Usage: #example
     <p>Grange Castle Business Park,</p>
     <p>Clondalkin, Dublin 22,</p> 
     <p>Ireland</p>
-    <p><b>Packed & released by:</b></p>
+    <p><b>Packed &amp; released by:</b></p>
     <p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
   </div>"""
 
