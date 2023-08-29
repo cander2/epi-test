@@ -1,7 +1,7 @@
 Instance: BundleTemplate
 InstanceOf: BundleUvEpi
-Title: "BenefiX SmPC Bundle"
-Description: "Bundle of BenefiX SmPC"
+Title: "Template of Bundle"
+Description: "Create Bundle template for debug"
 Usage: #example
 
 * language = #en //change language if needed
