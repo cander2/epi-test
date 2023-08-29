@@ -13,8 +13,8 @@ Usage: #example
 //In the following sections, replace the xxxx with the unique Instance name of your resource templates.
 
 // Composition
-* entry[0].fullUrl = "Composition/Prevenar-13--0.5-mll"
-* entry[0].resource = Prevenar-13--0.5-mll
+* entry[0].fullUrl = "Composition/Prevenar-13--0.5-ml"
+* entry[0].resource = Prevenar-13--0.5-ml
 
 // Organization
 * entry[+].fullUrl = "Organization/organization-prevenarr"
