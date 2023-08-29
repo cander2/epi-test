@@ -1,4 +1,4 @@
-Instance: bundle-prevenar
+Instance: bundle_prevenar
 InstanceOf: BundleUvEpi
 Title: "bundle for prevenar"
 Description: "bundle for prevenar"
