@@ -492,7 +492,7 @@ Usage: #example
 <table border="1">
 
 <thead>
-     <tr><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></tr>
+     <tr><p><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></p></tr>
 </thead>
 
 
