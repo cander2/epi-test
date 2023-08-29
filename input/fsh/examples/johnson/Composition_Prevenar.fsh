@@ -48,7 +48,7 @@ Usage: #example
 
 * section[+]
   * title = "1. What Prevenar 13 is and what it is used for"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029895
   * code.text = "1. What X is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -64,7 +64,7 @@ Usage: #example
 
 * section[+]
   * title = "2.	What you need to know before you or your child receives Prevenar&nbsp;13"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029896
   * code.text = "2.	What you need to know before you or your child receives X"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -73,7 +73,7 @@ Usage: #example
   
 * section[=].section[+]
   * title = "Prevenar&nbsp;13 should not be given"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029897
   * code.text = "X should not be given"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -85,7 +85,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Warnings and precautions"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029898
   * code.text = "Warnings and precautions"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -103,7 +103,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Other medicines/vaccines and Prevenar&nbsp;13"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029900
   * code.text = "Other medicines/vaccines and X"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -115,7 +115,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Pregnancy and breast-feeding"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029902
   * code.text = "Pregnancy and breast-feeding"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -124,7 +124,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Driving and using machines"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029903
   * code.text = "Driving and using machines"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -133,7 +133,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Prevenar&nbsp;13 contains sodium"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029904
   * code.text = "X contains sodium"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -142,7 +142,7 @@ Usage: #example
 
 * section[+]
   * title = "3.	How Prevenar&nbsp;13 is given"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029905
   * code.text = "3.	How X is given"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -179,7 +179,7 @@ Usage: #example
 
 * section[+]
   * title = "4.	Possible side effects"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029905
   * code.text = "4.	Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -254,7 +254,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Reporting of side effects"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029912
   * code.text = "Reporting of side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -263,7 +263,7 @@ Usage: #example
 
 * section[+]
   * title = "5.	How to store Prevenar&nbsp;13"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029913
   * code.text = "5.	How to store X"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -276,7 +276,7 @@ Usage: #example
 
 * section[+]
   * title = "6.	Contents of the pack and other information"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029914
   * code.text = "6.	Contents of the pack and other information"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -285,7 +285,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "What Prevenar&nbsp;13 contains"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029914
   * code.text = "What X contains"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -300,7 +300,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "What Prevenar&nbsp;13 looks like and contents of the pack"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029914
   * code.text = "What X looks like and contents of the pack"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -310,7 +310,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "Marketing Authorization Holder:"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029917
   * code.text = "Marketing Authorization Holder:"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -329,7 +329,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "This leaflet was last revised in November 2020"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029917
   * code.text = "This leaflet was last revised in November 2020"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
@@ -338,7 +338,7 @@ Usage: #example
 
 * section[=].section[+]
   * title = "The following information is intended for healthcare professionals only:"
-  * code = https://www.mhra.gov.uk/#100000155538
+  * code = https://www.mhra.gov.uk/#200000029921
   * code.text = "The following information is intended for healthcare professionals only:"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
