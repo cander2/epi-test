@@ -445,9 +445,7 @@ Usage: #example
      <tr><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></tr>
 </thead>
 
-<tfoot>
-     <tr>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</tr>
-</tfoot>
+
 
 <tbody>
      <tr>
@@ -493,9 +491,78 @@ Usage: #example
 	 </tr> 	 
 	 
 </tbody>
+
+<tfoot>
+     <tr>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</tr>
+</tfoot>
+
 </table>
+
           <p>A population pharmacokinetic model was developed using data collected in 73 patients aged 7 months to 60 years. The parameters estimated using the final 2-compartment model are shown in Table 2. Infants and children had higher clearance, larger volume of distribution, shorter half-life and lower recovery than adolescents and adults. The terminal phase has not been covered unambiguously due to lack of data beyond 24 hours in paediatric subjects &lt; 6 years of age.</p>
-          <p>PLACEHOLDER OF TABLE</p>
+         <table border="1">
+
+<thead>
+     <tr><b>	Table 2. Mean ± SD Pharmacokinetic Parameters Based on Individual Bayes Estimates from Population Pharmacokinetic Analysis</b></tr>
+</thead>
+
+
+<tbody>
+     <tr>
+	  <th>Age Group (years)</th>
+      <th>Infants &lt;2</th>
+      <th>Children 2 to &lt; 6</th>
+	  <th>Children 6 to &lt; 12</th>
+	  <th>Adolescents 12 to &lt; 18</th>
+	  <th>Adults 18 to 60</th>
+	 </tr>
+	 
+	 <tr>
+	  <td>Number of subjects</td>
+      <td>7</td>
+      <td>16</td>
+	  <td>1</td>
+	  <td>9</td>
+	  <td>30</td>
+	 </tr>
+	 
+	 <tr>
+	  <td>Clearance (mL/h/kg)</td>
+      <td>13.1 ± 2.1</td>
+      <td>13.1 ± 2.9</td>
+	  <td>15.5</td>
+	  <td>9.2 ± 2.3</td>
+	  <td>8.0 ± 0.6</td>
+	 </tr>
+
+	 <tr>
+	  <td>Vss (mL/kg)</td>
+      <td>252 ± 35</td>
+      <td>257 ± 25</td>
+	  <td>303</td>
+	  <td>234 ± 49</td>
+	  <td>225 ± 59</td>
+	 </tr>	
+
+	 <tr>
+	  <td>Elimination half life (h)</td>
+      <td>252 ± 35</td>
+      <td>15.6 ± 1.2</td>
+	  <td>16.3</td>
+	  <td>21.5 ± 5.0</td>
+	  <td>23.9 ± 4.5</td>
+	 </tr>	
+
+	 <tr>
+	  <td>Recovery (IU/dL per IU/kg)</td>
+      <td>0.61 ± 0.10</td>
+      <td>0.60 ± 0.08</td>
+	  <td>0.47</td>
+	  <td>0.69 ± 0.16</td>
+	  <td>0.74 ± 0.20</td>
+	 </tr>		 
+	 
+</tbody>
+</table>
 </div>"""
 
 * section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
