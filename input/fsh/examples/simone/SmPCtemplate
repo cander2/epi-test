@@ -5,7 +5,7 @@ Description: "SmPCtemplate"
 Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
-* identifier.value = "" //Generate a new UUID from here: https://www.uuidgenerator.net/.
+* identifier.value = "b5ffe6c3-ac12-44c4-a0a1-b13a1f7740ad" //Generate a new UUID from here: https://www.uuidgenerator.net/.
 
 * status = #final //Don't change this.
 
