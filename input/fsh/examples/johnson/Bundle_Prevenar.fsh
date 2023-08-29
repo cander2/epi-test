@@ -18,5 +18,5 @@ Usage: #example
 
 // Organization
 * entry[+].fullUrl = "Organization/organization-prevenarr"
-* entry[=].resource = organization-prevenarr
+* entry[=].resource = organization-prevenar
  
