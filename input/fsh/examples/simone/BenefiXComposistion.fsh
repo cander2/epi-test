@@ -145,7 +145,6 @@ Usage: #example
                    <td>reciprocal of observed recovery</td>
                 </tr>
           </table>
-
          <p>Example: For a recovery of 0.8 IU/dL, the formula reads:</p>
 <table>
                 <tr>
@@ -179,7 +178,6 @@ Usage: #example
           <p>Close monitoring of factor IX plasma activity should be performed as clinically indicated, as well as calculation of pharmacokinetic parameters such as recovery and half-life, in order to adjust doses as appropriate.</p>
           <p><u>Elderly population</u></p>
           <p>Clinical studies of BeneFIX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. As with any patient receiving BeneFIX, dose selection for an elderly patient should be individualised.</p>
-          
   </div>"""
 
 * section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
@@ -230,7 +228,7 @@ Usage: #example
   * code.text = "Traceability"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-          <p>In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded. </p>
+          <p>In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.</p>
   </div>"""
 
 * section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
