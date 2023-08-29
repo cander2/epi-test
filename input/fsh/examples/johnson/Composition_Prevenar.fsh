@@ -19,7 +19,33 @@ Usage: #example
 * language = #en
 
 //Don't change the structure here. Only change where the comments allow
- 
+
+* section[+]
+  * title = "Package Leaflet: Information for the user"
+  * code = https://www.mhra.gov.uk/#100000155538
+  * code.text = "Package Leaflet: Information for the user"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p>Prevenar&nbsp;13 suspension for injection</p>
+    <p>pneumococcal polysaccharide conjugate vaccine (13 valent, adsorbed)</p>
+    <p><b>Read all of this leaflet carefully before you or your child receives this vaccine because it contains important information for you.</b></p>
+    <ul>
+        <li>Keep this leaflet. You may need to read it again.</li>
+        <li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
+        <li>This vaccine has been prescribed for you or your child only. Do not pass it on to others.</li>
+        <li>If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</li>
+    </ul>
+    <p><b>What is in this leaflet</b></p>
+    <ul>
+        <li>What Prevenar&nbsp;13 is and what it is used for</li>
+        <li>What you need to know before you or your child receives Prevenar&nbsp;13</li>
+        <li>How Prevenar&nbsp;13 is given</li>
+        <li>Possible side effects</li>
+        <li>How to store Prevenar&nbsp;13</li>
+        <li>Contents of the pack and other information</li>
+    </ul>
+  </div>"""
+
 * section[+]
   * title = "1. What Prevenar 13 is and what it is used for"
   * code = https://www.mhra.gov.uk/#100000155538
@@ -158,45 +184,31 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
     <p>Like all vaccines, Prevenar&nbsp;13 can cause side effects, although not everybody gets them.</p>
-  </div>""" 
-
-* section[=].section[+]
-  * title = "The following side effects include those reported for Prevenar&nbsp;13 in infants and children (6&nbsp;weeks to 5&nbsp;years of age):"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "The following side effects include those reported for Prevenar&nbsp;13 in infants and children (6&nbsp;weeks to 5&nbsp;years of age):"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <p><b>The most common side effects</b> (these may occur with more than 1 in 10 doses of the vaccine) are:</p>
-      <ul>
-          <li>Decreased appetite</li>
-          <li>Fever; irritability; pain, tenderness, redness, swelling or hardness at the vaccination-site; drowsiness; restless sleep</li>
-          <li>Redness, hardness, swelling at the vaccination-site of 2.5&nbsp;cm -7.0&nbsp;cm (after the booster dose and in older children [aged 2 to 5&nbsp;years])</li>
-      </ul>
-      <p><b>Common side effects</b> (these may occur with up to 1 in 10 doses of the vaccine) are:</p>
-      <ul>
-          <li>Vomiting; diarrhoea</li>
-          <li>Fever of more than&nbsp;39°C; tenderness at the vaccination-site interfering with movement, redness, hardness, swelling at the vaccination-site of 2.5&nbsp;cm -7.0&nbsp;cm (after the initial course of injections)</li>
-          <li>Rash</li> 
-      </ul>
-      <p><b>Uncommon side effects</b> (these may occur with up to 1 in 100 doses of the vaccine) are:</p>
-      <ul>
-          <li>Seizures (or fits), including those caused by a high temperature</li>
-          <li>Hives (urticaria or urticaria-like rash)</li> 
-          <li>Redness, swelling, or hardness at the vaccination-site of more than&nbsp;7&nbsp;cm; crying</li>
-      </ul>
-      <p><b>Rare side effects</b> (these may occur with up to 1 in 1,000 doses of the vaccine) are:</p>
-      <ul>
-          <li>Collapse or shock-like state (hypotonic-hyporesponsive episode)</li>
-          <li>Allergic (hypersensitivity) reaction, including swelling of the face and/or lips, difficulty in breathing</li>
-      </ul>
-  </div>"""
-
-* section[=].section[+]
-  * title = "The following side effects include those reported for Prevenar&nbsp;13 in children and adolescents (6 to 17 years of age):"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "The following side effects include those reported for Prevenar&nbsp;13 in children and adolescents (6 to 17 years of age):"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><b>"The following side effects include those reported for Prevenar&nbsp;13 in infants and children (6&nbsp;weeks to 5&nbsp;years of age):"</b></p>
+    <p><b>The most common side effects</b> (these may occur with more than 1 in 10 doses of the vaccine) are:</p>
+    <ul>
+        <li>Decreased appetite</li>
+        <li>Fever; irritability; pain, tenderness, redness, swelling or hardness at the vaccination-site; drowsiness; restless sleep</li>
+        <li>Redness, hardness, swelling at the vaccination-site of 2.5&nbsp;cm -7.0&nbsp;cm (after the booster dose and in older children [aged 2 to 5&nbsp;years])</li>
+    </ul>
+    <p><b>Common side effects</b> (these may occur with up to 1 in 10 doses of the vaccine) are:</p>
+    <ul>
+        <li>Vomiting; diarrhoea</li>
+        <li>Fever of more than&nbsp;39°C; tenderness at the vaccination-site interfering with movement, redness, hardness, swelling at the vaccination-site of 2.5&nbsp;cm -7.0&nbsp;cm (after the initial course of injections)</li>
+        <li>Rash</li> 
+    </ul>
+    <p><b>Uncommon side effects</b> (these may occur with up to 1 in 100 doses of the vaccine) are:</p>
+    <ul>
+        <li>Seizures (or fits), including those caused by a high temperature</li>
+        <li>Hives (urticaria or urticaria-like rash)</li> 
+        <li>Redness, swelling, or hardness at the vaccination-site of more than&nbsp;7&nbsp;cm; crying</li>
+    </ul>
+    <p><b>Rare side effects</b> (these may occur with up to 1 in 1,000 doses of the vaccine) are:</p>
+    <ul>
+        <li>Collapse or shock-like state (hypotonic-hyporesponsive episode)</li>
+        <li>Allergic (hypersensitivity) reaction, including swelling of the face and/or lips, difficulty in breathing</li>
+    </ul>
+    <p><b>"The following side effects include those reported for Prevenar&nbsp;13 in children and adolescents (6 to 17 years of age):"</b></p>
     <p><b>The most common side effects</b> (these may occur with more than 1 in 10 doses of the vaccine) are:</p>
     <ul>
         <li>Decreased appetite</li>
@@ -211,48 +223,34 @@ Usage: #example
     </ul>
     <p>Children and adolescents with either HIV infection, sickle cell disease or a blood-forming stem cell transplant had similar side effects however the frequencies of headaches, vomiting, diarrhoea, fever, fatigue, joint and muscle pain were very common.</p>
     <p>In babies born very prematurely (at or before 28 weeks of gestation), longer gaps than normal between breaths may occur for 2-3 days after vaccination.</p>	
-  </div>"""
-
-* section[=].section[+]
-  * title = "The following side effects include those reported for Prevenar&nbsp;13 in adults:"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "The following side effects include those reported for Prevenar&nbsp;13 in adults:"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <p><b>The most common side effects</b> (these may occur with more than 1 in 10 doses of the vaccine) are:</p>
-      <ul>
-          <li>Decreased appetite; headaches; diarrhoea; vomiting (for those 18 to 49 years of age)</li>
-          <li>Chills; tiredness; rash; pain, redness, swelling hardness or tenderness at the vaccination-site, interfering with arm movement (severe pain or tenderness at vaccination-site for those 18-39&nbsp;years of age and severe limitation of arm movements for those 18 to 39 years of age)</li>
-          <li>Worsening or new pain in your joints, worsening or new pain in your muscles</li>
-          <li>Fever (for those 18 to 29 years of age)</li>
-      </ul>
-      <p><b>Common side effects</b> (these may occur with up to 1 in 10 doses of the vaccine) are:</p>
-      <ul>
-          <li>Vomiting (for those 50 years and older); fever (for those 30 years and older)</li>
-      </ul>
-      <p><b>Uncommon side effects</b> (these may occur with up to 1 in 100 doses of the vaccine) are:</p>
-      <ul>
-          <li>Nausea</li>
-          <li>Allergic (hypersensitivity) reaction, including swelling of the face and/or lips, difficulty in breathing</li>
-          <li>Enlarged lymph nodes or glands (lymphadenopathy) near the vaccination-site, such as under the arm</li>
-      </ul>
-      <p>Adults with HIV infection had similar side effects however the frequencies were very common for fever, vomiting and common for nausea.</p>
-      <p>Adults with a blood-forming stem cell transplant had similar side effects however the frequencies were very common for fever and vomiting.</p>
-  </div>"""
-
-* section[=].section[+]
-  * title = "The following additional side effects have been seen with Prevenar&nbsp;13 in postmarketing experience"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "The following additional side effects have been seen with Prevenar&nbsp;13 in postmarketing experience"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><b>"The following side effects include those reported for Prevenar&nbsp;13 in adults:"</b></p>
+    <p><b>The most common side effects</b> (these may occur with more than 1 in 10 doses of the vaccine) are:</p>
+    <ul>
+        <li>Decreased appetite; headaches; diarrhoea; vomiting (for those 18 to 49 years of age)</li>
+        <li>Chills; tiredness; rash; pain, redness, swelling hardness or tenderness at the vaccination-site, interfering with arm movement (severe pain or tenderness at vaccination-site for those 18-39&nbsp;years of age and severe limitation of arm movements for those 18 to 39 years of age)</li>
+        <li>Worsening or new pain in your joints, worsening or new pain in your muscles</li>
+        <li>Fever (for those 18 to 29 years of age)</li>
+    </ul>
+    <p><b>Common side effects</b> (these may occur with up to 1 in 10 doses of the vaccine) are:</p>
+    <ul>
+        <li>Vomiting (for those 50 years and older); fever (for those 30 years and older)</li>
+    </ul>
+    <p><b>Uncommon side effects</b> (these may occur with up to 1 in 100 doses of the vaccine) are:</p>
+    <ul>
+        <li>Nausea</li>
+        <li>Allergic (hypersensitivity) reaction, including swelling of the face and/or lips, difficulty in breathing</li>
+        <li>Enlarged lymph nodes or glands (lymphadenopathy) near the vaccination-site, such as under the arm</li>
+    </ul>
+    <p>Adults with HIV infection had similar side effects however the frequencies were very common for fever, vomiting and common for nausea.</p>
+    <p>Adults with a blood-forming stem cell transplant had similar side effects however the frequencies were very common for fever and vomiting.</p>
+    <p><b>"The following additional side effects have been seen with Prevenar&nbsp;13 in postmarketing experience"</b></p>
     <ul>
         <li>Severe allergic reaction including shock (cardiovascular collapse); angioedema (swelling of lips, face or throat)</li>
         <li>Hives (urticaria), redness and irritation (dermatitis) and itching (pruritus) at the vaccination-site; flushing</li>
         <li>Enlarged lymph nodes or glands (lymphadenopathy) near the vaccination-site, such as under the arm or in the groin</li>
         <li>A rash causing itchy red blotches (erythema multiforme)</li>
     </ul>
-  </div>"""
+  </div>""" 
 
 * section[=].section[+]
   * title = "Reporting of side effects"
@@ -320,26 +318,12 @@ Usage: #example
     <p>Boulevard de la Plaine 17</p>
     <p>1050 Bruxelles</p>
     <p>Belgium</p>
-  </div>"""
-
-* section[=].section[+]
-  * title = "Manufactured by:"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "Manufactured by:"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><b>"Manufactured by:"</b></p>
     <p>Pfizer Ireland Pharmaceuticals,</p>
     <p>Grange Castle Business Park,</p>
     <p>Clondalkin, Dublin 22,</p> 
     <p>Ireland</p>
-  </div>"""
-
-* section[=].section[+]
-  * title = "Packed & released by:"
-  * code = https://www.mhra.gov.uk/#100000155538
-  * code.text = "Packed & released by:"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><b>"Packed & released by:"</b></p>
     <p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
   </div>"""
 
