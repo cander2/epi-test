@@ -162,7 +162,7 @@ Usage: #example
  
 
           <p><u>Prophylaxis</u></p>
-          <p>BeneFIX may be administered for long term prophylaxis against bleeding in patients with haemophilia B. In a clinical study for routine secondary prophylaxis the average dose for previously treated patients (PTP) was 40<strong> </strong>IU/kg (range 13 to 78 IU/kg) at intervals of 3 to 4 days.</p>
+          <p>BeneFIX may be administered for long term prophylaxis against bleeding in patients with haemophilia B. In a clinical study for routine secondary prophylaxis the average dose for previously treated patients (PTP) was 40 IU/kg (range 13 to 78 IU/kg) at intervals of 3 to 4 days.</p>
           <p>Alternatively, for long term prophylaxis against bleeding, in another clinical study, BeneFIX was administered as 100 IU/kg once weekly (see section 5.1).</p>
           <p>In some cases, especially in younger patients, shorter dosage intervals or higher doses may be necessary.</p>
   </div>"""
@@ -186,7 +186,7 @@ Usage: #example
   * code.text = "Method of administration"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-          <p>BeneFIX is administered by intravenous infusion after reconstitution of the lyophilised powder for<strong> </strong>solution for injection with sterile 0.234% sodium chloride solution (see section 6.6).</p>
+          <p>BeneFIX is administered by intravenous infusion after reconstitution of the lyophilised powder for solution for injection with sterile 0.234% sodium chloride solution (see section 6.6).</p>
           <p>BeneFIX should be administered at a slow infusion rate. In most of the cases, an infusion rate of up to 4 mL per minute has been used. The rate of administration should be determined by the patient's comfort level.</p>
           <p>If any suspected hypersensitivity reaction takes place that is thought to be related to the administration of BeneFIX, the rate of infusion should be decreased or the infusion stopped (see sections 4.4 and 4.8).</p>
           <p><u>Agglutination of red blood cells in the tube/syringe</u></p>
