@@ -439,7 +439,61 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
           <p>In a randomized, cross-over pharmacokinetic study, BeneFIX reconstituted in 0.234% sodium chloride diluent was shown to be pharmacokinetically equivalent to the previously marketed BeneFIX (reconstituted with sterile water) in 24 previously treated patients (≥12 years) at a dose of 75 IU/kg. In addition, pharmacokinetic parameters were followed up in 23 of the same patients after repeated administration of BeneFIX for six months and found to be unchanged compared with those obtained at the initial evaluation. A summary of pharmacokinetic data is presented in Table 1.</p>
-          <p>PLACEHOLDER OF TABLE</p>
+          <table>
+
+<thead>
+     <tr><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b><tr>
+</thead>
+
+<tfoot>
+     <tr>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.<tr>
+</tfoot>
+
+<tbody>
+     <tr>
+	  <th>Parameter</th>
+      <th> 
+	     <p>Baseline n = 24</p> 
+	     <p>Mean ± SD</p>
+	  </th>
+      <th>
+	     <p>Month 6 n = 23</p> 
+	     <p>Mean ± SD</p>
+	  </th>
+	 </tr>
+	 
+	 <tr>
+	  <td>C<sub>max</sub> (IU/dL)</td>
+      <td>54.5 ± 15.0</td>
+      <td>57.3 ± 13.2</td>
+	 </tr>
+	 
+	 <tr>
+	  <td>AUC<sub>∞</sub> (IU∙hr/dL)</td>
+      <td>940 ± 237</td>
+      <td>923 ± 205</td>
+	 </tr>
+	 
+	 <tr>
+	  <td>t<sub>1/2</sub> (hr)</td>
+      <td>22.4 ± 5.3</td>
+      <td>23.8 ± 6.5</td>
+	 </tr> 
+	 
+	 <tr>
+	  <td>CL (mL/hr/kg)</td>
+      <td>8.47 ± 2.12</td>
+      <td>8.54 ± 2.04</td>
+	 </tr> 
+
+	 <tr>
+	  <td>Recovery (IU/dL per IU/kg) </td>
+      <td>0.73 ± 0.20</td>
+      <td>0.76 ± 0.18</td>
+	 </tr> 	 
+	 
+</tbody>
+</table>
           <p>A population pharmacokinetic model was developed using data collected in 73 patients aged 7 months to 60 years. The parameters estimated using the final 2-compartment model are shown in Table 2. Infants and children had higher clearance, larger volume of distribution, shorter half-life and lower recovery than adolescents and adults. The terminal phase has not been covered unambiguously due to lack of data beyond 24 hours in paediatric subjects &lt; 6 years of age.</p>
           <p>PLACEHOLDER OF TABLE</p>
 </div>"""
