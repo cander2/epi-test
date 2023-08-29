@@ -175,7 +175,7 @@ Usage: #example
                      <td rowspan="1" colspan="3"><b>Haemorrhage</b></td>
                    </tr>
                    <tr>
-                      <td>Early haemarthrosis, muscle bleeding or oral bleeding</p></td>
+                      <td>Early haemarthrosis, muscle bleeding or oral bleeding</td>
                       <td>20-40</td>
                       <td>Repeat every 24 hours. At least 1 day, until the bleeding episode as indicated by pain is resolved or healing is achieved.</td>
                    </tr>
