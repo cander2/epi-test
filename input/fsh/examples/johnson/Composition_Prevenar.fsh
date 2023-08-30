@@ -395,9 +395,8 @@ Usage: #example
               <span lang='EN-GB'>Baseline n = 24</span>
               <b>
                   <span lang='EN-GB'>
-                    <br>
-                      Mean �� SD
                     <br/>
+                      Mean �� SD
                   </span>
               </b>
             </p>
