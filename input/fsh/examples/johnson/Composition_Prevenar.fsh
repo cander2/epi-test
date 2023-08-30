@@ -369,6 +369,9 @@ Usage: #example
         </tr>
       </table>
       <table>
-      
+        <tr>
+          <td width='638' colspan='3' valign='top' style='width:6.65in;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt'>
+          </td>
+        </tr>
       </table>
   </div>"""
