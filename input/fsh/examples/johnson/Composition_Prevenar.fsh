@@ -371,6 +371,15 @@ Usage: #example
       <table>
         <tr>
           <td width='638' colspan='3' valign='top' style='width:6.65in;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB' style='font-size:12.0pt'>
+                Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75&nbsp;IU/kg) at Baseline and Month
+              </span>
+              <span lang='EN-GB' style='font-size:12.0pt'>
+                &nbsp;6 in Previously Treated Patients
+              </span>
+              <span lang='EN-GB' style='font-size:12.0pt'> with Haemophilia B</span>
+            </p>
           </td>
         </tr>
       </table>
