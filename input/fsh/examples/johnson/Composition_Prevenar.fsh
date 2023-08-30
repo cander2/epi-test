@@ -368,4 +368,150 @@ Usage: #example
           </td>
         </tr>
       </table>
+      <table>
+        <tr>
+          <td width='638' colspan='3' valign='top' style='width:6.65in;border:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+                <span lang='EN-GB' style='font-size:12.0pt'>
+                    Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75&nbsp;IU/kg) at Baseline and Month
+                </span>
+                <span lang='EN-GB' style='font-size:12.0pt'>
+                    &nbsp;6 in Previously Treated Patients
+                </span>
+                <span lang='EN-GB' style='font-size:12.0pt'> with Haemophilia B</span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' style='width:159.6pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+                <span lang='EN-GB'>Parameter</span>
+            </p>
+          </td>
+          <td width='213' valign='bottom' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB'>Baseline n = 24</span>
+              <b>
+                  <span lang='EN-GB'>
+                    <br>
+                      Mean �� SD
+                    <br/>
+                  </span>
+                </b>
+            </p>
+          </td>
+          <td width='213' valign='bottom' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB'>Month&nbsp;6 n = 23</span>
+                <b>
+                  <span lang='EN-GB'>
+                    <br>
+                      Mean �� SD
+                    <br/>
+                  </span>
+                </b>
+              </p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' valign='top' style='width:159.6pt;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p>
+              <span lang='EN-GB'>C<sub>max</sub> (IU/dL) </span>
+            </p>
+          </td>
+          <td width='213' valign='top' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB'>54.5 �� 15.0 </span>
+            </p>
+          </td>
+          <td width='213' valign='top' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB'>57.3 �� 13.2 </span>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' valign='top' style='width:159.6pt;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p>
+              <span lang='EN-GB'>AUC<sub>��</sub> (IU&#8729;hr/dL) </span>
+            </p>
+          </td>
+          <td width='213' valign='top' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>940 �� 237 </span></p>
+          </td>
+          <td width='213' valign='top' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>923 �� 205 </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' valign='top' style='width:159.6pt;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p><span lang='EN-GB'>t<sub>1/2</sub> (hr) </span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>22.4 �� 5.3 </span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>23.8 �� 6.5 </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' valign='top' style='width:159.6pt;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+          <p><span lang='EN-GB'>CL (mL/hr/kg) </span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>8.47 �� 2.12 </span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>8.54 �� 2.04 </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td width='213' valign='top' style='width:159.6pt;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p><span lang='EN-GB'>Recovery<br>(IU/dL per IU/kg)<br/></span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>0.73 �� 0.20 </span></p>
+          </td>
+          <td width='213' style='width:159.6pt;border-top:none;border-left:none;
+          border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'><span lang='EN-GB'>0.76 �� 0.18 </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td width='638' colspan='3' valign='top' style='width:6.65in;border:solid windowtext 1.0pt;
+          border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p><span lang='EN-GB' style='font-size:10.0pt'>Abbreviations: AUC<sub>��</sub> = area under the plasma concentration-time curve from time
+          zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half&#8209;life; CL = clearance; SD&nbsp;= standard deviation.</span></p>
+          </td>
+        </tr>
+      </table>
   </div>"""
