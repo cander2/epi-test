@@ -382,5 +382,24 @@ Usage: #example
             </p>
           </td>
         </tr>
+        <tr>
+          <td width='213' style='width:159.6pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+                <span lang='EN-GB'>Parameter</span>
+            </p>
+          </td>
+          <td width='213' valign='bottom' style='width:159.6pt;border-top:none;border-left:
+          none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+          padding:0in 5.4pt 0in 5.4pt'>
+            <p align='center' style='text-align:center'>
+              <span lang='EN-GB'>Baseline n = 24</span>
+              <b>
+                  <span lang='EN-GB'>
+
+                  </span>
+                </b>
+            </p>
+          </td>
+        </tr>
       </table>
   </div>"""
