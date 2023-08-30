@@ -492,10 +492,20 @@ Usage: #example
 <table border="1">
 
 <thead>
-     <tr><p><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></p></tr>
+     <tr>
+         <th rowspan="1" colspan="3">
+         <p><b>Table 1. Pharmacokinetic Parameter Estimates for BeneFIX (75 IU/kg) at Baseline and Month 6 in Previously Treated Patients with Haemophilia B</b></p>
+         </th>
+</tr>
 </thead>
 
-
+<tfoot>
+     <tr>
+        <td rowspan="1" colspan="3">
+        <p>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</p>
+        </td>
+</tr>
+</tfoot>
 
 <tbody>
      <tr>
@@ -542,9 +552,7 @@ Usage: #example
 	 
 </tbody>
 
-<tfoot>
-     <tr><p>Abbreviations: AUC<sub>∞</sub> = area under the plasma concentration-time curve from time zero to infinity; C<sub>max</sub> = peak concentration; t<sub>1/2</sub> = plasma elimination half life; CL = clearance; SD = standard deviation.</p></tr>
-</tfoot>
+
 
 </table>
 
