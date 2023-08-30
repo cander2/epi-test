@@ -382,7 +382,152 @@ Usage: #example
           <p><u>Tabulated list of adverse reactions</u></p>
           <p>The table presented below is according to the MedDRA system organ classification (SOC and Preferred Term Level). Frequencies have been evaluated according to the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100), not known (cannot be estimated from the available data). The table lists adverse reactions reported in the clinical trials of previously treated patients and identified in postmarketing use. The frequencies are based on all causality treatment emergent adverse events in pooled clinical trials with 224 subjects.</p>
           <p>Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.</p>
-          <p>PLACEHOLDER OF TABLE</p>
+          <table border="1">
+
+<tfoot>
+     <tr>
+        <td rowspan="1" colspan="5">
+            <p><sup>*</sup>	ADR identified post-marketing</p>
+            <p><sup>a</sup>	including cellulitis</p>
+            <p><sup>b</sup>	low-titer transient inhibitor formation</p>
+            <p><sup>c</sup>	including drug hypersensitivity, angioedema, bronchospasm, wheezing, dyspnoea, and laryngospasm</p>
+            <p><sup>d</sup>	including migraine, sinus headache</p>
+            <p><sup>e</sup>	including scintillating scotoma and blurred vision</p>
+            <p><sup>f</sup>	including heart rate increased, sinus tachycardia</p>
+            <p><sup>g</sup>	including hot flush, feeling hot, skin warm</p>
+            <p><sup>h</sup>	including blood pressure decreased</p>
+            <p><sup>i</sup>	superior vena cava (SVC) syndrome in critically ill neonates, while receiving continuous-infusion of BeneFIX through a central venous catheter </p>
+            <p><sup>j</sup>	including productive cough</p>
+            <p><sup>k</sup>	including rash macular, rash papular, rash maculopapular </p>
+            <p><sup>l</sup>	developed in a hepatitis C antibody-positive patient 12 days after a dose of BeneFIX for a bleeding episode.</p>
+            <p><sup>m</sup>	including injection site pain, infusion site discomfort</p>
+		    <p><sup>n</sup>	including infusion site pruritus, infusion site erythema</p>
+            <p><sup>o</sup>	including chest pain and chest tightness</p>
+            <p><sup>p</sup>	This is a verbatim term. No MedDRA 17.1 PT was retrieved.</p>
+        </td>
+    </tr>
+</tfoot>
+
+<tbody>
+     <tr>
+	  <th>System organ class</th>
+      <th>Very common ≥ 1/10</th>
+      <th>Common ≥ 1/100 to &lt; 1/10</th>
+	  <th>Unommon ≥ 1/1,000 to &lt; 1/100</th>
+	  <th>Frequency not known (cannot be estimated from the available data)</th>
+	 </tr>
+	 
+	 <tr>
+	  <td>Infections and infestations</td>
+      <td> </td>
+      <td> </td>
+	  <td>Infusion site cellulitis<sup>a</sup></td>
+	  <td> </td>
+	 </tr>
+	 
+	 <tr>
+	  <td>Blood and lymphatic system disorders</td>
+      <td> </td>
+      <td> </td>
+	  <td>Factor IX inhibition<sup>b</sup></td>
+	  <td> </td>
+	 </tr>	 
+	 
+	 <tr>
+	  <td>Immune system disorders</td>
+      <td> </td>
+      <td>Hypersensitivity<sup>c</sup></td>
+	  <td> </td>
+	  <td>Anaphylactic reaction<sup>*</sup></td>
+	 </tr>	
+	 
+	 <tr>
+	  <td>Nervous system disorders</td>
+      <td>Headache<sup>d</sup></td>
+      <td>Dizziness; Dysgeusia</td>
+	  <td>Somnolence;tremor</td>
+	  <td> </td>
+	 </tr>	
+	 
+	 <tr>
+	  <td>Eye disorders</td>
+	  <td> </td>
+	  <td> </td>
+      <td>Visual impairment<sup>e</sup></td>
+   	  <td> </td>
+	 </tr>	
+	 
+	 <tr>
+	  <td>Cardiac disorders</td>
+	  <td> </td>
+	  <td> </td>
+      <td>Tachycardia<sup>f</sup></td>
+   	  <td> </td>
+	 </tr>	
+
+	 <tr>
+	  <td>Vascular disorders</td>
+	  <td> </td>
+	  <td>Phlebitis; flushing<sup>g</sup></td>
+      <td>Hypotension<sup>h</sup></td>
+   	  <td> 
+	    <p>Superior vena cava syndrome<sup>i,*</sup>; </p>
+		<p>deep vein thrombosis<sup>*</sup>; </p>
+		<p>thrombosis<sup>*</sup>; </p>
+		<p>thrombophlebitis<sup>*</sup>; </p>
+	  </td>
+	 </tr>	
+
+	 <tr>
+	  <td>Respiratory, thoracic and mediastinal disorders</td>
+	  <td>Cough<sup>j</sup></td>
+	  <td> </td>
+      <td> </td>
+   	  <td> </td>
+	 </tr>	
+
+	 <tr>
+	  <td>Gastrointestinal disorders</td>
+	  <td> </td>
+	  <td>Vomiting; nausea</td>
+      <td> </td>
+   	  <td> </td>
+	 </tr>	
+	
+	 <tr>
+	  <td>Skin and subcutaneous tissue disorders</td>
+	  <td> </td>
+	  <td>Rash<sup>k</sup>; urticaria</td>
+      <td> </td>
+   	  <td> </td>
+	 </tr>	
+	
+	 <tr>
+	  <td>Renal and urinary disorders</td>
+	  <td> </td>
+	  <td> </td>
+      <td>Renal infarct<sup>l</sup></td>
+   	  <td> </td>
+	 </tr>	
+	 
+	<tr>
+	  <td>General disorders and administration site conditions</td>
+	  <td>Pyrexia</td>
+	  <td>Chest discomfort<sup>o</sup>; infusion site reaction<sup>n</sup>; infusion site pain<sup>m</sup></td>
+      <td> </td>
+   	  <td>Inadequate therapeutic response<sup>*</sup></td>
+	 </tr>	 
+	 
+	<tr>
+	  <td>Investigations</td>
+	  <td> </td>
+	  <td> </td>
+      <td> </td>
+   	  <td>Inadequate factor IX recovery <sup>p, *</sup></td>
+	 </tr>	  
+	 
+</tbody>
+</table>
           <p><u>Description of selected adverse reactions</u></p>
           <p><u><i>Hypersensitivity/allergic reactions</i></u></p>
           <p>If any suspected hypersensitivity reaction takes place that is thought to be related to the administration of BeneFIX see sections 4.2 and 4.4.</p>
