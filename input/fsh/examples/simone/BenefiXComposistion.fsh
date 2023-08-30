@@ -896,7 +896,7 @@ Usage: #example
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
-  * title = "6.6 Special precautions for disposal <and other handling>>"
+  * title = "6.6 Special precautions for disposal <and other handling>"
   * code = https://www.mhra.gov.uk/#200000029842
   * code.text = "6.6 Special precautions for disposal <and other handling>"
   * text.status = #additional
