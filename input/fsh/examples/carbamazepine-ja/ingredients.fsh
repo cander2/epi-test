@@ -1,7 +1,7 @@
 Instance: carbamazepine
 InstanceOf: IngredientUvEpi
-Title: "Bundle Japan JA - Package Insert for Tegretol (carbamazepine) 200 mg for tablet"
-Description: "Bundle Japan JA - Package Insert for Tegretol (carbamazepine) 200 mg for tablet"
+Title: "Ingredient - carbamazepine"
+Description: "Ingredient - carbamazepine"
 Usage: #example
 
 * identifier.system = "https://gsrs.ncats.nih.gov/ginas/app/beta/"
