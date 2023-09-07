@@ -55,16 +55,6 @@ cancer. Talzenna works by blocking PARP, which is an enzyme that repairs damaged
 cancer cells. As a result, the cancer cells can no longer repair themselves and they die.</p>
   </div>"""
 
-// level 3 section heading test
-* section[=].section[=].section[+]
-  * title = "level 3 test"
-  * code = https://www.mhra.gov.uk/#200000029895
-  * code.text = "level 3 test"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-           <p>level 3 test</p>
-  </div>"""
-
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "What Talzenna is used for"
   * code = https://www.mhra.gov.uk/#200000029895
