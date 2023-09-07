@@ -16,28 +16,28 @@ Usage: #example
 * legalStatusOfSupply = $spor-rms#100000072084 "Medicinal product subject to medical prescription"
 
 * name
-  * productName = "Aromasin (exemestane) Tablets 25 mg"
+  * productName = "Herceptin (trastazumab) 150 mg"
   * type = $spor-productNamePartType-cs#220000000001
     * text = "Full name"
   
   * part[0]
-    * part = "Aromasin"
+    * part = "Herceptin"
     * type = $spor-productNamePartType-cs#220000000002
     * type.text = "Invented name part"
   
   * part[+]
-    * part = "exemestane"
+    * part = "trastazumab"
     * type = $spor-productNamePartType-cs#220000000003
     * type.text = "Scientific name part"
   
   * part[+]
-    * part = "25 mg"
+    * part = "150 mg"
     * type = $spor-productNamePartType-cs#220000000004
     * type.text = "Strength part"
   
   * part[+]
-    * part = "tablet"
-    * type = $spor-productNamePartType-cs#220000000005
+    * part = "Intravenous infusion"
+    * type = $spor-productNamePartType-cs#100000075213
     * type.text = "Pharmaceutical dose form part"
   
   * usage

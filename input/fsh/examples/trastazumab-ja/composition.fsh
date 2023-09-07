@@ -216,6 +216,13 @@ Usage: #example
 </div>"""
 
 * section[=].section[+]
+  * title = "9.1"
+  * code = https://pmda.jp/#9.2
+  * code.text = "9.1"
+  * text.status = #additional
+  * text.div = """<div xmlns="http://www.w3.org/1999/xhtml"></div>"""
+
+* section[=].section[+]
   * title = "9.2 腎機能障害患者"
   * code = https://pmda.jp/#9.2
   * code.text = "9.2 腎機能障害患者"
