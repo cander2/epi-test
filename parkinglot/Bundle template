@@ -1,0 +1,25 @@
+Instance: //Add a unique name or identifier for this bundle
+InstanceOf: BundleUvEpi
+Title: "" //add title
+Description: "" //add description
+Usage: #example
+
+* language = #en //change language if needed
+* identifier.system = "https://www.mhra.gov.uk/" 
+* identifier.value = "" //add identifier
+* type = #document
+* timestamp = "2022-03-04T00:00:00Z" //change date and time if you like
+
+//In the following sections, replace the xxxx with the unique Instance name of your resource templates.
+
+// Composition
+* entry[0].fullUrl = "Composition/XXXX"
+* entry[0].resource = XXXX
+
+// Organization
+* entry[+].fullUrl = "Organization/XXXX"
+* entry[=].resource = XXXX 
+ 
+// Medicinal Product Definition
+* entry[+].fullUrl = "MedicinalProductDefinition/XXXX"
+* entry[=].resource = XXXX 
