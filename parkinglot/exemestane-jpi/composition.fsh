@@ -301,7 +301,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns="http://www.w3.org/1999/xhtml"></div>"""
 
-* section[=].section[+]
+* section[=].section[=].section[+]
   * title = "9.2.1 重度の腎障害のある患者"
   * code = https://pmda.jp/#9
   * code.text = "9.2.1 重度の腎障害のある患者"
@@ -319,7 +319,7 @@ Usage: #example
   * text.div = """<div xmlns="http://www.w3.org/1999/xhtml">
 </div>"""
 
-* section[=].section.section[+]
+* section[=].section[=].section[+]
   * title = "9.3.1 重度の肝障害のある患者"
   * code = https://pmda.jp/#9.3.1
   * code.text = "9.3.1 重度の肝障害のある患者"
@@ -424,7 +424,7 @@ Usage: #example
   * text.div = """<div xmlns="http://www.w3.org/1999/xhtml">
 </div>"""
 
-* section[=].section.section[+]
+* section[=].section[=].section[+]
   * title = "11.1.1"
   * code = https://pmda.jp/#11.1.1
   * code.text = "11.1.1"

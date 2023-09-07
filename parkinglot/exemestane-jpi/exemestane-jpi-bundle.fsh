@@ -1,8 +1,8 @@
 Instance: exemestanejpibundle
 InstanceOf: Bundle
 Usage: #example
-Title: "Vulcan FHIR Japanese Package Insert Test - Aromasin (exemestane) Tablets 25 mg"
-Description: "Instance of exemestane tablets JPI for Connectathon testing"
+Title: "Bundle Japan JA - Package Insert for Aromasin (exemestane) Tablets 25 mg"
+Description: "Bundle Japan JA - Package Insert for Aromasin (exemestane) Tablets 25 mg"
 
 * language = #ja
 * identifier.system = "https://www.pmda.jp/"
