@@ -873,7 +873,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
          <p>Do not use BeneFIX after the expiry date which is stated on the Vial label after EXP:. The expiry date refers to the last day of that month.</p>
-         <p>The reconstituted product does not contain a preservative and should be used immediately, but no longer than 3 hours after reconstitution. Chemical and physical in-use stability has been demonstrated for 3 hours at temperatures up to 25&deg;C.</p>
+         <p>The reconstituted product does not contain a preservative and should be used immediately, but no longer than 3 hours after reconstitution. Chemical and physical in-use stability has been demonstrated for 3 hours at temperatures up to 25°C.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
