@@ -224,7 +224,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
           <p>There is limited documentation of on-demand treatment and surgery in paediatric patients less than 6 years of age treated with BeneFIX.</p>
-          <p>Mean dosage (&plusmn; standard deviation) for prophylaxis was 63.7 (&plusmn; 19.1) IU/kg at intervals of 3 to 7 days. In younger patients, shorter dosage intervals or higher doses may be necessary. FIX consumption for routine prophylaxis in 22 evaluable patients was 4607 (&plusmn; 1849) IU/kg per year and 378 (&plusmn; 152) IU/kg per month.</p>
+          <p>Mean dosage (+- standard deviation) for prophylaxis was 63.7 (+- 19.1) IU/kg at intervals of 3 to 7 days. In younger patients, shorter dosage intervals or higher doses may be necessary. FIX consumption for routine prophylaxis in 22 evaluable patients was 4607 (+- 1849) IU/kg per year and 378 (+- 152) IU/kg per month.</p>
           <p>Close monitoring of factor IX plasma activity should be performed as clinically indicated, as well as calculation of pharmacokinetic parameters such as recovery and half-life, in order to adjust doses as appropriate.</p>
           <p><u>Elderly population</u></p>
           <p>Clinical studies of BeneFIX did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. As with any patient receiving BeneFIX, dose selection for an elderly patient should be individualised.</p>
