@@ -333,6 +333,7 @@ Usage: #example
   * code.text = "This leaflet was last revised in November 2020"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+      <p>----------------------------------------------------------------------------------------------------------------------------</p>
   </div>"""
 
 * section[=].section[+]
