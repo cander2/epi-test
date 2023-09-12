@@ -332,8 +332,7 @@ Usage: #example
   * code = https://www.mhra.gov.uk/#200000029917
   * code.text = "This leaflet was last revised in November 2020"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <p>---------------------------------------------------------------------------------------------------------------------------- </p>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
   </div>"""
 
 * section[=].section[+]
