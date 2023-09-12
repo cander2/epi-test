@@ -1,4 +1,4 @@
-Instance: Prevenar-13 0.5-ml
+Instance: Prevenar-13-0.5-ml
 InstanceOf: CompositionUvEpi
 Title: "Master Gulf and Levant- Prevenar 13 0.5 ml- PLD Jordan"
 Description:  "Test for create Prevenar"
