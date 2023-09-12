@@ -1,6 +1,6 @@
-Instance: Prevenar-13--0.5-ml
+Instance: Prevenar-13 0.5-ml
 InstanceOf: CompositionUvEpi
-Title: "Master Gulf and Levant- Prevenar 13--0.5 ml- PLD Jordan"
+Title: "Master Gulf and Levant- Prevenar 13 0.5 ml- PLD Jordan"
 Description:  "Test for create Prevenar"
 Usage: #example
 
@@ -15,7 +15,7 @@ Usage: #example
 * date = "2022-08-18T00:00:00Z"
 * author = Reference(organization-prevenar) //Add the Instance name for the Organization inside the brackets
 
-* title = "Master Gulf and Levant- Prevenar 13--0.5 ml- PLD Jordan"
+* title = "Master Gulf and Levant- Prevenar 13 0.5 ml- PLD Jordan"
 * language = #en
 
 //Don't change the structure here. Only change where the comments allow
