@@ -269,7 +269,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
     <p>Keep this medicine out of the sight and reach of children.</p>
     <p>Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.</p>
-    <p>Store in a refrigerator (2&#8451 – 8&#8451).</p>
+    <p>Store in a refrigerator (2&#8451; – 8&#8451;).</p>
     <p>Do not freeze.</p>
     <p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
   </div>""" 
