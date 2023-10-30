@@ -6,9 +6,9 @@ Usage: #example
 
 * language = #en //change language if needed
 * identifier.system = "https://www.mhra.gov.uk/" 
-* identifier.value = "CLDBundleTemplateUniqueIdentifier" //add identifier
+* identifier.value = "IbranceCLDBundleENID" //add identifier
 * type = #document
-* timestamp = "2022-03-04T00:00:00Z" //change date and time if you like
+* timestamp = "2023-10-30T00:00:00Z" //change date and time if you like
 
 //In the following sections, replace the xxxx with the unique Instance name of your resource templates.
 
@@ -17,5 +17,5 @@ Usage: #example
 * entry[0].resource = IbranceCLDCompositionEN
 
 // Organization
-* entry[+].fullUrl = "Organization/OrgTemplate"
-* entry[=].resource = OrgTemplate
+* entry[+].fullUrl = "Organization/IbranceMAHOrg"
+* entry[=].resource = IbranceMAHOrg
