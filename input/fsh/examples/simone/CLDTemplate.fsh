@@ -162,7 +162,7 @@ Usage: #example
   * code.text = "8.	USE IN SPECIFIC POPULATIONS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-  </div>"""
+  </div>""""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.1	Pregnancy"
