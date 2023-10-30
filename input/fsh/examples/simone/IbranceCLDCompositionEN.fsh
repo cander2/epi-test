@@ -24,16 +24,14 @@ Usage: #example
   * code.text = "Cover Page"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-<p>CLD Title&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Palbociclib (Ibrance)</p>
-<p>CLD Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 04 August 2020</p>
-<p>Country&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Malaysia</p>
-<p>Reference Documents&nbsp;&nbsp;&nbsp;: CDS V. 13.0 dated 01 August 2019; USPI Dated 13 September 2019.</p>
-<p>Reason for change&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;: BoH request to align to USPI and to follow USPI format</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;: PfLEET 2019-0053591 (S1) - ILD/pneumonitis added to W&P</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;: To remove the statement “Advise the patient to read the FDA-approved patient labeling” under patient counseling information</p>
-<p></p>
+<p>CLD Title: Palbociclib (Ibrance)</p>
+<p>CLD Date: 04 August 2020</p>
+<p>Country: Malaysia</p>
+<p>Reference Documents: CDS V. 13.0 dated 01 August 2019; USPI Dated 13 September 2019.</p>
+<p>Reason for change: BoH request to align to USPI and to follow USPI format</p>
 <h1 style="text-align:center;">IBRANCE CAPSULES</h1>
 <h2 style="text-align:center;">Palbociclib 75 mg, 100 mg and 125 mg</h2>
+<p><b>FULL PRESCRIBING INFORMATION</b></p>
   </div>"""
 
 * section[+]
