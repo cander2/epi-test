@@ -1041,8 +1041,7 @@ Usage: #example
         </tr>
     </tbody>
 </table>
-
-  </div>"""
+</div>"""
 
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
