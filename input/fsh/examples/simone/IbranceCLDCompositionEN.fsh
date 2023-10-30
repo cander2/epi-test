@@ -336,6 +336,397 @@ Usage: #example
 <p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus letrozole or placebo plus letrozole in Study 1 are listed in Table 4.</p>
 <p></p>
 
+<table border="1">
+    <thead>
+         <tr>
+            <td colspan="7" align="center">
+                <p><b>Table 4. Adverse Reactions (&ge;10%) in Study 1</b></p>
+            </td>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>Grading according to CTCAE 4.0.</p>
+                <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable; </p>
+                <p><sup>a</sup> Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
+                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
+                <p><sup>c</sup> Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
+                <p><sup>d</sup>	Grade 1 events &ndash; 30%; Grade 2 events &ndash; 3%.</p>
+                <p><sup>e</sup> Grade 1 events &ndash; 15%; Grade 2 events &ndash; 1%.</p>
+                <p><sup>f</sup>	Rash includes the following PTs: rash, rash maculo&hyphen;papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
+            </td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <th align="center"><b></b></th>
+            <th colspan="3" align="center">
+                <p><b>IBRANCE plus Letrozole</b></p>
+                <p><b>(N=444)</b></p>
+            </th>
+            <th colspan="3" align="center">
+                <p><b>Placebo plus Letrozole</b></p>
+                <p><b>(N=222)</b></p>
+            </th>
+        </tr>
+        <tr>
+            <th align="center"><b>Adverse Reaction</b></th>
+            <th align="center">
+                <p><b>All Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>ALL Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+        </tr>
+        <tr>
+          <td colspan="4"><p>Infections and infestations</p></td>
+          <td ><p></p></td>
+          <td ><p></p></td>
+          <td ><p></p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Infections<sup>a</sup></p></td>
+            <td><p>60<sup>b</sup></p></td>
+            <td><p>6</p></td>
+            <td><p>1</p></td>
+            <td><p>42</p></td>
+            <td><p>3</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Blood and lymphatic system disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td>
+                <p>Neutropenia</p>
+                <p>Leukopenia</p>
+                <p>Anemia</p>
+                <p>Thrombocytopenia</p>
+            </td>
+            <td>
+                <p>80</p>
+                <p>39</p>
+                <p>24</p>
+                <p>16</p>
+            </td>
+            <td>
+                <p>56</p>
+                <p>24</p>
+                <p>5</p>
+                <p>1</p>
+            </td>
+            <td>
+                <p>10</p>
+                <p>1</p>
+                <p>&lt;1</p>
+                <p>&lt;1</p>
+            </td>
+            <td>
+                <p>6</p>
+                <p>2</p>
+                <p>9</p>
+                <p>1</p>
+            </td>
+            <td>
+                <p>1</p>
+                <p>0</p>
+                <p>2</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>1</p>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Metabolism and nutrition disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Decreased appetite</p></td>
+            <td><p>15</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>9</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Nervous system disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Dysgeusia</p></td>
+            <td><p>10</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+            <td><p>5</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Gastrointestinal disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td>
+                <p>NStomatitis<sup>c</sup></p>
+                <p>Nausea</p>
+                <p>Diarrhea</p>
+                <p>Vomiting</p>
+            </td>
+            <td>
+                <p>30</p>
+                <p>35</p>
+                <p>26</p>
+                <p>16</p>
+            </td>
+            <td>
+                <p>1</p>
+                <p>&lt;1</p>
+                <p>1</p>
+                <p>1</p>
+            </td>
+            <td>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>14</p>
+                <p>26</p>
+                <p>19</p>
+                <p>17</p>
+            </td>
+            <td>
+                <p>0</p>
+                <p>2</p>
+                <p>1</p>
+                <p>1</p>
+            </td>
+            <td>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Skin and subcutaneous tissue disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td>
+                <p>Alopecia</p>
+                <p>Rash<sup>f</sup></p>
+                <p>Dry skin</p>
+            </td>
+            <td>
+                <p>33<sup>d</sup></p>
+                <p>18</p>
+                <p>12</p>
+            </td>
+            <td>
+                <p>N/A</p>
+                <p>1</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>N/A</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>16</p>
+                <p>12</p>
+                <p>6</p>
+            </td>
+            <td>
+                <p>N/A</p>
+                <p>1</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>N/A</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="7"><p>General disorders and administration site conditions</p></td>
+        </tr>
+        <tr align="center">
+            <td>
+                <p>Fatigue</p>
+                <p>Asthenia</p>
+                <p>Pyrexia</p>
+            </td>
+            <td>
+                <p>37</p>
+                <p>17</p>
+                <p>12</p>
+            </td>
+            <td>
+                <p>2</p>
+                <p>2</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>28</p>
+                <p>12</p>
+                <p>9</p>
+            </td>
+            <td>
+                <p>1</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+            <td>
+                <p>0</p>
+                <p>0</p>
+                <p>0</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p></p>
+<p>Additional adverse reactions occurring at an overall incidence of  &lt;10.0% of patients receiving IBRANCE plus letrozole in Study 1 included alanine aminotransferase increased (9.9%), aspartate aminotransferase increased (9.7%), epistaxis (9.2%), lacrimation increased (5.6%), dry eye (4.1%), vision blurred (3.6%), and febrile neutropenia (2.5%).</p>
+<p></p>
+<table border="1">
+    <thead>
+         <tr>
+            <td colspan="7" align="center">
+                <p><b>Table 5.	Laboratory Abnormalities in Study 1</b></p>
+            </td>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>N=number of patients; WBC=white blood cells.</p>
+            </td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <th align="center"><b></b></th>
+            <th colspan="3" align="center">
+                <p><b>IBRANCE plus Letrozole</b></p>
+                <p><b>(N=444)</b></p>
+            </th>
+            <th colspan="3" align="center">
+                <p><b>Placebo plus Letrozole</b></p>
+                <p><b>(N=222)</b></p>
+            </th>
+        </tr>
+        <tr>
+            <th align="center"><b>Laboratory Abnormality</b></th>
+            <th align="center">
+                <p><b>All Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>ALL Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>WBC decreased</p></td>
+            <td><p>97</p></td>
+            <td><p>35</p></td>
+            <td><p>1</p></td>
+            <td><p>25</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Neutrophils decreased</p></td>
+            <td><p>95</p></td>
+            <td><p>56</p></td>
+            <td><p>12</p></td>
+            <td><p>20</p></td>
+            <td><p>1</p></td>
+            <td><p>1</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Anemia</p></td>
+            <td><p>78</p></td>
+            <td><p>6</p></td>
+            <td><p>0</p></td>
+            <td><p>42</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Platelets decreased</p></td>
+            <td><p>63</p></td>
+            <td><p>1</p></td>
+            <td><p>1</p></td>
+            <td><p>14</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Aspartate aminotransferase increased</p></td>
+            <td><p>52</p></td>
+            <td><p>3</p></td>
+            <td><p>0</p></td>
+            <td><p>34</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Alanine aminotransferase increased</p></td>
+            <td><p>43</p></td>
+            <td><p>2</p></td>
+            <td><p>&lt;1</p></td>
+            <td><p>30</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+    </tbody>
+</table>
+
+
 </div>"""
 
 
