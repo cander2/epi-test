@@ -331,14 +331,14 @@ Usage: #example
 <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus letrozole. No dose reduction was allowed for letrozole in Study 1.</p>
 <p>Permanent discontinuation associated with an adverse reaction occurred in 43 of 444 (9.7%) patients receiving IBRANCE plus letrozole and in 13 of 222 (5.9%) patients receiving placebo plus letrozole. Adverse reactions leading to permanent discontinuation for patients receiving IBRANCE plus letrozole included neutropenia 1.1%) and alanine aminotransferase increase (0.7%).</p>
 <p>The most common adverse reactions (&ge;10% ) of any grade reported in patients in the IBRANCE plus letrozole arm by descending frequency were neutropenia, infections, leukopenia, fatigue, nausea, alopecia, stomatitis, diarrhea, anemia, rash, asthenia, thrombocytopenia, vomiting, decreased appetite, dry skin, pyrexia, and dysgeusia.</p>
-<p>The most frequently reported Grade ≥3 adverse reactions (≥5%) in patients receiving IBRANCE plus letrozole by descending frequency were neutropenia, leukopenia, infections, and anemia.</p>
-<p>Adverse reactions (≥10%) reported in patients who received IBRANCE plus letrozole or placebo plus letrozole in Study 1 are listed in Table 4.</p>
+<p>The most frequently reported Grade ≥3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus letrozole by descending frequency were neutropenia, leukopenia, infections, and anemia.</p>
+<p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus letrozole or placebo plus letrozole in Study 1 are listed in Table 4.</p>
 <p></p>
 <table border="1">
     <thead>
          <tr>
             <td colspan="7" align="center">
-                <p><b>Table 4. Adverse Reactions (≥10%) in Study 1</b></p>
+                <p><b>Table 4. Adverse Reactions (&ge;10%) in Study 1</b></p>
             </td>
         </tr>
     </thead>
@@ -348,7 +348,7 @@ Usage: #example
                 <p>Grading according to CTCAE 4.0.</p>
                 <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable; </p>
                 <p><sup>a</sup> Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
-                <p><sup>b</sup> Most common infections (≥1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
+                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
                 <p><sup>c</sup> Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
                 <p><sup>d</sup>	Grade 1 events – 30%; Grade 2 events – 3%.</p>
                 <p><sup>e</sup> Grade 1 events – 15%; Grade 2 events – 1%.</p>
@@ -729,15 +729,15 @@ Usage: #example
 <p>The safety of IBRANCE (125 mg/day) plus fulvestrant (500 mg) versus placebo plus fulvestrant was evaluated in Study 2 (PALOMA-3). The data described below reflect exposure to IBRANCE in 345 out of 517 patients with HR positive, HER2 negative advanced or metastatic breast cancer who received at least 1 dose of IBRANCE plus fulvestrant in Study 2. The median duration of treatment for IBRANCE plus fulvestrant was 10.8 months while the median duration of treatment for placebo plus fulvestrant arm was 4.8 months.</p>
 <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus fulvestrant. No dose reduction was allowed for fulvestrant in Study 2.</p>
 <p>Permanent discontinuation associated with an adverse reaction occurred in 19 of 345 (6%) patients receiving IBRANCE plus fulvestrant, and in 6 of 172 (3%) patients receiving placebo plus fulvestrant. Adverse reactions leading to discontinuation for those patients receiving IBRANCE plus fulvestrant included fatigue (0.6%), infections (0.6%), and thrombocytopenia (0.6%).</p>
-<p>The most common adverse reactions (≥10%) of any grade reported in patients in the IBRANCE plus fulvestrant arm by descending frequency were neutropenia, leukopenia, infections, fatigue, nausea, anemia, stomatitis, diarrhea, thrombocytopenia, vomiting, alopecia, rash, decreased appetite, and pyrexia.</p>
-<p>The most frequently reported Grade ≥3 adverse reactions (≥5%) in patients receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and leukopenia.</p>
-<p>Adverse reactions (≥10%) reported in patients who received IBRANCE plus fulvestrant or placebo plus fulvestrant in Study 2 are listed in Table 6.</p>
+<p>The most common adverse reactions (&ge;10%) of any grade reported in patients in the IBRANCE plus fulvestrant arm by descending frequency were neutropenia, leukopenia, infections, fatigue, nausea, anemia, stomatitis, diarrhea, thrombocytopenia, vomiting, alopecia, rash, decreased appetite, and pyrexia.</p>
+<p>The most frequently reported Grade ≥3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and leukopenia.</p>
+<p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus fulvestrant or placebo plus fulvestrant in Study 2 are listed in Table 6.</p>
 <p></p>
 <table border="1">
     <thead>
          <tr>
             <td colspan="7" align="center">
-                <p><b>Table 6. Adverse Reactions (≥10%) in Study 2</b></p>
+                <p><b>Table 6. Adverse Reactions (&ge;10%) in Study 2</b></p>
             </td>
         </tr>
     </thead>
@@ -747,7 +747,7 @@ Usage: #example
                 <p>Grading according to CTCAE 4.0.</p>
                 <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable.</p>
                 <p><sup>a</sup>	Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
-                <p><sup>b</sup> Most common infections (≥1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, bronchitis, rhinitis, influenza, conjunctivitis, sinusitis, pneumonia, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia.</p>
+                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, bronchitis, rhinitis, influenza, conjunctivitis, sinusitis, pneumonia, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia.</p>
                 <p><sup>c</sup>	Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis.</p>
                 <p><sup>d</sup>	Grade 1 events – 17%; Grade 2 events – 1%.</p>
                 <p><sup>e</sup>	Grade 1 events – 6%.</p>
