@@ -248,3 +248,67 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "11.1	Mechanism of Action"
+  * code = https://www.mhra.gov.uk/#999999929819
+  * code.text = "11.1	Mechanism of Action"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "11.2	Pharmacodynamics"
+  * code = https://www.mhra.gov.uk/#999999929820
+  * code.text = "11.2	Pharmacodynamics"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "11.3	Pharmacokinetics"
+  * code = https://www.mhra.gov.uk/#999999929821
+  * code.text = "11.3	Pharmacokinetics"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "12	NONCLINICAL TOXICOLOGY"
+  * code = https://www.mhra.gov.uk/#999999929822
+  * code.text = "12	NONCLINICAL TOXICOLOGY"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "12.1	Carcinogenesis, Mutagenesis, Impairment of Fertility"
+  * code = https://www.mhra.gov.uk/#999999929823
+  * code.text = "12.1	Carcinogenesis, Mutagenesis, Impairment of Fertility"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "13	CLINICAL STUDIES"
+  * code = https://www.mhra.gov.uk/#999999929824
+  * code.text = "13	CLINICAL STUDIES"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "14	HOW SUPPLIED/STORAGE AND HANDLING"
+  * code = https://www.mhra.gov.uk/#999999929825
+  * code.text = "14	HOW SUPPLIED/STORAGE AND HANDLING"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[+]
+  * title = "15	PATIENT COUNSELING INFORMATION"
+  * code = https://www.mhra.gov.uk/#999999929826
+  * code.text = "15	PATIENT COUNSELING INFORMATION"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
