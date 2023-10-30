@@ -318,7 +318,26 @@ Usage: #example
   </div>"""
 
 
-//6.2
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+  * title = "6.1	Clinical Studies Experience"
+  * code = https://www.mhra.gov.uk/#999999929802
+  * code.text = "6.1	Clinical Studies Experience"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>Because clinical trials are conducted under varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.</p>
+<p><u><b>Study 1: IBRANCE plus Letrozole</b></u></p>
+<p><b>Patients with estrogen receptor (ER) positive, HER2 negative advanced or metastatic breast cancer for initial endocrine based therapy</b></p>
+<p>The safety of IBRANCE (125 mg/day) plus letrozole (2.5 mg/day) versus placebo plus letrozole was evaluated in Study 1 (PALOMA-2). The data described below reflect exposure to IBRANCE in 444 out of 666 patients with ER positive, HER2-negative advanced breast cancer who received at least 1 dose of IBRANCE plus letrozole in Study 1. The median duration of treatment for palbociclib plus letrozole was 19.8 months while the median duration of treatment for placebo plus letrozole arm was 13.8 months.</p>
+<p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus letrozole. No dose reduction was allowed for letrozole in Study 1.</p>
+<p>Permanent discontinuation associated with an adverse reaction occurred in 43 of 444 (9.7%) patients receiving IBRANCE plus letrozole and in 13 of 222 (5.9%) patients receiving placebo plus letrozole. Adverse reactions leading to permanent discontinuation for patients receiving IBRANCE plus letrozole included neutropenia 1.1%) and alanine aminotransferase increase (0.7%).</p>
+<p>The most common adverse reactions (&ge;10% ) of any grade reported in patients in the IBRANCE plus letrozole arm by descending frequency were neutropenia, infections, leukopenia, fatigue, nausea, alopecia, stomatitis, diarrhea, anemia, rash, asthenia, thrombocytopenia, vomiting, decreased appetite, dry skin, pyrexia, and dysgeusia.</p>
+<p>The most frequently reported Grade &ge;3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus letrozole by descending frequency were neutropenia, leukopenia, infections, and anemia.</p>
+<p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus letrozole or placebo plus letrozole in Study 1 are listed in Table 4.</p>
+<p></p>
+
+</div>"""
+
 
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
