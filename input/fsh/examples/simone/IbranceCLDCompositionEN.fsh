@@ -1053,6 +1053,10 @@ Usage: #example
   * code.text = "6.2 Postmarketing Experience"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>The following adverse reactions have been identified during post-approval use of IBRANCE. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</p>
+<p><i>Respiratory disorders:</i> Interstitial lung disease (ILD)/non-infectious pneumonitis.</p>
+
   </div>"""
 
 * section[+]
@@ -1069,6 +1073,11 @@ Usage: #example
   * code.text = "7.1	Agents that may Increase Palbociclib Plasma Concentrations"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><b>Effect of CYP3A Inhibitors</b></p>
+<p>Co-administration of a strong CYP3A inhibitor (itraconazole) increased the plasma exposure of palbociclib in healthy subjects by 87%. Avoid concomitant use of strong CYP3A inhibitors (e.g., clarithromycin, indinavir, itraconazole, ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, and voriconazole). Avoid grapefruit or grapefruit juice during IBRANCE treatment. If co-administration of IBRANCE with a strong CYP3A inhibitor cannot be avoided, reduce the dose of IBRANCE [<i>see Dosage and Administration (2.2) and Clinical Pharmacology (11.3)</i>].</p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1077,7 +1086,12 @@ Usage: #example
   * code.text = "7.2	Agents that may Decrease Palbociclib Plasma Concentrations"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-  </div>"""
+  
+<p><b>Effect of CYP3A Inducers</b></p>
+<p>Co-administration of a strong CYP3A inducer (rifampin) decreased the plasma exposure of palbociclib in healthy subjects by 85%. Avoid concomitant use of strong CYP3A inducers (e.g., phenytoin, rifampin, carbamazepine, enzalutamide, and St. John’s Wort) [<i>see Clinical Pharmacology (11.3)</i>].</p>
+
+
+</div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "7.3	Drugs that may have Their Plasma Concentrations Altered by Palbociclib"
@@ -1085,6 +1099,9 @@ Usage: #example
   * code.text = "7.3	Drugs that may have Their Plasma Concentrations Altered by Palbociclib"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>Co-administration of midazolam with multiple doses of IBRANCE increased the midazolam plasma exposure by 61%, in healthy subjects, compared to administration of midazolam alone. The dose of the sensitive CYP3A substrate with a narrow therapeutic index (e.g., alfentanil, cyclosporine, dihydroergotamine, ergotamine, everolimus, fentanyl, pimozide, quinidine, sirolimus and tacrolimus) may need to be reduced as, IBRANCE may increase its exposure [<i>see Clinical Pharmacology (11.3)</i>].</p>
+
   </div>"""
 
 
@@ -1106,6 +1123,17 @@ Usage: #example
   * code.text = "8.1	Pregnancy"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><b>Risk Summary</b></p>
+<p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm when administered to a pregnant woman [<i>see Clinical Pharmacology (11.1)</i>]. There are no available data in pregnant women to inform the drug associated risk. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were ≥4 times the human clinical exposure based on AUC [<i>see Data</i>]. Advise pregnant women of the potential risk to a fetus.</p>
+<p>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.</p>
+<p><b>Data</b></p>
+<p><u>Animal Data</u></p>
+<p>In a fertility and early embryonic development study in female rats, palbociclib was administered orally for 15 days before mating through to Day 7 of pregnancy, which did not cause embryo toxicity at doses up to 300 mg/kg/day with maternal systemic exposures approximately 4 times the human exposure (AUC) at the recommended dose.</p>
+<p>In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of palbociclib up to 300 mg/kg/day and 20 mg/kg/day, respectively, during the period of organogenesis. The maternally toxic dose of 300 mg/kg/day was fetotoxic in rats, resulting in reduced fetal body weights. At doses ≥100 mg/kg/day in rats, there was an increased incidence of a skeletal variation (increased incidence of a rib present at the seventh cervical vertebra). At the maternally toxic dose of 20 mg/kg/day in rabbits, there was an increased incidence of skeletal variations, including small phalanges in the forelimb. At 300 mg/kg/day in rats and 20 mg/kg/day in rabbits, the maternal systemic exposures were approximately 4 and 9 times the human exposure (AUC) at the recommended dose, respectively.</p>
+<p>CDK4/6 double knockout mice have been reported to die in late stages of fetal development (gestation Day 14.5 until birth) due to severe anemia. However, knockout mouse data may not be predictive of effects in humans due to differences in degree of target inhibition.</p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1114,6 +1142,10 @@ Usage: #example
   * code.text = "8.2	Lactation"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p><b>Risk Summary</b></p>
+<p>There is no information regarding the presence of palbociclib in human milk, its effects on milk production, or the breastfed infant. Because of the potential for serious adverse reactions in breastfed infants from IBRANCE, advise a lactating woman not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose.</p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1122,6 +1154,19 @@ Usage: #example
   * code.text = "8.3	Females and Males of Reproductive Potential"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><b>Pregnancy Testing</b></p>
+<p>Based on animal studies, IBRANCE can cause fetal harm when administered to a pregnant woman [<i>see Use in Specific Populations (8.1)</i>]. Females of reproductive potential should have a pregnancy test prior to starting treatment with IBRANCE.</p>
+<p><b>Contraception</b></p>
+<p><u>Females</u></p>
+<p>IBRANCE can cause fetal harm when administered to a pregnant woman [<i>see Use in Specific Populations (8.1)</i>]. Advise females of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 weeks after the last dose.</p>
+<p><u>Males</u></p>
+<p>Because of the potential for genotoxicity, advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for 3 months after the last dose [<i>see Nonclinical Toxicology (12.1)</i>].</p>
+<p><b>Infertility</b></p>
+<p><u>Males</u></p>
+<p>Based on animal studies, IBRANCE may impair fertility in males of reproductive potential [<i>see Nonclinical Toxicology (12.1)</i>].</p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1130,6 +1175,9 @@ Usage: #example
   * code.text = "8.4	Pediatric Use"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p>The safety and efficacy of IBRANCE in pediatric patients have not been studied.</p>
+<p>Altered glucose metabolism (glycosuria, hyperglycemia, decreased insulin) associated with changes in the pancreas (islet cell vacuolation), eye (cataracts, lens degeneration), kidney (tubule vacuolation, chronic progressive nephropathy) and adipose tissue (atrophy) were identified in a 27 week repeat-dose toxicology study in rats that were immature at the beginning of the studies and were most prevalent in males at oral palbociclib doses ≥30 mg/kg/day (approximately 11 times the adult human exposure [AUC] at the recommended dose). Some of these findings (glycosuria/hyperglycemia, pancreatic islet cell vacuolation, and kidney tubule vacuolation) were present with lower incidence and severity in a 15 week repeat-dose toxicology study in immature rats. Altered glucose metabolism or associated changes in the pancreas, eye, kidney and adipose tissue were not identified in a 27-week repeat-dose toxicology study in rats that were mature at the beginning of the study and in dogs in repeat-dose toxicology studies up to 39 weeks duration.</p>
+<p>Toxicities in teeth independent of altered glucose metabolism were observed in rats. Administration of 100 mg/kg palbociclib for 27 weeks (approximately 15 times the adult human exposure [AUC] at the recommended dose) resulted in abnormalities in growing incisor teeth (discolored, ameloblast degeneration/necrosis, mononuclear cell infiltrate). Other toxicities of potential concern to pediatric patients have not been evaluated in juvenile animals.</p>
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1138,6 +1186,10 @@ Usage: #example
   * code.text = "8.5	Geriatric Use"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>Of 444 patients who received IBRANCE in Study 1, 181 patients (41%) were ≥65 years of age and 48 patients (11%) were ≥75 years of age. Of 347 patients who received IBRANCE in Study 2, 86 patients (25%) were ≥65 years of age and 27 patients (8%) were ≥75 years of age. No overall differences in safety or effectiveness of IBRANCE were observed between these patients and younger patients.</p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1146,6 +1198,9 @@ Usage: #example
   * code.text = "8.6	Hepatic Impairment"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>No dose adjustment is required in patients with mild or moderate hepatic impairment (Child-Pugh classes A and B). For patients with severe hepatic impairment (Child-Pugh class C), the recommended dose of IBRANCE is 75 mg once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days [<i>see Dosage and Administration (2.2)</i>]. Based on a pharmacokinetic trial in subjects with varying degrees of hepatic function, the palbociclib unbound exposure (unbound AUCINF) decreased by 17% in subjects with mild hepatic impairment (Child-Pugh class A), and increased by 34% and 77% in subjects with moderate (Child-Pugh class B) and severe (Child-Pugh class C) hepatic impairment, respectively, relative to subjects with normal hepatic function. Peak palbociclib unbound exposure (unbound C<sub>max</sub>) increased by 7%, 38% and 72% for mild, moderate and severe hepatic impairment, respectively, relative to subjects with normal hepatic function [<i>see Clinical Pharmacology (11.3)</i>].</p>
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -1154,6 +1209,10 @@ Usage: #example
   * code.text = "8.7	Renal Impairment"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>No dose adjustment is required in patients with mild, moderate, or severe renal impairment (CrCl >15 mL/min). Based on a pharmacokinetic trial in subjects with varying degrees of renal function, the total palbociclib exposure (AUC<sub>INF</sub>) increased by 39%, 42%, and 31% with mild (60 mL/min ≤CrCl  &lt;90 mL/min), moderate (30 mL/min ≤CrCl &lt;60 mL/min), and severe (CrCl &lt;30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%, 12%, and 15% for mild, moderate, and severe renal impairment, respectively, relative to subjects with normal renal function. The pharmacokinetics of palbociclib have not been studied in patients requiring hemodialysis [<i>see Clinical Pharmacology (11.3)</i>].</p>
+
+
   </div>"""
 
 * section[+]
@@ -1162,6 +1221,11 @@ Usage: #example
   * code.text = "9.	OVERDOSAGE"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+
+<p>There is no known antidote for IBRANCE. The treatment of overdose of IBRANCE should consist of general supportive measures.</p>
+
+
   </div>"""
 
 * section[+]
@@ -1170,6 +1234,10 @@ Usage: #example
   * code.text = "10.	DESCRIPTION"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>IBRANCE capsules for oral administration contain 125 mg, 100 mg, or 75 mg of palbociclib, a kinase inhibitor. The molecular formula for palbociclib is C<sub>24</sub>H<sub>29</sub>N<sub>7</sub>O<sub>2</sub>. The molecular weight is 447.54 daltons. The chemical name is 6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-<i>d</i>]pyrimidin-7(8<i>H</i>)-one, and its structural formula is:</p>
+
+
   </div>"""
 
 * section[+]
