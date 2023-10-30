@@ -350,9 +350,9 @@ Usage: #example
                 <p><sup>a</sup> Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
                 <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
                 <p><sup>c</sup> Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
-                <p><sup>d</sup>	Grade 1 events – 30%; Grade 2 events – 3%.</p>
-                <p><sup>e</sup> Grade 1 events – 15%; Grade 2 events – 1%.</p>
-                <p><sup>f</sup>	Rash includes the following PTs: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
+                <p><sup>d</sup>	Grade 1 events &ndash; 30%; Grade 2 events &ndash; 3%.</p>
+                <p><sup>e</sup> Grade 1 events &ndash; 15%; Grade 2 events &ndash; 1%.</p>
+                <p><sup>f</sup>	Rash includes the following PTs: rash, rash maculo&hyphen;papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
             </td>
         </tr>
     </tfoot>
