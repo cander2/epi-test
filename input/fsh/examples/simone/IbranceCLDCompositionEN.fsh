@@ -164,7 +164,7 @@ Usage: #example
           </td>
         </tr>
         <tr>
-            <td>Grade 3 neutropenia<sup>b</sup> with fever ≥38.5°C and/or infection</td>
+            <td>Grade 3 neutropenia<sup>b</sup> with fever &ge;38.5°C and/or infection</td>
             <td>
                 <p><u>At any time:</u></p>
                 <p>Withhold IBRANCE until recovery to Grade ≤2.</p>
@@ -208,7 +208,7 @@ Usage: #example
           <td>No dose adjustment is required.</td>
          </tr>
          <tr>
-          <td>Grade ≥3 non-hematologic toxicity (if persisting despite optimal medical treatment)</td>
+          <td>Grade &ge;3 non-hematologic toxicity (if persisting despite optimal medical treatment)</td>
           <td>
             <p>Withhold until symptoms resolve to:</p>
             <ul>
@@ -268,7 +268,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p>Neutropenia was the most frequently reported adverse reaction in Study 1 (PALOMA-2) with an incidence of 80% and Study 2 (PALOMA-3) with an incidence of 83%. A Grade ≥3 decrease in neutrophil counts was reported in 66% of patients receiving IBRANCE plus letrozole in Study 1 and 66% of patients receiving IBRANCE plus fulvestrant in Study 2. In Study 1 and 2 the median time to first episode of any grade neutropenia was 15 days and the median duration of Grade ≥3 neutropenia was 7 days [<i>see Adverse Reactions (6.1)</i>].</p>
+<p>Neutropenia was the most frequently reported adverse reaction in Study 1 (PALOMA-2) with an incidence of 80% and Study 2 (PALOMA-3) with an incidence of 83%. A Grade &ge;3 decrease in neutrophil counts was reported in 66% of patients receiving IBRANCE plus letrozole in Study 1 and 66% of patients receiving IBRANCE plus fulvestrant in Study 2. In Study 1 and 2 the median time to first episode of any grade neutropenia was 15 days and the median duration of Grade &ge;3 neutropenia was 7 days [<i>see Adverse Reactions (6.1)</i>].</p>
 <p>Monitor complete blood counts prior to starting IBRANCE therapy and at the beginning of each cycle, as well as on Day 15 of the first 2 cycles, and as clinically indicated. Dose interruption, dose reduction, or delay in starting treatment cycles is recommended for patients who develop Grade 3 or 4 neutropenia [<i>see Dosage and Administration (2.2)</i>].</p>
 <p>Febrile neutropenia has been reported in 1.8% of patients exposed to IBRANCE across Studies 1 and 2.  One death due to neutropenic sepsis was observed in Study 2. Physicians should inform patients to promptly report any episodes of fever [<i>see Patient Counseling Information (15)</i>].</p>
 
@@ -298,7 +298,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm, when administered to a pregnant woman. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were ≥4 times the human clinical exposure based on area under the curve (AUC). Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 weeks after the last dose [<i>see Use in Specific Populations (8.1 and 8.3) and Clinical Pharmacology (11.1)</i>].</p>
+<p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm, when administered to a pregnant woman. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were &ge;4 times the human clinical exposure based on area under the curve (AUC). Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 weeks after the last dose [<i>see Use in Specific Populations (8.1 and 8.3) and Clinical Pharmacology (11.1)</i>].</p>
 <p><b>6 ADVERSE REACTIONS</b></p>
 <p>The following clinically significant adverse reactions are  described elsewhere in the labeling:</p>
 <ul>
@@ -331,7 +331,7 @@ Usage: #example
 <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus letrozole. No dose reduction was allowed for letrozole in Study 1.</p>
 <p>Permanent discontinuation associated with an adverse reaction occurred in 43 of 444 (9.7%) patients receiving IBRANCE plus letrozole and in 13 of 222 (5.9%) patients receiving placebo plus letrozole. Adverse reactions leading to permanent discontinuation for patients receiving IBRANCE plus letrozole included neutropenia 1.1%) and alanine aminotransferase increase (0.7%).</p>
 <p>The most common adverse reactions (&ge;10% ) of any grade reported in patients in the IBRANCE plus letrozole arm by descending frequency were neutropenia, infections, leukopenia, fatigue, nausea, alopecia, stomatitis, diarrhea, anemia, rash, asthenia, thrombocytopenia, vomiting, decreased appetite, dry skin, pyrexia, and dysgeusia.</p>
-<p>The most frequently reported Grade ≥3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus letrozole by descending frequency were neutropenia, leukopenia, infections, and anemia.</p>
+<p>The most frequently reported Grade &ge;3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus letrozole by descending frequency were neutropenia, leukopenia, infections, and anemia.</p>
 <p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus letrozole or placebo plus letrozole in Study 1 are listed in Table 4.</p>
 <p></p>
 <table border="1">
@@ -730,7 +730,7 @@ Usage: #example
 <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus fulvestrant. No dose reduction was allowed for fulvestrant in Study 2.</p>
 <p>Permanent discontinuation associated with an adverse reaction occurred in 19 of 345 (6%) patients receiving IBRANCE plus fulvestrant, and in 6 of 172 (3%) patients receiving placebo plus fulvestrant. Adverse reactions leading to discontinuation for those patients receiving IBRANCE plus fulvestrant included fatigue (0.6%), infections (0.6%), and thrombocytopenia (0.6%).</p>
 <p>The most common adverse reactions (&ge;10%) of any grade reported in patients in the IBRANCE plus fulvestrant arm by descending frequency were neutropenia, leukopenia, infections, fatigue, nausea, anemia, stomatitis, diarrhea, thrombocytopenia, vomiting, alopecia, rash, decreased appetite, and pyrexia.</p>
-<p>The most frequently reported Grade ≥3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and leukopenia.</p>
+<p>The most frequently reported Grade &ge;3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and leukopenia.</p>
 <p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus fulvestrant or placebo plus fulvestrant in Study 2 are listed in Table 6.</p>
 <p></p>
 <table border="1">
@@ -1123,12 +1123,12 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
 <p><b>Risk Summary</b></p>
-<p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm when administered to a pregnant woman [<i>see Clinical Pharmacology (11.1)</i>]. There are no available data in pregnant women to inform the drug associated risk. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were ≥4 times the human clinical exposure based on AUC [<i>see Data</i>]. Advise pregnant women of the potential risk to a fetus.</p>
+<p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm when administered to a pregnant woman [<i>see Clinical Pharmacology (11.1)</i>]. There are no available data in pregnant women to inform the drug associated risk. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were &ge;4 times the human clinical exposure based on AUC [<i>see Data</i>]. Advise pregnant women of the potential risk to a fetus.</p>
 <p>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.</p>
 <p><b>Data</b></p>
 <p><u>Animal Data</u></p>
 <p>In a fertility and early embryonic development study in female rats, palbociclib was administered orally for 15 days before mating through to Day 7 of pregnancy, which did not cause embryo toxicity at doses up to 300 mg/kg/day with maternal systemic exposures approximately 4 times the human exposure (AUC) at the recommended dose.</p>
-<p>In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of palbociclib up to 300 mg/kg/day and 20 mg/kg/day, respectively, during the period of organogenesis. The maternally toxic dose of 300 mg/kg/day was fetotoxic in rats, resulting in reduced fetal body weights. At doses ≥100 mg/kg/day in rats, there was an increased incidence of a skeletal variation (increased incidence of a rib present at the seventh cervical vertebra). At the maternally toxic dose of 20 mg/kg/day in rabbits, there was an increased incidence of skeletal variations, including small phalanges in the forelimb. At 300 mg/kg/day in rats and 20 mg/kg/day in rabbits, the maternal systemic exposures were approximately 4 and 9 times the human exposure (AUC) at the recommended dose, respectively.</p>
+<p>In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of palbociclib up to 300 mg/kg/day and 20 mg/kg/day, respectively, during the period of organogenesis. The maternally toxic dose of 300 mg/kg/day was fetotoxic in rats, resulting in reduced fetal body weights. At doses &ge;100 mg/kg/day in rats, there was an increased incidence of a skeletal variation (increased incidence of a rib present at the seventh cervical vertebra). At the maternally toxic dose of 20 mg/kg/day in rabbits, there was an increased incidence of skeletal variations, including small phalanges in the forelimb. At 300 mg/kg/day in rats and 20 mg/kg/day in rabbits, the maternal systemic exposures were approximately 4 and 9 times the human exposure (AUC) at the recommended dose, respectively.</p>
 <p>CDK4/6 double knockout mice have been reported to die in late stages of fetal development (gestation Day 14.5 until birth) due to severe anemia. However, knockout mouse data may not be predictive of effects in humans due to differences in degree of target inhibition.</p>
 
 
@@ -1174,7 +1174,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 <p>The safety and efficacy of IBRANCE in pediatric patients have not been studied.</p>
-<p>Altered glucose metabolism (glycosuria, hyperglycemia, decreased insulin) associated with changes in the pancreas (islet cell vacuolation), eye (cataracts, lens degeneration), kidney (tubule vacuolation, chronic progressive nephropathy) and adipose tissue (atrophy) were identified in a 27 week repeat-dose toxicology study in rats that were immature at the beginning of the studies and were most prevalent in males at oral palbociclib doses ≥30 mg/kg/day (approximately 11 times the adult human exposure [AUC] at the recommended dose). Some of these findings (glycosuria/hyperglycemia, pancreatic islet cell vacuolation, and kidney tubule vacuolation) were present with lower incidence and severity in a 15 week repeat-dose toxicology study in immature rats. Altered glucose metabolism or associated changes in the pancreas, eye, kidney and adipose tissue were not identified in a 27-week repeat-dose toxicology study in rats that were mature at the beginning of the study and in dogs in repeat-dose toxicology studies up to 39 weeks duration.</p>
+<p>Altered glucose metabolism (glycosuria, hyperglycemia, decreased insulin) associated with changes in the pancreas (islet cell vacuolation), eye (cataracts, lens degeneration), kidney (tubule vacuolation, chronic progressive nephropathy) and adipose tissue (atrophy) were identified in a 27 week repeat-dose toxicology study in rats that were immature at the beginning of the studies and were most prevalent in males at oral palbociclib doses &ge;30 mg/kg/day (approximately 11 times the adult human exposure [AUC] at the recommended dose). Some of these findings (glycosuria/hyperglycemia, pancreatic islet cell vacuolation, and kidney tubule vacuolation) were present with lower incidence and severity in a 15 week repeat-dose toxicology study in immature rats. Altered glucose metabolism or associated changes in the pancreas, eye, kidney and adipose tissue were not identified in a 27-week repeat-dose toxicology study in rats that were mature at the beginning of the study and in dogs in repeat-dose toxicology studies up to 39 weeks duration.</p>
 <p>Toxicities in teeth independent of altered glucose metabolism were observed in rats. Administration of 100 mg/kg palbociclib for 27 weeks (approximately 15 times the adult human exposure [AUC] at the recommended dose) resulted in abnormalities in growing incisor teeth (discolored, ameloblast degeneration/necrosis, mononuclear cell infiltrate). Other toxicities of potential concern to pediatric patients have not been evaluated in juvenile animals.</p>
   </div>"""
 
@@ -1185,7 +1185,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p>Of 444 patients who received IBRANCE in Study 1, 181 patients (41%) were ≥65 years of age and 48 patients (11%) were ≥75 years of age. Of 347 patients who received IBRANCE in Study 2, 86 patients (25%) were ≥65 years of age and 27 patients (8%) were ≥75 years of age. No overall differences in safety or effectiveness of IBRANCE were observed between these patients and younger patients.</p>
+<p>Of 444 patients who received IBRANCE in Study 1, 181 patients (41%) were &ge;65 years of age and 48 patients (11%) were &ge;75 years of age. Of 347 patients who received IBRANCE in Study 2, 86 patients (25%) were &ge;65 years of age and 27 patients (8%) were &ge;75 years of age. No overall differences in safety or effectiveness of IBRANCE were observed between these patients and younger patients.</p>
 
 
   </div>"""
