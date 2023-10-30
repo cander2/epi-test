@@ -164,7 +164,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.1	Pregnancy"
   * code = https://www.mhra.gov.uk/#999999929809
   * code.text = "8.1	Pregnancy"
@@ -172,7 +172,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.2	Lactation"
   * code = https://www.mhra.gov.uk/#999999929810
   * code.text = "8.2	Lactation"
@@ -180,7 +180,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.3	Females and Males of Reproductive Potential"
   * code = https://www.mhra.gov.uk/#999999929811
   * code.text = "8.3	Females and Males of Reproductive Potential"
@@ -188,7 +188,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.4	Pediatric Use"
   * code = https://www.mhra.gov.uk/#999999929812
   * code.text = "8.4	Pediatric Use"
@@ -196,7 +196,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.5	Geriatric Use"
   * code = https://www.mhra.gov.uk/#999999929813
   * code.text = "8.5	Geriatric Use"
@@ -204,7 +204,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.6	Hepatic Impairment"
   * code = https://www.mhra.gov.uk/#999999929814
   * code.text = "8.6	Hepatic Impairment"
@@ -212,7 +212,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-  * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
+* section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
   * title = "8.7	Renal Impairment"
   * code = https://www.mhra.gov.uk/#999999929815
   * code.text = "8.7	Renal Impairment"
