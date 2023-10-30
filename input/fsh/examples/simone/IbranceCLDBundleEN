@@ -13,8 +13,8 @@ Usage: #example
 //In the following sections, replace the xxxx with the unique Instance name of your resource templates.
 
 // Composition
-* entry[0].fullUrl = "Composition/CLDTemplate"
-* entry[0].resource = CLDTemplate
+* entry[0].fullUrl = "Composition/IbranceCLDCompositionEN"
+* entry[0].resource = IbranceCLDCompositionEN
 
 // Organization
 * entry[+].fullUrl = "Organization/OrgTemplate"
