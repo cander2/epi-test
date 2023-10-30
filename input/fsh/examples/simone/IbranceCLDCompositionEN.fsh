@@ -612,9 +612,6 @@ Usage: #example
         </tr>
     </tbody>
 </table>
-<p></p>
-<p>Additional adverse reactions occurring at an overall incidence of  &lt;10.0% of patients receiving IBRANCE plus letrozole in Study 1 included alanine aminotransferase increased (9.9%), aspartate aminotransferase increased (9.7%), epistaxis (9.2%), lacrimation increased (5.6%), dry eye (4.1%), vision blurred (3.6%), and febrile neutropenia (2.5%).</p>
-<p></p>
 
 
 
