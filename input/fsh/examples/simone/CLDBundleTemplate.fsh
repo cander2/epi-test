@@ -1,7 +1,7 @@
 Instance: CLDBundleTemplate
 InstanceOf: BundleUvEpi
 Title: "Template of CLD Bundle"
-Description: "Create CLD Bundle template for debug"
+Description: "Create CLD Bundle template for debug Oct30"
 Usage: #example
 
 * language = #en //change language if needed
