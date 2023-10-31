@@ -690,6 +690,14 @@ Usage: #example
   * code.text = "12.1	Carcinogenesis, Mutagenesis, Impairment of Fertility"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p>Palbociclib was assessed for carcinogenicity in a 6-month transgenic mouse study and in a 2-year rat study. Oral administration of palbociclib for 2 years resulted in an increased incidence of microglial cell tumors in the central nervous system of male rats at a dose of 30 mg/kg/day (approximately 8 times the human clinical exposure based on AUC). There were no neoplastic findings in female rats at doses up to 200 mg/kg/day (approximately 5 times the human clinical exposure based on AUC). Oral administration of palbociclib to male and female rasH2 transgenic mice for 6 months did not result in increased incidence of neoplasms at doses up to 60 mg/kg/day. </p>
+
+<p>Palbociclib was aneugenic in Chinese Hamster Ovary cells <i>in vitro</i> and in the bone marrow of male rats at doses &ge;100 mg/kg/day for 3 weeks. Palbociclib was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay and was not clastogenic in the <i>in vitro</i> human lymphocyte chromosome aberration assay. </p>
+
+<p>In a fertility study in female rats, palbociclib did not affect mating or fertility at any dose up to 300 mg/kg/day (approximately 4 times human clinical exposure based on AUC) and no adverse effects were observed in the female reproductive tissues in repeat-dose toxicity studies up to 300 mg/kg/day in the rat and 3 mg/kg/day in the dog (approximately 6 times and similar to human exposure [AUC], at the recommended dose, respectively). </p>
+
+<p>The adverse effects of palbociclib on male reproductive function and fertility were observed in the repeat-dose toxicology studies in rats and dogs and a male fertility study in rats. In repeat dose toxicology studies, palbociclib related findings in the testis, epididymis, prostate, and seminal vesicle at &ge;30 mg/kg/day in rats and &ge;0.2 mg/kg/day in dogs included decreased organ weight, atrophy or degeneration, hypospermia, intratubular cellular debris, and decreased secretion. Partial reversibility of male reproductive organ effects was observed in the rat and dog following a 4  and 12 week non-dosing period, respectively. These doses in rats and dogs resulted in approximately &ge;10 and 0.1 times, respectively, the exposure [AUC] in humans at the recommended dose. In the fertility and early embryonic development study in male rats, palbociclib caused no effects on mating but resulted in a slight decrease in fertility in association with lower sperm motility and density at 100 mg/kg/day with projected exposure levels [AUC] of 20 times the exposure in humans at the recommended dose. </p>
+
   </div>"""
 
 * section[+]
