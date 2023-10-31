@@ -831,14 +831,14 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p><u>Myelosuppression&sol;Infection</u></p>
+<p><u>Myelosuppression/Infection</u></p>
 <ul>
 
 <li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [see Warnings and Precautions (5.1)].</li>
 
 </ul>
 
-<p><u>Interstitial Lung Disease&sol;Pneumonitis</u></p>
+<p><u>Interstitial Lung Disease/Pneumonitis</u></p>
 <ul>
 
 <li>Advise patients to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)]. </li>
@@ -848,9 +848,9 @@ Usage: #example
 <p><u>Drug Interactions</u></p>
 <ul>
 
-	<li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit products while on treatment with IBRANCE. </li>
-	<li>Inform patients to avoid strong CYP3A inhibitors and strong CYP3A inducers. </li>
-	<li>Advise patients to inform their health care providers of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)]. </li>
+	<li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit products while on treatment with IBRANCE.</li>
+	<li>Inform patients to avoid strong CYP3A inhibitors and strong CYP3A inducers.</li>
+	<li>Advise patients to inform their health care providers of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)].</li>
 </ul>
 
 
@@ -867,7 +867,7 @@ Usage: #example
 
 	<li>Embryo-Fetal Toxicity</li>
 	
-	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)]. </li>
+	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)].</li>
 
 </ul>
 
