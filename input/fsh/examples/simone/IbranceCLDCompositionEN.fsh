@@ -251,17 +251,9 @@ Usage: #example
   * code.text = "4. CONTRAINDICATIONS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>None.</p>
+    <p>None. TEXT IF SECTION 4 CAN APPEAR</p>
   </div>"""
 
-* section[+]
-  * title = "4. CONTRAINDICATIONS"
-  * code = https://www.mhra.gov.uk/#999999929797
-  * code.text = "4. CONTRAINDICATIONS"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-     <p>None.</p>
-  </div>"""
 
   * section[+]
   * title = "5. WARNINGS AND PRECAUTIONS"
