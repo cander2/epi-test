@@ -964,7 +964,11 @@ Usage: #example
 <ul>
 
 	<li>Embryo-Fetal Toxicity</li>
-	
+	<ul>
+		<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)].</li>
+		<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [see Use in Specific Populations (8.3)].</li>
+	</ul>
+
 	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)].</li>
 
 </ul>
