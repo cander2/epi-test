@@ -1,11 +1,11 @@
-Instance: Prevenar-13-0.5-ml
+Instance: PLD-Palbociclib-Ibrance-MYS-English
 InstanceOf: CompositionUvEpi
-Title: "Master Gulf and Levant- Prevenar 13 0.5 ml- PLD Jordan"
-Description:  "Test for create Prevenar"
+Title: "Composition_PLD_Palbociclib_Ibrance_MYS_English"
+Description:  "Composition_PLD_Palbociclib_Ibrance_MYS_English"
 Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/"
-* identifier.value = "62c2744a-2aa9-4b53-8d07-94b7683bbf3e"
+* identifier.value = "6a121d9c-77b7-11ee-b962-0242ac120002"
 
 * status = #final
 
