@@ -12,7 +12,7 @@ Usage: #example
 * type = https://www.mhra.gov.uk/#100000155538 //Don't change.
 * type.text = "Package Leaflet" //Don't change this.
 
-* date = "2023&hyphen;08&hyphen;24T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
+* date = "2023-08-24T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
 * author = Reference(IbranceMAHOrg) //Add the Instance name for the Organization inside the brackets
 
 * title = "SmPCtemplate" //change the title to any name you like
