@@ -248,10 +248,10 @@ Usage: #example
 * section[+]
   * title = "4. CONTRAINDICATIONS"
   * code = https://www.mhra.gov.uk/#999999929797
-  * code.text = "4. CLINICAL PARTICULARS"
+  * code.text = "4. CONTRAINDICATIONS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-<p>None.</p>
+     <p>None.</p>
   </div>"""
 
   * section[+]
