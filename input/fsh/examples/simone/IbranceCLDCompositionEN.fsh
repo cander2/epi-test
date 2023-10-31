@@ -648,6 +648,10 @@ Usage: #example
 
 <p>The results from the investigator-assessed PFS and final OS from Study 2 are summarized in Table 9. The relevant Kaplan-Meier plots are shown in Figures 2 and 3, respectively. Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status. After a median follow-up time of 45 months, the final OS results were not statistically significant. </p>
 
+<p><b>Elimination</b></p>
+
+<p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (&plusmn; standard deviation) plasma elimination half-life was 29 (&plusmn;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
+
 
 
 
