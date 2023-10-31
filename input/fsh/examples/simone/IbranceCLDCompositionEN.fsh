@@ -359,6 +359,56 @@ Usage: #example
 </table>
 
 
+<p></p>
+<p>Additional adverse reactions occurring at an overall incidence of  &lt;10.0% of patients receiving IBRANCE plus letrozole in Study 1 included alanine aminotransferase increased (9.9%), aspartate aminotransferase increased (9.7%), epistaxis (9.2%), lacrimation increased (5.6%), dry eye (4.1%), vision blurred (3.6%), and febrile neutropenia (2.5%).</p>
+<p></p>
+
+
+<table border="1">
+    <thead>
+         <tr>
+            <td colspan="7" align="center">
+                <p><b>Table 5.	Laboratory Abnormalities in Study 1</b></p>
+            </td>
+        </tr>
+    </thead>
+</table>
+
+<p><b><u>Study 2: IBRANCE plus Fulvestrant</u></b></p>
+<p><b>Patients with HR positive, HER2 negative advanced or metastatic breast cancer who have had disease progression on or after prior adjuvant or metastatic endocrine therapy</b></p>
+<p>The safety of IBRANCE (125 mg/day) plus fulvestrant (500 mg) versus placebo plus fulvestrant was evaluated in Study 2 (PALOMA-3). The data described below reflect exposure to IBRANCE in 345 out of 517 patients with HR positive, HER2 negative advanced or metastatic breast cancer who received at least 1 dose of IBRANCE plus fulvestrant in Study 2. The median duration of treatment for IBRANCE plus fulvestrant was 10.8 months while the median duration of treatment for placebo plus fulvestrant arm was 4.8 months.</p>
+<p>Dose reductions due to an adverse reaction of any grade occurred in 36% of patients receiving IBRANCE plus fulvestrant. No dose reduction was allowed for fulvestrant in Study 2.</p>
+<p>Permanent discontinuation associated with an adverse reaction occurred in 19 of 345 (6%) patients receiving IBRANCE plus fulvestrant, and in 6 of 172 (3%) patients receiving placebo plus fulvestrant. Adverse reactions leading to discontinuation for those patients receiving IBRANCE plus fulvestrant included fatigue (0.6%), infections (0.6%), and thrombocytopenia (0.6%).</p>
+<p>The most common adverse reactions (&ge;10%) of any grade reported in patients in the IBRANCE plus fulvestrant arm by descending frequency were neutropenia, leukopenia, infections, fatigue, nausea, anemia, stomatitis, diarrhea, thrombocytopenia, vomiting, alopecia, rash, decreased appetite, and pyrexia.</p>
+<p>The most frequently reported Grade &ge;3 adverse reactions (&ge;5%) in patients receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and leukopenia.</p>
+<p>Adverse reactions (&ge;10%) reported in patients who received IBRANCE plus fulvestrant or placebo plus fulvestrant in Study 2 are listed in Table 6.</p>
+<p></p>
+<table border="1">
+    <thead>
+         <tr>
+            <td colspan="7" align="center">
+                <p><b>Table 6. Adverse Reactions (&ge;10%) in Study 2</b></p>
+            </td>
+        </tr>
+    </thead>
+</table>
+
+<p>Additional adverse reactions occurring at an overall incidence of  &lt;10.0% of patients receiving IBRANCE plus fulvestrant in Study 2 included asthenia (7.5%), aspartate aminotransferase increased (7.5%), dysgeusia (6.7%), epistaxis (6.7%), lacrimation increased (6.4%), dry skin (6.1%), alanine aminotransferase increased (5.8%), vision blurred (5.8%), dry eye (3.8%), and febrile neutropenia (0.9%).</p>
+<p></p>
+<table border="1">
+    <thead>
+         <tr>
+            <td colspan="7" align="center">
+                <p><b>Table 7. Laboratory Abnormalities in Study 2</b></p>
+            </td>
+        </tr>
+    </thead>
+</table>
+
+<p>Palbociclib is a yellow to orange powder with pKa of 7.4 (the secondary piperazine nitrogen) and 3.9 (the pyridine nitrogen). At or below pH 4, palbociclib behaves as a high-solubility compound. Above pH 4, the solubility of the drug substance reduces significantly.</p>
+
+<p>Inactive ingredients: Microcrystalline cellulose, lactose monohydrate, sodium starch glycolate, colloidal silicon dioxide, magnesium stearate, and hard gelatin capsule shells. The light orange, light orange/caramel, and caramel opaque capsule shells contain gelatin, red iron oxide, yellow iron oxide, and titanium dioxide; the printing ink contains shellac, titanium dioxide, ammonium hydroxide, propylene glycol and simethicone. </p>
+
 
 </div>"""
 
