@@ -17,6 +17,6 @@ Usage: #example
 * entry[0].resource = Prevenar-13-0.5-ml
 
 // Organization
-* entry[+].fullUrl = "Organization/organization-prevenar"
-* entry[=].resource = organization-prevenar
+* entry[+].fullUrl = "Organization/organization-prevenars"
+* entry[=].resource = organization-prevenars
  
