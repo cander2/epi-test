@@ -640,6 +640,156 @@ Usage: #example
 
 <p>Major efficacy results from Study 1 are summarized in Table 8 and Figure 1. Consistent results were observed across patient subgroups of disease-free interval (DFI), disease site, and prior therapy. The treatment effect of the combination on PFS was also supported by an independent review of radiographs. The overall survival (OS) data were not mature at the time of the final PFS analysis (20% of patients had died). Patients will continue to be followed for the final analysis. </p>
 
+<table border="1" >
+    
+<thead>
+<tr>
+            <td colspan="3" align="center">
+                <p><b> Table 8.	Efficacy Results – Study 1 (Investigator Assessment, Intent-to-Treat Population)</b></p>
+            </td>
+        </tr>
+</thead>
+
+
+
+<tbody>
+        <tr>
+            <td>
+            </td>
+            <td align="center">
+                <p>
+                    <b>IBRANCE plus Letrozole</b>
+                </p>
+            </td>
+            <td align="center">
+                <p >
+                    <b>Placebo</b>
+                </p>
+                <p>
+                    <b>plus Letrozole</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Progression-free survival for ITT
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    N=444
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    N=222
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Number of PFS events (%)
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    <b>194 (43.7)</b>
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    137 (61.7)
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    Median progression-free survival
+                </p>
+                <p>
+                    <b>(months, 95% CI)</b>
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    <b>24.8 (22.1, NE)</b>
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    <b>14.5 (12.9, 17.1)</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <p>
+                    Hazard ratio (95% CI) and p‑value
+                </p>
+            </td>
+            <td colspan="3" align="center">
+                <p>
+                    0.576 (0.463, 0.718), p&lt;0.0001
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p>
+                    <b>Objective Response for patients with</b>
+                </p>
+                <p>
+                    <b>measurable disease</b>
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    <b>N=338</b>
+                </p>
+            </td>
+            <td align="center">
+                <p> 
+                    <b>N=171</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <p>
+                    Objective response rate*    (%,95% CI)
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    55.3 (49.9, 60.7)
+                </p>
+            </td>
+            <td align="center">
+                <p>
+                    44.4 (36.9, 52.2)
+                </p>
+            </td>
+        </tr>
+</tbody>
+<tfoot>
+        <tr>
+            <td colspan="3">
+                <p>
+                    *Response based on confirmed responses.
+                </p>
+                <p>
+                    CI=confidence interval; N=number of patients;
+                    ITT=Intent-to-Treat; NE=not estimable.
+                </p>
+            </td>
+        </tr>
+</tfoot>
+</table>
+
+
 <p></p>
 
 <p><b><u>: Study 2: IBRANCE plus Fulvestrant</u></b></p>
