@@ -679,6 +679,46 @@ Usage: #example
 
 <p>Pharmacokinetics of IBRANCE have not been evaluated in patients &lt;18 years of age. </p>
 
+<p><b>Hepatic Impairment</b></p>
+
+<p>Data from a pharmacokinetic trial in subjects with varying degrees of hepatic impairment indicate that palbociclib unbound AUC<sub>INF</sub> decreased 17% in subjects with mild hepatic impairment (Child-Pugh class A), and increased by 34% and 77% in subjects with moderate (Child-Pugh class B) and severe (Child-Pugh class C) hepatic impairment, respectively, relative to subjects with normal hepatic function. Palbociclib unbound C<sub>max</sub> increased by 7%, 38% and 72% for mild, moderate and severe hepatic impairment, respectively, relative to subjects with normal hepatic function. In addition, based on a population pharmacokinetic analysis that included 183 patients, where 40 patients had mild hepatic impairment based on National Cancer Institute (NCI) classification (total bilirubin &le; ULN and AST > ULN, or total bilirubin >1.0 to 1.5 &times; ULN and any AST), mild hepatic impairment had no effect on the exposure of palbociclib, further supporting the findings from the dedicated hepatic impairment study. </p>
+
+<p><b>Renal Impairment</b></p>
+
+<p>Data from a pharmacokinetic trial in subjects with varying degrees of renal impairment indicate that palbociclib AUC<sub>INF</sub> increased by 39%, 42%, and 31% with mild (60 mL/min &le;CrCl &lt;90 mL/min), moderate (30 mL/min &le;CrCl &lt;60 mL/min), and severe (CrCl &lt;30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%, 12%, and 15% for mild, moderate, and severe renal impairment, respectively, relative to subjects with normal renal function. In addition, based on a population pharmacokinetic analysis that included 183 patients where 73 patients had mild renal impairment and 29 patients had moderate renal impairment, mild and moderate renal impairment had no effect on the exposure of palbociclib. The pharmacokinetics of palbociclib have not been studied in patients requiring hemodialysis. </p>
+
+<p><b>Asian Race</b></p>
+<p>In a pharmacokinetic study in healthy volunteers, palbociclib AUC<sub>INF</sub> and C<sub>max</sub> values were 30% and 35% higher, respectively, in Japanese subjects compared with non Asian subjects after a single oral dose. However, this finding was not reproduced consistently in subsequent studies in Japanese or Asian breast cancer patients after multiple dosing. Based on an analysis of the cumulative pharmacokinetic, safety and efficacy data across Asian and non-Asian populations, no dose adjustment based on Asian race is considered necessary. </p>
+
+<p><b>Drug Interactions</b></p>
+
+<p><i>In vitro</i>  data indicate that CYP3A and SULT enzyme SULT2A1 are mainly involved in the metabolism of palbociclib. Palbociclib is a weak time-dependent inhibitor of CYP3A following daily 125 mg dosing to steady state in humans. <i>In vitro</i>, palbociclib is not an inhibitor of CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, and 2D6, and is not an inducer of CYP1A2, 2B6, 2C8, and 3A4 at clinically relevant concentrations. </p>
+
+<p><i>CYP3A Inhibitors:</i>  Data from a drug interaction trial in healthy subjects (N=12) indicate that co-administration of multiple 200 mg daily doses of itraconazole with a single 125 mg IBRANCE dose increased palbociclib AUC<sub>INF</sub> and the C<sub>max</sub> by approximately 87% and 34%, respectively, relative to a single 125 mg IBRANCE dose given alone [<i>see Drug Interactions (7.1) /i>]. </p>
+
+<p><i>CYP3A Inducers:</i> Data from a drug interaction trial in healthy subjects (N=15) indicate that co-administration of multiple 600 mg daily doses of rifampin, a strong CYP3A inducer, with a single 125 mg IBRANCE dose decreased palbociclib AUC<sub>INF</sub> and C<sub>max</sub> by 85% and 70%, respectively, relative to a single 125 mg IBRANCE dose given alone. Data from a drug interaction trial in healthy subjects (N=14) indicate that co-administration of multiple 400 mg daily doses of modafinil, a moderate CYP3A inducer, with a single 125 mg IBRANCE dose decreased palbociclib AUC<sub>INF</sub> and C<sub>max</sub> by 32% and 11%, respectively, relative to a single 125 mg IBRANCE dose given alone [see Drug Interactions (7.2)]. </p>
+
+<p><i>CYP3A Substrates:</i> Palbociclib is a weak time-dependent inhibitor of CYP3A following daily 125 mg dosing to steady state in humans. In a drug interaction trial in healthy subjects (N=26), co-administration of midazolam with multiple doses of IBRANCE increased the midazolam AUC<sub>INF</sub> and the C<sub>max</sub> values by 61% and 37%, respectively, as compared to administration of midazolam alone. [see Drug Interactions (7.3)]. </p>
+
+<p><i>Gastric pH Elevating Medications: </i> In a drug interaction trial in healthy subjects, co-administration of a single 125 mg dose of IBRANCE with multiple doses of the proton pump inhibitor (PPI) rabeprazole under fed conditions decreased palbociclib C<sub>max</sub> by 41%, but had limited impact on AUC<sub>INF</sub> (13% decrease), when compared to a single dose of IBRANCE administered alone. Given the reduced effect on gastric pH of H2 receptor antagonists and local antacids compared to PPIs, the effect of these classes of acid-reducing agents on palbociclib exposure under fed conditions is expected to be minimal. Under fed conditions there is no clinically relevant effect of PPIs, H2-receptor antagonists, or local antacids on palbociclib exposure. In another healthy subject study, co-administration of a single dose of IBRANCE with multiple doses of the PPI rabeprazole under fasted conditions decreased palbociclib AUC<sub>INF</sub> and C<sub>max</sub> by 62% and 80%, respectively, when compared to a single dose of IBRANCE administered alone. </p>
+
+<p><i>Letrozole: </i> Data from a clinical trial in patients with breast cancer showed that there was no drug interaction between palbociclib and letrozole when the 2 drugs were co-administered. </p>
+
+<p><i>Fulvestrant: </i> Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction between palbociclib and fulvestrant when the 2 drugs were coadministered. </p>
+
+<p><i>Goserelin: </i> Data from a clinical trial in patients with breast cancer showed that there was no clinically relevant drug interaction between palbociclib and goserelin when the 2 drugs were coadministered. </p>
+
+<p><i>Anastrozole or exemestane:</i> No clinical data are available to evaluate drug interactions between anastrozole or exemestane and palbociclib. A clinically significant drug interaction between anastrozole or exemestane and palbociclib is not expected based on analyses of the effects of anastrozole, exemestane and palbociclib on or by metabolic pathways or transporter systems.</p>
+
+<p><i>Effect of Palbociclib on Transporters: In vitro</i> evaluations indicated that palbociclib has a low potential to inhibit the activities of drug transporters organic anion transporter (OAT)1, OAT3, organic cation transporter (OCT)2 and organic anion transporting polypeptide (OATP)1B1, OATP1B3 at clinically relevant concentrations. <i>In vitro</i>, palbociclib has the potential to inhibit OCT1 at clinically relevant concentrations, as well as the potential to inhibit P-glycoprotein (P-gp) or breast cancer resistance protein (BCRP) in the gastrointestinal tract at the proposed dose. </p>
+
+<p><i>Effect of Transporters on Palbociclib:</i> Based on <i>in vitro</i> data, P-gp and BCRP mediated transport are unlikely to affect the extent of oral absorption of palbociclib at therapeutic doses. </p>
+
+<p><b>Preclinical safety data</b></p>
+
+<p>The primary target organ findings following single and/or repeat dosing included hematolymphopoietic and male reproductive organ effects in rats and dogs, and effects on bone and actively growing incisors in rats only. These systemic toxicities were generally observed at clinically relevant exposures based on AUC. Partial to full reversal of effects on the hematolymphopoietic, male reproductive systems, and incisor teeth were established, whereas the bone effect was not reversed following a 12-week nondosing period. In addition, cardiovascular effects (QTc prolongation, decreased heart rate, and increased RR interval and systolic blood pressure) were identified in telemetered dogs at &ge;4 times human clinical exposure based on C<sub>max</sub>.</p>
+
+
 
   </div>"""
 
