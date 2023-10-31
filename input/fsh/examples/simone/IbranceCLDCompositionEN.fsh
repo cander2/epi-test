@@ -559,6 +559,9 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
 <p>IBRANCE capsules for oral administration contain 125 mg, 100 mg, or 75 mg of palbociclib, a kinase inhibitor. The molecular formula for palbociclib is C<sub>24</sub>H<sub>29</sub>N<sub>7</sub>O<sub>2</sub>. The molecular weight is 447.54 daltons. The chemical name is 6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-<i>d</i>]pyrimidin-7(8<i>H</i>)-one, and its structural formula is:</p>
+<p></p>
+<p>Palbociclib is a yellow to orange powder with pKa of 7.4 (the secondary piperazine nitrogen) and 3.9 (the pyridine nitrogen). At or below pH 4, palbociclib behaves as a high-solubility compound. Above pH 4, the solubility of the drug substance reduces significantly.</p>
+<p>Inactive ingredients: Microcrystalline cellulose, lactose monohydrate, sodium starch glycolate, colloidal silicon dioxide, magnesium stearate, and hard gelatin capsule shells. The light orange, light orange/caramel, and caramel opaque capsule shells contain gelatin, red iron oxide, yellow iron oxide, and titanium dioxide; the printing ink contains shellac, titanium dioxide, ammonium hydroxide, propylene glycol and simethicone. </p>
 
 
   </div>"""
@@ -577,6 +580,12 @@ Usage: #example
   * code.text = "11.1	Mechanism of Action"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p>Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. <i>In vitro</i>, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle. Treatment of breast cancer cell lines with the combination of palbociclib and antiestrogens leads to decreased retinoblastoma (Rb) protein phosphorylation resulting in reduced E2F expression and signaling and increased growth arrest compared to treatment with each drug alone. <i>In vitro</i> treatment of ER positive breast cancer cell lines with the combination of palbociclib and antiestrogens led to increased cell senescence compared to each drug alone, which was sustained for up to 6 days following palbociclib removal and was greater if antiestrogen treatment was continued. In vivo studies using a patient derived ER-positive breast cancer xenograft model demonstrated that the combination of palbociclib and letrozole increased the inhibition of Rb phosphorylation, downstream signaling, and tumor growth compared to each drug alone. </p>
+
+<p>Human bone marrow mononuclear cells treated with palbociclib in the presence or absence of an anti estrogen <i>in vitro</i> did not become senescent and resumed proliferation following palbociclib withdrawal. </p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
@@ -585,6 +594,11 @@ Usage: #example
   * code.text = "11.2	Pharmacodynamics"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><b>Cardiac Electrophysiology</b></p>
+<p>The effect of palbociclib on the QT interval corrected for heart rate (QTc) was evaluated using time matched electrocardiograms (ECGs) evaluating the change from baseline and corresponding pharmacokinetic data in 77 patients with breast cancer. Palbociclib had no large effect on QTc (i.e., >20 ms) at 125 mg once daily for 21 consecutive days followed by 7 days off treatment to comprise a complete cycle of 28 days. </p>
+
+
   </div>"""
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
