@@ -681,21 +681,21 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p><u>Myelosuppression&sol;Infection</p></u>
+<p><u>Myelosuppression&sol;Infection</u></p>
 <ul>
 
 <li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [see Warnings and Precautions (5.1)].</li>
 
 </ul>
 
-<p><u>Interstitial Lung Disease&sol;Pneumonitis</p></u>
+<p><u>Interstitial Lung Disease&sol;Pneumonitis</u></p>
 <ul>
 
 <li>Advise patients to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)]. </li>
 </ul>
 
 
-<p><u>Drug Interactions</p></u>
+<p><u>Drug Interactions</u></p>
 <ul>
 
 	<li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit products while on treatment with IBRANCE. </li>
@@ -704,7 +704,7 @@ Usage: #example
 </ul>
 
 
-<p><u>Dosing and Administration</p></u>
+<p><u>Dosing and Administration</u></p>
 
 	<ul>
 	<li>Advise patients to take IBRANCE with food. </li>
@@ -712,7 +712,7 @@ Usage: #example
 	</ul>
 	
 
-<p><u>Pregnancy, Lactation, and Fertility</p></u>
+<p><u>Pregnancy, Lactation, and Fertility</u></p>
 <ul>
 
 	<li>Embryo-Fetal Toxicity</li>
