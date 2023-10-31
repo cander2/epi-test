@@ -591,6 +591,13 @@ Usage: #example
   * code.text = "11.3	Pharmacokinetics"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p>The pharmacokinetics (PK) of palbociclib were characterized in patients with solid tumors including advanced breast cancer and in healthy subjects. </p>
+
+<p><b>Absorption</b></p>
+
+<p>The mean maximum observed concentration (C<sub>max</sub>) of palbociclib is generally observed between 6 to 12 hours (time to reach maximum concentration, T<sub>max</sub>) following oral administration. The mean absolute bioavailability of IBRANCE after an oral 125 mg dose is 46%. In the dosing range of 25 mg to 225 mg, the AUC and C<sub>max</sub> increased proportionally with dose in general. Steady state was achieved within 8 days following repeated once daily dosing. With repeated once daily administration, palbociclib accumulated with a median accumulation ratio of 2.4 (range 1.5 to 4.2). </p>
+
+
 
   </div>"""
 
