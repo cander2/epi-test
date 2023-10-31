@@ -635,7 +635,23 @@ Usage: #example
 <p>Patients enrolled in this study had a median age of 62 years (range 28 to 89). The majority of patients were White (78%) and most patients had an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 (98%). Forty-eight percent of patients had received chemotherapy and 56% had received antihormonal therapy in the neoadjuvant or adjuvant setting prior to their diagnosis of advanced breast cancer. Thirty seven percent of patients had no prior systemic therapy in the neoadjuvant or adjuvant setting. The majority of patients (97%) had metastatic disease. Twenty three percent of patients had bone only disease and 49% of patients had visceral disease. </p>
 
 <p>Major efficacy results from Study 1 are summarized in Table 8 and Figure 1. Consistent results were observed across patient subgroups of disease-free interval (DFI), disease site, and prior therapy. The treatment effect of the combination on PFS was also supported by an independent review of radiographs. The overall survival (OS) data were not mature at the time of the final PFS analysis (20% of patients had died). Patients will continue to be followed for the final analysis. </p>
-  </div>"""
+
+<p></p>
+
+<p><b><u>: Study 2: IBRANCE plus Fulvestrant</u></b></p>
+
+<p><b>Patients with HR positive, HER2 negative advanced or metastatic breast cancer who have had disease progression on or after prior adjuvant or metastatic endocrine therapy</b></p>
+
+<p>Study 2 (PALOMA-3) was an international, randomized, double-blind, parallel group, multicenter study of IBRANCE plus fulvestrant versus placebo plus fulvestrant conducted in women with HR positive, HER2 negative advanced breast cancer, regardless of their menopausal status, whose disease progressed on or after prior endocrine therapy. A total of 521 pre/postmenopausal women were randomized 2:1 to IBRANCE plus fulvestrant or placebo plus fulvestrant and stratified by documented sensitivity to prior hormonal therapy, menopausal status at study entry (pre/peri versus postmenopausal), and presence of visceral metastases. IBRANCE was given orally at a dose of 125 mg daily for 21 consecutive days followed by 7 days off treatment. Pre/perimenopausal women were enrolled in the study and received the LHRH agonist goserelin for at least 4 weeks prior to and for the duration of Study 2. Patients continued to receive assigned treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first. The major efficacy outcome of the study was investigator assessed PFS evaluated according to RECIST 1.1. </p>
+
+<p>Patients enrolled in this study had a median age of 57 years (range 29 to 88). The majority of patients on study were White (74%), all patients had an ECOG PS of 0 or 1, and 80% were postmenopausal. All patients had received prior systemic therapy, and 75% of patients had received a previous chemotherapy regimen. Twenty five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease. </p>
+
+<p>The results from the investigator-assessed PFS and final OS from Study 2 are summarized in Table 9. The relevant Kaplan-Meier plots are shown in Figures 2 and 3, respectively. Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status. After a median follow-up time of 45 months, the final OS results were not statistically significant. </p>
+
+
+
+
+</div>"""
 
 * section[+]
   * title = "14	HOW SUPPLIED/STORAGE AND HANDLING"
@@ -643,6 +659,11 @@ Usage: #example
   * code.text = "14	HOW SUPPLIED/STORAGE AND HANDLING"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p>IBRANCE is supplied in the following strengths and package configurations:</p>
+<p></p>
+<p>Storage condition: Store below 30&deg;C</p>
+<p>Some product strengths or pack sizes may not be available in your country.</p>
+
   </div>"""
 
 * section[+]
@@ -651,4 +672,60 @@ Usage: #example
   * code.text = "15	PATIENT COUNSELING INFORMATION"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><u>Myelosuppression/Infection</p></u>
+<ul>
+
+<li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [see Warnings and Precautions (5.1)].</li>
+
+</ul>
+
+<p><u>Interstitial Lung Disease/Pneumonitis</p></u>
+<ul>
+
+<li>Advise patients to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)]. </li>
+</ul>
+
+
+<p><u>Drug Interactions</p></u>
+<ul>
+
+	<li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit products while on treatment with IBRANCE. </li>
+	<li>Inform patients to avoid strong CYP3A inhibitors and strong CYP3A inducers. </li>
+	<li>Advise patients to inform their health care providers of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)]. </li>
+</ul>
+
+
+<p><u>Dosing and Administration</p></u>
+
+	<ul>
+	<li>Advise patients to take IBRANCE with food. </li>
+	<li>If the patient vomits or misses a dose, an additional dose should not be taken. The next prescribed dose should be taken at the usual time. IBRANCE capsules should be swallowed whole (do not chew, crush or open them prior to swallowing). No capsule should be ingested if it is broken, cracked, or otherwise not intact. </li>
+	</ul>
+	
+
+<p><u>Pregnancy, Lactation, and Fertility</p></u>
+<ul>
+
+	<li>Embryo-Fetal Toxicity</li>
+	<ul>
+	<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)].</li>
+	<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [see Use in Specific Populations (8.3)].</li>
+	</ul>
+
+	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)]. </li>
+	</ul>
+
+
+<p><b>Manufacturing address:</p></b>
+
+<p>Pfizer Manufacturing Deutschland, GmBH, </p>
+<p>Freiburg, Germany. </p>
+<p>Pfizer Manufacturing Deutschland, GmBH, </p>
+<p>Freiburg, Germany. </p>
+
+<p><b>Date of Revision: 04 AUG 2020</p></b>
+<p><b>Ibrance-0820</p></b>
+
+
   </div>"""
