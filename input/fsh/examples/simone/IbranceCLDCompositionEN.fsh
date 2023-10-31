@@ -390,6 +390,196 @@ Usage: #example
             </td>
         </tr>
     </thead>
+
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>Grading according to CTCAE 4.0.</p>
+                <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable.</p>
+                <p><sup>a</sup>	Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
+                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, bronchitis, rhinitis, influenza, conjunctivitis, sinusitis, pneumonia, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia.</p>
+                <p><sup>c</sup>	Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis.</p>
+                <p><sup>d</sup>	Grade 1 events &ndash; 17%; Grade 2 events &ndash; 1%.</p>
+                <p><sup>e</sup>	Grade 1 events &ndash; 6%.</p>
+                <p><sup>f</sup>	Rash includes: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption.</p>
+            </td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <th rowspan="3"><b><p>Adverse Reaction</p></b></th>
+            <th colspan="3" align="center">
+                <p><b>IBRANCE plus Fulvestrant</b></p>
+                <p><b>(N=345)</b></p>
+            </th>
+            <th colspan="3" align="center">
+                <p><b>Placebo plus Fulvestrant</b></p>
+                <p><b>(N=172)</b></p>
+            </th>
+        </tr>
+        <tr>
+            <th align="center"><p><b>All Grades</b></p></th>
+            <th align="center"><p><b>Grade 3</b></p></th>
+            <th align="center"><p><b>Grade 4</b></p></th>
+            <th align="center"><p><b>All Grades</b></p></th>
+            <th align="center"><p><b>Grade 3</b></p></th>
+            <th align="center"><p><b>Grade 4</b></p></th>
+        </tr>
+        <tr>
+            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p></p><b>%</b></p></th>
+        </tr>
+        <tr>
+            <td colspan="7"><p>Infections and infestations</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Infections<sup>a</sup></p></td>
+            <td><p>47<sup>a</sup></p></td>
+            <td><p>3</p></td>
+            <td><p>1</p></td>
+            <td><p>31</p></td>
+            <td><p>3</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr>
+            <td colspan="7"><p>Blood and lymphatic system disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Neutropenia</p></td>
+            <td><p>83</p></td>
+            <td><p>55</p></td>
+            <td><p>11</p></td>
+            <td><p>4</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Leukopenia</p></td>
+            <td><p>53</p></td>
+            <td><p>30</p></td>
+            <td><p>1</p></td>
+            <td><p>5</p></td>
+            <td><p>1</p></td>
+            <td><p>1</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Anemia</p></td>
+            <td><p>30</p></td>
+            <td><p>4</p></td>
+            <td><p>0</p></td>
+            <td><p>13</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Thrombocytopenia</p></td>
+            <td><p>23</p></td>
+            <td><p>2</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr>
+            <td colspan="7"><p>Metabolism and nutrition disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Decreased appetite</p></td>
+            <td><p>16</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>8</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr>
+            <td colspan="7"><p>Gastrointestinal disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Nausea</p></td>
+            <td><p>34</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+            <td><p>28</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Stomatitis<sup>c</sup></p></td>
+            <td><p>28</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>13</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Diarrhea</p></td>
+            <td><p>24</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+            <td><p>19</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Vomiting</p></td>
+            <td><p>19</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>15</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr>
+            <td colspan="7"><p>Skin and subcutaneous tissue disorders</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Alopecia</p></td>
+            <td><p>18</p></td>
+            <td><p>N/A</p></td>
+            <td><p>N/A</p></td>
+            <td><p>6<sup>e</sup></p></td>
+            <td><p>N/A</p></td>
+            <td><p>N/A</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Rash<sup>f</sup></p></td>
+            <td><p>17</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+            <td><p>6</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr>
+            <td colspan="7"><p>General disorders and administration site conditions</p></td>
+        </tr>
+        <tr align="center">
+            <td><p>Fatigue</p></td>
+            <td><p>41</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>
+            <td><p>29</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td><p>Pyrexia</p></td>
+            <td><p>13</p></td>
+            <td><p> &lt;1</p></td>
+            <td><p>0</p></td>
+            <td><p>5</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+    </tbody>
+
+
 </table>
 
 <p>Additional adverse reactions occurring at an overall incidence of  &lt;10.0% of patients receiving IBRANCE plus fulvestrant in Study 2 included asthenia (7.5%), aspartate aminotransferase increased (7.5%), dysgeusia (6.7%), epistaxis (6.7%), lacrimation increased (6.4%), dry skin (6.1%), alanine aminotransferase increased (5.8%), vision blurred (5.8%), dry eye (3.8%), and febrile neutropenia (0.9%).</p>
