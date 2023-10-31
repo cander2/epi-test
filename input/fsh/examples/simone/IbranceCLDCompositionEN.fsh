@@ -234,7 +234,7 @@ Usage: #example
 * section[+]
   * title = "3. DOSAGE FORMS AND STRENGTHS"
   * code = https://www.mhra.gov.uk/#999999929796
-  * code.text = "3. PHARMACEUTICAL FORM"
+  * code.text = "3. DOSAGE FORMS AND STRENGTHS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
@@ -243,6 +243,15 @@ Usage: #example
 <p>75 mg capsules: opaque hard gelatin capsules, size 2, with light orange cap and body, printed with white ink “Pfizer” on the cap, “PBC 75” on the body.</p>
 
 
+  </div>"""
+
+* section[+]
+  * title = "4. CONTRAINDICATIONS"
+  * code = https://www.mhra.gov.uk/#999999929828
+  * code.text = "4. CONTRAINDICATIONS"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p>None.</p>
   </div>"""
 
 * section[+]
