@@ -617,6 +617,10 @@ Usage: #example
 
 <p><i>In vitro</i> and <i>in vivo</i> studies indicated that palbociclib undergoes hepatic metabolism in humans. Following oral administration of a single 125 mg dose of [<sup>14</sup>C]palbociclib to humans, the primary metabolic pathways for palbociclib involved oxidation and sulfonation, with acylation and glucuronidation contributing as minor pathways. Palbociclib was the major circulating drug-derived entity in plasma (23%). The major circulating metabolite was a glucuronide conjugate of palbociclib, although it only represented 1.5% of the administered dose in the excreta. Palbociclib was extensively metabolized with unchanged drug accounting for 2.3% and 6.9% of radioactivity in feces and urine, respectively. In feces, the sulfamic acid conjugate of palbociclib was the major drug-related component, accounting for 26% of the administered dose. In vitro studies with human hepatocytes, liver cytosolic and S9 fractions, and recombinant SULT enzymes indicated that CYP3A and SULT2A1 are mainly involved in the metabolism of palbociclib. </p>
 
+<p><b>Elimination</b></p>
+
+<p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (&plusmn; standard deviation) plasma elimination half-life was 29 (&plusmn;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
+
 
   </div>"""
 
@@ -677,14 +681,14 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
-<p><u>Myelosuppression/Infection</p></u>
+<p><u>Myelosuppression&sol;Infection</p></u>
 <ul>
 
 <li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [see Warnings and Precautions (5.1)].</li>
 
 </ul>
 
-<p><u>Interstitial Lung Disease/Pneumonitis</p></u>
+<p><u>Interstitial Lung Disease&sol;Pneumonitis</p></u>
 <ul>
 
 <li>Advise patients to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)]. </li>
@@ -713,12 +717,13 @@ Usage: #example
 
 	<li>Embryo-Fetal Toxicity</li>
 	<ul>
-	<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)].</li>
-	<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [see Use in Specific Populations (8.3)].</li>
+		<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)].</li>
+		<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [see Use in Specific Populations (8.3)].</li>
 	</ul>
 
 	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)]. </li>
-	</ul>
+
+</ul>
 
 
 <p><b>Manufacturing address:</p></b>
