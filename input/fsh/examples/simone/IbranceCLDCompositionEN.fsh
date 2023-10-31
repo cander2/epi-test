@@ -402,6 +402,103 @@ Usage: #example
             </td>
         </tr>
     </thead>
+        <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>N=number of patients; WBC=white blood cells.</p>
+            </td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <th rowspan="2"><p><b>Laboratory Abnormality</b></p></th>
+            <th style="font-weight: normal;" colspan="3" align="center">
+                <p>IBRANCE plus Fulvestrant</p>
+                <p>(N=345)</p>
+            </th>
+            <th style="font-weight: normal;" colspan="3" align="center">
+                <p>Placebo plus Fulvestrant</p>
+                <p>(N=172)</p>
+            </th>
+        </tr>
+        <tr>
+            <th align="center">
+                <p><b>All Grades %</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3 %</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4 %</b></p>
+            </th>
+            <th align="center">
+                <p><b>All Grades %</b></p>
+           
+            </th>
+            <th align="center">
+                <p><b>Grade 3 %</b></p>
+                
+            </th>
+            <th align="center">
+                <p><b>Grade 4 %</b></p>
+            </th>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>WBC decreased</p></td>
+            <td><p>99</p></td>
+            <td><p>45</p></td>
+            <td><p>1</p></td>
+            <td><p>26</p></td>
+            <td><p>0</p></td>
+            <td><p>1</p></td>  
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Neutrophils decreased</p></td>
+            <td><p>96</p></td>
+            <td><p>56</p></td>
+            <td><p>11</p></td>
+            <td><p>14</p></td>
+            <td><p>0</p></td>
+            <td><p>1</p></td>  
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Anemia</p></td>
+            <td><p>78</p></td>
+            <td><p>3</p></td>
+            <td><p>0</p></td>
+            <td><p>40</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Platelets decreased</p></td>
+            <td><p>62</p></td>
+            <td><p>2</p></td>
+            <td><p>1</p></td>
+            <td><p>10</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Aspartate aminotransferase increased</p></td>
+            <td><p>43</p></td>
+            <td><p>4</p></td>
+            <td><p>0</p></td>
+            <td><p>48</p></td>
+            <td><p>4</p></td>
+            <td><p>0</p></td>  
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Alanine aminotransferase increased</p></td>
+            <td><p>36</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>
+            <td><p>34</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>  
+        </tr>
+    </tbody>
+
 </table>
 
 <p>Palbociclib is a yellow to orange powder with pKa of 7.4 (the secondary piperazine nitrogen) and 3.9 (the pyridine nitrogen). At or below pH 4, palbociclib behaves as a high-solubility compound. Above pH 4, the solubility of the drug substance reduces significantly.</p>
