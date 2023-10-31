@@ -627,7 +627,7 @@ Usage: #example
 
 <p><b>Pediatric Population</b></p>
 
-<p>Pharmacokinetics of IBRANCE have not been evaluated in patients <18 years of age. </p>
+<p>Pharmacokinetics of IBRANCE have not been evaluated in patients &lt;18 years of age. </p>
 
 
   </div>"""
