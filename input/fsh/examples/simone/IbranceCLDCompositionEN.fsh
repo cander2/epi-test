@@ -30,8 +30,8 @@ Usage: #example
 <p>Country: Malaysia</p>
 <p>Reference Documents: CDS V. 13.0 dated 01 August 2019; USPI Dated 13 September 2019.</p>
 <p>Reason for change: BoH request to align to USPI and to follow USPI format</p>
-<h1 style="text&hyphen;align:center;">IBRANCE CAPSULES</h1>
-<h2 style="text&hyphen;align:center;">Palbociclib 75 mg, 100 mg and 125 mg</h2>
+<h1 style="text-align:center;">IBRANCE CAPSULES</h1>
+<h2 style="text-align:center;">Palbociclib 75 mg, 100 mg and 125 mg</h2>
 <p><b>FULL PRESCRIBING INFORMATION</b></p>
   </div>"""
 
