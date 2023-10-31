@@ -345,22 +345,6 @@ Usage: #example
             </td>
         </tr>
     </thead>
-
-<tfoot>
-        <tr>
-            <td colspan="7">
-                //<p>Grading according to CTCAE 4.0.</p>
-                //<p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable; </p>
-                //<p><sup>a</sup> Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
-                //<p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
-                //<p><sup>c</sup> Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
-                //<p><sup>d</sup>	Grade 1 events &ndash; 30%; Grade 2 events &ndash; 3%.</p>
-                //<p><sup>e</sup> Grade 1 events &ndash; 15%; Grade 2 events &ndash; 1%.</p>
-                //<p><sup>f</sup>	Rash includes the following PTs: rash, rash maculo&hyphen;papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
-            </td>
-        </tr>
-    </tfoot>
-
    
 </table>
 
@@ -706,6 +690,18 @@ Usage: #example
   * code.text = "13	CLINICAL STUDIES"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+
+<p><b>Study 1<u>: IBRANCE plus Letrozole</u></b></p>
+
+<p><b>Patients with ER positive, HER2 negative advanced or metastatic breast cancer for initial endocrine based therapy</b></p>
+
+<p>Study 1 (PALOMA-2) was an international, randomized, double-blind, parallel-group, multicenter study of IBRANCE plus letrozole versus placebo plus letrozole conducted in postmenopausal women with ER-positive, HER2-negative advanced breast cancer who had not received previous systemic treatment for their advanced disease. A total of 666 patients were randomized 2:1 to IBRANCE plus letrozole or placebo plus letrozole. Randomization was stratified by disease site (visceral versus non-visceral), disease free interval (<i>de novo</i> metastatic versus &leq;12 months from the end of adjuvant treatment to disease recurrence versus >12 months from the end of adjuvant treatment to disease recurrence), and nature of prior (neo)adjuvant anticancer therapies (prior hormonal therapies versus no prior hormonal therapy). IBRANCE was given orally at a dose of 125 mg daily for 21 consecutive days followed by 7 days off treatment. Patients received study treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first. The major efficacy outcome of the study was investigator-assessed progression free survival (PFS) evaluated according to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST).</p>
+
+<p>Patients enrolled in this study had a median age of 62 years (range 28 to 89). The majority of patients were White (78%) and most patients had an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 (98%). Forty-eight percent of patients had received chemotherapy and 56% had received antihormonal therapy in the neoadjuvant or adjuvant setting prior to their diagnosis of advanced breast cancer. Thirty seven percent of patients had no prior systemic therapy in the neoadjuvant or adjuvant setting. The majority of patients (97%) had metastatic disease. Twenty three percent of patients had bone only disease and 49% of patients had visceral disease. </p>
+
+<p>Major efficacy results from Study 1 are summarized in Table 8 and Figure 1. Consistent results were observed across patient subgroups of disease-free interval (DFI), disease site, and prior therapy. The treatment effect of the combination on PFS was also supported by an independent review of radiographs. The overall survival (OS) data were not mature at the time of the final PFS analysis (20% of patients had died). Patients will continue to be followed for the final analysis. </p>
+
+
   </div>"""
 
 * section[+]
