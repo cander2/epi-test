@@ -18,6 +18,7 @@ Usage: #example
 * title = "SmPCtemplate" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
 
+
 * section[+]
   * title = "Cover Page"
   * code = https://www.mhra.gov.uk/#999999929791
