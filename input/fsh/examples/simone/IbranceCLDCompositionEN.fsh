@@ -260,7 +260,7 @@ Usage: #example
   * code.text = "4. CONTRAINDICATIONS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>None. TEXT IF SECTION 4 CAN APPEAR</p>
+    <p>None.</p>
   </div>"""
 
 
@@ -621,6 +621,14 @@ Usage: #example
 
 <p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (&plusmn; standard deviation) plasma elimination half-life was 29 (&plusmn;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
 
+<p><b>Age, Gender, and Body Weight</b></p>
+
+<p>Based on a population pharmacokinetic analysis in 183 patients with cancer (50 male and 133 female patients, age range from 22 to 89 years, and body weight range from 37.9 to 123 kg), gender had no effect on the exposure of palbociclib, and age and body weight had no clinically important effect on the exposure of palbociclib. </p>
+
+<p><b>Pediatric Population</b></p>
+
+<p>Pharmacokinetics of IBRANCE have not been evaluated in patients <18 years of age. </p>
+
 
   </div>"""
 
@@ -792,7 +800,7 @@ Usage: #example
 
 <p></p>
 
-<p><b><u>: Study 2: IBRANCE plus Fulvestrant</u></b></p>
+<p><b><u>Study 2: IBRANCE plus Fulvestrant</u></b></p>
 
 <p><b>Patients with HR positive, HER2 negative advanced or metastatic breast cancer who have had disease progression on or after prior adjuvant or metastatic endocrine therapy</b></p>
 
