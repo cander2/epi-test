@@ -618,7 +618,7 @@ Usage: #example
 
 <p><b>Elimination</b></p>
 
-<p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (&plusmn; standard deviation) plasma elimination half-life was 29 (&plusmn;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
+<p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (+-; standard deviation) plasma elimination half-life was 29 (+-;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
 
 <p><b>Age, Gender, and Body Weight</b></p>
 
