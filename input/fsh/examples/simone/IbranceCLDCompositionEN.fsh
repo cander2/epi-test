@@ -733,8 +733,8 @@ Usage: #example
 <p>Pfizer Manufacturing Deutschland, GmBH, </p>
 <p>Freiburg, Germany. </p>
 
-<p><b>Date of Revision: 04 AUG 2020</p></b>
-<p><b>Ibrance-0820</p></b>
+<p><b>Date of Revision: 04 AUG 2020</b></p>
+<p><b>Ibrance-0820</b></p>
 
 
   </div>"""
