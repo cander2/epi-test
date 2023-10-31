@@ -701,10 +701,15 @@ Usage: #example
   * code.text = "13	CLINICAL STUDIES"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p><b>Study 1<u>: IBRANCE plus Letrozole</u></b></p>
 
+<p><b>Patients with ER positive, HER2 negative advanced or metastatic breast cancer for initial endocrine based therapy</b></p>
 
+<p>Study 1 (PALOMA-2) was an international, randomized, double-blind, parallel-group, multicenter study of IBRANCE plus letrozole versus placebo plus letrozole conducted in postmenopausal women with ER-positive, HER2-negative advanced breast cancer who had not received previous systemic treatment for their advanced disease. A total of 666 patients were randomized 2:1 to IBRANCE plus letrozole or placebo plus letrozole. Randomization was stratified by disease site (visceral versus non-visceral), disease free interval (<i>de novo</i> metastatic versus &le;12 months from the end of adjuvant treatment to disease recurrence versus >12 months from the end of adjuvant treatment to disease recurrence), and nature of prior (neo)adjuvant anticancer therapies (prior hormonal therapies versus no prior hormonal therapy). IBRANCE was given orally at a dose of 125 mg daily for 21 consecutive days followed by 7 days off treatment. Patients received study treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first. The major efficacy outcome of the study was investigator-assessed progression free survival (PFS) evaluated according to Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST).</p>
 
+<p>Patients enrolled in this study had a median age of 62 years (range 28 to 89). The majority of patients were White (78%) and most patients had an Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 (98%). Forty-eight percent of patients had received chemotherapy and 56% had received antihormonal therapy in the neoadjuvant or adjuvant setting prior to their diagnosis of advanced breast cancer. Thirty seven percent of patients had no prior systemic therapy in the neoadjuvant or adjuvant setting. The majority of patients (97%) had metastatic disease. Twenty three percent of patients had bone only disease and 49% of patients had visceral disease. </p>
 
+<p>Major efficacy results from Study 1 are summarized in Table 8 and Figure 1. Consistent results were observed across patient subgroups of disease-free interval (DFI), disease site, and prior therapy. The treatment effect of the combination on PFS was also supported by an independent review of radiographs. The overall survival (OS) data were not mature at the time of the final PFS analysis (20% of patients had died). Patients will continue to be followed for the final analysis. </p>
   </div>"""
 
 * section[+]
