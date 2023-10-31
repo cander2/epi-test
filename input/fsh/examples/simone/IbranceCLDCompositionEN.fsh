@@ -310,12 +310,6 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 
 <p>Based on findings from animal studies and its mechanism of action, IBRANCE can cause fetal harm, when administered to a pregnant woman. In animal reproduction studies, administration of palbociclib to pregnant rats and rabbits during organogenesis resulted in embryo-fetal toxicity at maternal exposures that were &ge;4 times the human clinical exposure based on area under the curve (AUC). Advise pregnant women of the potential risk to a fetus. Advise females of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 weeks after the last dose [<i>see Use in Specific Populations (8.1 and 8.3) and Clinical Pharmacology (11.1)</i>].</p>
-<p><b>6 ADVERSE REACTIONS</b></p>
-<p>The following clinically significant adverse reactions are  described elsewhere in the labeling:</p>
-<ul>
-    <li>Neutropenia [<i>see Warnings and Precautions (5.1)</i>]</li>
-    <li>ILD/Pneumonitis [<i>see Warnings and Precautions (5.2)</i>]</li>
-</ul>
 
   </div>"""
 
@@ -326,6 +320,11 @@ Usage: #example
   * code.text = "6. ADVERSE REACTIONS"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+<p>The following clinically significant adverse reactions are  described elsewhere in the labeling:</p>
+<ul>
+    <li>Neutropenia [<i>see Warnings and Precautions (5.1)</i>]</li>
+    <li>ILD/Pneumonitis [<i>see Warnings and Precautions (5.2)</i>]</li>
+</ul>
   </div>"""
 
 
