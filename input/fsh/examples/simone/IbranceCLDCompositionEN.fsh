@@ -726,7 +726,7 @@ Usage: #example
 </ul>
 
 
-<p><b>Manufacturing address:</p></b>
+<p><b>Manufacturing address:</b></p>
 
 <p>Pfizer Manufacturing Deutschland, GmBH, </p>
 <p>Freiburg, Germany. </p>
