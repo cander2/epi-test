@@ -117,6 +117,6 @@ Usage: #example
     <p><u><i>-  How much to use</i></u></p>
     <p>Follow all directions given to you by your doctor and pharmacist carefully. They may differ from the information contained in this leaflet. If you do not understand the instructions on the label, ask your doctor or pharmacist for help.</p>
     <p>Take one capsule of Ibrance 125 mg orally once a day for 21 consecutive days, followed by 7 days without Ibrance. Your doctor may adjust your dose as needed and tolerated.</p>
-
+    <p>
 
    </div>""" 
