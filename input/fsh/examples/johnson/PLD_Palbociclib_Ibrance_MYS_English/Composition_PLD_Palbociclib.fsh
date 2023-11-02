@@ -1,7 +1,7 @@
-Instance: Composition-PLD-Palbociclib
+Instance: PLD-Palbociclib-Ibrance-MYS-English
 InstanceOf: CompositionUvEpi
-Title: "Master Gulf and Levant- Prevenar 13 0.5 ml- PLD Jordan"
-Description:  "Test for create Prevenar"
+Title: "PLD Palbociclib - Ibrance  MYS English"
+Description:  "PLD Palbociclib - Ibrance  MYS English"
 Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/"
@@ -21,85 +21,105 @@ Usage: #example
 //Don't change the structure here. Only change where the comments allow
 
 * section[+]
-  * title = "Package Leaflet: Information for the user"
+  * title = "What is in this leaflet"
   * code = https://www.mhra.gov.uk/#200000029894
-  * code.text = "Package Leaflet: Information for the user"
+  * code.text = "What is in this leaflet"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>Prevenar 13 suspension for injection</p>
-    <p>pneumococcal polysaccharide conjugate vaccine (13 valent, adsorbed)</p>
-    <p><b>Read all of this leaflet carefully before you or your child receives this vaccine because it contains important information for you.</b></p>
-    <ul>
-        <li>Keep this leaflet. You may need to read it again.</li>
-        <li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
-        <li>This vaccine has been prescribed for you or your child only. Do not pass it on to others.</li>
-        <li>If you or your child get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</li>
-    </ul>
-    <p><b>What is in this leaflet</b></p>
-    <ul>
-        <li>What Prevenar 13 is and what it is used for</li>
-        <li>What you need to know before you or your child receives Prevenar 13</li>
-        <li>How Prevenar 13 is given</li>
-        <li>Possible side effects</li>
-        <li>How to store Prevenar 13</li>
-        <li>Contents of the pack and other information</li>
-    </ul>
+    <ol>
+        <li>What Ibrance is used for</li>
+        <li>How Ibrance works</li>
+        <li>Before you use Ibrance</li>
+        <li>How to use Ibrance</li>
+        <li>While you are using it</li>
+        <li>Side effects</li>
+        <li>Storage and Disposal of Ibrance</li>
+        <li>Product Description</li>
+        <li>Manufacturer and Product Registration Holder</li>
+        <li>Date of Revision</li>
+        <li>Serial Number</li>
+    </ol>
   </div>"""
 
 * section[+]
-  * title = "1. What Prevenar 13 is and what it is used for"
+  * title = "What Ibrance is used for"
   * code = https://www.mhra.gov.uk/#200000029895
-  * code.text = "1. What X is and what it is used for"
+  * code.text = "What Ibrance is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <p>Prevenar 13 is a pneumococcal vaccine given to:</p>
-      <ul>
-          <li><b>children from 6 weeks to 17 years</b> to help protect against diseases such as: meningitis (inflammation around the brain), sepsis or bacteraemia (bacteria in the blood stream), pneumonia (lung infection) and ear infections</li>
-          <li><b>adults aged 18 years and older</b> to help prevent disease such as: pneumonia (lung infection), sepsis or bacteraemia (bacteria in the blood stream) and meningitis (inflammation around the brain),</li>
-      </ul>
-      <p>caused by 13 types of the bacteria Streptococcus pneumoniae.</p>
-      <p>Prevenar 13, provides protection against 13 types of Streptococcus pneumoniae bacteria, and replaces Prevenar, which provided protection against 7 types.</p>
-      <p>The vaccine works by helping the body to make its own antibodies, which protect you or your child against these diseases.</p>
-  </div>"""
+    <p>Ibrance is a prescription medicine used to treat hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer that has spread to other parts of the body (metastatic) in combination with:</p>
+    <ul>
+        <li>an aromatase inhibitor as the first hormonal based therapy in women who have gone through menopause, or</li>
+        <li>fulvestrant in women with disease progression following hormonal therapy</li>
+    </ul>
+   </div>"""
 
 * section[+]
-  * title = "2.	What you need to know before you or your child receives Prevenar 13"
+  * title = "How Ibrance works"
   * code = https://www.mhra.gov.uk/#200000029896
-  * code.text = "2.	What you need to know before you or your child receives X"
+  * code.text = "How Ibrance works"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-
+    <p>Ibrance belongs to the group of medicines called antineoplastics. Ibrance interferes with the growth of cancer cells, which are eventually destroyed.</p>
   </div>"""
   
 * section[=].section[+]
-  * title = "Prevenar 13 should not be given"
+  * title = "Before you use Ibrance"
   * code = https://www.mhra.gov.uk/#200000029897
-  * code.text = "X should not be given"
+  * code.text = "Before you use Ibrance"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <ul>
-          <li>if you or your child is allergic (hypersensitive) to the active substances or to any of the other ingredients in this medicine (listed in section 6) or to any other vaccine that contains diphtheria toxoid.</li>
-          <li>if you or your child has a severe infection with a high temperature (over 38°C). If this applies to you or your child, then the vaccination will be postponed until you or your child is feeling better. A minor infection, such as a cold, should not be a problem. However, talk to your doctor, pharmacist, or nurse first.</li>
-      </ul>
+    <p><u><i>-  When you must not use it</i></u></p>
+    <p>It is not known if Ibrance is safe and effective in children.</p>
+    <p><i>Pregnancy and lactation</i></p>
+    <p>Do not take Ibrance if you are pregnant, trying to get pregnant or think you may be pregnant.</p>
+    <p>Ibrance can harm your unborn baby. Females who are able to become pregnant and who take Ibrance should use effective birth control during treatment and for atleast 3 weeks after stopping Ibrance.</p>
+    <p>The male partner of the female patient (who are able to become pregnant) should also use effective birth control during treatment and for at least 3 weeks after stopping Ibrance.</p>
+    <p>Talk to your healthcare provider about birth control methods that may be right for you during this time.</p>
+    <p>If you become pregnant or think you are pregnant, tell your healthcare provider right away.</p>
+    <p>It is not known if Ibrance passes into your breast milk. Do not take Ibrance if you are breast-feeding or plan to breastfeed, at least for 3 weeks after the last dose.</p>
+    <p><u><i>-  Before you start to use it</i></u></p>
+    <p>Tell your doctor if you:</p>
+    <ul>
+        <li>have fever, chills, or any other signs or symptoms of infection.</li>
+        <li>experience shortness of breath, restlessness, cough.</li>
+        <li>have liver or kidney problems.</li>
+        <li>have any other medical conditions.</li>
+    </ul>
+    <p><u><i>-  Taking other medicines</i></u></p>
+    <p>Tell your doctor if you are taking any other medicines, including prescription medicines, over-the-counter drugs, vitamins, and herbal products.</p>
+    <p>Some foods and other types of drugs can affect how CYP3A enzymes work. This can change the amount of cancer drug that you absorb. So it changes the dose of cancer drug that your doctor prescribed for you. This can affect how your cancer drug works, making it stronger or weaker.</p>
+    <p>You should inform your doctor if you are taking medicines containing:</p>
+    <ul>
+        <li>ketoconazole, itraconazole, voriconazole, posaconazole (used to treat fungal infections);</li>
+        <li>clarithromycin, rifampin, telithromycin (used to treat infections);</li>
+        <li>ritonavir, lopinavir/ritonavir,, indinavir, nelfinavir, saquinavir, telaprevir (used to treat viral infections);</li>
+        <li>modafinil (used to treat excessive sleepiness);</li>
+        <li>phenytoin, carbamazepine (used to treat epilepsy and other neurological conditions);</li>
+        <li>herbal preparations containing St. John’s Wort (<i>Hypericum perforatum</i>) (used to treat depression and anxiety);</li>
+        <li>cyclosporine, everolimus, sirolimus or tacrolimus (to prevent transplant rejection);</li>
+        <li>midazolam (used to help you sleep or for anxiety);</li>
+        <li>pimozide (used for treating mental illness);</li>
+        <li>alfentanil, fentanyl (used as anaesthetic);</li>
+        <li>quinidine (used for treating heart arrhythmia);</li>
+        <li>ergotamine, dihydroergotamine (used to treat severe, throbbing headaches); </li>
+        <li>nefazodone (used to treat depression);</li>
+        <li>enzalutamide (used to treat prostate cancer).</li>
+    </ul>
   </div>""" 
 
 * section[=].section[+]
-  * title = "Warnings and precautions"
+  * title = "How to use Ibrance"
   * code = https://www.mhra.gov.uk/#200000029898
-  * code.text = "Warnings and precautions"
+  * code.text = "How to use Ibrance"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-      <p>Talk to your doctor, pharmacist, or nurse before the vaccination if you or your child:</p>
-      <ul>
-          <li>has any present or past medical problems after any dose of Prevenar or Prevenar 13 such as an allergic reaction or problems with breathing.</li>
-          <li>has any bleeding problems or bruises easily.</li>
-          <li>has a weakened immune system (such as due to HIV infection), you/she/he may not get the full benefit from Prevenar 13.</li>
-          <li>has experienced seizures as medicines to lower fever may need to be taken before Prevenar 13 is given. If your child should become unresponsive or experience seizures (fits) after the vaccination, please contact your doctor immediately. See also section 4.</li>
-      </ul>
-      <p>Talk to your doctor, pharmacist, or nurse before the vaccination if your child was born very prematurely (at or before 28 weeks of gestation), as longer gaps than normal between breaths may occur for 2-3 days after vaccination. See also section 4.</p>
-      <p>As with any vaccine, Prevenar 13 will not protect all persons who are vaccinated.</p>
-      <p>Prevenar 13 will only protect against ear infections in children caused by the types of Streptococcus pneumoniae for which the vaccine has been developed. It will not protect against other infectious agents that can cause ear infections.</p>
-  </div>""" 
+    <p><u><i>-  How much to use</i></u></p>
+    <p>Follow all directions given to you by your doctor and pharmacist carefully. They may differ from the information contained in this leaflet. If you do not understand the instructions on the label, ask your doctor or pharmacist for help.</p>
+    <p>Take one capsule of Ibrance 125 mg orally once a day for 21 consecutive days, followed by 7 days without Ibrance. Your doctor may adjust your dose as needed and tolerated.</p>
+    
+
+   </div>""" 
 
 * section[=].section[+]
   * title = "Other medicines/vaccines and Prevenar 13"
