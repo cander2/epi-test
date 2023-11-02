@@ -1562,6 +1562,144 @@ Usage: #example
 
 <p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr (29% CV), and the mean (&plusmn; standard deviation) plasma elimination half-life was 29 (&plusmn;5) hours in patients with advanced breast cancer. In 6 healthy male subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of 91.6% of the total administered radioactive dose was recovered in 15 days; feces (74.1% of dose) was the major route of excretion, with 17.5% of the dose recovered in urine. The majority of the material was excreted as metabolites. </p>
 
+<table border="1" >
+<thead>
+<tr>
+<td colspan="3">
+<p><b>Table 9. Efficacy Results &ndash; Study&nbsp;2</b></p>
+</td>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>
+<p><b>IBRANCE</b></p>
+<p><b>plus Fulvestrant</b></p>
+</td>
+<td>
+<p><b>Placebo</b></p>
+<p><b>plus Fulvestrant</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Progression-</b><b>free survival for ITT (investigator assessment)</b></p>
+</td>
+<td>
+<p><b>N=347</b></p>
+</td>
+<td>
+<p><b>N=174</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Number of PFS events (%)</p>
+</td>
+<td>
+<p>145 (41.8)</p>
+</td>
+<td width="28%">
+<p>114 (65.5)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Median PFS (months, 95% CI)</p>
+</td>
+<td>
+<p>9.5 (9.2, 11.0)</p>
+</td>
+<td>
+<p>4.6 (3.5, 5.6)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hazard ratio (95% CI) and p‑value</p>
+</td>
+<td colspan="2">
+<p>0.461 (0.360, 0.591), p&lt;0.0001</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Objective response for patients with measurable disease (investigator assessment)</b></p>
+</td>
+<td>
+<p><b>N=267</b></p>
+</td>
+<td>
+<p><b>N=138</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Objective response rate* (%, 95% CI)</p>
+</td>
+<td>
+<p>24.6 (19.6, 30.2)</p>
+</td>
+<td>
+<p>10.9 (6.2, 17.3)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><b>Overall survival for ITT</b></p>
+</td>
+<td>
+<p><b>N=347</b></p>
+</td>
+<td>
+<p><b>N=174</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Number of OS events (%)</p>
+</td>
+<td>
+<p>201 (57.9)</p>
+</td>
+<td>
+<p>109 (62.6)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Median OS (months, 95% CI)</p>
+</td>
+<td>
+<p>34.9 (28.8, 40.0)</p>
+</td>
+<td>
+<p>28.0 (23.6, 34.6)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hazard ratio (95% CI) and p-value</p>
+</td>
+<td colspan="2">
+<p>0.814 (0.644, 1.029), p=0.0857<sup>&dagger;&Dagger;</sup></p>
+</td>
+</tr>
+</tbody>
+
+<tfoot>
+<tr>
+<td colspan="3">
+<p>CI=confidence interval; ITT=Intent-to-Treat; N=number of patients; OS=overall survival; PFS=progression-free survival.</p>
+<p>* Responses are based on confirmed responses.</p>
+<p><sup>&dagger;</sup> Not statistically significant at the pre-specified 2-sided alpha level of 0.047.</p>
+<p><sup>&Dagger;</sup> 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
 
 
 
