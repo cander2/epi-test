@@ -363,6 +363,7 @@ Usage: #example
 <p></p>
 
 
+
 <table border="1">
     <thead>
          <tr>
@@ -371,7 +372,109 @@ Usage: #example
             </td>
         </tr>
     </thead>
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>N=number of patients; WBC=white blood cells.</p>
+            </td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <th align="center"></th>
+            <th colspan="3" align="center">
+                <p><b>IBRANCE plus Letrozole</b></p>
+                <p><b>(N=444)</b></p>
+            </th>
+            <th colspan="3" align="center">
+                <p><b>Placebo plus Letrozole</b></p>
+                <p><b>(N=222)</b></p>
+            </th>
+        </tr>
+        <tr>
+            <th align="center"><b>Laboratory Abnormality</b></th>
+            <th align="center">
+                <p><b>All Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>ALL Grades</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
+            </th>
+            <th align="center">
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
+            </th>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>WBC decreased</p></td>
+            <td><p>97</p></td>
+            <td><p>35</p></td>
+            <td><p>1</p></td>
+            <td><p>25</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Neutrophils decreased</p></td>
+            <td><p>95</p></td>
+            <td><p>56</p></td>
+            <td><p>12</p></td>
+            <td><p>20</p></td>
+            <td><p>1</p></td>
+            <td><p>1</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Anemia</p></td>
+            <td><p>78</p></td>
+            <td><p>6</p></td>
+            <td><p>0</p></td>
+            <td><p>42</p></td>
+            <td><p>2</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Platelets decreased</p></td>
+            <td><p>63</p></td>
+            <td><p>1</p></td>
+            <td><p>1</p></td>
+            <td><p>14</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Aspartate aminotransferase increased</p></td>
+            <td><p>52</p></td>
+            <td><p>3</p></td>
+            <td><p>0</p></td>
+            <td><p>34</p></td>
+            <td><p>1</p></td>
+            <td><p>0</p></td>
+        </tr>
+        <tr align="center">
+            <td align="left"><p>Alanine aminotransferase increased</p></td>
+            <td><p>43</p></td>
+            <td><p>2</p></td>
+            <td><p>&lt;1</p></td>
+            <td><p>30</p></td>
+            <td><p>0</p></td>
+            <td><p>0</p></td>
+        </tr>
+    </tbody>
 </table>
+
 
 <p><b><u>Study 2: IBRANCE plus Fulvestrant</u></b></p>
 <p><b>Patients with HR positive, HER2 negative advanced or metastatic breast cancer who have had disease progression on or after prior adjuvant or metastatic endocrine therapy</b></p>
