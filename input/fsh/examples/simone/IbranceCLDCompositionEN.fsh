@@ -413,12 +413,12 @@ Usage: #example
             <th align="center"><p><b>Grade 4</b></p></th>
         </tr>
         <tr>
-            <th align="center"><p></p><b>%</b></p></th>
-            <th align="center"><p></p><b>%</b></p></th>
-            <th align="center"><p></p><b>%</b></p></th>
-            <th align="center"><p></p><b>%</b></p></th>
-            <th align="center"><p></p><b>%</b></p></th>
-            <th align="center"><p></p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
+            <th align="center"><p><b>%</b></p></th>
         </tr>
         <tr>
             <td colspan="7"><p>Infections and infestations</p></td>
