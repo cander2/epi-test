@@ -260,31 +260,7 @@ Usage: #example
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
   </div>"""
 
-* section[=].section[+]
-  * title = "Manufacturer"
-  * code = https://www.mhra.gov.uk/#200000029902
-  * code.text = "Manufacturer"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>Pfizer Manufacturing Deutschland, GmbH,</p>
-    <p>Betriebsstatte Freiburg,</p>
-    <p>Mooswaldallee 1,</p>
-    <p>79090 Freiburg, Germany.</p>
-  </div>""" 
 
-* section[=].section[+]
-  * title = "Product Registration Holder"
-  * code = https://www.mhra.gov.uk/#200000029902
-  * code.text = "Product Registration Holder"
-  * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>Pfizer (Malaysia) Sdn. Bhd.</p>
-    <p>Level 10 & 11,</p>
-    <p>Wisma Averis, Tower 2,</p>
-    <p>Avenue 5, Bangsar South,</p>
-    <p>No. 8 Jalan Kerinchi,</p>
-    <p>59200 Kuala Lumpur, Malaysia</p>
-  </div>""" 
 
 * section[+]
   * title = "Date of Revision"
