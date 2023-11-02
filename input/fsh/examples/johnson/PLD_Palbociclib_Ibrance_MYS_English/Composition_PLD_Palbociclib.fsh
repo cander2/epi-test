@@ -5,7 +5,7 @@ Description:  "PLD Palbociclib - Ibrance  MYS English"
 Usage: #example
 
 * identifier.system = "https://www.mhra.gov.uk/"
-* identifier.value = "62c2744a-2aa9-4b53-8d07-94b7683bbf3e"
+* identifier.value = "19e40a7a-f388-48df-8e70-a70b1b7073dd"
 
 * status = #final
 
