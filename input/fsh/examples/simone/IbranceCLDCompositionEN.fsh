@@ -1791,14 +1791,14 @@ Usage: #example
 <p><u>Myelosuppression/Infection</u></p>
 <ul>
 
-<li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [see Warnings and Precautions (5.1)].</li>
+<li>Advise patients to immediately report any signs or symptoms of myelosuppression or infection, such as fever, chills, dizziness, shortness of breath, weakness or any increased tendency to bleed and/or to bruise [<i>see Warnings and Precautions (5.1)</i>].</li>
 
 </ul>
 
 <p><u>Interstitial Lung Disease/Pneumonitis</u></p>
 <ul>
 
-<li>Advise patients to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.2)]. </li>
+<li>Advise patients to immediately report new or worsening respiratory symptoms [<i>see Warnings and Precautions (5.2)</i>]. </li>
 </ul>
 
 
@@ -1807,7 +1807,7 @@ Usage: #example
 
 	<li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit products while on treatment with IBRANCE.</li>
 	<li>Inform patients to avoid strong CYP3A inhibitors and strong CYP3A inducers.</li>
-	<li>Advise patients to inform their health care providers of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)].</li>
+	<li>Advise patients to inform their health care providers of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [<i>see Drug Interactions (7)</i>].</li>
 </ul>
 
 
@@ -1824,11 +1824,11 @@ Usage: #example
 
 	<li>Embryo-Fetal Toxicity</li>
 	<ul>
-		<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)].</li>
-		<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [see Use in Specific Populations (8.3)].</li>
+		<li>Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with IBRANCE therapy and for at least 3 weeks after the last dose. Advise females to inform their healthcare provider of a known or suspected pregnancy [<i>see Warnings and Precautions (5.3) and Use in Specific Populations (8.1 and 8.3)</i>].</li>
+		<li>Advise male patients with female partners of reproductive potential to use effective contraception during treatment with IBRANCE and for at least 3 months after the last dose [<i>see Use in Specific Populations (8.3)</i>].</li>
 	</ul>
 
-	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [see Use in Specific Populations (8.2)].</li>
+	<li>Lactation: Advise women not to breastfeed during treatment with IBRANCE and for 3 weeks after the last dose [<i>see Use in Specific Populations (8.2)</i>].</li>
 
 </ul>
 
