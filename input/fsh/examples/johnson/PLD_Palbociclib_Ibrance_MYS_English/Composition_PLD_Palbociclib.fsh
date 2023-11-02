@@ -234,7 +234,7 @@ Usage: #example
     <p>Capsule Strength 125 mg</p>
     <p>Opaque, hard gelatin capsules, size 0, with caramel cap and body, </p>
     <p>printed with white ink “Pfizer” on the cap, “PBC 125” on the body</p>
-    <p>Capsule Strength 100 mg
+    <p>Capsule Strength 100 mg</p>
     <p>Opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink “Pfizer” on the cap, “PBC 100” on the body</p>
     <p>Capsule Strength 75 mg</p>
     <p>Opaque, hard gelatin capsules, size 2, with light orange cap and body, printed with white ink “Pfizer” on the cap, “PBC 75” on the body</p>
