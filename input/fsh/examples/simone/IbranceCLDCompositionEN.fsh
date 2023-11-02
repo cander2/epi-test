@@ -391,6 +391,21 @@ Usage: #example
         </tr>
     </thead>
 
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <p>Grading according to CTCAE 4.0.</p>
+                <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable.</p>
+                <p><sup>a</sup>Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
+                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, bronchitis, rhinitis, influenza, conjunctivitis, sinusitis, pneumonia, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia.</p>
+                <p><sup>c</sup>Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis.</p>
+                <p><sup>d</sup>Grade 1 events &ndash; 17%; Grade 2 events &ndash; 1%.</p>
+                <p><sup>e</sup>Grade 1 events &ndash; 6%.</p>
+                <p><sup>f</sup>Rash includes: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption.</p>
+            </td>
+        </tr>
+    </tfoot>
+
 
     <tbody>
         <tr>
