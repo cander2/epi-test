@@ -305,5 +305,3 @@ Usage: #example
     <p>NPRA (R1/1) 18062020/019</p>
     <P><b>PLD-IBRANCE-0720</b></P>
   </div>""" 
-
-
