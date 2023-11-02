@@ -279,6 +279,7 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
     <p>Pfizer (Malaysia) Sdn. Bhd.</p>
+    <p>Level 10 &amp; 11,</p>
     <p>Wisma Averis, Tower 2,</p>
     <p>Avenue 5, Bangsar South,</p>
     <p>No. 8 Jalan Kerinchi,</p>
