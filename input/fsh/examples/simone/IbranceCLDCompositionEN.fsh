@@ -1712,7 +1712,70 @@ Usage: #example
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
 <p>IBRANCE is supplied in the following strengths and package configurations:</p>
-<p></p>
+<table border="1" >
+<tbody>
+<tr>
+<td >
+<p><b>Package Configuration</b></p>
+</td>
+<td>
+<p><b>Capsule Strength (mg)</b></p>
+</td>
+<td>
+<p><b>Capsule Description</b></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bottles of 21 capsules</p>
+</td>
+<td rowspan="2">
+<p>125</p>
+</td>
+<td rowspan="2">
+<p>opaque, hard gelatin capsules, size 0, with caramel cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC&nbsp;125&rdquo; on the body</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Blister of 7, 21 capsules</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bottles of 21 capsules</p>
+</td>
+<td rowspan="2">
+<p>100</p>
+</td>
+<td rowspan="2">
+<p>opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC&nbsp;100&rdquo; on the body</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Blister of 7, 21 capsules</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bottles of 21 capsules</p>
+</td>
+<td rowspan="2">
+<p>75</p>
+</td>
+<td rowspan="2">
+<p>opaque, hard gelatin capsules, size 2, with light orange cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC 75&rdquo; on the body</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Blister of 7, 21 capsules</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 <p>Storage condition: Store below 30&deg;C</p>
 <p>Some product strengths or pack sizes may not be available in your country.</p>
 
