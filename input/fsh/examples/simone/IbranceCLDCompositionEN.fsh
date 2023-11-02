@@ -558,7 +558,7 @@ Usage: #example
         <tr align="center">
             <td><p>Pyrexia</p></td>
             <td><p>13</p></td>
-            <td><p> &lt;1</p></td>
+            <td><p>&lt;1</p></td>
             <td><p>0</p></td>
             <td><p>5</p></td>
             <td><p>0</p></td>
