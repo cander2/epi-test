@@ -354,20 +354,7 @@ Usage: #example
             </td>
         </tr>
     </thead>
-   <tfoot>
-        <tr>
-            <td colspan="7">
-                <p>Grading according to CTCAE 4.0.</p>
-                <p>CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients; N/A=not applicable; </p>
-                <p><sup>a</sup> Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
-                <p><sup>b</sup> Most common infections (&ge;1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
-                <p><sup>c</sup> Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
-                <p><sup>d</sup>Grade 1 events &ndash; 30%; Grade 2 events &ndash; 3%.</p>
-                <p><sup>e</sup> Grade 1 events &ndash; 15%; Grade 2 events &ndash; 1%.</p>
-                <p><sup>f</sup>Rash includes the following PTs: rash, rash maculo&hyphen;papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
-            </td>
-        </tr>
-    </tfoot>
+  
 
 <tbody>
         <tr>
@@ -384,29 +371,33 @@ Usage: #example
         <tr>
             <th align="center"><b>Adverse Reaction</b></th>
             <th align="center">
-                <p><b>All Grades %</b></p>
+                <p><b>All Grades</b></p>
+                <p><b>%</b></p>
             </th>
             <th align="center">
-                <p><b>Grade 3 %</b></p>
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
             </th>
             <th align="center">
-                <p><b>Grade 4 %</b></p>
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
             </th>
             <th align="center">
-                <p><b>ALL Grades %</b></p>
+                <p><b>ALL Grades</b></p>
+                <p><b>%</b></p>
             </th>
             <th align="center">
-                <p><b>Grade 3 %</b></p>
+                <p><b>Grade 3</b></p>
+                <p><b>%</b></p>
             </th>
             <th align="center">
-                <p><b>Grade 4 %</b></p>
+                <p><b>Grade 4</b></p>
+                <p><b>%</b></p>
             </th>
         </tr>
         <tr>
           <td colspan="4"><p>Infections and infestations</p></td>
-          <td ><p></p></td>
-          <td ><p></p></td>
-          <td ><p></p></td>
+          
         </tr>
         <tr align="center">
             <td><p>Infections<sup>a</sup></p></td>
