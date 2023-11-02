@@ -2,7 +2,7 @@ Instance: //Add a unique name for this composition. Can use any name as long as 
 InstanceOf: CompositionUvEpi //Don't change this. It links to the profile template which is used for validation
 Title: "" // Add any title you like
 Description:  "" // Add any description you like
-Usage: #example / don't change.
+Usage: #example // don't change.
 
 * identifier.system = "https://www.mhra.gov.uk/" //Don't change.
 * identifier.value = "" //Generate a new UUID from here: https://www.uuidgenerator.net/.
@@ -38,7 +38,7 @@ Usage: #example / don't change.
 
   </div>""" 
 
-* section[=].section[=]section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
+* section[=].section[=].section[+] //When you see it like this (x3 sections) it means this is a level 3 heading under the previous section. E.g., 1.1.1
   * title = ""
   * code = https://www.mhra.gov.uk/#
   * code.text = ""

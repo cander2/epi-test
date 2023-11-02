@@ -1,11 +1,12 @@
-Instance: mp025mg
+Instance: medprodcarbamazepine200
 InstanceOf: MedicinalProductDefinitionUvEpi
-Title: "Medicinal Product Talzenna® (talazoparib) 0.25 mg hard capsules"
-Description: "Medicinal Product Talzenna® (talazoparib) 0.25 mg hard capsules"
+Title: "Medicinal Product - Tegretol (carbamazepine) 200 mg for tablet"
+Description: "Medicinal Product - Tegretol (carbamazepine) 200 mg for tablet"
 Usage: #example
 
-* identifier[+].system = "http://www.mhra.gov.uk/"
-* identifier[=].value = "471bb15-7f52-4fcd-b615-8674ce6eb91e"
+* identifier[+].system = "http://www.pmda.jp/"
+* identifier[=].value = "22700AMX00173"
+
 * type = http://hl7.org/fhir/medicinal-product-type#MedicinalProduct "Medicinal Product"
 
 * domain = http://hl7.org/fhir/medicinal-product-domain#Human "Human use"
@@ -14,33 +15,32 @@ Usage: #example
 
 * legalStatusOfSupply = $spor-rms#100000072084 "Medicinal product subject to medical prescription"
 
-
 * name
-  * productName = "Talzenna® (talazoparib) 0.25 mg hard capsules"
+  * productName = "Tegretol (carbamazepine) 200 mg for tablet"
   * type = $spor-productNamePartType-cs#220000000001
     * text = "Full name"
   
   * part[0]
-    * part = "Talzenna"
+    * part = "Tegretol"
     * type = $spor-productNamePartType-cs#220000000002
     * type.text = "Invented name part"
   
   * part[+]
-    * part = "talazoparib"
+    * part = "carbamazepine"
     * type = $spor-productNamePartType-cs#220000000003
     * type.text = "Scientific name part"
   
   * part[+]
-    * part = "0.25 mg"
+    * part = "200 mg"
     * type = $spor-productNamePartType-cs#220000000004
     * type.text = "Strength part"
   
   * part[+]
-    * part = "Capsule, hard"
+    * part = "tablet"
     * type = $spor-productNamePartType-cs#220000000005
     * type.text = "Pharmaceutical dose form part"
   
   * usage
-    * country = urn:iso:std:iso:3166#GBR "United Kingdom"
-    * jurisdiction = urn:iso:std:iso:3166#GBR "United Kingdom"
-    * language = urn:ietf:bcp:47#en  "English"
+    * country = urn:iso:std:iso:3166#JP
+    * jurisdiction = urn:iso:std:iso:3166#JP
+    * language = urn:ietf:bcp:47#JA
