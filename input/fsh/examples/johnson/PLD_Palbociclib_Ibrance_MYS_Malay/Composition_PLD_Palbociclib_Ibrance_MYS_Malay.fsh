@@ -182,7 +182,7 @@ Usage: #example
       <p>Ibrance boleh menyebabkan kesan sampingan serius, termasuk:</p>
       <p><b>- Bilangan sel darah putih yang rendah (<i>neutropenia</i>).  </b>Bilangan sel darah putih yang rendah lazim berlaku semasa mengambil Ibrance. Doktor anda seharusnya memeriksa bilangan sel darah putih anda sebelum dan semasa rawatan.</p>
       <p>Jika anda mengalami bilangan sel darah putih yang rendah semasa rawatan dengan Ibrance, doktor anda mungkin akan menghentikan rawatan anda, mengurangkan dos anda, atau memberitahu anda supaya menunggu buat sementara waktu sebelum memulakan kitaran rawatan anda.</p>        
-      <p><b>- Jangkitan paru-paru (ILD/Pneumonitis)</b>- Jangkitan teruk yang mengancam nyawa yang berlaku di dalam paru-paru. Jika anda mengalami batuk yang diiringi sesak nafas atau kekurangan oksigen yang dicirikan oleh kekeliruan, kegelisahan atau keresahan, sila jumpa doktor anda dengan segera. </p>
+      <p><b>- Jangkitan paru-paru (ILD/<i>Pneumonitis</i>)</b>- Jangkitan teruk yang mengancam nyawa yang berlaku di dalam paru-paru. Jika anda mengalami batuk yang diiringi sesak nafas atau kekurangan oksigen yang dicirikan oleh kekeliruan, kegelisahan atau keresahan, sila jumpa doktor anda dengan segera. </p>
       <p>Doktor anda akan menghentikan Ibrance dengan serta-merta sekiranya anda mengalami sebarang penyakit pernafasan yang baharu atau yang bertambah teruk.</p>
       <p>Kesan sampingan lazim IBRANCE yang lain termasuk:</p>
       <ul>
