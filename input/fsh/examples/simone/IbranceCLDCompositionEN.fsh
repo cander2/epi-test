@@ -615,8 +615,8 @@ Usage: #example
                 <p><sup>a</sup>Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
                 <p><sup>b</sup>Most common infections (≥1%) include: nasopharyngitis, upper respiratory tract infection, urinary tract infection, oral herpes, sinusitis, rhinitis, bronchitis, influenza, pneumonia, gastroenteritis, conjunctivitis, herpes zoster, pharyngitis, cellulitis, cystitis, lower respiratory tract infection, tooth infection, gingivitis, skin infection, gastroenteritis viral, respiratory tract infection, respiratory tract infection viral, and folliculitis.</p>
                 <p><sup>c</sup>Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oral discomfort, oropharyngeal pain, and stomatitis</p>
-                <p><sup>d</sup>Grade 1 events &ndash; 30%; Grade 2 events &ndash; 3%.</p>
-                <p><sup>e</sup>Grade 1 events &ndash; 15%; Grade 2 events &ndash; 1%.</p>
+                <p><sup>d</sup>Grade 1 events - 30%; Grade 2 events - 3%.</p>
+                <p><sup>e</sup>Grade 1 events - 15%; Grade 2 events - 1%.</p>
                 <p><sup>f</sup>Rash includes the following PTs: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
             </td>
         </tr>
@@ -769,8 +769,8 @@ Usage: #example
                 <p><sup>a</sup>Infections includes all reported preferred terms (PTs) that are part of the System Organ Class Infections and infestations.</p>
                 <p><sup>b</sup> Most common infections (≥1%) include: nasopharyngitis, upper respiratory infection, urinary tract infection, bronchitis, rhinitis, influenza, conjunctivitis, sinusitis, pneumonia, cystitis, oral herpes, respiratory tract infection, gastroenteritis, tooth infection, pharyngitis, eye infection, herpes simplex, and paronychia.</p>
                 <p><sup>c</sup>Stomatitis includes: aphthous stomatitis, cheilitis, glossitis, glossodynia, mouth ulceration, mucosal inflammation, oral pain, oropharyngeal discomfort, oropharyngeal pain, stomatitis.</p>
-                <p><sup>d</sup>Grade 1 events &ndash; 17%; Grade 2 events &ndash; 1%.</p>
-                <p><sup>e</sup>Grade 1 events &ndash; 6%.</p>
+                <p><sup>d</sup>Grade 1 events - 17%; Grade 2 events - 1%.</p>
+                <p><sup>e</sup>Grade 1 events - 6%.</p>
                 <p><sup>f</sup>Rash includes: rash, rash maculo-papular, rash pruritic, rash erythematous, rash papular, dermatitis, dermatitis acneiform, toxic skin eruption.</p>
             </td>
         </tr>
@@ -1559,7 +1559,7 @@ Usage: #example
   * valueReference
     * reference = "#binarypfizerlogo"
 
-<p><b>Figure 1.	Kaplan-Meier Plot of Progression-Free Survival &ndash; Study 1 (Investigator Assessment, Intent to Treat Population)</b></p>
+<p><b>Figure 1.	Kaplan-Meier Plot of Progression-Free Survival - Study 1 (Investigator Assessment, Intent to Treat Population)</b></p>
 * contained
   * resourceType = "Binary"
   * id = "figure1"
@@ -1590,7 +1590,7 @@ Usage: #example
 <thead>
 <tr>
 <td colspan="3">
-<p><b>Table 9. Efficacy Results &ndash; Study ;2</b></p>
+<p><b>Table 9. Efficacy Results - Study ;2</b></p>
 </td>
 </tr>
 </thead>
