@@ -13,7 +13,7 @@ Usage: #example
 * type.text = "Package Leaflet"
 
 * date = "2022-08-18T00:00:00Z"
-* author = Reference(Organization-PLD-Palbociclib) //Add the Instance name for the Organization inside the brackets
+* author = Reference(Organization-PLD-Palbociclib-Ibrance-MYS-Malay) //Add the Instance name for the Organization inside the brackets
 
 * title = "Composition PLD Palbociclib Ibrance MYS Malay"
 * language = #en
