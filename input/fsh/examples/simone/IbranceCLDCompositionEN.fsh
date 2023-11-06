@@ -130,8 +130,8 @@ Usage: #example
             <td colspan="2">
                 <p>Grading according to CTCAE 4.0.</p>
                 <p>CTCAE=Common Terminology Criteria for Adverse Events; LLN=lower limit of normal.</p>
-                <p><sup>a</sup>&nbsp; Table applies to all hematologic adverse reactions except lymphopenia (unless associated with clinical events, e.g., opportunistic infections).</p>
-                <p><sup>b</sup>&nbsp; Absolute neutrophil count (ANC): Grade 1: ANC &lt;LLN - 1500/mm<sup>3</sup>; Grade 2: ANC 1000 - &lt;1500/mm<sup>3</sup>; Grade 3: ANC 500 - &lt;1000/mm<sup>3</sup>; Grade 4: ANC &lt;500/mm<sup>3</sup></p>
+                <p><sup>a</sup> ; Table applies to all hematologic adverse reactions except lymphopenia (unless associated with clinical events, e.g., opportunistic infections).</p>
+                <p><sup>b</sup> ; Absolute neutrophil count (ANC): Grade 1: ANC &lt;LLN - 1500/mm<sup>3</sup>; Grade 2: ANC 1000 - &lt;1500/mm<sup>3</sup>; Grade 3: ANC 500 - &lt;1000/mm<sup>3</sup>; Grade 4: ANC &lt;500/mm<sup>3</sup></p>
             </td>
         </tr>
     </tfoot>
@@ -1590,7 +1590,7 @@ Usage: #example
 <thead>
 <tr>
 <td colspan="3">
-<p><b>Table 9. Efficacy Results &ndash; Study&nbsp;2</b></p>
+<p><b>Table 9. Efficacy Results &ndash; Study ;2</b></p>
 </td>
 </tr>
 </thead>
@@ -1757,7 +1757,7 @@ Usage: #example
 <p>125</p>
 </td>
 <td rowspan="2">
-<p>opaque, hard gelatin capsules, size 0, with caramel cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC&nbsp;125&rdquo; on the body</p>
+<p>opaque, hard gelatin capsules, size 0, with caramel cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC ;125&rdquo; on the body</p>
 </td>
 </tr>
 <tr>
@@ -1773,7 +1773,7 @@ Usage: #example
 <p>100</p>
 </td>
 <td rowspan="2">
-<p>opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC&nbsp;100&rdquo; on the body</p>
+<p>opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC ;100&rdquo; on the body</p>
 </td>
 </tr>
 <tr>
