@@ -205,3 +205,83 @@ Usage: #example
       <p>Anda boleh melaporkan sebarang kesan sampingan atau kesan advers ubat kepada Pusat Pemantauan Kesan Advers Ubat Kebangsaan melalui laman web <u>npra.gov.my</u> <i>[Consumers <b>&#8594;</b> Reporting Side Effects to Medicines (ConSERF) or Vaccines (AEFI)]</i>.</p>      
   </div>""" 
 
+* section[+]
+  * title = "Cara penyimpanan dan pelupusan Ibrance"
+  * code = https://www.mhra.gov.uk/#200000029898
+  * code.text = "Cara penyimpanan dan pelupusan Ibrance"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><u><i>-  Penyimpanan </i></u></p>
+    <p>Jauhkan semua ubat daripada jangkauan dan pandangan kanak-kanak.</p>
+    <p>Simpan pada suhu bawah 30°C</p>
+    <p><u><i>-	Pelupusan</i></u></p>
+    <p>Ubat-ubatan tidak seharusnya dilupuskan melalui air buangan atau sisa isi rumah. Sila rujuk kepada ahli farmasi anda mengenai cara yang betul untuk melupuskan ubat yang tidak diperlukan lagi. Mana-mana produk yang tidak digunakan atau bahan sisa hendaklah dilupuskan mengikut peraturan tempatan. Langkah-langkah ini dapat membantu melindungi alam sekitar.</p>
+</div>"""
+
+* section[+]
+  * title = "Maklumat lanjut"
+  * code = https://www.mhra.gov.uk/#200000029898
+  * code.text = "Maklumat lanjut"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p><u><i>- Rupa dan warna produk </i></u></p>
+    <p>Botol yang mengandungi 21 kapsul dan kepingan blister yang mengandungi 21 kapsul atau 7 kapsul sahaja</p>
+    <p>Kekuatan Kapsul 125 mg</p>
+    <p>Kapsul gelatin keras yang legap, saiz 0, dengan penutup dan badan karamel, dicetak dengan dakwat putih “Pfizer” pada penutup, “PBC 125” pada badan</p>
+    <p>Kekuatan Kapsul 100 mg</p>
+    <p>Kapsul gelatin keras yang legap, saiz 1, dengan penutup karamel dan badan jingga muda, dicetak dengan dakwat putih “Pfizer” pada penutup, “PBC 100” pada badan</p>
+    <p>Kekuatan Kapsul 75 mg</p>
+    <p>Kapsul gelatin keras yang legap, saiz 2, dengan penutup dan badan jingga muda, dicetak dengan dakwat putih “Pfizer” pada penutup, “PBC 75” pada badan</p>
+    <p>Sesetengah kekuatan produk atau saiz pek mungkin tidak dipasarkan di negara anda.</p>
+    <p><u><i>- Bahan-bahan kandungan</i></u></p>
+    <p>- Bahan aktif</p>
+    <p>Palbociclib</p>
+    <p>- Bahan tidak aktif</p>
+    <p>Microcrystalline cellulose, lactose monohydrate, sodium starch glycolate, colloidal silicon dioxide, magnesium stearate dan hard gelatin capsule shells.</p>
+    <p>Sarung kapsul legap jingga muda, jingga muda/karamel dan karamel mengandungi: gelatin, red iron oxide, yellow iron oxide dan titanium dioxide.</p>
+    <p>Dakwat cetak mengandungi: shellac, titanium dioxide, ammonium hydroxide, propylene glycol dan simethicone.</p>
+    <p><u><i>-	Nombor MAL:</i></u></p>
+    <p>Ibrance 125 mg- MAL16065004ARZ</p>
+    <p>Ibrance 100 mg- MAL16065003ARZ</p>
+    <p>Ibrance 75 mg- MAL16065002ARZ</p>
+</div>"""
+
+
+* section[+]
+  * title = "Manufacturer and Product Registration Holder"
+  * code = https://www.mhra.gov.uk/#200000029898
+  * code.text = "Manufacturer and Product Registration Holder"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+  </div>"""
+
+* section[=].section[+]
+  * title = "Pengilang"
+  * code = https://www.mhra.gov.uk/#200000029902
+  * code.text = "Pengilang"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p>Pfizer Manufacturing Deutschland, GmbH,</p>
+    <p>Betriebsstatte Freiburg,</p>
+    <p>Mooswaldallee 1,</p>
+    <p>79090 Freiburg, Jerman</p>
+  </div>""" 
+
+* section[=].section[+]
+  * title = "Pemegang Pendaftaran Produk"
+  * code = https://www.mhra.gov.uk/#200000029902
+  * code.text = "Pemegang Pendaftaran Produk"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+    <p>Pfizer (Malaysia) Sdn. Bhd.</p>
+    <p>Level 10 &amp; 11,</p>
+    <p>Wisma Averis, Tower 2,</p>
+    <p>Avenue 5, Bangsar South,</p>
+    <p>No. 8 Jalan Kerinchi,</p>
+    <p>59200 Kuala Lumpur, Malaysia</p>    
+  </div>""" 
+
+
+
+
+
