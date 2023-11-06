@@ -281,7 +281,24 @@ Usage: #example
     <p>59200 Kuala Lumpur, Malaysia</p>    
   </div>""" 
 
+* section[+]
+  * title = "Tarikh kemaskini RiMUP"
+  * code = https://www.mhra.gov.uk/#200000029902
+  * code.text = "Tarikh kemaskini RiMUP"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+      <p>02/07/2020</p>
+  </div>"""
 
-
+* section[+]
+  * title = "Nombor Siri"
+  * code = https://www.mhra.gov.uk/#200000029902
+  * code.text = "Nombor Siri"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
+    <p>NPRA (R1/AI2) 22042019/008</p>
+    <p>NPRA (R1/1) 18062020/019</p>
+    <P><b>PLD-IBRANCE-0720</b></P>
+  </div>"""
 
 
