@@ -137,7 +137,7 @@ Usage: #example
     <p>Jika anda belum putus haid atau akan mencapai fasa putus haid dan sedang mengambil Ibrance dengan gabungan terapi fulvestrant, anda seharusnya mengambil bersama agonis luteinizing hormone releasing hormone atau LHRH.</p>
     <p>Jika anda sedang menggunakan kumpulan ubat yang dikenali sebagai perencat CYP3A kuat (<i>strong CYP3A inhibitor</i>), dos Ibrance anda akan dikurangkan kepada 75 mg sekali sehari.</p>
     <p>Jika anda mengalami masalah hati yang teruk, dos Ibrance yang disarankan ialah 75 mg sekali sehari selama 21 hari berturut-turut, diikuti dengan 7 hari tanpa mengambil rawatan.</p>
-    <p>Jika anda mula mengalami masalah pernafasan, contohnya: Interstitial Lung Disease (ILD), iaitu sejenis penyakit serius yang mengancam nyawa dan dicirikan oleh pembentukan parut dalam paru-paru sehingga menyukarkan pernafasan, atau Pneumonitis iaitu keradangan paru-paru; doktor anda mungkin akan menghentikan Ibrance dengan serta-merta. </p>
+    <p>Jika anda mula mengalami masalah pernafasan, contohnya: <i>Interstitial Lung Disease</i> (ILD), iaitu sejenis penyakit serius yang mengancam nyawa dan dicirikan oleh pembentukan parut dalam paru-paru sehingga menyukarkan pernafasan, atau <i>Pneumonitis</i> iaitu keradangan paru-paru; doktor anda mungkin akan menghentikan Ibrance dengan serta-merta. </p>
     <p><u><i>- Bila perlu digunakan </i></u></p>
     <p>Ikut arahan doktor atau ahli farmasi anda.</p>
     <p>Anda boleh mengambil kapsul ini bersama makanan pada bila-bila masa sepanjang hari. Namun begitu, cuba ambil ubat ini pada masa yang sama setiap hari. Ini akan membantu mengingatkan anda supaya mengambil ubat tersebut.</p>
