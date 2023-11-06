@@ -180,9 +180,9 @@ Usage: #example
     <p>Seperti ubat-ubatan lain, Ibrance boleh menyebabkan kesan sampingan, walaupun bukan semua orang mengalaminya.</p>
       <p>Jumpa doktor atau ahli farmasi anda dengan segera jika anda mengalami sebarang kesan sampingan selepas menggunakan ubat ini.</p>
       <p>Ibrance boleh menyebabkan kesan sampingan serius, termasuk:</p>
-      <p><b>- Bilangan sel darah putih yang rendah (neutropenia).  </b>Bilangan sel darah putih yang rendah lazim berlaku semasa mengambil Ibrance. Doktor anda seharusnya memeriksa bilangan sel darah putih anda sebelum dan semasa rawatan.</p>
+      <p><b>- Bilangan sel darah putih yang rendah (<i>neutropenia</i>).  </b>Bilangan sel darah putih yang rendah lazim berlaku semasa mengambil Ibrance. Doktor anda seharusnya memeriksa bilangan sel darah putih anda sebelum dan semasa rawatan.</p>
       <p>Jika anda mengalami bilangan sel darah putih yang rendah semasa rawatan dengan Ibrance, doktor anda mungkin akan menghentikan rawatan anda, mengurangkan dos anda, atau memberitahu anda supaya menunggu buat sementara waktu sebelum memulakan kitaran rawatan anda.</p>        
-      <p><b>- Jangkitan paru-paru (ILD/Pneumonitis)</b>- )- Jangkitan teruk yang mengancam nyawa yang berlaku di dalam paru-paru. Jika anda mengalami batuk yang diiringi sesak nafas atau kekurangan oksigen yang dicirikan oleh kekeliruan, kegelisahan atau keresahan, sila jumpa doktor anda dengan segera. </p>
+      <p><b>- Jangkitan paru-paru (ILD/Pneumonitis)</b>- Jangkitan teruk yang mengancam nyawa yang berlaku di dalam paru-paru. Jika anda mengalami batuk yang diiringi sesak nafas atau kekurangan oksigen yang dicirikan oleh kekeliruan, kegelisahan atau keresahan, sila jumpa doktor anda dengan segera. </p>
       <p>Doktor anda akan menghentikan Ibrance dengan serta-merta sekiranya anda mengalami sebarang penyakit pernafasan yang baharu atau yang bertambah teruk.</p>
       <p>Kesan sampingan lazim IBRANCE yang lain termasuk:</p>
       <ul>
@@ -261,7 +261,7 @@ Usage: #example
   * code.text = "Pengilang"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-    <p>Pfizer Manufacturing Deutschland, GmbH,</p>
+    <p>Pfizer Manufacturing Deutschland GmbH,</p>
     <p>Betriebsstatte Freiburg,</p>
     <p>Mooswaldallee 1,</p>
     <p>79090 Freiburg, Jerman</p>
