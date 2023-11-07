@@ -1707,7 +1707,7 @@ Usage: #example
 <p>Hazard ratio (95% CI) and p-value</p>
 </td>
 <td colspan="2">
-<p>0.814 (0.644, 1.029), p=0.0857<sup>&dagger;&Dagger;</sup></p>
+<p>0.814 (0.644, 1.029), p=0.0857<sup>a,b;</sup></p>
 </td>
 </tr>
 </tbody>
@@ -1717,8 +1717,8 @@ Usage: #example
 <td colspan="3">
 <p>CI=confidence interval; ITT=Intent-to-Treat; N=number of patients; OS=overall survival; PFS=progression-free survival.</p>
 <p>* Responses are based on confirmed responses.</p>
-<p><sup>&dagger;</sup> Not statistically significant at the pre-specified 2-sided alpha level of 0.047.</p>
-<p><sup>&Dagger;</sup> 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.</p>
+<p><sup>a</sup> Not statistically significant at the pre-specified 2-sided alpha level of 0.047.</p>
+<p><sup>b</sup> 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.</p>
 </td>
 </tr>
 </tfoot>
