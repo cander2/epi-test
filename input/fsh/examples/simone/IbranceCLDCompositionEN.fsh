@@ -1800,7 +1800,7 @@ Usage: #example
 </tbody>
 </table>
 
-<p>Storage condition: Store below 30&deg;C</p>
+<p>Storage condition: Store below 30°C</p>
 <p>Some product strengths or pack sizes may not be available in your country.</p>
 
   </div>"""
