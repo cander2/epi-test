@@ -1757,7 +1757,7 @@ Usage: #example
 <p>125</p>
 </td>
 <td rowspan="2">
-<p>opaque, hard gelatin capsules, size 0, with caramel cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC ;125&rdquo; on the body</p>
+<p>opaque, hard gelatin capsules, size 0, with caramel cap and body, printed with white ink "Pfizer" on the cap, "PBC ;125" on the body</p>
 </td>
 </tr>
 <tr>
@@ -1773,7 +1773,7 @@ Usage: #example
 <p>100</p>
 </td>
 <td rowspan="2">
-<p>opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC ;100&rdquo; on the body</p>
+<p>opaque, hard gelatin capsules, size 1, with caramel cap and light orange body, printed with white ink "Pfizer" on the cap, "PBC ;100" on the body</p>
 </td>
 </tr>
 <tr>
@@ -1789,7 +1789,7 @@ Usage: #example
 <p>75</p>
 </td>
 <td rowspan="2">
-<p>opaque, hard gelatin capsules, size 2, with light orange cap and body, printed with white ink &ldquo;Pfizer&rdquo; on the cap, &ldquo;PBC 75&rdquo; on the body</p>
+<p>opaque, hard gelatin capsules, size 2, with light orange cap and body, printed with white ink "Pfizer" on the cap, "PBC 75" on the body</p>
 </td>
 </tr>
 <tr>
