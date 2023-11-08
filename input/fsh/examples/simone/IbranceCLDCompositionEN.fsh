@@ -15,7 +15,7 @@ Usage: #example
 * date = "2023-08-24T00:00:00Z" //Can keep the date as is or change to any date and time you like. Must be in this format though.
 * author = Reference(IbranceMAHOrg) //Add the Instance name for the Organization inside the brackets
 
-* title = "SmPCtemplate" //change the title to any name you like
+* title = "IbranceCLDComposition" //change the title to any name you like
 * language = #en //ISO two letter language code. Defines what language the document text will be.
 
 
