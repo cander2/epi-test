@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Bundle xmlns="http://hl7.org/fhir">
-	<id value="Bundle-PLD-Palbociclib-Ibrance-MYS-Malay"/>
+	<id value="IbranceMalayTest"/>
 	<meta>
 		<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
 	</meta>
 	<language value="en"/>
 	<identifier>
 		<system value="https://www.mhra.gov.uk/"/>
-		<value value="Bundle_PLD_Palbociclib_Ibrance_MYS_Malay"/>
+		<value value="Malay"/>
 	</identifier>
 	<type value="document"/>
 	<timestamp value="2022-08-29T00:00:00Z"/>
 	<entry>
-		<fullUrl value="Composition/PLD-Palbociclib-Ibrance-MYS-Malay"/>
+		<fullUrl value="Composition/Malay"/>
 		<resource>
 			<Composition>
-				<id value="PLD-Palbociclib-Ibrance-MYS-Malay"/>
+				<id value="Malay"/>
 				<meta>
 					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
 				</meta>
@@ -34,7 +34,7 @@
 				</extension>
 				<identifier>
 					<system value="https://www.mhra.gov.uk/"/>
-					<value value="5c325525-549e-4107-938e-bdbf57377cbb"/>
+					<value value="6c325525-549e-4107-938e-bdbf57377cbb"/>
 				</identifier>
 				<status value="final"/>
 				<type>
@@ -48,7 +48,7 @@
 				<author>
 					<reference value="Organization/Organization-PLD-Palbociclib-Ibrance-MYS-Malay"/>
 				</author>
-				<title value="Composition PLD Palbociclib Ibrance MYS Malay"/>
+				<title value="Malay image test"/>
 				<section>
 					<title value="Package Leaflet: Information for the user"/>
 					<code>
