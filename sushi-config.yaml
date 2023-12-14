@@ -11,7 +11,6 @@
 # │  http://build.fhir.org/ig/HL7/fhir-shorthand/branches/beta/sushi.html#ig-development           │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: hl7.fhir.uv.epi-test
-canonical: http://hl7.org/fhir/uv/epi-test
 version: 0.1.0
 name: ImplementationGuide
 title: Miscellaneous ePI Test
