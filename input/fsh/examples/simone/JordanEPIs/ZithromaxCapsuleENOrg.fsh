@@ -1,4 +1,4 @@
-Instance: org-1134a7374c78f1d40f41885344f06a5a
+Instance: ZithromaxCapsuleENOrg
 InstanceOf: OrganizationUvEpi
 Title: "Pfizer Limited, Ramsgate Road, Sandwich, Kent, CT13 9NJ, United Kingdom"
 Description: "Pfizer Limited, Ramsgate Road, Sandwich, Kent, CT13 9NJ, United Kingdom"
