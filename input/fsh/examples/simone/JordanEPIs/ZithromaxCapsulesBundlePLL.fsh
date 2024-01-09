@@ -1,7 +1,7 @@
 
 Instance: ZithromaxCapsulesBundlePLL
 InstanceOf: BundleUvEpi
-Title: "ePI document Bundle for zithromax (azithromycin) 250 mg capsules - Jordanian Package Leaflet"
+Title: "Bundle for zithromax (azithromycin) 250 mg capsules - Jordanian Package Leaflet"
 Description: "Bundle for zithromax (azithromycin) 250 mg capsules - Jordanian Package Leaflet"
 Usage: #example
 
