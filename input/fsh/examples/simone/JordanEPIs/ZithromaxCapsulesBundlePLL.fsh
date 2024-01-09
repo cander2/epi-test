@@ -1,5 +1,5 @@
 
-Instance: bundlepackageleaflet-378d610f9c96d541562699215b0864126
+Instance: ZithromaxCapsulesBundlePLL
 InstanceOf: BundleUvEpi
 Title: "ePI document Bundle for zithromax (azithromycin) 250 mg capsules - Jordanian Package Leaflet"
 Description: "Bundle for zithromax (azithromycin) 250 mg capsules - Jordanian Package Leaflet"
