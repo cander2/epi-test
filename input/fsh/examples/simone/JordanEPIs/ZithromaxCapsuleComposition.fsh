@@ -27,11 +27,11 @@ Usage: #inline
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
-        <p>Zithromax®</p>
-        <p>ZITHROMAX 250 mg hard capsules</p>
+        <p><b>Zithromax®</b></p>
+        <p><b>ZITHROMAX 250 mg hard capsules</b></p>
         <p>Azithromycin</p>
         <p>Reference Market : UK</p>
-        <p>PACKAGE LEAFLET</p>
+        <p><b>PACKAGE LEAFLET</b></p>
   </div>"""   
       
 * section[=].section[+]
@@ -40,10 +40,10 @@ Usage: #inline
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-          <p>ZITHROMAX® 250 mg Capsules</p>
-        <p>azithromycin</p>  
-  <p>Read all of this leaflet carefully before you start taking this medicine because it
-            contains important information for you. </p>
+          <p><b>ZITHROMAX® 250 mg Capsules</b></p>
+        <p><b>azithromycin</b></p>  
+  <p><b>Read all of this leaflet carefully before you start taking this medicine because it
+            contains important information for you. </b></p>
         <ul>
             <li>Keep this leaflet. You may need to read it again. </li>
             <li>If you have any further questions, ask your doctor or pharmacist. </li>
@@ -84,8 +84,8 @@ Usage: #inline
                 throat (pharyngitis) and sinusitis) </li>
             <li>ear infections </li>
             <li>skin and soft tissue infections (such as an abscess or boil) </li>
-            <li>sexually transmitted diseases caused by organisms called Chlamydia trachomatis and
-                Neisseria gonorrhoea. </li>
+            <li>sexually transmitted diseases caused by organisms called <i>Chlamydia trachomatis and
+                Neisseria gonorrhoea. </i></li>
         </ul>
         <p> You must talk to a doctor if you do not feel better or if you feel worse.</p>  
   </div>"""   
@@ -344,7 +344,7 @@ Usage: #inline
 <p><b>MANUFACTURER, PACKAGER &amp; RELEASER</b></p>
         <p>Haupt Pharma Latina S.r.l. S.S. 156, Km 47.600; Borgo San Michele, 04100 Latina,
             Italy</p>
-        <p>This leaflet was last revised in: <b>November 2020</b></p>
+        <p>This leaflet was last revised in: <b>March 2022</b></p>
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
