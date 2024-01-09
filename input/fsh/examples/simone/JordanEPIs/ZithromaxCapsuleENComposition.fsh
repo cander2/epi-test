@@ -132,6 +132,7 @@ Usage: #inline
             <li>digoxin (used to treat heart failure)</li>
             <li>colchicine (used for gout and familial Mediterranean fever)</li>
             <li>terfenadine (for hay fever or a skin allergy). </li>
+            <li>hydroxychloroquine or chloroquine (used to treat conditions including rheumatoid arthritis, or to treat or prevent malaria): Taking these medicines at the same time as azithromycin may increase the chance of you getting side effects that affect your heart.</li>
         </ul>
         
 <p><b>Zithromax with food and drink</b></p>
