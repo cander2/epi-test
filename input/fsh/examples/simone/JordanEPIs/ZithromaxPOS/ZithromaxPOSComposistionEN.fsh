@@ -144,46 +144,7 @@ Usage: #inline
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-        <p>Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
-	<p>The pharmacist should have advised you whether to measure the medicine using the multi-dosing spoon or the oral dosing syringe (15 ml pack only). </p>
-	<p>Zithromax suspension is generally used for children under 7 stones (45 kg). It may also be used in adults and older children who have difficulty swallowing capsules. </p>
-	<p>Zithromax suspension is not affected by food or drink. </p>
-	<p><b>Children under 45 kg</b></p>
-	<p>The recommended dose in children is 10 mg for each kg of bodyweight, given as a single daily dose for 3 days. </p>
-	<p>Adults and children over 45 kg</b></p>
-	<p>The recommended dose in adults and in children over 7 stones (45 kg) is 500 mg taken as a single dose, for 3 days. For some diseases such as Chlamydia the recommended dose is 1 g daily taken as a single dose. For gonorrhoea the recommended dose is 1 g or 2 g of azithromycin in combination with 250 or 500 mg of ceftriaxone. </p>
-        <p>You should tell your doctor if you/your child have kidney or liver problems as your doctor may need to alter the normal dose. </p>
-	<p>Doctors sometimes prescribe different doses to the recommended dose. The label on the pack will tell you which dose you/your child should take. If you are still not sure, ask your doctor or pharmacist. </p>
-<p>Always continue with the course of treatment even if you/your child feel better. If your infection gets worse or you do not start to feel better within a few days or a new infection develops, go back and see your doctor. </p>
-	<p><b>How to give Zithromax Suspension in children less than 3 years of age</b></p>
-	<p>If your child is under three years of age or weighs up to 15 kg in bodyweight, you should measure the dose as clearly as possible using the 10 ml oral dosing syringe provided. The syringe is graduated in 0.25 ml divisions, providing 10 mg of azithromycin (the active ingredient) in every graduation. </p>
-	<p><b>A.	Instructions for the syringe</b></p>
-	<p><b>Filling the syringe with medicine</b></p>
-<ol>
-	<li>1.	Shake the bottle before use and remove the child-proof cap. </li>
-	<li>2.	An adaptor for the syringe should have been fitted into the neck of the bottle of medicine by the pharmacist. If this has not been done, take off the adaptor from the syringe and fit to the neck of the bottle as shown. The adaptor is so that you can fill the syringe with medicine from the bottle. </li>
-	<li>3.	Check the dispensing label attached by your pharmacist to see how much medicine needs to be taken. </li>
-	<li>4.	While the bottle is sitting on a firm, flat surface, hold it steady with one hand. With the other hand insert the tip of the syringe into the adaptor. </li>
-	<li>5.	Turn the bottle upside down while holding the syringe in place. </li>
-	<li>6.	Slowly pull back the plunger of the syringe so that the top edge is level with the graduation mark corresponding to the quantity in the millilitres (ml) prescribed by your doctor. </li>
-	<li>7.	If large bubbles can be seen in the syringe, slowly push the plunger back into the syringe.  This will force the medicine back into the bottle. Repeat step 6 again. </li>
-	<li>8.	Hold the syringe and bottle firmly. Turn the bottle upright, with the syringe still in place. </li>
-	<li>9.	Remove syringe from bottle. </li>
-</ol>
-	<p><b>Giving the medicine using the syringe</b></p>
-<ol>
-	<li>1.	Make sure your child is supported in an upright position. </li>
-	<li>2.	Put the tip of the syringe carefully into your child's mouth. Point the tip of the syringe towards the inside of your child’s cheek. </li>
-	<li>3.	Slowly push down the plunger of the syringe: <b>Do not squirt it out quickly</b>. The medicine will trickle into your child’s mouth. </li>
-	<li>4.	Allow your child some time to swallow the medicine. </li>
-	<li>5.	Replace the child-proof cap on the bottle. Wash the syringe as instructed below. </li>
-	<li>6.	Where daily doses of less than 5ml have been given for three days, some suspension will remain in the bottle. This remaining suspension should be discarded. </li>
-</ol>
-	<p><b>Cleaning and storing the syringe</b></p>
-<ol>
-	<li>1.	Pull the plunger out of the syringe and wash both parts by holding under warm running water or by immersing in sterilising solution used for baby’s feeding bottles, etc. </li>
-	<li>2.	Dry the two parts. Push the plunger back into the syringe. Keep it in a clean safe place with the medicine. After you have given your child the final dose of medicine, wrap the syringe in a sheet of newspaper and put it in the rubbish bin. </li>
-</ol>
+       
 	
   </div>"""         
     
