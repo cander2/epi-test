@@ -186,6 +186,41 @@ Usage: #inline
 </ol>
 <p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
 
+
+
+
+	<p><b>B.	Instructions for the plastic spoon</b></p>
+	
+		<p>The spoon should not be used for children less than 3 years of age (less than 2½ stones).</p>
+	 
+		<p><b>Giving the medicine using the spoon. </b></p>
+	
+<ol>
+	
+	<li><p>A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
+			<p>2.5 ml 	(100 mg)		Small end	to graduation</p>
+			<p>		(illustration) </p>
+			<p>5 ml	(200 mg)		Small end	brimful</p>
+			<p>		(illustration) </p>
+			<p>7.5 ml	(300 mg)		Large end	to graduation</p>
+			<p>		(illustration) </p>
+			<p>10 ml	(400 mg)		Large end	brimful</p>
+			<p>		(illustration) </p>
+	</li>
+	<li>Shake the bottle well and then remove the child-proof cap. </li>
+	<li>Gently pour the medicine into the spoon as required to give the correct dose. </li>
+	<li>Allow the patient to swallow the medicine slowly. </li>
+	<li>Wash the spoon under warm, running water. Dry and store it with the medicine in a safe place. </li>
+</ol>
+<p><b>Warning: if giving this medicine to a child, ensure that while receiving the medicine he/she is supported in an upright position to avoid the risk of choking. </b></p>
+<p><b>If you/your child takes more Zithromax than they should</b></p>
+<p>If you/your child take too much Zithromax they may feel unwell. Tell your doctor or contact your nearest hospital casualty department immediately. Take any remaining medicine with you.</p>
+<p><b>If you forget to take or give Zithromax</b></p>
+<p>If you forget to take Zithromax take it as soon as you can. Take your next dose at the right time. Do not take a double dose to make up for a forgotten dose. </p>
+<p><b>If you stop taking Zithromax</b></p>
+<p>If you/your child stop taking Zithromax too soon, the infection may return. Take Zithromax for the full time of treatment, even when you/your child begin to feel better. </p>
+	<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist. </p>
+
 	
   </div>"""         
     
