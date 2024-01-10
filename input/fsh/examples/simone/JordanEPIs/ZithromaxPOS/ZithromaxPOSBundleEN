@@ -12,16 +12,16 @@ Usage: #example
 * timestamp = "2023-06-20T13:28:17Z"
 
 // Composition
-* entry[0].fullUrl = "Composition/ComposistionZithromaxCapsuleJordan"
-* entry[0].resource = ComposistionZithromaxCapsuleJordan
+* entry[0].fullUrl = "Composition/ZithromaxPOSComposistionEN"
+* entry[0].resource = ZithromaxPOSComposistionEN
 
 // Organization
 
-//* entry[+].fullUrl = "Organization/ZithromaxCapsuleENOrg"
-//* entry[=].resource = ZithromaxCapsuleENOrg
+//* entry[+].fullUrl = "Organization/ZithromaxPOSOrgEN"
+//* entry[=].resource = ZithromaxPOSOrgEN
  
 
 // MedicinalProductDefinition
 
-* entry[+].fullUrl = "MedicinalProductDefinition/ZithromaxMedicinalProduct"
-* entry[=].resource = ZithromaxMedicinalProduct 
+* entry[+].fullUrl = "MedicinalProductDefinition/ZithromaxMedicinalProductEN"
+* entry[=].resource = ZithromaxMedicinalProductEN 
