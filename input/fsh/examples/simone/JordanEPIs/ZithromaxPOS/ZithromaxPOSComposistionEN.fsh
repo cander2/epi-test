@@ -232,14 +232,14 @@ Usage: #inline
 <ol>
 	
 	<li><p>A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
-			<p>2.5 ml 	(100 mg)		Small end	to graduation</p>
-			<p>		(illustration) </p>
-			<p>5 ml	(200 mg)		Small end	brimful</p>
-			<p>		(illustration) </p>
-			<p>7.5 ml	(300 mg)		Large end	to graduation</p>
-			<p>		(illustration) </p>
-			<p>10 ml	(400 mg)		Large end	brimful</p>
-			<p>		(illustration) </p>
+			<p>2.5 ml &nbsp;&nbsp;&nbsp;&nbsp; (100 mg) &nbsp;&nbsp;&nbsp;&nbsp; Small end &nbsp;&nbsp;&nbsp;&nbsp; to graduation</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
+			<p>5 ml &nbsp;&nbsp;&nbsp;&nbsp; (200 mg) &nbsp;&nbsp;&nbsp;&nbsp; Small end &nbsp;&nbsp;&nbsp;&nbsp; brimful</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
+			<p>7.5 ml &nbsp;&nbsp;&nbsp;&nbsp; (300 mg) &nbsp;&nbsp;&nbsp;&nbsp; Large end &nbsp;&nbsp;&nbsp;&nbsp; to graduation</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
+			<p>10 ml &nbsp;&nbsp;&nbsp;&nbsp; (400 mg) &nbsp;&nbsp;&nbsp;&nbsp; Large end &nbsp;&nbsp;&nbsp;&nbsp; brimful</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
 	</li>
 	<li>Shake the bottle well and then remove the child-proof cap. </li>
 	<li>Gently pour the medicine into the spoon as required to give the correct dose. </li>
