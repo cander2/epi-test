@@ -1,7 +1,7 @@
 Instance: compositionzi1946d2b12fecbbb0310cd8c196c98a58
 InstanceOf: CompositionUvEpi
-Title: "Composition for zithromax (azithromycin) 250 mg capsules -  النشرة الداخلية: معلومات للمريض - كبسولات زيثروماكس® 250 مجم"
-Description:  "Composition for zithromax (azithromycin) 250 mg capsules -  النشرة الداخلية: معلومات للمريض - كبسولات زيثروماكس® 250 مجم"
+Title: "Composition for zithromax (azithromycin) 200 mg/5 ml powder for oral suspension - زيثروماكس® 200 مجم في معلق 5 مل - أزيثرومايسين"
+Description:  "Composition for zithromax (azithromycin) 200 mg/5 ml powder for oral suspension - زيثروماكس® 200 مجم في معلق 5 مل - أزيثرومايسين"
 Usage: #inline
 
 * identifier[+].system = "https://www.jfda.jo"
@@ -16,7 +16,7 @@ Usage: #inline
 * date = "2023-06-20T13:28:17Z"
 * author = Reference(org-1135a7374c78f1d40f41885344f06a5a) //Organization
 
-* title = "TEST PURPOSES ONLY - كبسولات زيثروماكس® 250 مجم "
+* title = "Zithromax (azithromycin) 200 mg/5 ml powder for oral suspension - زيثروماكس® 200 مجم في معلق 5 مل - أزيثرومايسين"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #ar
@@ -27,11 +27,11 @@ Usage: #inline
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
-        <p>زيثروماكس®</p>
-        <p>زيثروماكس 250 مجم كبسولات صلبة</p>
+        <p><b>زيثروماكس®</b></p>
         <p>أزيثرومايسين</p>
+        <p>مسحوق 200 مغ/5 مل لتحضير معلق للاستعمال عبر الفم </p>
         <p>السوق المرجعية: المملكة المتحدة</p>
-        <p>النشرة الداخلية</p>
+        <p><b>النشرة الداخلية</b></p>
   </div>"""   
       
 * section[=].section[+]
@@ -40,19 +40,17 @@ Usage: #inline
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-                <p>كبسولات زيثروماكس® 250 مجم </p>
-        <p>أزيثرومايسين</p>
-        <p>اقرأ هذه النشرة بالكامل بعناية قبل البدء في تناول هذا الدواء لأنها تحتوي على معلومات مهمة
-            لك.</p>
+                <p>زيثروماكس® 200 مجم في معلق 5 مل </p>
+                <p>أزيثرومايسين</p>
+                <p>(صورة للعبوة)</p>
+        <p><b>اقرأ هذه النشرة بالكامل بعناية قبل البدء في تناول هذا الدواء لأنها تحتوي على معلومات مهمة لك.</b></p>
         <ul>
-            <li>احتفظ بهذه النشرة. فقد تحتاج إلى قراءتها مرة أخرى.</li>
+            <li>احتفظ بهذه النشرة. فقد تحتاج إلى قراءتها مجددًا.</li>
             <li>إذا كانت لديك أي أسئلة أخرى، فاسأل طبيبك أو الصيدلي.</li>
-            <li>لقد وُصف هذا الدواء لك أنت فقط. فلا تعطه للآخرين. فقد يسبب لهم ضررًا، حتى إذا كانت
-                علامات مرضهم مطابقة لعلامات مرضك.</li>
-            <li>إذا أصبت بأي آثار جانبية، فتحدث إلى طبيبك أو الصيدلي بشأنها. يتضمن هذا أي آثار
-                جانبية محتملة غير مدرجة في هذه النشرة. انظر القسم 4.</li>
+            <li>لقد تم وصف هذا الدواء لك أنت فقط. فلا تعطه لآخرين. فقد يسبب لهم ضررًا، حتى وإن كانوا يعانون من نفس العلامات المرضية التي تعاني منها.</li>
+            <li>إذا أصبت بأي آثار جانبية، فتحدث إلى طبيبك أو الصيدلي بشأنها. يتضمن هذا أي آثار جانبية محتملة غير مدرجة في هذه النشرة. انظر القسم 4.</li>
         </ul>
-        <p>(صورة للعبوة)</p>
+        
   </div>"""   
 
 * section[=].section[+]
