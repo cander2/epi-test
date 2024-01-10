@@ -94,7 +94,7 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p><b>Do not take Zithromax:</b></p>
-        <p>• if you/your child are allergic to azithromycin or any other macrolide antibiotic such as erythromycin or clarithromycin or any of the ingredients listed in section 6. An allergic reaction may cause skin rash or wheezing.</p>
+        <p>if you/your child are allergic to azithromycin or any other macrolide antibiotic such as erythromycin or clarithromycin or any of the ingredients listed in section 6. An allergic reaction may cause skin rash or wheezing.</p>
         
 <p><b>Warnings and precautions</b></p>
         <p> Talk to your doctor or pharmacist before taking Zithromax if you/your child have or have had any of the following: </p>
@@ -184,74 +184,7 @@ Usage: #inline
 	<li>1.	Pull the plunger out of the syringe and wash both parts by holding under warm running water or by immersing in sterilising solution used for baby’s feeding bottles, etc. </li>
 	<li>2.	Dry the two parts. Push the plunger back into the syringe. Keep it in a clean safe place with the medicine. After you have given your child the final dose of medicine, wrap the syringe in a sheet of newspaper and put it in the rubbish bin. </li>
 </ol>
-	<p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
-	<table border="1"> 
 	
-	<tbody>
-	        <tr>
-	            <th><p><b> Bodyweight and age</b></p></th>
-                    <th><p><b> Dose and duration</b></p></th>
-	        </tr>
-	        <tr>
-	            <td>
-	                  <p>15-25 kg bodyweight (3-7 years): (Between 2½ and 4 stones) </p>
-	            </td>
-	            <td>
-	                 <p>5 ml (200 mg), given as 1 x 5 ml spoonful, once daily for 3 days.</p>
-	            </td>
-	        </tr>
-	        <tr>
-	             <td>
-	                  <p>26-35 kg bodyweight (8-11 years): (Between 4 and 5½ stones)</p>
-	            </td>
-	            <td>
-	                 <p>7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
-	            </td>
-	        </tr>
-	        <tr>
-	             <td>
-	                  <p>36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
-	            </td>
-	            <td>
-	                 <p>10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
-	            </td>
-	        </tr>
-	</tbody>
-	
-	</table>
-
-	
-	<p><b>B.	Instructions for the plastic spoon</b></p>
-	
-		<p>The spoon should not be used for children less than 3 years of age (less than 2½ stones).</p>
-	 
-		<p><b>Giving the medicine using the spoon. </b></p>
-	
-<ol>
-	
-	<li><p>1.	A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
-			<p>2.5 ml 	(100 mg)		Small end	to graduation</p>
-			<p>		(illustration) </p>
-			<p>5 ml	(200 mg)		Small end	brimful</p>
-			<p>		(illustration) </p>
-			<p>7.5 ml	(300 mg)		Large end	to graduation</p>
-			<p>		(illustration) </p>
-			<p>10 ml	(400 mg)		Large end	brimful</p>
-			<p>		(illustration) </p>
-	</li>
-	<li>2.	Shake the bottle well and then remove the child-proof cap. </li>
-	<li>3.	Gently pour the medicine into the spoon as required to give the correct dose. </li>
-	<li>4.	Allow the patient to swallow the medicine slowly. </li>
-	<li>5.	Wash the spoon under warm, running water. Dry and store it with the medicine in a safe place. </li>
-</ol>
-<p><b>Warning: if giving this medicine to a child, ensure that while receiving the medicine he/she is supported in an upright position to avoid the risk of choking. </b></p>
-<p><b>If you/your child takes more Zithromax than they should</b></p>
-<p>If you/your child take too much Zithromax they may feel unwell. Tell your doctor or contact your nearest hospital casualty department immediately. Take any remaining medicine with you.</p>
-<p><b>If you forget to take or give Zithromax</b></p>
-<p>If you forget to take Zithromax take it as soon as you can. Take your next dose at the right time. Do not take a double dose to make up for a forgotten dose. </p>
-<p><b>If you stop taking Zithromax</b></p>
-<p>If you/your child stop taking Zithromax too soon, the infection may return. Take Zithromax for the full time of treatment, even when you/your child begin to feel better. </p>
-	<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist. </p>
   </div>"""         
     
 * section[=].section[+]
