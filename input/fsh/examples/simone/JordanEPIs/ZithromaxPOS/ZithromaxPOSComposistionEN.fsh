@@ -12,7 +12,7 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(ZithromaxMedicinalProductEN) //Medicinal Product
+* subject = Reference(ZithromaxPOSMedicinalProduct) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
 * author = Reference(ZithromaxPOSOrgEN) //Organization
 
