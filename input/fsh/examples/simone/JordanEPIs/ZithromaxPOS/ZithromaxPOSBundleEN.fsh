@@ -23,5 +23,5 @@ Usage: #example
 
 // MedicinalProductDefinition
 
-* entry[+].fullUrl = "MedicinalProductDefinition/ZithromaxMedicinalProductEN"
-* entry[=].resource = ZithromaxMedicinalProductEN 
+* entry[+].fullUrl = "MedicinalProductDefinition/ZithromaxPOSMedicinalProduct"
+* entry[=].resource = ZithromaxPOSMedicinalProduct 
