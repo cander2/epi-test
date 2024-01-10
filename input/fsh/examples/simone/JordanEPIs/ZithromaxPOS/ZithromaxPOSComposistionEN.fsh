@@ -173,7 +173,7 @@ Usage: #inline
 	<p><b>Giving the medicine using the syringe</b></p>
 <ol>
 	<li>1.	Make sure your child is supported in an upright position. </li>
-	<li>2.	Put the tip of the syringe carefully into your child’s mouth. Point the tip of the syringe towards the inside of your child’s cheek. </li>
+	<li>2.	Put the tip of the syringe carefully into your child's mouth. Point the tip of the syringe towards the inside of your child’s cheek. </li>
 	<li>3.	Slowly push down the plunger of the syringe: <b>Do not squirt it out quickly</b>. The medicine will trickle into your child’s mouth. </li>
 	<li>4.	Allow your child some time to swallow the medicine. </li>
 	<li>5.	Replace the child-proof cap on the bottle. Wash the syringe as instructed below. </li>
