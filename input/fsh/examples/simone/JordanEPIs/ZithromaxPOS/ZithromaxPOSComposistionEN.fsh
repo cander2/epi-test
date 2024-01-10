@@ -161,13 +161,11 @@ Usage: #inline
 	<p><b>Filling the syringe with medicine</b></p>
 <ol>
 	<li>1.	Shake the bottle before use and remove the child-proof cap. </li>
-	<li>2.	An adaptor for the syringe should have been fitted into the neck of the bottle of
-		medicine by the pharmacist. If this has not been done, take off the adaptor from the syringe and fit to the neck of the bottle as shown. The adaptor is so that you can fill the syringe with medicine from the bottle. </li>
+	<li>2.	An adaptor for the syringe should have been fitted into the neck of the bottle of medicine by the pharmacist. If this has not been done, take off the adaptor from the syringe and fit to the neck of the bottle as shown. The adaptor is so that you can fill the syringe with medicine from the bottle. </li>
 	<li>3.	Check the dispensing label attached by your pharmacist to see how much medicine needs to be taken. </li>
 	<li>4.	While the bottle is sitting on a firm, flat surface, hold it steady with one hand. With the other hand insert the tip of the syringe into the adaptor. </li>
 	<li>5.	Turn the bottle upside down while holding the syringe in place. </li>
-	<li>6.	Slowly pull back the plunger of the syringe so that the top edge is
-		level with the graduation mark corresponding to the quantity in the millilitres (ml) prescribed by your doctor. </li>
+	<li>6.	Slowly pull back the plunger of the syringe so that the top edge is level with the graduation mark corresponding to the quantity in the millilitres (ml) prescribed by your doctor. </li>
 	<li>7.	If large bubbles can be seen in the syringe, slowly push the plunger back into the syringe.  This will force the medicine back into the bottle. Repeat step 6 again. </li>
 	<li>8.	Hold the syringe and bottle firmly. Turn the bottle upright, with the syringe still in place. </li>
 	<li>9.	Remove syringe from bottle. </li>
@@ -191,8 +189,8 @@ Usage: #inline
 	
 	<tbody>
 	        <tr>
-	            <th> <p><b> Bodyweight and age </b></p></th>
-            <th> <p><b> Dose and duration</b></p></th>
+	            <th><p><b> Bodyweight and age</b></p></th>
+                    <th><p><b> Dose and duration</b></p></th>
 	        </tr>
 	        <tr>
 	            <td>
@@ -207,15 +205,15 @@ Usage: #inline
 	                  <p>26-35 kg bodyweight (8-11 years): (Between 4 and 5½ stones)</p>
 	            </td>
 	            <td>
-	                 <p>	7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
+	                 <p>7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
 	            </td>
 	        </tr>
 	        <tr>
 	             <td>
-	                  <p>	36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
+	                  <p>36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
 	            </td>
 	            <td>
-	                 <p>	10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
+	                 <p>10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
 	            </td>
 	        </tr>
 	</tbody>
@@ -232,7 +230,6 @@ Usage: #inline
 <ol>
 	
 	<li><p>1.	A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
-	
 			<p>2.5 ml 	(100 mg)		Small end	to graduation</p>
 			<p>		(illustration) </p>
 			<p>5 ml	(200 mg)		Small end	brimful</p>
@@ -263,8 +260,7 @@ Usage: #inline
   * code.text = "4. Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Like all medicines, this medicine can cause side effects although not everybody gets
-            them. </p>
+<p>Like all medicines, this medicine can cause side effects although not everybody gets them. </p>
         <p><b>Tell your doctor immediately if you experience any of the following symptoms after taking this medicine as the symptoms can be severe.</b></p>
         <ul>
             <li>sudden wheeziness, difficulty in breathing, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body)</li>
