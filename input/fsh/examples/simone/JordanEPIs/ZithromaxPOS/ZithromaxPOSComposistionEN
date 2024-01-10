@@ -12,9 +12,9 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(ZithromaxMedicinalProduct) //Medicinal Product
+* subject = Reference(ZithromaxMedicinalProductEN) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
-* author = Reference(ZithromaxCapsuleENOrg) //Organization
+* author = Reference(ZithromaxPOSOrgEN) //Organization
 
 * title = "Jordanian zithromax (azithromycin) 200 mg/5 ml powder for oral suspension EN"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
