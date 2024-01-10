@@ -28,8 +28,8 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
         <p><b>Zithromax®</b></p>
-        <p><b>ZITHROMAX 250 mg hard capsules</b></p>
         <p>Azithromycin</p>
+	<p>200 mg/5 ml powder for oral suspension</p>
         <p>Reference Market : UK</p>
         <p><b>PACKAGE LEAFLET</b></p>
   </div>"""   
@@ -40,8 +40,9 @@ Usage: #inline
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-          <p><b>ZITHROMAX® 250 mg Capsules</b></p>
+          <p><b>ZITHROMAX® 200 mg in 5 ml Suspension</b></p>
         <p><b>azithromycin</b></p>  
+	<p>(Pack shot)</p>  
   <p><b>Read all of this leaflet carefully before you start taking this medicine because it
             contains important information for you. </b></p>
         <ul>
@@ -76,16 +77,12 @@ Usage: #inline
   * code.text = "1. What x is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-  <p>This medicine contains azithromycin, which is one of a group of antibiotics called
-            macrolides. It is used to treat infections caused by certain bacteria and other
-            micro-organisms, which include: </p>
+  <p> This medicine contains azithromycin (when reconstituted each 5ml contains 200mg of azithromycin equivalent to 209.60 mg per 5ml Azithromycin dehydrate), which is one of a group of antibiotics called macrolides. It is used to treat infections caused by certain bacteria and other micro-organisms which include:</p>
         <ul>
-            <li>chest, throat or nasal infections (such as bronchitis, pneumonia, tonsillitis, sore
-                throat (pharyngitis) and sinusitis) </li>
+            <li>chest, throat or nasal infections (such as bronchitis, pneumonia, tonsillitis, sore throat (pharyngitis) and sinusitis) </li>
             <li>ear infections </li>
             <li>skin and soft tissue infections (such as an abscess or boil) </li>
-            <li>sexually transmitted diseases caused by organisms called <i>Chlamydia trachomatis and
-                Neisseria gonorrhoea. </i></li>
+            <li>sexually transmitted diseases caused by organisms called <i>Chlamydia trachomatis or Neisseria gonorrhoea. </i></li>
         </ul>
         <p> You must talk to a doctor if you do not feel better or if you feel worse.</p>  
   </div>"""   
@@ -97,64 +94,47 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p><b>Do not take Zithromax:</b></p>
-        <p>• if you are allergic to azithromycin or any other macrolide antibiotic such as
-            erythromycin or clarithromycin or any of the ingredients of this medicine (listed in
-            section 6). An allergic reaction may cause skin rash or wheezing.</p>
+        <p>• if you/your child are allergic to azithromycin or any other macrolide antibiotic such as erythromycin or clarithromycin or any of the ingredients listed in section 6. An allergic reaction may cause skin rash or wheezing.</p>
         
 <p><b>Warnings and precautions</b></p>
-        <p> Talk to your doctor or pharmacist before taking Zithromax if you have or have had any of
-            the following conditions: </p>
+        <p> Talk to your doctor or pharmacist before taking Zithromax if you/your child have or have had any of the following: </p>
         <ul>
             <li>kidney problems </li>
             <li>heart conditions </li>
-            <li>liver problems: your doctor may need to monitor your liver function or stop the
-                treatment</li>
+            <li>diabetes </li>
+            <li>liver problems: your doctor may need to monitor your liver function or stop the treatment</li>
             <li>myasthenia gravis (a condition that causes certain muscles to become weak) </li>
-            <li>or if you are taking any ergot derivatives such as ergotamine (used to treat
-                migraine) as these medicines should not be taken together with Zithromax.</li>
+            <li>or if you are taking any ergot derivatives such as ergotamine (used to treat migraine) as these medicines should not be taken together with Zithromax.</li>
         </ul>
-        <p>Tell your doctor immediately if you feel your heart beating in your chest or have an
-            abnormal heartbeat, or get dizzy or faint or suffer from any muscle weakness when taking
-            Zithromax.</p>
-        <p>If you develop diarrhoea or loose stools during or after treatment, tell your doctor at
-            once. Do not take any medicine to treat your diarrhoea without first checking with your
-            doctor. If your diarrhoea continues, please inform your doctor.</p>
+        <p>Tell your doctor immediately if you feel your heart beating in your chest or have an abnormal heartbeat, or get dizzy or faint or suffer from any muscle weakness when taking Zithromax.</p>
+        <p>If you develop diarrhoea or loose stools during or after treatment, tell your doctor at once. Do not take any medicine to treat your diarrhoea without first checking with your doctor. If your diarrhoea continues, please inform your doctor.</p>
         <p><b>Other medicines and Zithromax</b></p>
-        <p>Tell your doctor or pharmacist if you are taking, have recently taken or might take any
-            other medicines.</p>
+        <p>Tell your doctor or pharmacist if you/your child are taking, have recently taken or might take any other medicines.</p>
         <p>In particular, Zithromax may interact with the medicines listed below: </p>
         <ul>
             <li>ergot or ergotamine – see ‘Warnings and precautions’ section </li>
             <li>warfarin or any similar medicine to prevent blood clots</li>
-            <li>ciclosporin (used to suppress the immune system to prevent and treat rejection of a
-                transplanted organ or bone marrow) </li>
+            <li>ciclosporin (used to suppress the immune system to prevent and treat rejection of a transplanted organ or bone marrow) </li>
             <li>antacids (for indigestion)</li>
             <li>digoxin (used to treat heart failure)</li>
             <li>colchicine (used for gout and familial Mediterranean fever)</li>
             <li>terfenadine (for hay fever or a skin allergy). </li>
-            <li>hydroxychloroquine or chloroquine (used to treat conditions including rheumatoid arthritis, or to treat or prevent malaria): Taking these medicines at the same time as azithromycin may increase the chance of you getting side effects that affect your heart.</li>
-        </ul>
+</ul>
         
 <p><b>Zithromax with food and drink</b></p>
-        <p>You should take Zithromax either 1 hour before a meal or 2 hours after a meal. </p>
+        <p>Please refer to section 3. </p>
         
         <p><b>Pregnancy, breast-feeding and fertility</b></p>
-        <p>If you are pregnant or breast-feeding, think you may be pregnant or are planning to have
-            a baby, ask your doctor or pharmacist for advice before taking this medicine. </p>
+        <p>If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. </p>
 
         <p><b>Driving and using machines</b></p>
         <p>Zithromax is not expected to affect your ability to drive or use machines. </p>
         
-<p><b>Zithromax capsules contain lactose</b>, a type of sugar. If you have been told by your doctor
-            that you have an intolerance to some sugars contact your doctor before taking this
-            medicine. </p>
+        <p><b>Zithromax suspension contains sucrose</b>, a type of sugar (3.87 g in 5 ml). If you have been told by your doctor that you have an intolerance to some sugars contact your doctor before taking this medicine. If you are diabetic, you may need to take this into account in your diet.</p>
 
-<p><b>Zithromax capsules contain sulfur dioxide</b>, which may rarely cause severe allergic
-            (hypersensitivity) reactions and wheezing (bronchospasm). </p>
 
 <p><b>Information on sodium content</b></p>
-        <p>Zithromax contains less than 1 mmol sodium (23 mg) per capsule, that is to say
-            essentially ‘sodium free’.</p>    
+        <p>Zithromax contains less than 1 mmol sodium (23 mg) per 5 ml of reconstituted suspension, that is to say essentially ‘sodium free’.</p>    
   
   </div>"""   
                     
@@ -164,36 +144,49 @@ Usage: #inline
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Always take this medicine exactly as your doctor has told you. Check with your doctor or
-            pharmacist if you are not sure. The capsules should be swallowed whole. </p>
-        <p>The recommended dose in adults and children over 7 stones (45 kg) is 500 mg (2 capsules)
-            taken together, once a day, for 3 days. For some diseases such as Chlamydia the
-            recommended dose is 1 g (4 capsules) taken all together on one day only. For gonorrhoea
-            the recommended dose is 1 g or 2 g of azithromycin in combination with 250 or 500 mg of
-            ceftriaxone.</p>
-        <p>Zithromax capsules should not be taken by children weighing less than 45 kg. </p>
-        <p>You should tell your doctor if you have kidney or liver problems as your doctor may need
-            to alter the normal dose.</p>
-        <p>Doctors sometimes prescribe different doses to the recommended dose. The label on the
-            pack will tell you which dose you should take. If you are still not sure, ask your
-            doctor or pharmacist. </p>
-        <p>Always continue with the course even if you feel better. If your infection gets worse or
-            you do not start to feel better within a few days or a new infection develops, go back
-            and see your doctor. </p>
-        
-<p><b>If you take more Zithromax than you should</b></p>
-        <p>If you take too much Zithromax you may feel unwell. Tell your doctor or contact your
-            nearest hospital casualty department immediately. </p>
-        
-<p><b>If you forget to take Zithromax</b></p>
-        <p>If you forget to take Zithromax take it as soon as you can. Take your next dose at the
-            right time. Do not take a double dose to make up for a forgotten dose. </p>
-
-<p><b>If you stop taking Zithromax</b></p>
-        <p>If you stop taking Zithromax too soon, the infection may return. Take the capsules for
-            the full time of treatment, even when you begin to feel better. </p>
-        <p>If you have any further questions about the use of this medicine, ask your doctor or
-            pharmacist. </p>  
+        <p>Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
+	<p>The pharmacist should have advised you whether to measure the medicine using the multi-dosing spoon or the oral dosing syringe (15 ml pack only). </p>
+	<p>Zithromax suspension is generally used for children under 7 stones (45 kg). It may also be used in adults and older children who have difficulty swallowing capsules. </p>
+	<p>Zithromax suspension is not affected by food or drink. </p>
+	<p><b>Children under 45 kg</b></p>
+	<p>The recommended dose in children is 10 mg for each kg of bodyweight, given as a single daily dose for 3 days. </p>
+	<p>Adults and children over 45 kg</b></p>
+	<p>The recommended dose in adults and in children over 7 stones (45 kg) is 500 mg taken as a single dose, for 3 days. For some diseases such as Chlamydia the recommended dose is 1 g daily taken as a single dose. For gonorrhoea the recommended dose is 1 g or 2 g of azithromycin in combination with 250 or 500 mg of ceftriaxone. </p>
+        <p>You should tell your doctor if you/your child have kidney or liver problems as your doctor may need to alter the normal dose. </p>
+	<p>Doctors sometimes prescribe different doses to the recommended dose. The label on the pack will tell you which dose you/your child should take. If you are still not sure, ask your doctor or pharmacist. </p>
+<p>Always continue with the course of treatment even if you/your child feel better. If your infection gets worse or you do not start to feel better within a few days or a new infection develops, go back and see your doctor. </p>
+	<p><b>How to give Zithromax Suspension in children less than 3 years of age</b></p>
+	<p>If your child is under three years of age or weighs up to 15 kg in bodyweight, you should measure the dose as clearly as possible using the 10 ml oral dosing syringe provided. The syringe is graduated in 0.25 ml divisions, providing 10 mg of azithromycin (the active ingredient) in every graduation. </p>
+	<p><b>A.	Instructions for the syringe</b></p>
+	<p><b>Filling the syringe with medicine</b></p>
+<ol>
+	<li>1.	Shake the bottle before use and remove the child-proof cap. </li>
+	<li>2.	An adaptor for the syringe should have been fitted into the neck of the bottle of
+		medicine by the pharmacist. If this has not been done, take off the adaptor from the syringe and fit to the neck of the bottle as shown. The adaptor is so that you can fill the syringe with medicine from the bottle. </li>
+	<li>3.	Check the dispensing label attached by your pharmacist to see how much medicine needs to be taken. </li>
+	<li>4.	While the bottle is sitting on a firm, flat surface, hold it steady with one hand. With the other hand insert the tip of the syringe into the adaptor. </li>
+	<li>5.	Turn the bottle upside down while holding the syringe in place. </li>
+	<li>6.	Slowly pull back the plunger of the syringe so that the top edge is
+		level with the graduation mark corresponding to the quantity in the millilitres (ml) prescribed by your doctor. </li>
+	<li>7.	If large bubbles can be seen in the syringe, slowly push the plunger back into the syringe.  This will force the medicine back into the bottle. Repeat step 6 again. </li>
+	<li>8.	Hold the syringe and bottle firmly. Turn the bottle upright, with the syringe still in place. </li>
+	<li>9.	Remove syringe from bottle. </li>
+</ol>
+	<p><b>Giving the medicine using the syringe</b></p>
+<ol>
+	<li>1.	Make sure your child is supported in an upright position. </li>
+	<li>2.	Put the tip of the syringe carefully into your child’s mouth. Point the tip of the syringe towards the inside of your child’s cheek. </li>
+	<li>3.	Slowly push down the plunger of the syringe: <b>Do not squirt it out quickly</b>. The medicine will trickle into your child’s mouth. </li>
+	<li>4.	Allow your child some time to swallow the medicine. </li>
+	<li>5.	Replace the child-proof cap on the bottle. Wash the syringe as instructed below. </li>
+	<li>6.	Where daily doses of less than 5ml have been given for three days, some suspension will remain in the bottle. This remaining suspension should be discarded. </li>
+</ol>
+	<p><b>Cleaning and storing the syringe</b></p>
+<ol>
+	<li>1.	Pull the plunger out of the syringe and wash both parts by holding under warm running water or by immersing in sterilising solution used for baby’s feeding bottles, etc. </li>
+	<li>2.	Dry the two parts. Push the plunger back into the syringe. Keep it in a clean safe place with the medicine. After you have given your child the final dose of medicine, wrap the syringe in a sheet of newspaper and put it in the rubbish bin. </li>
+</ol>
+	<p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
   </div>"""         
     
 * section[=].section[+]
