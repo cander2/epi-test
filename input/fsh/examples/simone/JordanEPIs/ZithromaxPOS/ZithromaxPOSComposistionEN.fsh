@@ -144,7 +144,22 @@ Usage: #inline
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-       
+       <p>Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
+	<p>The pharmacist should have advised you whether to measure the medicine using the multi-dosing spoon or the oral dosing syringe (15 ml pack only). </p>
+	<p>Zithromax suspension is generally used for children under 7 stones (45 kg). It may also be used in adults and older children who have difficulty swallowing capsules. </p>
+	<p>Zithromax suspension is not affected by food or drink. </p>
+	<p><b>Children under 45 kg</b></p>
+	<p>The recommended dose in children is 10 mg for each kg of bodyweight, given as a single daily dose for 3 days. </p>
+	<p><b>Adults and children over 45 kg</b></p>
+	<p>The recommended dose in adults and in children over 7 stones (45 kg) is 500 mg taken as a single dose, for 3 days. For some diseases such as Chlamydia the recommended dose is 1 g daily taken as a single dose. For gonorrhoea the recommended dose is 1 g or 2 g of azithromycin in combination with 250 or 500 mg of ceftriaxone. </p>
+        <p>You should tell your doctor if you/your child have kidney or liver problems as your doctor may need to alter the normal dose. </p>
+	<p>Doctors sometimes prescribe different doses to the recommended dose. The label on the pack will tell you which dose you/your child should take. If you are still not sure, ask your doctor or pharmacist. </p>
+<p>Always continue with the course of treatment even if you/your child feel better. If your infection gets worse or you do not start to feel better within a few days or a new infection develops, go back and see your doctor. </p>
+	<p><b>How to give Zithromax Suspension in children less than 3 years of age</b></p>
+	<p>If your child is under three years of age or weighs up to 15 kg in bodyweight, you should measure the dose as clearly as possible using the 10 ml oral dosing syringe provided. The syringe is graduated in 0.25 ml divisions, providing 10 mg of azithromycin (the active ingredient) in every graduation. </p>
+	<p><b>A.	Instructions for the syringe</b></p>
+	<p><b>Filling the syringe with medicine</b></p>
+
 	
   </div>"""         
     
