@@ -1,5 +1,5 @@
 
-Instance: ZithromaxMedicinalProduct
+Instance: ZithromaxPOSMedicinalProduct
 InstanceOf: MedicinalProductDefinitionUvEpi
 Title: "Medicinal Product zithromax (azithromycin) POS"
 Description: "zithromax (azithromycin) 200 mg/5 ml powder for oral suspension"
