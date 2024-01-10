@@ -187,6 +187,74 @@ Usage: #inline
 	<li>2.	Dry the two parts. Push the plunger back into the syringe. Keep it in a clean safe place with the medicine. After you have given your child the final dose of medicine, wrap the syringe in a sheet of newspaper and put it in the rubbish bin. </li>
 </ol>
 	<p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
+	<table border="1"> 
+	
+	<tbody>
+	        <tr>
+	            <th> <p><b> Bodyweight and age </b></p></th>
+            <th> <p><b> Dose and duration</b></p></th>
+	        </tr>
+	        <tr>
+	            <td>
+	                  <p>15-25 kg bodyweight (3-7 years): (Between 2½ and 4 stones) </p>
+	            </td>
+	            <td>
+	                 <p>5 ml (200 mg), given as 1 x 5 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	        <tr>
+	             <td>
+	                  <p>26-35 kg bodyweight (8-11 years): (Between 4 and 5½ stones)</p>
+	            </td>
+	            <td>
+	                 <p>	7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	        <tr>
+	             <td>
+	                  <p>	36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
+	            </td>
+	            <td>
+	                 <p>	10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	</tbody>
+	
+	</table>
+
+	
+	<p><b>B.	Instructions for the plastic spoon</b></p>
+	
+		<p>The spoon should not be used for children less than 3 years of age (less than 2½ stones).</p>
+	 
+		<p><b>Giving the medicine using the spoon. </b></p>
+	
+<ol>
+	
+	<li><p>1.	A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
+	
+			<p>2.5 ml 	(100 mg)		Small end	to graduation</p>
+			<p>		(illustration) </p>
+			<p>5 ml	(200 mg)		Small end	brimful</p>
+			<p>		(illustration) </p>
+			<p>7.5 ml	(300 mg)		Large end	to graduation</p>
+			<p>		(illustration) </p>
+			<p>10 ml	(400 mg)		Large end	brimful</p>
+			<p>		(illustration) </p>
+	</li>
+	<li>2.	Shake the bottle well and then remove the child-proof cap. </li>
+	<li>3.	Gently pour the medicine into the spoon as required to give the correct dose. </li>
+	<li>4.	Allow the patient to swallow the medicine slowly. </li>
+	<li>5.	Wash the spoon under warm, running water. Dry and store it with the medicine in a safe place. </li>
+</ol>
+<p><b>Warning: if giving this medicine to a child, ensure that while receiving the medicine he/she is supported in an upright position to avoid the risk of choking. </b></p>
+<p><b>If you/your child takes more Zithromax than they should</b></p>
+<p>If you/your child take too much Zithromax they may feel unwell. Tell your doctor or contact your nearest hospital casualty department immediately. Take any remaining medicine with you.</p>
+<p><b>If you forget to take or give Zithromax</b></p>
+<p>If you forget to take Zithromax take it as soon as you can. Take your next dose at the right time. Do not take a double dose to make up for a forgotten dose. </p>
+<p><b>If you stop taking Zithromax</b></p>
+<p>If you/your child stop taking Zithromax too soon, the infection may return. Take Zithromax for the full time of treatment, even when you/your child begin to feel better. </p>
+	<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist. </p>
   </div>"""         
     
 * section[=].section[+]
@@ -197,38 +265,25 @@ Usage: #inline
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p>Like all medicines, this medicine can cause side effects although not everybody gets
             them. </p>
-        <p><b>Tell your doctor immediately if you experience any of the following symptoms after taking
-            this medicine as the symptoms can be severe.</b></p>
+        <p><b>Tell your doctor immediately if you experience any of the following symptoms after taking this medicine as the symptoms can be severe.</b></p>
         <ul>
-            <li>sudden wheeziness, difficulty in breathing, swelling of eyelids, face or lips, rash
-                or itching (especially affecting the whole body)</li>
-            <li>severe or prolonged diarrhoea, which may have blood or mucus in it, during or after
-                treatment with Zithromax as this may be a sign of serious bowel inflammation </li>
+            <li>sudden wheeziness, difficulty in breathing, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body)</li>
+            <li>severe or prolonged diarrhoea, which may have blood or mucus in it, during or after treatment with Zithromax as this may be a sign of serious bowel inflammation </li>
             <li>severe skin rash causing redness and flaking </li>
             <li>rapid or irregular heartbeat </li>
             <li>low blood pressure </li>
             <li>Serious skin reactions:</li>
             <li>
                 <ul>
-                    <li>blistering of the skin, mouth, eyes and genitals (Stevens-Johnson Syndrome
-                        (SJS))</li>
-                    <li>blistering of the skin, severe skin reaction (Toxic Epidermal Necrosis
-                        (TEN))</li>
-                    <li>skin rash accompanied by other symptoms such as fever, swollen glands and an
-                        increase of eosinophils (a type of white blood cell). A rash appears as
-                        small, itchy red bumps (Drug Reaction with Eosinophilia and Systemic
-                        Symptoms (DRESS))</li>
-                    <li>skin eruption that is characterised by the rapid appearance of areas of red
-                        skin studded with small pustules (small blisters filled with white/yellow
-                        fluid) (Acute Generalized Exanthematous Pustulosis (AGEP)).</li>
+                    <li>blistering of the skin, mouth, eyes and genitals (Stevens-Johnson Syndrome (SJS))</li>
+                    <li>blistering of the skin, severe skin reaction (Toxic Epidermal Necrosis (TEN))</li>
+                    <li>skin rash accompanied by other symptoms such as fever, swollen glands and an increase of eosinophils (a type of white blood cell). A rash appears as small, itchy red bumps (Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS))</li>
+                    <li>skin eruption that is characterised by the rapid appearance of areas of red skin studded with small pustules (small blisters filled with white/yellow fluid) (Acute Generalized Exanthematous Pustulosis (AGEP)).</li>
                 </ul>
             </li>       
         </ul>
-        <p>Stop taking azithromycin if you develop these skin symptoms and contact your doctor or
-            seek medical attention immediately.</p>
-        <p>The most common side effects that occur when taking Zithromax are listed below. These may
-            go away during treatment as your body adjusts to the medicine. Tell your doctor if any
-            of these side effects continue to bother you. </p>
+        <p>Stop taking azithromycin if you develop these skin symptoms and contact your doctor or seek medical attention immediately.</p>
+        <p>The most common side effects that occur when taking Zithromax are listed below. These may go away during treatment as your body adjusts to the medicine. Tell your doctor if any of these side effects continue to bother you. </p>
         
 <p><b>Very common:</b> may affect more than 1 in 10 people</p>
         <ul>
@@ -243,16 +298,14 @@ Usage: #inline
             <li>visual disturbances, deafness</li>
             <li>skin rash and /or itching </li>
             <li>joint pain</li>
-            <li>low numbers of lymphocytes (a type of white blood cell), higher number of
-                eosinophils (a type of white blood cell)</li>
+            <li>low numbers of lymphocytes (a type of white blood cell), higher number of eosinophils (a type of white blood cells)</li>
             <li>low blood bicarbonate</li>
             <li>tiredness or weakness </li>
         </ul>
         <p><b>Uncommon:</b> may affect up to 1 in 100 people </p>
         <ul>
             <li>yeast infections of the mouth and vagina (thrush) </li>
-            <li>low numbers of leukocytes (a type of white blood cell), low number of neutrophils (a
-                type of white blood cell)</li>
+            <li>low numbers of leukocytes (a type of white blood cell), low number of neutrophils (a type of white blood cell)</li>
             <li>allergic reactions of various severity</li>
             <li>skin more sensitive to sunlight than normal</li>
             <li>feeling nervous</li>
@@ -286,17 +339,12 @@ Usage: #inline
             <li>yellowing of the skin or eyes (jaundice) or liver failure (rarely life-threatening) </li>
             <li>bruising or prolonged bleeding after injury </li>
             <li>abnormal electrocardiogram (ECG)</li>
-            <li>reduction in red blood cells which can make the skin pale and cause weakness or
-                breathlessness.</li>
+            <li>reduction in red blood cells which can make the skin pale and cause weakness or breathlessness.</li>
         </ul>
         
 <p><b>Reporting of side effects</b></p>
-        <p>If you get any side effects, talk to your doctor or pharmacist. This includes any
-            possible side effects not listed in this leaflet. You can also report side effects
-            directly </p>
-        <p></p>
-        <p>By reporting side affects you can help provide more information on the safety of this
-            medicine.</p>  
+        <p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly. By reporting side effects, you can help provide more information on the safety of this medicine. </p>
+        
   </div>"""      
         
 * section[=].section[+]
@@ -305,13 +353,13 @@ Usage: #inline
   * code.text = "5. How to store x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Keep out of the sight and reach of children.</p>
-        <p>Store below 30°C.</p>
-        <p>Do not use this Zithromax after the expiry date which is stated on the carton and blister
-            after “EXP”. The expiry date refers to the last day of that month. </p>
-        <p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist
-            how to throw away medicines you no longer use. These measures will help protect the
-            environment. </p>  
+<p>Keep this medicine out of the sight and reach of children.</p>
+<p>Do not take <b>or give</b> this medicine after the expiry date which is stated on the bottle after EXP. The expiry date refers to the last day of that month. </p>
+<p>Before reconstitution store below 30°C. </p>
+<p>After reconstitution, the oral suspension is stable for 5 days at 30°C. </p>
+<p>This medicine does not require any special storage conditions. </p>
+<p>Any unused medicine should be discarded after 5 days. </p>
+<p><b>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment. </b></p>  
   </div>"""      
                 
 * section[=].section[+]
@@ -321,24 +369,30 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p><b>What Zithromax contains</b></p>
-        <p>The active substance is azithromycin (250 mg). </p>
-        <p>The other ingredients are lactose anhydrous (see section 2, Zithromax capsules contain
-            lactose), magnesium stearate, maize starch, sodium lauryl sulfate, gelatin, iron oxide
-            (black) E172, shellac, propylene glycol, sulfur dioxide (see section 2 Zithromax
-            capsules contain sulfur dioxide) and titanium dioxide. </p>
+        <p>The active substance is azithromycin (200 mg in 5 ml). </p>
+        <p>Other ingredients are sucrose (3.87 g per 5 ml) (see section 2, Zithromax contains sucrose) hydroxypropylcellulose, sodium phosphate tribasic anhydrous, xanthan gum and flavourings: artificial banana, artificial cherry and artificial creme de vanilla.</p>
         
 <p><b>What Zithromax looks like and contents of the pack</b></p>
-        <p>Zithromax capsules are white hard gelatin capsules marked Pfizer and ZTM 250. They come
-            in blister packs of 4 or 6. </p>
-        <p>Not all pack sizes may be marketed.</p>
+        <p>Zithromax Suspension is a dry powder which reconstitutes with water to give a cherry/banana flavoured suspension with a slight vanilla odour and comes in the following sizes: 15 ml (600 mg), 22.5 ml (900 mg), and 30 ml (1200 mg) bottles. </p>
+	<p>Each pack contains a multi-dosing spoon, and the 15 ml size contains an oral dosing syringe.</p>
+	<p>Not all pack sizes may be marketed. </p>
+    
         
-<p><b>MARKETING AUTHORISATION HOLDER</b></p>
-        <p>Pfizer Limited, Ramsgate Road, Sandwich, Kent, CT13 9NJ, United Kingdom. </p>
+<p><b>Marketing Authorisation Holder</b></p>
+        <p>Pfizer Ltd</p>
+	<p>Ramsgate Rd</p>
+	<p>Sandwich</p>
+	<p>Kent</p>
+	<p>CT13 9NJ </p>
+	<p>United Kingdom</p>
         
-<p><b>MANUFACTURER, PACKAGER &amp; RELEASER</b></p>
-        <p>Haupt Pharma Latina S.r.l. S.S. 156, Km 47.600; Borgo San Michele, 04100 Latina,
-            Italy</p>
-        <p>This leaflet was last revised in: <b>March 2022</b></p>
+<p><b>Manufacturer</b></p>
+        <p>Haupt Pharma Latina S.r.l</p>
+	<p>SS 156 Km 47,600</p>
+	<p>04100, Borgo San Michele</p>
+	<p>Latina.</p>
+	<p>Italy</p>
+        <p><b>Revision date: November 2020.</b></p>
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
@@ -353,7 +407,7 @@ Usage: #inline
 				<li>Do not by yourself interrupt the period of treatment prescribed.</li>
 				<li>Do not repeat the same prescription without consulting your doctor.</li>
 			</ul>
-			<p><b>Keep all medicaments out of reach and sight of children</b></p>
+			<p><b>Keep all medicaments out of reach of children</b></p>
 			<p><b>Council of Arab Health Ministers</b></p>
 			<p><b>Union of Arabic Pharmacists</b></p>
 			</td>
