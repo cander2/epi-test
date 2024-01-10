@@ -49,7 +49,7 @@ Usage: #inline
             <li>إذا كانت لديك أي أسئلة أخرى، فاسأل طبيبك أو الصيدلي.</li>
             <li>لقد وُصف هذا الدواء لك أنت فقط. فلا تعطه للآخرين. فقد يسبب لهم ضررًا، حتى إذا كانت
                 علامات مرضهم مطابقة لعلامات مرضك.</li>
-            <li>•	إذا أصبت بأي آثار جانبية، فتحدث إلى طبيبك أو الصيدلي. يتضمن هذا أي آثار جانبية محتملة غير مدرجة في هذه النشرة. انظر القسم 4.</li>
+            <li>إذا أصبت بأي آثار جانبية، فتحدث إلى طبيبك أو الصيدلي. يتضمن هذا أي آثار جانبية محتملة غير مدرجة في هذه النشرة. انظر القسم 4.</li>
         </ul>
         
   </div>"""   
@@ -88,27 +88,27 @@ Usage: #inline
   </div>"""   
           
 * section[=].section[+]
-  * title = "2. What you need to know before you take Zithromax"
+  * title = "2. ما تحتاج إلى معرفته قبل أن تتناول زيثروماكس"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "2. What you need to know before you take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p><b>Do not take Zithromax:</b></p>
-        <p>if you/your child are allergic to azithromycin or any other macrolide antibiotic such as erythromycin or clarithromycin or any of the ingredients listed in section 6. An allergic reaction may cause skin rash or wheezing.</p>
+<p><b>لا تتناول زيثروماكس: </b></p>
+        <p>•	إذا كنت/كان طفلك مصابًا بالحساسية تجاه أزيثرومايسين أو أي مضاد حيوي ماكروليدي آخر مثل إريثرومايسين أو كلاريثرومايسين أو أي مكون من المكونات المدرجة في القسم 6. قد يسبب تفاعل الحساسية طفحًا جلديًا أو أزيزًا.</p>
         
-<p><b>Warnings and precautions</b></p>
-        <p> Talk to your doctor or pharmacist before taking Zithromax if you/your child have or have had any of the following: </p>
+<p><b>تحذيرات واحتياطات</b></p>
+        <p> تحدث إلى طبيبك أو الصيدلي قبل تناول زيثروماكس إذا كنت/كان طفلك مصابًا أو سبق أن أصبت/أصيب طفلك بأي مما يلي:</p>
         <ul>
-            <li>kidney problems </li>
-            <li>heart conditions </li>
-            <li>diabetes </li>
-            <li>liver problems: your doctor may need to monitor your liver function or stop the treatment</li>
-            <li>myasthenia gravis (a condition that causes certain muscles to become weak) </li>
-            <li>or if you are taking any ergot derivatives such as ergotamine (used to treat migraine) as these medicines should not be taken together with Zithromax.</li>
+            <li>مشكلات الكلى </li>
+            <li>حالات القلب </li>
+            <li>داء السكري </li>
+            <li>مشكلات الكبد: قد يتعين على طبيبك مراقبة وظائف كبدك أو إيقاف العلاج</li>
+            <li>الوهن العضلي الوبيل (حالة تسبب ضعف بعض العضلات) </li>
+            <li>أو إذا كنت تتناول أيًا من مشتقات الإرجوت مثل إرجوتامين (يُستخدم لعلاج الصداع النصفي) نظرًا لأنه ينبغي عدم تناول هذه الأدوية بالتزامن مع زيثروماكس</li>
         </ul>
-        <p>Tell your doctor immediately if you feel your heart beating in your chest or have an abnormal heartbeat, or get dizzy or faint or suffer from any muscle weakness when taking Zithromax.</p>
-        <p>If you develop diarrhoea or loose stools during or after treatment, tell your doctor at once. Do not take any medicine to treat your diarrhoea without first checking with your doctor. If your diarrhoea continues, please inform your doctor.</p>
-        <p><b>Other medicines and Zithromax</b></p>
+        <p>أخبر طبيبك فورًا إذا شعرت بنبض قلبك داخل صدرك، أو إذا أصبت باختلال في ضربات القلب، أو إذا أصبت بدوار أو إغماء، أو إذا عانيت من أي ضعف في العضلات أثناء تناول زيثروماكس.</p>
+        <p>إذا أصبت بإسهال أو أصبح البراز لينًا أثناء العلاج أو بعده، فأخبر طبيبك فورًا. لا تتناول أي دواء لعلاج حالة الإسهال لديك دون مراجعة طبيبك أولًا. إذا استمر الإسهال لديك، يُرجى إبلاغ طبيبك.</p>
+        <p><b>الأدوية الأخرى وزيثروماكس</b></p>
         <p>Tell your doctor or pharmacist if you/your child are taking, have recently taken or might take any other medicines.</p>
         <p>In particular, Zithromax may interact with the medicines listed below: </p>
         <ul>
