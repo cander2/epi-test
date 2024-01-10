@@ -186,6 +186,40 @@ Usage: #inline
 </ol>
 <p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
 
+	<table border="1"> 
+	
+	<tbody>
+	        <tr>
+	            <th><p><b> Bodyweight and age</b></p></th>
+                    <th><p><b> Dose and duration</b></p></th>
+	        </tr>
+	        <tr>
+	            <td>
+	                  <p>15-25 kg bodyweight (3-7 years): (Between 2½ and 4 stones) </p>
+	            </td>
+	            <td>
+	                 <p>5 ml (200 mg), given as 1 x 5 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	        <tr>
+	             <td>
+	                  <p>26-35 kg bodyweight (8-11 years): (Between 4 and 5½ stones)</p>
+	            </td>
+	            <td>
+	                 <p>7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	        <tr>
+	             <td>
+	                  <p>36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
+	            </td>
+	            <td>
+	                 <p>10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
+	            </td>
+	        </tr>
+	</tbody>
+	
+	</table>
 
 
 
