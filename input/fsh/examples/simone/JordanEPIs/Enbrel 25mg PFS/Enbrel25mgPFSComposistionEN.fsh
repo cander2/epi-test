@@ -79,7 +79,20 @@ Usage: #inline
   * code.text = "1. What x is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-  
+  <p>Enbrel is a medicine that is made from two human proteins. It blocks the activity of another protein in the body that causes inflammation. Enbrel works by reducing the inflammation associated with certain diseases.</p>
+<p>In adults (aged 18 and over), Enbrel can be used for moderate or severe <b>rheumatoid arthritis</b>, <b>psoriatic arthritis</b>, severe<b> axial spondyloarthritis</b> including<b> ankylosing spondylitis,</b> and moderate or severe <b>psoriasis</b> - in each case usually when other widely used treatments have not worked well enough or are not suitable for you.</p>
+<p>For rheumatoid arthritis, Enbrel is usually used in combination with methotrexate, although it may also be used alone if treatment with methotrexate is unsuitable for you. Whether used alone or in combination with methotrexate, Enbrel can slow down the damage to your joints caused by the rheumatoid arthritis and improve your ability to do normal daily activities.</p>
+<p>For psoriatic arthritis patients with multiple joint involvement, Enbrel can improve your ability to do normal daily activities. For patients with multiple symmetrical painful or swollen joints (e.g., hands, wrists and feet), Enbrel can slow down the structural damage to those joints caused by the disease.</p>
+<p>Enbrel is also prescribed for the treatment of the following diseases in children and adolescents</p>
+<ul>
+ <li>For the following types of juvenile idiopathic arthritis when treatment with methotrexate has not worked well enough or is not suitable for them:</li>
+   <ul>
+    <li>Polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in patients from the age of 2 years</li>
+    <li>Psoriatic arthritis in patients from the age of 12 years</li>
+   </ul>
+<li>For enthesitis-related arthritis in patients from the age of 12 years when other widely used treatments have not worked well enough or are not suitable for them</li>
+<li>Severe psoriasis in patients from the age of 6 years who have had an inadequate response to (or are unable to take) phototherapies or other systemic therapies.</li>
+</ul>
   </div>"""   
           
 * section[=].section[+]
