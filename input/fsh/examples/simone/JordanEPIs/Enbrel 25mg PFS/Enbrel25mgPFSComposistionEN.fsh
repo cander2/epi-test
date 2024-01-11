@@ -191,6 +191,56 @@ Usage: #inline
   * code.text = "4. Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
+<p><b>Allergic reactions</b></p>
+<p>If any of the following happen, do not inject more Enbrel. Tell your doctor immediately, or go to the casualty department at your nearest hospital.</p>
+<ul>
+<li>Trouble swallowing or breathing</li>
+<li>Swelling of the face, throat, hands, or feet</li>
+<li>Feeling nervous or anxious, throbbing sensations, sudden reddening of the skin and/or a warm feeling</li>
+<li>Severe rash, itching, or hives (elevated patches of red or pale skin that often itch)</li>
+</ul>
+<p>Serious allergic reactions are rare. However, any of the above symptoms may indicate an allergic reaction to Enbrel, so you should seek immediate medical attention.</p>
+<p><b>Serious side effects</b></p>
+<p>If you notice any of the following, you or the child may need urgent medical attention.</p>
+<ul>
+<li>Signs of <b>serious infections</b>, such as high fever that may be accompanied by cough, shortness of breath, chills, weakness, or a hot, red, tender, sore area on the skin or joints</li>
+<li>Signs of <b>blood disorders</b>, such as bleeding, bruising, or paleness</li>
+<li>Signs of <b>nerve disorders</b>, such as numbness or tingling, changes in vision, eye pain, or onset of weakness in an arm or leg</li>
+<li>Signs of <b>heart failure</b> or <b>worsening heart failure</b>, such as fatigue or shortness of breath with activity, swelling in the ankles, a feeling of fullness in the neck or abdomen, night-time shortness of breath or coughing, bluish colour of the nails or the lips</li>
+<li><b>Signs of cancers: </b>Cancers may affect any part of the body including the skin and blood, and possible signs will depend on the type and location of the cancer. These signs may include weight loss, fever, swelling (with or without pain), persistent cough, presence of lumps or growths on the skin</li>
+<li>Signs of <b>autoimmune reactions</b> (where antibodies are made that may harm normal tissues in the body) such as pain, itching, weakness, and abnormal breathing, thinking, sensation, or vision</li>
+<li>Signs of lupus or lupus-like syndrome, such as weight changes, persistent rash, fever, joint or muscle pain, or fatigue</li>
+<li>Signs of <b>inflammation of the blood vessels</b> such as pain, fever, redness or warmth of the skin, or itching.</li>
+</ul>
+<p>These are rare or uncommon side effects, but are serious conditions (some of which may rarely be fatal). If these signs occur, tell your doctor immediately, or visit the casualty department at your nearest hospital.</p>
+<p>The known side effects of Enbrel include the following in groups of decreasing frequency:</p>
+<ul>
+<li><b>Very common </b>(may affect more than 1 in 10 people):</li>
+</ul>
+<p>Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment; some patients have developed a reaction at an injection site that was recently used); and headache.</p>
+<ul>
+<li><b>Common </b>(may affect up to 1 in 10 people):</li>
+</ul>
+<p>Allergic reactions; fever; rash; itching; antibodies directed against normal tissue (autoantibody formation).</p>
+<ul>
+<li><b>Uncommon </b>(may affect up to 1 in 100 people):</li>
+</ul>
+<p>Serious infections (including pneumonia, deep skin infections, joint infections, blood infection, and infections at various sites); worsening of congestive heart failure; low red blood cell count, low white blood cell count, low neutrophil (a type of white blood cell) count; low blood platelet count; skin cancer (excluding melanoma); localised swelling of the skin (angioedema); hives (elevated patches of red or pale skin that often itch); eye inflammation; psoriasis (new or worsening); inflammation of the blood vessels affecting multiple organs; elevated liver blood tests (in patients also receiving methotrexate treatment, the frequency of elevated liver blood tests is common); abdominal cramps and pain, diarrhoea, weight loss or blood in the stool (signs of bowel problems).</p>
+<ul>
+<li><b>Rare </b>(may affect up to 1 in 1,000 people):</li>
+</ul>
+<p>Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish‑purple skin rash and/or threadlike white-grey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon).</p>
+<ul>
+<li><b>Very rare </b>(may affect up to 1 in 10,000 people): failure of the bone marrow to produce crucial blood cells.</li>
+</ul>
+<ul>
+<li><b>Not known </b>(frequency cannot be estimated from the available data): Merkel cell carcinoma (a type of skin cancer); Kaposi’s sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi’s sarcoma most commonly appear as purple lesions on the skin); excessive activation of white blood cells associated with inflammation (macrophage activation syndrome);recurrence of hepatitis B (a liver infection); worsening of a condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).</li>
+</ul>
+<p><b>Additional side effects in children and adolescents</b></p>
+<p>The side effects and their frequencies seen in children and adolescents are similar to those described above.</p>
+<p><b>Reporting of side effects</b></p>
+<p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. By reporting side effects you can help provide more information on the safety of this medicine.</p>
 
   </div>"""      
         
