@@ -266,6 +266,22 @@ Usage: #inline
   * code.text = "6. Contents of the pack and other information"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+ <p><b>What Enbrel contains </b></p>
+<p><u>Enbrel 25 mg solution for injection in pre-filled syringe</u></p>
+<p>The active substance in Enbrel is etanercept. Each pre-filled syringe contains 0.5 ml of solution, providing 25 mg of etanercept. </p>
+<p>The other ingredients are sucrose, sodium chloride, L-arginine hydrochloride, sodium phosphate monobasic dihydrate and sodium phosphate dibasic dihydrate, and water for injections.</p>
+ <p><b>What Enbrel looks like and contents of the pack </b></p>
+<p><u>Enbrel 25 mg solution for injection in pre-filled syringe</u></p>
+<p>Enbrel is supplied as a pre-filled syringe containing a clear, colourless to pale yellow or pale brown solution for injection (solution for injection). Each pack contains 4, 8, 12 or 24 pre-filled syringes and 4, 8, 12 or 24 alcohol swabs. Not all pack sizes, strengths, presentations may be marketed.</p>
+ <p><b>Marketing Authorisation Holder </b></p>
+<p>Pfizer Europe MA EEIG</p>
+<p> Boulevard de la Plaine 17</p>
+<p> 1050 Bruxelles</p>
+<p> Belgium</p>
+<p><b>Manufactured, Packed &amp; Released by</b></p>
+<p>Pfizer Manufacturing Belgium NV,</p>
+<p>Rijksweg 12, 2870 Puurs, Belgium</p>
+<p><b>This leaflet was last revised in: May 2021</b></p>
 
   </div>"""
 
