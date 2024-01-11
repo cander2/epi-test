@@ -1,5 +1,4 @@
-
-Instance: ZithromaxPOSBundleEN
+Instance: ZithromaxPOSBundleAR
 InstanceOf: BundleUvEpi
 Title: "Bundle for zithromax (azithromycin) POS - Jordanian AR Package Leaflet"
 Description: "Bundle for zithromax (azithromycin) 200 mg/5 ml powder for oral suspension - Jordanian AR Package Leaflet"
