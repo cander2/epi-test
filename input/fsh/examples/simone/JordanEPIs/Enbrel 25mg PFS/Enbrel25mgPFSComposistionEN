@@ -1,7 +1,7 @@
 Instance: Enbrel25mgPFSComposistionEN
 InstanceOf: CompositionUvEpi
-Title: "Composition for Zithromax POS - EN Jordanian Package Leaflet"
-Description:  "Composition for zithromax (azithromycin) 200 mg/5 ml powder for oral suspension - EN Jordanian Package Leaflet"
+Title: "Composition for Enbrel 25mg PFS - EN Jordanian Package Leaflet"
+Description:  "Composition for Enbrel 25mg PFS - EN Jordanian Package Leaflet"
 Usage: #inline
 
 * identifier[+].system = "https://www.jfda.jo"
@@ -12,11 +12,11 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(ZithromaxPOSMedicinalProduct) //Medicinal Product
+* subject = Reference(Enbrel25mgPFSMedicinalProduct) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
-* author = Reference(ZithromaxPOSOrgEN) //Organization
+* author = Reference(Enbrel25mgPFSOrgEN) //Organization
 
-* title = "Jordanian zithromax (azithromycin) 200 mg/5 ml powder for oral suspension EN"
+* title = "Jordanian Enbrel 25mg PFS EN"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
