@@ -352,63 +352,63 @@ Usage: #inline
   * code.text = "5. How to store x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Keep this medicine out of the sight and reach of children.</p>
-<p>Do not take <b>or give</b> this medicine after the expiry date which is stated on the bottle after EXP. The expiry date refers to the last day of that month. </p>
-<p>Before reconstitution store below 30°C. </p>
-<p>After reconstitution, the oral suspension is stable for 5 days at 30°C. </p>
-<p>This medicine does not require any special storage conditions. </p>
-<p>Any unused medicine should be discarded after 5 days. </p>
-<p><b>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment. </b></p>  
+<p>احفظ هذا الدواء بعيدًا عن مرأى ومتناول الأطفال.</p>
+<p>لا تتناول أو تعطِ هذا الدواء بعد تاريخ انتهاء الصلاحية المُدون على الزجاجة بعد الرمز "EXP". يشير تاريخ انتهاء الصلاحية إلى آخر يوم في الشهر المذكور.</p>
+<p>لا يتطلب هذا الدواء أي شروط خاصة للتخزين. </p>
+<p>قبل تحضير زيثروماكس يخزن عند درجة حرارة اقل من °C 30. </p>
+<p>بمجرد تحضيره يبقى زيثروماكس مستقرا لمدة 5أيام في درجة حرارة °C30.</p>
+<p>ينبغي التخلص من أي كمية غير مستخدمة من الدواء بعد 5 أيام. </p>
+<p>لا تتخلص من أي أدوية عبر مياه الصرف أو في المخلفات المنزلية. اسأل الصيدلي عن كيفية التخلص من الأدوية التي لم تعد تستخدمها. ستساعد هذه الإجراءات في حماية البيئة.</p>  
   </div>"""      
                 
 * section[=].section[+]
-  * title = "6. Contents of the pack and other information"
+  * title = "6. محتويات العبوة ومعلومات أخرى"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "6. Contents of the pack and other information"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p><b>What Zithromax contains</b></p>
-        <p>The active substance is azithromycin (200 mg in 5 ml). </p>
-        <p>Other ingredients are sucrose (3.87 g per 5 ml) (see section 2, Zithromax contains sucrose) hydroxypropylcellulose, sodium phosphate tribasic anhydrous, xanthan gum and flavourings: artificial banana, artificial cherry and artificial creme de vanilla.</p>
+<p><b>مكونات زيثروماكس </b></p>
+        <p>المادة الفعالة هي أزيثرومايسين (200 مجم في 5 مل).</p>
+        <p>المكونات الأخرى هي السكروز(3.87 جم لكل 5 مل) (انظر القسم 2، يحتوي زيثروماكس على السكروز)، وهيدروكسي بروبيل السليلوز، وفوسفات الصوديوم اللامائي ثلاثي القاعدية، وصمغ الزانثان، والمنكهات: نكهة الموز الصناعية، ونكهة الكريز الصناعية، ونكهة كريمة الفانيليا الصناعية.</p>
         
-<p><b>What Zithromax looks like and contents of the pack</b></p>
-        <p>Zithromax Suspension is a dry powder which reconstitutes with water to give a cherry/banana flavoured suspension with a slight vanilla odour and comes in the following sizes: 15 ml (600 mg), 22.5 ml (900 mg), and 30 ml (1200 mg) bottles. </p>
-	<p>Each pack contains a multi-dosing spoon, and the 15 ml size contains an oral dosing syringe.</p>
-	<p>Not all pack sizes may be marketed. </p>
+<p><b>شكل زيثروماكس ومحتويات العبوة</b></p>
+        <p>معلق زيثروماكس هو مسحوق جاف يُحضر بالماء للحصول على معلق بنكهة الكريز/الموز مع قدر بسيط من رائحة الفانيليا، وهو يتوفر في الأحجام الآتية: زجاجات سعة 15 مل ( 600 مجم)، 22.5 مل (900 مجم)، 30 مل (1200 مجم).</p>
+	<p>تحتوي كل عبوة على ملعقة لمعايرة الجرعات المتعددة وتحتوي العبوة سعة 15 مل على محقنة لمعايرة الجرعات التي تؤخذ عن طريق الفم.</p>
+	<p>قد لا يتم طرح جميع أحجام العبوات في الأسواق.</p>
     
         
-<p><b>Marketing Authorisation Holder</b></p>
-        <p>Pfizer Ltd</p>
-	<p>Ramsgate Rd</p>
-	<p>Sandwich</p>
-	<p>Kent</p>
+<p><b>مالك تصريح التسويق:</b></p>
+        <p>شركة فايزر ذات المسؤولية المحدودة</p>
+	<p>طريق رامسجيت</p>
+	<p>ساندوتش</p>
+	<p>كينت</p>
 	<p>CT13 9NJ </p>
-	<p>United Kingdom</p>
+	<p>المملكة المتحدة.</p>
         
-<p><b>Manufacturer</b></p>
-        <p>Haupt Pharma Latina S.r.l</p>
-	<p>SS 156 Km 47,600</p>
-	<p>04100, Borgo San Michele</p>
-	<p>Latina.</p>
-	<p>Italy</p>
-        <p><b>Revision date: November 2020.</b></p>
+<p><b>الجهة المصنعة:</b></p>
+        <p>شركة هاوبت فارما لاتينا ذات المسؤولية المحدودة</p>
+	<p>سترادا ستاتال 156 كم 47,600</p>
+	<p>04100، بورجو سان ميشيل</p>
+	<p>لاتينا</p>
+	<p>إيطاليا</p>
+        <p><b>تاريخ مراجعة النشرة الداخلية: نوفمبر/تشرين الثاني 2020.</b></p>
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
-			<td style="text-align:center"><strong>THIS IS A MEDICAMENT</strong></td>
+			<td style="text-align:center"><strong>إن هذا دواء</strong></td>
 		</tr>
 		<tr>
 			<td>
 			<ul>
-				<li>Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</li>
-				<li>Follow strictly the doctor&rsquo;s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</li>
-				<li>The doctor and the Pharmacist are experts in medicines, their benefits and risks.</li>
-				<li>Do not by yourself interrupt the period of treatment prescribed.</li>
-				<li>Do not repeat the same prescription without consulting your doctor.</li>
+				<li>الدواء هو منتج يؤثر على صحتك واستهلاكه خلافًا للتعليمات يعرضك للخطر.</li>
+				<li>اتبع بدقة وصفة الطبيب وطريقة الاستخدام وتعليمات الصيدلي الذي قام بصرف الدواء.</li>
+				<li>الطبيب والصيدلي خبيران في الأدوية وفوائدها ومخاطرها.</li>
+				<li>لا تقطع مدة العلاج المحددة لك من تلقاء نفسك.</li>
+				<li>لا تكرر صرف نفس الدواء دون استشارة طبيبك.</li>
 			</ul>
-			<p><b>Keep all medicaments out of reach of children</b></p>
-			<p><b>Council of Arab Health Ministers</b></p>
-			<p><b>Union of Arabic Pharmacists</b></p>
+			<p><b>احفظ جميع الأدوية بعيدًا عن متناول الأطفال</b></p>
+			<p><b>مجلس وزراء الصحة العرب</b></p>
+			<p><b>اتحاد الصيادلة العرب </b></p>
 			</td>
 		</tr>
 	</tbody>
