@@ -258,96 +258,96 @@ Usage: #inline
   </div>"""         
     
 * section[=].section[+]
-  * title = "4. Possible side effects"
+  * title = "4. الآثار الجانبية المحتملة"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "4. Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Like all medicines, this medicine can cause side effects although not everybody gets them. </p>
-        <p><b>Tell your doctor immediately if you experience any of the following symptoms after taking this medicine as the symptoms can be severe.</b></p>
+<p>كما هو الحال بالنسبة لجميع الأدوية، من الممكن أن يسبب هذا الدواء آثارًا جانبية إلا أنها لا تصيب الجميع.</p>
+        <p><b>أخبر طبيبك فورًا إذا أصبت بأي من الأعراض التالية بعد تناول هذا الدواء حيث يمكن أن تكون الأعراض شديدة.</b></p>
         <ul>
-            <li>sudden wheeziness, difficulty in breathing, swelling of eyelids, face or lips, rash or itching (especially affecting the whole body)</li>
-            <li>severe or prolonged diarrhoea, which may have blood or mucus in it, during or after treatment with Zithromax as this may be a sign of serious bowel inflammation </li>
-            <li>severe skin rash causing redness and flaking </li>
-            <li>rapid or irregular heartbeat </li>
-            <li>low blood pressure </li>
-            <li>Serious skin reactions:</li>
+            <li>أزيز مفاجئ، صعوبة في التنفس، تورم الجفون أو الوجه أو الشفتين، طفح جلدي أو حكة (يؤثران بشكل خاص على الجسم بأكمله)</li>
+            <li>إسهال شديد أو مطول قد يكون مصحوبًا بوجود دم أو مخاط في البراز، أثناء أو بعد العلاج بزيثروماكس حيث قد يكون هذا علامة على الإصابة بالتهاب خطير في الأمعاء</li>
+            <li>طفح جلدي شديد يسبب احمرار وتقشر الجلد</li>
+            <li>سرعة ضربات القلب أو عدم انتظامها </li>
+            <li>ضغط الدم المنخفض</li>
+            <li>تفاعلات جلدية خطيرة: </li>
             <li>
                 <ul>
-                    <li>blistering of the skin, mouth, eyes and genitals (Stevens-Johnson Syndrome (SJS))</li>
-                    <li>blistering of the skin, severe skin reaction (Toxic Epidermal Necrosis (TEN))</li>
-                    <li>skin rash accompanied by other symptoms such as fever, swollen glands and an increase of eosinophils (a type of white blood cell). A rash appears as small, itchy red bumps (Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS))</li>
-                    <li>skin eruption that is characterised by the rapid appearance of areas of red skin studded with small pustules (small blisters filled with white/yellow fluid) (Acute Generalized Exanthematous Pustulosis (AGEP)).</li>
+                    <li>تبثر الجلد، والفم، والعينين، والأعضاء التناسلية (متلازمة ستيفنز جونسون (SJS))</li>
+                    <li>تبثر الجلد، تفاعل جلدي شديد (نخر الأنسجة البشروية التسممي (TEN))</li>
+                    <li>طفح جلدي مصحوب بأعراض أخرى مثل الحمى، وتورم الغدد، وزيادة في عدد اليوزينيات (أحد أنواع خلايا الدم البيضاء). يظهر الطفح الجلدي في صورة نتوءات صغيرة حمراء مثيرة للحكة (تفاعل دوائي مصحوب بكثرة اليوزينيات وأعراض جهازية (DRESS))</li>
+                    <li>طفح جلدي يتسم بالظهور السريع لمناطق حمراء في الجلد مغطاة ببثور صغيرة (بثور صغيرة مملوءة بسائل أبيض/أصفر) (البثار الطفحي المعمم الحاد (AGEP))</li>
                 </ul>
             </li>       
         </ul>
-        <p>Stop taking azithromycin if you develop these skin symptoms and contact your doctor or seek medical attention immediately.</p>
-        <p>The most common side effects that occur when taking Zithromax are listed below. These may go away during treatment as your body adjusts to the medicine. Tell your doctor if any of these side effects continue to bother you. </p>
+        <p>توقف عن تناول أزيثرومايسين إذا أصبت بهذه الأعراض الجلدية واتصل بطبيبك أو اطلب الرعاية الطبية فورًا.</p>
+        <p>مدرج أدناه الآثار الجانبية الأكثر شيوعًا التي تحدث عند تناول زيثروماكس. قد تزول هذه الآثار أثناء العلاج بينما يتأقلم جسمك على الدواء. أخبر طبيبك إذا استمر أي من هذه الآثار الجانبية في إزعاجك:</p>
         
-<p><b>Very common:</b> may affect more than 1 in 10 people</p>
+<p><b>شائعة جدًا: قد تصيب أكثر من شخص واحد من بين كل 10 أشخاص</b></p>
         <ul>
-            <li>stomach cramps, feeling sick, diarrhoea, wind</li>
+            <li>تقلصات المعدة، الشعور بالرغبة في التقيؤ، الإسهال، الغازات.</li>
         </ul>
-        <p><b>Common:</b> may affect up to 1 in 10 people </p>
+        <p>شائعة: قد تصيب ما يصل إلى شخص واحد من بين كل 10 أشخاص</p>
         <ul>
-            <li>dizziness, headache</li>
-            <li>numbness or pins and needles</li>
-            <li>being sick, indigestion</li>
-            <li>loss of appetite, taste disturbance</li>
-            <li>visual disturbances, deafness</li>
-            <li>skin rash and /or itching </li>
-            <li>joint pain</li>
-            <li>low numbers of lymphocytes (a type of white blood cell), higher number of eosinophils (a type of white blood cells)</li>
-            <li>low blood bicarbonate</li>
-            <li>tiredness or weakness </li>
+            <li> الدوار، الصداع</li>
+            <li>الخدر أو الشعور بالشكشكة والوخز</li>
+            <li>التقيؤ، عسر الهضم</li>
+            <li>فقدان الشهية، اضطراب حاسة التذوق</li>
+            <li>اضطرابات الرؤية، الصمم</li>
+            <li>الطفح الجلدي و/أو الحكة</li>
+            <li>ألم المفاصل</li>
+            <li>انخفاض أعداد الليمفاويات (أحد أنواع خلايا الدم البيضاء)، ارتفاع عدد اليوزينيات (أحد أنواع خلايا الدم البيضاء)</li>
+            <li>انخفاض مستوى البيكربونات في الدم</li>
+            <li>التعب أو الضعف</li>
         </ul>
-        <p><b>Uncommon:</b> may affect up to 1 in 100 people </p>
+        <p><b>غير شائعة: قد تصيب ما يصل إلى شخص واحد من بين كل 100 شخص</b></p>
         <ul>
-            <li>yeast infections of the mouth and vagina (thrush) </li>
-            <li>low numbers of leukocytes (a type of white blood cell), low number of neutrophils (a type of white blood cell)</li>
-            <li>allergic reactions of various severity</li>
-            <li>skin more sensitive to sunlight than normal</li>
-            <li>feeling nervous</li>
-            <li>reduced sense of touch or sensation (hypoesthesia)</li>
-            <li>sleepiness or sleeplessness (insomnia)</li>
-            <li>poor hearing or ringing in the ears </li>
-            <li>heart palpitations, chest pain</li>
-            <li>constipation, stomach pain associated with diarrhoea and fever </li>
-            <li>inflammation of the liver (hepatitis), changes in liver enzymes</li>
-            <li>general loss of strength</li>
-            <li>swelling</li>
-            <li>general discomfort</li>
-            <li>abnormal laboratory test values (e.g. blood or liver tests).</li>
+            <li>عدوى الخميرة بالفم والمهبل (القلاع)</li>
+            <li>انخفاض أعداد الكريات البيضاء (أحد أنواع خلايا الدم البيضاء)، انخفاض عدد العدلات (أحد أنواع خلايا الدم البيضاء)</li>
+            <li>تفاعلات حساسية متنوعة الشدة</li>
+            <li>زيادة حساسية الجلد عن المستوى الطبيعي تجاه ضوء الشمس</li>
+            <li>الشعور بالعصبية</li>
+            <li>انخفاض الإحساس باللمس أو الحس (نقص الحس)</li>
+            <li>النعاس أو الأرق</li>
+            <li>ضعف السمع أو وجود طنين في الأذنين</li>
+            <li>خفقان القلب، ألم الصدر</li>
+            <li>الإمساك، ألم المعدة المصحوب بإسهال وحمى </li>
+            <li>التهاب الكبد، تغيرات في إنزيمات الكبد</li>
+            <li>فقدان عام للقوة</li>
+            <li>التورم</li>
+            <li>شعور عام بالانزعاج</li>
+            <li>قيم غير طبيعية لنتائج الاختبارات المعملية (مثل فحوصات الدم أو الكبد).</li>
         </ul>
-        <p><b>Rare:</b> may affect up to 1 in 1,000 people </p>
+        <p><b>نادرة: قد تصيب ما يصل إلى شخص واحد من بين كل 1000 شخص</b></p>
         <ul>
-            <li>agitation</li>
-            <li>vertigo</li>
-            <li>changes in liver function</li>
+            <li>التهيج</li>
+            <li>الدوخة</li>
+            <li>تغيرات في وظائف الكبد</li>
         </ul>
-        <p><b>Not known: frequency cannot be estimated from the available data</b></p>
+        <p><b>ذات معدل تكرار غير معروف: لا يمكن تقدير معدل التكرار من خلال البيانات المتاحة</b></p>
         <ul>
-            <li>fits or fainting</li>
-            <li>aggression or anxiety</li>
-            <li>feeling hyperactive </li>
-            <li>localised muscle weakness</li>
-            <li>loss of smell or altered sense of smell, loss of taste</li>
-            <li>tongue discolouration </li>
-            <li>inflammation of the pancreas (pancreatitis) </li>
-            <li>inflammation of the kidney or kidney failure </li>
-            <li>yellowing of the skin or eyes (jaundice) or liver failure (rarely life-threatening) </li>
-            <li>bruising or prolonged bleeding after injury </li>
-            <li>abnormal electrocardiogram (ECG)</li>
-            <li>reduction in red blood cells which can make the skin pale and cause weakness or breathlessness.</li>
+            <li>النوبات أو الإغماء</li>
+            <li>العدوانية أو القلق</li>
+            <li>الشعور بفرط النشاط </li>
+            <li>ضعف موضعي في العضلات</li>
+            <li>فقدان حاسة الشم أو تغير حاسة الشم، فقدان حاسة التذوق</li>
+            <li>تغير لون اللسان</li>
+            <li>التهاب البنكرياس</li>
+            <li>التهاب الكلى أو الفشل الكلوي</li>
+            <li>اصفرار الجلد أو العينين (اليرقان) أو فشل الكبد (يكون مهددًا للحياة في حالات نادرة)</li>
+            <li>التكدم أو النزيف المطول بعد الإصابة</li>
+            <li>نتيجة غير طبيعية لمخطط رسم القلب (ECG)</li>
+            <li>انخفاض في عدد خلايا الدم الحمراء يمكن أن يؤدي إلى شحوب لون الجلد ويسبب الضعف أو عسر التنفس</li>
         </ul>
         
-<p><b>Reporting of side effects</b></p>
-        <p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly. By reporting side effects, you can help provide more information on the safety of this medicine. </p>
+<p><b>الإبلاغ عن الآثار الجانبية</b></p>
+        <p>إذا أصبت بأي آثار جانبية، فتحدث إلى طبيبك أو الصيدلي. يتضمن هذا أي آثار جانبية محتملة غير مدرجة في هذه النشرة. يمكنك أيضًا الإبلاغ عن الآثار الجانبية مباشرةً . بالإبلاغ عن الآثار الجانبية يمكنك المساعدة في توفير المزيد من المعلومات حول سلامة هذا الدواء.</p>
         
   </div>"""      
         
 * section[=].section[+]
-  * title = "5. How to store Zithromax"
+  * title = "5. كيفية تخزين زيثروماكس "
   * code = https://www.jfda.jo/#100000155538
   * code.text = "5. How to store x"
   * text.status = #additional
