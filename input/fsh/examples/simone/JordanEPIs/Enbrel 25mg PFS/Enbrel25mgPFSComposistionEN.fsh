@@ -199,7 +199,7 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
       <p>Always use this medicine exactly as the doctor has told you. Check with the doctor or pharmacist if you are not sure.</p>
-<p>If you feel that the effect of Enbrel is too b or too weak, talk to your doctor or pharmacist.</p>
+<p>If you feel that the effect of Enbrel is too strong or too weak, talk to your doctor or pharmacist.</p>
 <p>The pre-filled syringe is available in dose strengths of 25 mg and 50 mg.</p>
 <p><b>Dosing for adult patients (aged 18 years or over)</b></p>
 <p><b><u>Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis including ankylosing spondylitis</u></b></p>
