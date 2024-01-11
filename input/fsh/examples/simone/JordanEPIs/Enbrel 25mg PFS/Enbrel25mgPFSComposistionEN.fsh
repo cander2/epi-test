@@ -291,5 +291,73 @@ Usage: #inline
   * code.text = "7. Instructions for preparing and giving an injection of x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>This section is divided into the following subsections:</p>
+<p><b>Introduction</b></p>
+<p><b>Step 1: Setting up for an injection</b></p>
+<p><b>Step 2: Choosing an injection site</b></p>
+<p><b>Step 3: Injecting the Enbrel solution</b></p>
+<p><b>Step 4: Disposing of supplies</b></p>
+<p><b>Introduction </b></p>
+<p>The following instructions explain how to prepare and inject Enbrel. Please read the instructions carefully and follow them step by step. You will be instructed by your doctor or his/her assistant on the techniques of self-injection or on giving an injection to a child. Do not attempt to administer an injection until you are sure that you understand how to prepare and give the injection.</p>
+<p>The Enbrel solution should not be mixed with any other medicine before use.</p>
+<p><b>Step 1: Setting up for an injection </b></p>
+<ol>
+<li>Select a clean, well-lit, flat working surface.</li>
+<li>Take the Enbrel carton containing the pre-filled syringes out of the refrigerator and place it on the flat work surface. Starting from one of the top corners, pull back the paper cover from the top and sides of the tray. Remove one pre-filled syringe and one alcohol swab and place them on the work surface. Do not shake the pre-filled syringe of Enbrel. Fold the paper cover back over the tray and place the carton containing any remaining pre-filled syringes back into the refrigerator. Please see section 5 for instructions on how to store Enbrel. If you have any questions about storage, contact your doctor, nurse, or pharmacist for further instructions.</li>
+<li><b>You should allow 15 to 30 minutes for the Enbrel</b><b> solution </b><b>in the syringe to reach room temperature.</b><b>Do NOT</b> remove the needle cover while allowing it to reach room temperature. Waiting until the solution reaches room temperature may make the injection more comfortable for you. Do not warm Enbrel in any other way (for example, do not warm it in a microwave or in hot water).</li>
+<li>Assemble the additional supplies you will need for your injection. These include the alcohol swab from the Enbrel carton and a cotton ball or gauze.</li>
+<li>Wash your hands with soap and warm water.</li>
+<li>Inspect the solution in the syringe. It should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</li>
+</ol>
+<p><b>Step 2: Choosing an injection site </b></p>
+<ol>
+<li>The three recommended injection sites for Enbrel using a pre-filled syringe include: (1) the front of the middle thighs; (2) the abdomen, except for the 5 cm area right around the navel; and (3) the outer area of the upper arms (see Diagram 1). If you are self injecting, you should not use the outer area of the upper arms.</li>
+</ol>
+<p><u>Diagram 1</u></p>
+<ol>
+<li>A different site should be used for each new injection. Each new injection should be given at least 3&nbsp;cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
+<li>If you or the child have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin patches (“psoriasis skin lesions”).</li>
+</ol>
+<p><b>Step 3: Injecting the Enbrel solution </b></p>
+<ol>
+<li>Wipe the site where Enbrel is to be injected with the alcohol swab, using a circular motion. <b>Do NOT</b> touch this area again before giving the injection.</li>
+<li>Pick up the pre-filled syringe from the flat work surface. Remove the needle cover by firmly pulling it straight off the syringe (see Diagram 2). <b>Be careful not to bend or twist the cover during removal to avoid damage to the needle.</b></li>
+</ol>
+<p>When you remove the needle cover, there may be a drop of liquid at the end of the needle; this is normal. Do not touch the needle or allow it to touch any surface. Do not touch or bump the plunger. Doing so could cause the liquid to leak out.</p>
+<p><u>Diagram 2</u></p>
+<ol>
+<li>When the cleaned area of skin has dried, pinch and hold it firmly with one hand. With the other hand, hold the syringe like a pencil.</li>
+<li>With a quick, short motion, push the needle all the way into the skin at an angle between 45&deg; and 90&deg; (see Diagram 3). With experience, you will find the angle that is most comfortable for you or the child. Be careful not to push the needle into the skin too slowly, or with great force.</li>
+</ol>
+<p><u>Diagram 3</u></p>
+<ol>
+<li>When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a <b>slow</b>, steady rate (see Diagram 4).</li>
+</ol>
+<p>Diagram 4</p>
+<ol>
+<li>When the syringe is empty, pull the needle out of the skin, being careful to keep it at the same angle as inserted. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. If needed, you may cover the injection site with a bandage.</li>
+</ol>
+<p><b>Step 4: Disposing of supplies </b></p>
+<ul>
+<li>The pre-filled syringe is for single-use administration only. The syringe and needle should <b>NEVER</b> be re-used. <b>NEVER</b> re-cap a needle. Dispose of the needle and syringe as instructed by your doctor, nurse or pharmacist.</li>
+</ul>
+<p><b>If you have any questions, please talk to a doctor, nurse or pharmacist who is familiar with Enbrel.</b></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p><b>THIS IS A MEDICAMENT</b></p>
+<p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
+<p>- Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
+<p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
+<p>- Do not by yourself interrupt the period of treatment prescribed.</p>
+<p>- Do not repeat the same prescription without consulting your doctor.</p>
+<p><b>Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+</td>
+</tr>
+</tbody>
+</table>
 
   </div>"""
