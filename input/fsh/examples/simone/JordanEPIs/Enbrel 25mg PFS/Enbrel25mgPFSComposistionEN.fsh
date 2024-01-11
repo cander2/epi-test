@@ -389,7 +389,7 @@ Usage: #inline
 <ol>
 <li>When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a <b>slow</b>, steady rate (see Diagram 4).</li>
 </ol>
-<p style="text-align:center">Diagram 4</p>
+<p style="text-align:center"><u>Diagram 4</u></p>
 <p style="text-align:center">
           <img src="#Diagram4" alt="Diagram4"/>
         </p>
