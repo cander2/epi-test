@@ -137,82 +137,82 @@ Usage: #inline
   </div>"""   
                     
 * section[=].section[+]
-  * title = "3. How to take Zithromax"
+  * title = "3.كيفية تناول زيثروماكس"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-       <p>Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
-	<p>The pharmacist should have advised you whether to measure the medicine using the multi-dosing spoon or the oral dosing syringe (15 ml pack only). </p>
-	<p>Zithromax suspension is generally used for children under 7 stones (45 kg). It may also be used in adults and older children who have difficulty swallowing capsules. </p>
-	<p>Zithromax suspension is not affected by food or drink. </p>
-	<p><b>Children under 45 kg</b></p>
-	<p>The recommended dose in children is 10 mg for each kg of bodyweight, given as a single daily dose for 3 days. </p>
-	<p><b>Adults and children over 45 kg</b></p>
-	<p>The recommended dose in adults and in children over 7 stones (45 kg) is 500 mg taken as a single dose, for 3 days. For some diseases such as Chlamydia the recommended dose is 1 g daily taken as a single dose. For gonorrhoea the recommended dose is 1 g or 2 g of azithromycin in combination with 250 or 500 mg of ceftriaxone. </p>
-        <p>You should tell your doctor if you/your child have kidney or liver problems as your doctor may need to alter the normal dose. </p>
-	<p>Doctors sometimes prescribe different doses to the recommended dose. The label on the pack will tell you which dose you/your child should take. If you are still not sure, ask your doctor or pharmacist. </p>
-<p>Always continue with the course of treatment even if you/your child feel better. If your infection gets worse or you do not start to feel better within a few days or a new infection develops, go back and see your doctor. </p>
-	<p><b>How to give Zithromax Suspension in children less than 3 years of age</b></p>
-	<p>If your child is under three years of age or weighs up to 15 kg in bodyweight, you should measure the dose as clearly as possible using the 10 ml oral dosing syringe provided. The syringe is graduated in 0.25 ml divisions, providing 10 mg of azithromycin (the active ingredient) in every graduation. </p>
-	<p><b>A.	Instructions for the syringe</b></p>
-	<p><b>Filling the syringe with medicine</b></p>
+       <p>احرص دومًا على تناول أو إعطاء هذا الدواء تمامًا كما أخبرك طبيبك. استشر طبيبك أو الصيدلي إذا لم تكن متأكدًا مما يجب عليك فعله.</p>
+	<p>من المفترض أن يكون الصيدلي قد أخبرك بكيفية قياس الدواء إمّا باستخدام ملعقة معايرة الجرعات المتعددة أو محقنة معايرة الجرعات التي يتم يتناولها عن طريق الفم (العبوة سعة 15 مل فقط).</p>
+	<p>بشكل عام، يُستخدم معلق زيثروماكس مع الأطفال الذين يقل وزنهم عن 7 ستونات (45 كجم). وقد يُستخدم أيضًا مع البالغين والأطفال الأكبر سنًا الذين يواجهون صعوبة في بلع الكبسولات.</p>
+	<p>لا يتأثر معلق زيثروماكس بالطعام أو الشراب.</p>
+	<p><b>الأطفال الذين تقل أوزانهم عن 45 كجم</b></p>
+	<p>الجرعة الموصى بها مع الأطفال هي 10 مجم لكل كجم من وزن الجسم، تُعطى في صورة جرعة فردية يومية لمدة 3 أيام.</p>
+	<p><b>البالغون والأطفال الذين تزيد أوزانهم عن 45 كجم</b></p>
+	<p>الجرعة الموصى بها مع البالغين والأطفال الذين تزيد أوزانهم عن 7 ستونات (45 كجم) هي 500 مجم وتؤخذ في صورة جرعة فردية لمدة 3 أيام. لعلاج بعض الأمراض مثل داء المتدثرة (الكلاميديا)، تكون الجرعة الموصى بها هي 1 جم وتؤخذ يوميًا في صورة جرعة فردية. لعلاج السيلان، تكون الجرعة الموصى بها هي 1 جم أو 2 جم من أزيثرومايسين بالتزامن مع 250 أو 500 مجم من سيفترياكسون.</p>
+        <p>ينبغي أن تخبر طبيبك إذا كنت تعاني/كان طفلك يعاني من مشكلات بالكلى أو الكبد حيث قد يتعين على طبيبك تغيير الجرعة المعتادة.</p>
+	<p>يصف الأطباء أحيانًا جرعات مختلفة عن الجرعة الموصى بها. سيوضح لك الملصق الموجود على العبوة ما هي الجرعة التي ينبغي أن تتناولها/يتناولها طفلك. إذا كنت لا تزال غير متأكد فاسأل طبيبك أو الصيدلي.</p>
+        <p>احرص دائمًا على مواصلة دورة العلاج حتى إذا شعرت/شعر طفلك بالتحسن. إذا تفاقمت العدوى التي تعاني منها أو لم تبدأ في التحسن خلال بضعة أيام أو إذا أصبت بعدوى جديدة، فاذهب لزيارة طبيبك مرة أخرى. </p>
+	<p><b>كيفية إعطاء معلق زيثروماكس للأطفال الذين تقل أعمارهم عن 3 أعوام</b></p>
+	<p>إذا كان عمر طفلك أقل من 3 أعوام أو وزن جسمه يصل إلى 15 كجم، ينبغي أن تقيس الجرعة بوضوح قدر الإمكان باستخدام المحقنة المزودة سعة 10 مل لمعايرة الجرعات التي يتم تناولها عن طريق الفم. المحقنة مدرّجة إلى درجات قدر كل منها 0.25 مل، لإعطاء 10 مجم من أزيثرومايسين (المكون الفعال) في كل درجة.</p>
+	<p><b>أ‌.	التعليمات الخاصة بالمحقنة</b></p>
+	<p><b>ملء المحقنة بالدواء</b></p>
 <ol>
-	<li>Shake the bottle before use and remove the child-proof cap. </li>
-	<li>An adaptor for the syringe should have been fitted into the neck of the bottle of medicine by the pharmacist. If this has not been done, take off the adaptor from the syringe and fit to the neck of the bottle as shown. The adaptor is so that you can fill the syringe with medicine from the bottle. </li>
-	<li>Check the dispensing label attached by your pharmacist to see how much medicine needs to be taken. </li>
-	<li>While the bottle is sitting on a firm, flat surface, hold it steady with one hand. With the other hand insert the tip of the syringe into the adaptor. </li>
-	<li>Turn the bottle upside down while holding the syringe in place. </li>
-	<li>Slowly pull back the plunger of the syringe so that the top edge is level with the graduation mark corresponding to the quantity in the millilitres (ml) prescribed by your doctor. </li>
-	<li>If large bubbles can be seen in the syringe, slowly push the plunger back into the syringe.  This will force the medicine back into the bottle. Repeat step 6 again. </li>
-	<li>Hold the syringe and bottle firmly. Turn the bottle upright, with the syringe still in place. </li>
-	<li>Remove syringe from bottle. </li>
+	<li>رج الزجاجة قبل الاستخدام وانزع الغطاء المضاد لعبث الأطفال. </li>
+	<li>من المفترض أن يكون الصيدلي قد ثبّت مهايئًا للمحقنة في عنق زجاجة الدواء. إذا لم يكن هذا قد تم، فانزع المهايئ من المحقنة وثبّته في عنق الزجاجة كما هو موضح. يُستخدم المهايئ لكي تتمكن من ملء المحقنة بالدواء من الزجاجة. </li>
+	<li>راجع ملصق صرف الدواء الذي ثبته الصيدلي لمعرفة كمية الدواء التي يلزم تناولها.</li>
+	<li>أمسك الزجاجة بيد واحدة بثبات مع وضع الزجاجة على سطح صلب مستو. أدخل طرف المحقنة باليد الأخرى في المهايئ. </li>
+	<li>اقلب الزجاجة مع تثبيت المحقنة في مكانها. </li>
+	<li>اسحب مكبس المحقنة إلى الخلف ببطء حتى تكون الحافة العلوية في مستوى علامة التدريج المناظرة للكمية بالملليمتر (مل) المحددة بواسطة طبيبك. </li>
+	<li>إذا كان من الممكن رؤية فقاعات كبيرة في المحقنة، فادفع المكبس ببطء مرة أخرى إلى داخل المحقنة. هذا سيدفع الدواء مرة أخرى إلى داخل الزجاجة. كرر الخطوة 6 مرة أخرى. </li>
+	<li>أمسك المحقنة والزجاجة بقوة. اقلب الزجاجة عموديًا مع إبقاء المحقنة في مكانها. </li>
+	<li>انزع المحقنة عن الزجاجة.</li>
 </ol>
-	<p><b>Giving the medicine using the syringe</b></p>
+	<p><b>إعطاء الدواء باستخدام المحقنة</b></p>
 <ol>
-	<li>Make sure your child is supported in an upright position. </li>
-	<li>Put the tip of the syringe carefully into your child's mouth. Point the tip of the syringe towards the inside of your child’s cheek. </li>
-	<li>Slowly push down the plunger of the syringe: <b>Do not squirt it out quickly</b>. The medicine will trickle into your child’s mouth. </li>
-	<li>Allow your child some time to swallow the medicine. </li>
-	<li>Replace the child-proof cap on the bottle. Wash the syringe as instructed below. </li>
-	<li>Where daily doses of less than 5ml have been given for three days, some suspension will remain in the bottle. This remaining suspension should be discarded. </li>
+	<li>تأكد من أن طفلك مستند في وضع قائم.</li>
+	<li>ضع طرف المحقنة بحرص في فم طفلك. وجّه طرف المحقنة إلى الجانب الداخلي من خد طفلك.</li>
+	<li>ادفع مكبس المحقنة ببطء: لا تضغط عليه ليخرج الدواء بسرعة. سيسيل الدواء ببطء في فم طفلك.</li>
+	<li>أمهل طفلك بعض الوقت حتى يبتلع الدواء.</li>
+	<li>أعد وضع الغطاء المضاد لعبث الأطفال في مكانه على الزجاجة. اغسل المحقنة وفقًا للتعليمات أدناه.</li>
+	<li>في حالة إعطاء جرعات يومية أقل من 5 مل لمدة 3 أيام، ستتبقى كمية من المعلق في الزجاجة. ينبغي التخلص من هذه الكمية المتبقية من المعلق.</li>
 </ol>
-	<p><b>Cleaning and storing the syringe</b></p>
+	<p><b>تنظيف المحقنة وتخزينها</b></p>
 <ol>
-	<li>Pull the plunger out of the syringe and wash both parts by holding under warm running water or by immersing in sterilising solution used for baby’s feeding bottles, etc. </li>
-	<li>Dry the two parts. Push the plunger back into the syringe. Keep it in a clean safe place with the medicine. After you have given your child the final dose of medicine, wrap the syringe in a sheet of newspaper and put it in the rubbish bin. </li>
+	<li>اسحب المكبس إلى خارج المحقنة واغسل كلا الجزءين عن طريق إمساكهما تحت الماء الدافئ الجاري أو عن طريق غمرهما في محلول معقم يُستخدم لزجاجات إرضاع الأطفال، إلخ.</li>
+	<li>جفف الجزءين. ادفع المكبس مرة أخرى إلى داخل المحقنة. احتفظ بالمحقنة في مكان آمن نظيف مع الدواء. بعد أن تعطي طفلك الجرعة الأخيرة من الدواء، قم بتغليف المحقنة بورقة من أوراق الصحف وضعها في سلة المهملات. </li>
 </ol>
-<p><b>How to give Zithromax Suspension in children between 3 and 14 years of age</b></p>
+<p><b>كيفية إعطاء معلق زيثروماكس للأطفال الذين تتراوح أعمارهم بين 3 أعوام و14 عامًا</b></p>
 
 	<table border="1"> 
 	
 	<tbody>
 	        <tr>
-	            <th><p><b> Bodyweight and age</b></p></th>
-                    <th><p><b> Dose and duration</b></p></th>
+	            <th><p><b>الجرعة والمدة</b></p></th>
+                    <th><p><b>وزن الجسم والعمر</b></p></th>
 	        </tr>
 	        <tr>
 	            <td>
-	                  <p>15-25 kg bodyweight (3-7 years): (Between 2½ and 4 stones) </p>
+	                  <p>5 مل (200 مجم)، تُعطى في صورة ملعقة واحدة ملء 5 مل، مرة واحدة يوميًا لمدة 3 أيام.</p>
 	            </td>
 	            <td>
-	                 <p>5 ml (200 mg), given as 1 x 5 ml spoonful, once daily for 3 days.</p>
-	            </td>
-	        </tr>
-	        <tr>
-	             <td>
-	                  <p>26-35 kg bodyweight (8-11 years): (Between 4 and 5½ stones)</p>
-	            </td>
-	            <td>
-	                 <p>7.5 ml (300 mg), given as 1 x 7.5 ml spoonful, once daily for 3 days.</p>
+	                 <p>وزن الجسم من 15 إلى 25 كجم (من 3 إلى 7 أعوام): (بين ‎2½ و4 ستونات)</p>
 	            </td>
 	        </tr>
 	        <tr>
 	             <td>
-	                  <p>36-45 kg bodyweight (12-14 years): (Between 5½ and 7 stones) </p>
+	                  <p>5 مل (300 مجم)، تُعطى في صورة ملعقة واحدة ملء 7.5 مل، مرة واحدة يوميًا لمدة 3 أيام.</p>
 	            </td>
 	            <td>
-	                 <p>10 ml (400 mg), given as 1 x 10 ml spoonful, once daily for 3 days.</p>
+	                 <p> وزن الجسم من 26 إلى 35 كجم (من 8 أعوام إلى 11 عامًا): (بين 4 و‎5½ ستونات)</p>
+	            </td>
+	        </tr>
+	        <tr>
+	             <td>
+	                  <p>10 مل (400 مجم)، تُعطى في صورة ملعقة واحدة ملء 10 مل، مرة واحدة يوميًا لمدة 3 أيام.</p>
+	            </td>
+	            <td>
+	                 <p>وزن الجسم من 36 إلى 45 كجم (من 12 إلى 14 عامًا): (بين ‎5½ و7 ستونات)</p>
 	            </td>
 	        </tr>
 	</tbody>
@@ -221,37 +221,38 @@ Usage: #inline
 
 
 
-	<p><b>B.	Instructions for the plastic spoon</b></p>
+	<p><b>ب‌.	التعليمات الخاصة بالملعقة البلاستيكية</b></p>
 	
-		<p>The spoon should not be used for children less than 3 years of age (less than 2½ stones).</p>
+		<p>ينبغي عدم استخدام الملعقة مع الأطفال</p>
+                <p>الذين تقل أعمارهم عن 3 أعوام (أقل من ‎ ‏‎2½‎ ستون).</p>
 	 
-		<p><b>Giving the medicine using the spoon. </b></p>
+		<p><b>إعطاء الدواء باستخدام الملعقة.</b></p>
 	
 <ol>
 	
-	<li><p>A plastic double-ended spoon is provided with the medicine. Check which end of the spoon and to which level gives you your required dose. If you are unsure, check with your doctor or pharmacist. This multi-dosing spoon delivers doses as follows: </p>
-			<p>2.5 ml &nbsp;&nbsp;&nbsp;&nbsp; (100 mg) &nbsp;&nbsp;&nbsp;&nbsp; Small end &nbsp;&nbsp;&nbsp;&nbsp; to graduation</p>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
-			<p>5 ml &nbsp;&nbsp;&nbsp;&nbsp; (200 mg) &nbsp;&nbsp;&nbsp;&nbsp; Small end &nbsp;&nbsp;&nbsp;&nbsp; brimful</p>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
-			<p>7.5 ml &nbsp;&nbsp;&nbsp;&nbsp; (300 mg) &nbsp;&nbsp;&nbsp;&nbsp; Large end &nbsp;&nbsp;&nbsp;&nbsp; to graduation</p>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
-			<p>10 ml &nbsp;&nbsp;&nbsp;&nbsp; (400 mg) &nbsp;&nbsp;&nbsp;&nbsp; Large end &nbsp;&nbsp;&nbsp;&nbsp; brimful</p>
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(illustration) </p>
+	<li><p> تُزود مع الدواء ملعقة بلاستيكية ذات طرف مزدوج. تحقق من طرف الملعقة ومستوى الملء المناسبين للحصول على جرعتك المطلوبة. إذا لم تكن متأكدًا مما ينبغي القيام به، فاستشر طبيبك أو الصيدلي. الجرعات المعطاة باستخدام ملعقة معايرة الجرعات المتعددة هذه تكون على النحو التالي: </p>
+			<p>2.5 مل	(100 مجم)		الطرف الصغير	حتى علامة التدريج</p>
+			<p>		       (الرسم التوضيحي)		</p>
+			<p>5 مل	(200 مجم)		الطرف الصغير	ممتلئة</p>
+			<p>		      (الرسم التوضيحي)		 </p>
+			<p>5 مل	(300 مجم)		الطرف الكبير	حتى علامة التدريج</p>
+			<p>		      (الرسم التوضيحي)		 </p>
+			<p>10 مل	(400 مجم)		الطرف الكبير	ممتلئة</p>
+			<p>	   	      (الرسم التوضيحي)		</p>
 	</li>
-	<li>Shake the bottle well and then remove the child-proof cap. </li>
-	<li>Gently pour the medicine into the spoon as required to give the correct dose. </li>
-	<li>Allow the patient to swallow the medicine slowly. </li>
-	<li>Wash the spoon under warm, running water. Dry and store it with the medicine in a safe place. </li>
+	<li>رج الزجاجة جيدًا ثم انزع الغطاء المضاد لعبث الأطفال.</li>
+	<li>صب الدواء برفق في الملعقة كما يلزم لإعطاء الجرعة الصحيحة.</li>
+	<li>دع المريض يبتلع الدواء ببطء.</li>
+	<li>اغسل الملعقة تحت الماء الدافئ الجاري. جففها وخزنها مع الدواء في مكان آمن.</li>
 </ol>
-<p><b>Warning: if giving this medicine to a child, ensure that while receiving the medicine he/she is supported in an upright position to avoid the risk of choking. </b></p>
-<p><b>If you/your child takes more Zithromax than they should</b></p>
-<p>If you/your child take too much Zithromax they may feel unwell. Tell your doctor or contact your nearest hospital casualty department immediately. Take any remaining medicine with you.</p>
-<p><b>If you forget to take or give Zithromax</b></p>
-<p>If you forget to take Zithromax take it as soon as you can. Take your next dose at the right time. Do not take a double dose to make up for a forgotten dose. </p>
-<p><b>If you stop taking Zithromax</b></p>
-<p>If you/your child stop taking Zithromax too soon, the infection may return. Take Zithromax for the full time of treatment, even when you/your child begin to feel better. </p>
-	<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist. </p>
+<p><b>تحذير: في حالة إعطاء هذا الدواء إلى طفل، تأكد أنه مستند في وضع قائم أثناء تلقي الدواء لتجنب التعرض لخطر الاختناق.</b></p>
+<p><b>إذا تناولت/تناول طفلك كمية أكبر مما ينبغي من زيثروماكس</b></p>
+<p>إذا تناولت/تناول طفلك كمية أكبر مما ينبغي من زيثروماكس، فقد تشعر/يشعر بالتوعك. أخبر طبيبك أو اتصل بقسم الإصابات في أقرب مستشفى فورًا. وخذ معك أي كميات متبقية من الدواء.</p>
+<p><b>إذا نسيت تناول أو إعطاء زيثروماكس</b></p>
+<p>إذا نسيت تناول زيثروماكس، فتناوله في أقرب وقت ممكن. تناول جرعتك التالية في الموعد الصحيح. لا تتناول جرعة مضاعفة لتعويض الجرعة المنسية.</p>
+<p><b>إذا توقفت عن تناول زيثروماكس</b></p>
+<p>إذا توقفت/توقف طفلك عن تناول زيثروماكس في وقت مبكر جدًا، فقد تظهر العدوى مرة أخرى. تناول زيثروماكس طوال مدة العلاج الكاملة حتى عندما تبدأ/يبدأ طفلك في الشعور بالتحسن.</p>
+	<p>إذا كان لديك مزيد من الأسئلة بشأن استخدام هذا الدواء، فاسأل طبيبك أو الصيدلي.</p>
 
 	
   </div>"""         
