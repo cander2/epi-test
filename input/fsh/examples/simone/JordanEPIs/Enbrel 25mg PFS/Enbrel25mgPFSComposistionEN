@@ -27,10 +27,10 @@ Usage: #inline
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
-        <p><b>Zithromax®</b></p>
-        <p>Azithromycin</p>
-	<p>200 mg/5 ml powder for oral suspension</p>
-        <p>Reference Market : UK</p>
+        <p><b>Enbrel®</b></p>
+        <p>25 mg solution for injection in pre-filled syringe</p>
+	<p>Etanercept</p>
+        <p>Reference Market: EU</p>
         <p><b>PACKAGE LEAFLET</b></p>
   </div>"""   
       
