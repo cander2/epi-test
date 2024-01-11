@@ -2,7 +2,7 @@
 Instance: Enbrel25mgPFSMedicinalProduct
 InstanceOf: MedicinalProductDefinitionUvEpi
 Title: "Medicinal Product Enbrel 25mg PFS"
-Description: "zithromax (azithromycin) 200 mg/5 ml powder for oral suspension"
+Description: "Enbrel 25 mg solution for injection in pre-filled syringe"
 Usage: #example
 
 * identifier[+].system = "https://jfda.jo"
@@ -16,27 +16,27 @@ Usage: #example
 * legalStatusOfSupply = $spor-rms#100000072084 "Medicinal product subject to medical prescription"
 
 * name
-  * productName = "zithromax (azithromycin) 250 mg POS"
+  * productName = "Enbrel 25mg PFS"
   * type = $spor-productNamePartType-cs#220000000001
     * text = "Full name"
   
   * part[0]
-    * part = "zithromax"
+    * part = "Enbrel"
     * type = $spor-productNamePartType-cs#220000000002
     * type.text = "Invented name part"
   
   * part[+]
-    * part = "azithromycin"
+    * part = "Etanercept"
     * type = $spor-productNamePartType-cs#220000000003
     * type.text = "Scientific name part"
   
   * part[+]
-    * part = "200 mg/5 ml"
+    * part = "25 mg"
     * type = $spor-productNamePartType-cs#220000000004
     * type.text = "Strength part"
   
   * part[+]
-    * part = "powder for oral suspension"
+    * part = "solution for injection in pre-filled syringe"
     * type = $spor-productNamePartType-cs#220000000005
     * type.text = "Pharmaceutical dose form part"
   
