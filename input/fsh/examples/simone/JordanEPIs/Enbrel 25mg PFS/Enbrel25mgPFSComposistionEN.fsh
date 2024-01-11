@@ -188,7 +188,7 @@ Usage: #inline
 <p><b>Driving and using machines</b></p>
 <p>The use of Enbrel is not expected to affect the ability to drive or use machines.</p>
 <p><b>Enbrel contains sodium</b></p>
-<p>This medicine contains less than 1&nbsp;mmol sodium (23&nbsp;mg) per dosage unit, that is to say essentially ‘sodium free’.</p>
+<p>This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium free’.</p>
 
   </div>"""   
                     
@@ -363,7 +363,7 @@ Usage: #inline
 
 
 <ol>
-<li>A different site should be used for each new injection. Each new injection should be given at least 3&nbsp;cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
+<li>A different site should be used for each new injection. Each new injection should be given at least 3 cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
 <li>If you or the child have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin patches (“psoriasis skin lesions”).</li>
 </ol>
 <p><b>Step 3: Injecting the Enbrel solution </b></p>
