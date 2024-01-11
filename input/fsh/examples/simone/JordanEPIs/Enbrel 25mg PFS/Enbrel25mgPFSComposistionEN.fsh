@@ -424,8 +424,8 @@ Usage: #inline
 <td>
 <p><b>Council of Arab Health Ministers</b></p>
 <p><b> Union of Arabic Pharmacists</b></p>
-<td>
-<tr>
+</td>
+</tr>
 </tbody>
 </table>
 
