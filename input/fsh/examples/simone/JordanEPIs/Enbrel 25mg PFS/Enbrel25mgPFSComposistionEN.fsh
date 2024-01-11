@@ -43,6 +43,7 @@ Usage: #inline
         <p><b>Enbrel 25 mg solution for injection in pre-filled syringe</b></p>
         <p><b>Etanercept</b></p>  
 <table>
+<tbody>
  <tr>
   <p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you. </b></p>
         <ul>
@@ -52,6 +53,7 @@ Usage: #inline
             <li>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4. </li>
         </ul>
  </tr>
+</tbody>
 </table>
   </div>"""   
 
