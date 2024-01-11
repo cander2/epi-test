@@ -155,7 +155,34 @@ Usage: #inline
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-      
+      <p>Always use this medicine exactly as the doctor has told you. Check with the doctor or pharmacist if you are not sure.</p>
+<p>If you feel that the effect of Enbrel is too b or too weak, talk to your doctor or pharmacist.</p>
+<p>The pre-filled syringe is available in dose strengths of 25 mg and 50 mg.</p>
+<p><b>Dosing for adult patients (aged 18 years or over)</b></p>
+<p><b><u>Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis including ankylosing spondylitis</u></b></p>
+<p>The usual dose is 25 mg given twice a week or 50 mg once a week as an injection under the skin. However, your doctor may determine an alternative frequency at which to inject Enbrel.</p>
+<p><b><u>Plaque psoriasis</u></b></p>
+<p>The usual dose is 25 mg twice a week or 50 mg once a week. </p>
+<p>Alternatively, 50 mg may be given twice a week for up to 12 weeks, followed by 25 mg twice a week or 50 mg once a week.</p>
+<p>Your doctor will decide how long you should take Enbrel and whether retreatment is needed based on your response. If Enbrel has no effect on your condition after 12 weeks, your doctor may tell you to stop taking this medicine.</p>
+<p><b>Use in children and adolescents</b></p>
+<p>The appropriate dose and frequency of dosing for the child or adolescent will depend on body weight and disease. Your doctor will determine the correct dose for the child and will prescribe an appropriate strength of Enbrel (25 mg or 50 mg).</p>
+<p>For polyarthritis or extended oligoarthritis in patients from the age of 2 years, or enthesitis-related arthritis or psoriatic arthritis in patients from the age of 12 years, the usual dose is 0.4 mg of Enbrel per kg bodyweight (up to a maximum of 25 mg) given twice weekly, or 0.8 mg of Enbrel per kg of bodyweight (up to a maximum of 50 mg) given once weekly.</p>
+<p>For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of Enbrel per kg bodyweight (up to a maximum of 50 mg), and should be given once weekly. If Enbrel has no effect on the child&rsquo;s condition after 12 weeks, your doctor may tell you to stop using this medicine.</p>
+<p>The doctor will provide you with detailed directions for preparing and measuring the appropriate dose.</p>
+<p><b>Method and route of administration</b></p>
+<p>Enbrel is administered by an injection under the skin (by subcutaneous injection).</p>
+<p>Enbrel can be taken with or without food or drink.</p>
+<p><b>Detailed instructions on how to inject Enbrel are provided in section 7,  “Instructions for preparing and giving an injection of Enbrel”. </b>Do not mix the Enbrel solution with any other medicine.</p>
+<p>To help you remember, it may be helpful to write in a diary which day(s) of the week Enbrel should be used.</p>
+<p><b>If you use more Enbrel than you should</b></p>
+<p>If you have used more Enbrel than you should (either by injecting too much on a single occasion or by using it too frequently), talk to a doctor or pharmacist immediately. Always have the outer carton of the medicine with you, even if it is empty.</p>
+<p><b>If you forget to inject Enbrel</b></p>
+<p>If you forget a dose, you should inject it as soon as you remember, unless the next scheduled dose is the next day; in which case you should skip the missed dose. Then continue to inject the medicine on the usual day(s). If you do not remember until the day that the next injection is due, do not take a double dose (two doses on the same day) to make up for a forgotten dose.</p>
+<p><b>If you stop using Enbrel</b></p>
+<p>Your symptoms may return upon discontinuation.</p>
+<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist.</p>
+
   </div>"""         
     
 * section[=].section[+]
