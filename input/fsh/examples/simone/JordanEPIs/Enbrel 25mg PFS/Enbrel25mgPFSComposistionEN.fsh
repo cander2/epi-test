@@ -101,6 +101,51 @@ Usage: #inline
   * code.text = "2. What you need to know before you take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p><b>Do not use Enbrel</b></p>
+<ul>
+<li>if you, or the child you are caring for, are allergic to etanercept or any of the other ingredients of Enbrel (listed in section 6). If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Enbrel, and contact your doctor immediately.</li>
+<li>if you or the child have, or are at risk of developing a serious blood infection called sepsis. If you are not sure, please contact your doctor.</li>
+<li>if you or the child have an infection of any kind. If you are not sure, please talk to your doctor.</li>
+</ul>
+<p><b>Warning and precautions</b></p>
+<p>Talk to your doctor before taking Enbrel.</p>
+<ul>
+<li><b>Allergic reactions</b>: If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Enbrel, and contact your doctor immediately.</li>
+<li><b>Infections/surgery</b>: If you or the child develop a new infection, or are about to have any major surgery, your doctor may wish to monitor the treatment with Enbrel.</li>
+<li><b>Infections/diabetes:</b> Tell your doctor if you or the child have a history of recurrent infections or suffer from diabetes or other conditions that increase the risk of infection.</li>
+<li><b>Infections/monitoring: </b>Tell your doctor of any recent travel outside the European region. If you or the child develop symptoms of an infection such as fever, chills or cough, notify your doctor immediately. Your doctor may decide to continue to monitor you or the child for the presence of infections after you or the child stop using Enbrel.</li>
+<li><b>Tuberculosis: </b>As cases of tuberculosis have been reported in patients treated with Enbrel, your doctor will check for signs and symptoms of tuberculosis before starting Enbrel. This may include a thorough medical history, a chest X-ray and a tuberculin testIt is very important that you tell your doctor if you or the child have ever had tuberculosis, or have been in close contact with someone who has had tuberculosis. If symptoms of tuberculosis (such as persistent cough, weight loss, listlessness, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.</li>
+<li><b>Hepatitis B: </b>Tell your doctor if you or the child have or have ever had hepatitis B. Your doctor should test for the presence of hepatitis B infection before you or the child begin treatment with Enbrel. Treatment with Enbrel may result in reactivation of hepatitis B in patients who have previously been infected with the hepatitis B virus. If this occurs, you should stop using Enbrel.</li>
+<li><b>Hepatitis C:</b> Tell your doctor if you or the child have hepatitis C. Your doctor may wish to monitor the treatment with Enbrel in case the infection worsens.</li>
+<li><b>Blood disorders:</b> Seek medical advice immediately if you or the child have any signs or symptoms such as persistent fever, sore throat, bruising, bleeding or paleness. Such symptoms may point to the existence of potentially life-threatening blood disorders, which may require discontinuation of Enbrel.</li>
+<li><b>Nervous system and eye disorders:</b> Tell your doctor if you or the child have multiple sclerosis, optic neuritis (inflammation of the nerves of the eyes) or transverse myelitis (inflammation of the spinal cord). Your doctor will determine if Enbrel is an appropriate treatment.</li>
+<li><b>Congestive heart failure:</b> Tell your doctor if you or the child have a history of congestive heart failure, because Enbrel needs to be used with caution under these circumstances.</li>
+<li><b>Cancer: </b>Tell your doctor if you have or have ever had lymphoma (a type of blood cancer) or any other cancer before you are given Enbrel.</li>
+</ul>
+<p>Patients with severe rheumatoid arthritis, who have had the disease for a long time, may be at higher than average risk of developing lymphoma.</p>
+<p>Children and adults taking Enbrel may have an increased risk of developing lymphoma or another cancer.</p>
+<p>Some children and teenage patients who have received Enbrel or other medicines that work the same way as Enbrel have developed cancers, including unusual types, which sometimes resulted in death.</p>
+<p>Some patients receiving Enbrel have developed skin cancers. Tell your doctor if you or the child develop any change in the appearance of the skin or growths on the skin.</p>
+<ul>
+<li><b>Chickenpox:</b> Tell your doctor if you or the child are exposed to chickenpox when using Enbrel. Your doctor will determine if preventive treatment for chickenpox is appropriate.</li>
+<li><b>Latex: </b>The needle cover is made from latex (dry natural rubber). Contact your doctor before using Enbrel if the needle cover will be handled by, or Enbrel will be given to, someone with a known or possible hypersensitivity (allergy) to latex.</li>
+<li><b>Alcohol abuse</b>: Enbrel should not be used for the treatment of hepatitis related to alcohol abuse. Please tell your doctor if you or the child in your care have a history of alcohol abuse.</li>
+<li><b> Wegener’s granulomatosis </b>: Enbrel is not recommended for the treatment of Wegener’s granulomatosis, a rare inflammatory disease. If you or the child in your care have Wegener’s granulomatosis, talk to your doctor.</li>
+<li><b>Anti-diabetic medicines</b>: Tell your doctor if you or the child have diabetes or are taking medicines to treat diabetes. Your doctor may decide if you or the child need less anti-diabetic medicine while taking Enbrel.</li>
+</ul>
+<p><b>Children and adolescents </b></p>
+<p><b>Vaccinations:</b> If possible, children should be up to date with all vaccinations before using Enbrel. Some vaccines, such as oral polio vaccine, should not be given while using Enbrel. Please consult your doctor before you or the child receive any vaccines.</p>
+<p>Enbrel should not normally be used in children with polyarthritis or extended oligoarthritis below the age of 2 years, or in children with enthesitis-related arthritis or psoriatic arthritis below the age of 12 years, or in children with psoriasis below the age of 6 years.</p>
+<p><b>Other medicines and Enbrel</b></p>
+<p>Tell your doctor or pharmacist if you or the child are taking, have recently taken or might take any other medicines (including anakinra, abatacept or sulfasalazine), even those not prescribed by the doctor. You or the child should not use Enbrel with medicines that contain the active substance anakinra or abatacept.</p>
+<p><b>Pregnancy and breast-feeding</b></p>
+<p>Enbrel should only be used during pregnancy if clearly needed. You should consult your doctor if you become pregnant, think you may be pregnant, or are planning to have a baby.</p>
+<p>If you received Enbrel during pregnancy, your baby may have a higher risk of getting an infection. In addition, one study found more birth defects when the mother had received Enbrel in pregnancy, compared with mothers who had not received Enbrel or other similar medicines (TNF‑antagonists), but there was no particular kind of birth defect reported. Another study found no increased risk of birth defects when the mother had received Enbrel in pregnancy. Your doctor will help you to decide whether the benefits of treatment outweigh the potential risk to your baby. It is important that you tell the baby’s doctors and other healthcare professionals about the use of Enbrel during pregnancy before the baby receives any vaccine (for more information see section 2, “Vaccinations”).</p>
+<p>Women using Enbrel should not breast-feed, since Enbrel passes into human breast milk.</p>
+<p><b>Driving and using machines</b></p>
+<p>The use of Enbrel is not expected to affect the ability to drive or use machines.</p>
+<p><b>Enbrel contains sodium</b></p>
+<p>This medicine contains less than 1&nbsp;mmol sodium (23&nbsp;mg) per dosage unit, that is to say essentially ‘sodium free’.</p>
 
   </div>"""   
                     
