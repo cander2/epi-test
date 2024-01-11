@@ -211,7 +211,7 @@ Usage: #inline
 <p><b>Use in children and adolescents</b></p>
 <p>The appropriate dose and frequency of dosing for the child or adolescent will depend on body weight and disease. Your doctor will determine the correct dose for the child and will prescribe an appropriate strength of Enbrel (25 mg or 50 mg).</p>
 <p>For polyarthritis or extended oligoarthritis in patients from the age of 2 years, or enthesitis-related arthritis or psoriatic arthritis in patients from the age of 12 years, the usual dose is 0.4 mg of Enbrel per kg bodyweight (up to a maximum of 25 mg) given twice weekly, or 0.8 mg of Enbrel per kg of bodyweight (up to a maximum of 50 mg) given once weekly.</p>
-<p>For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of Enbrel per kg bodyweight (up to a maximum of 50 mg), and should be given once weekly. If Enbrel has no effect on the child&rsquo;s condition after 12 weeks, your doctor may tell you to stop using this medicine.</p>
+<p>For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of Enbrel per kg bodyweight (up to a maximum of 50 mg), and should be given once weekly. If Enbrel has no effect on the child's condition after 12 weeks, your doctor may tell you to stop using this medicine.</p>
 <p>The doctor will provide you with detailed directions for preparing and measuring the appropriate dose.</p>
 <p><b>Method and route of administration</b></p>
 <p>Enbrel is administered by an injection under the skin (by subcutaneous injection).</p>
