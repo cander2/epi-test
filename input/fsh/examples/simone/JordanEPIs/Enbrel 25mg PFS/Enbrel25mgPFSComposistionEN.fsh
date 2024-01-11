@@ -21,6 +21,47 @@ Usage: #inline
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
 
+* contained
+  * resourceType = "Binary"
+  * id = "Diagram 1"
+  * contentType = #image/jpeg
+  * data = "" //Imput 64base codes
+* extension.url = "http://www.npra.gov.my/fhir/extension/ValidationReference"
+* extension
+  * valueReference
+    * reference = "#Diagram1"
+
+* contained
+  * resourceType = "Binary"
+  * id = "Diagram 2"
+  * contentType = #image/jpeg
+  * data = "" //Imput 64base codes
+* extension.url = "http://www.npra.gov.my/fhir/extension/ValidationReference"
+* extension
+  * valueReference
+    * reference = "#Diagram2"
+
+* contained
+  * resourceType = "Binary"
+  * id = "Diagram 3"
+  * contentType = #image/jpeg
+  * data = "" //Imput 64base codes
+* extension.url = "http://www.npra.gov.my/fhir/extension/ValidationReference"
+* extension
+  * valueReference
+    * reference = "#Diagram3"
+
+* contained
+  * resourceType = "Binary"
+  * id = "Diagram 4"
+  * contentType = #image/jpeg
+  * data = "" //Imput 64base codes
+* extension.url = "http://www.npra.gov.my/fhir/extension/ValidationReference"
+* extension
+  * valueReference
+    * reference = "#Diagram4"
+
+
 * section[+].
   * title = "B. Package Leaflet"
   * code = https://www.jfda.jo/#100000155538
@@ -316,6 +357,11 @@ Usage: #inline
 <li>The three recommended injection sites for Enbrel using a pre-filled syringe include: (1) the front of the middle thighs; (2) the abdomen, except for the 5 cm area right around the navel; and (3) the outer area of the upper arms (see Diagram 1). If you are self injecting, you should not use the outer area of the upper arms.</li>
 </ol>
 <p><u>Diagram 1</u></p>
+<p style="text-align:center">
+          <img src="#Diagram1" alt="Diagram 1"/>
+        </p>
+ <p style="text-align:center">
+
 <ol>
 <li>A different site should be used for each new injection. Each new injection should be given at least 3&nbsp;cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
 <li>If you or the child have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin patches (“psoriasis skin lesions”).</li>
@@ -327,15 +373,27 @@ Usage: #inline
 </ol>
 <p>When you remove the needle cover, there may be a drop of liquid at the end of the needle; this is normal. Do not touch the needle or allow it to touch any surface. Do not touch or bump the plunger. Doing so could cause the liquid to leak out.</p>
 <p><u>Diagram 2</u></p>
+<p style="text-align:center">
+          <img src="#Diagram2" alt="Diagram 2"/>
+        </p>
+ <p style="text-align:center">
 <ol>
 <li>When the cleaned area of skin has dried, pinch and hold it firmly with one hand. With the other hand, hold the syringe like a pencil.</li>
 <li>With a quick, short motion, push the needle all the way into the skin at an angle between 45&deg; and 90&deg; (see Diagram 3). With experience, you will find the angle that is most comfortable for you or the child. Be careful not to push the needle into the skin too slowly, or with great force.</li>
 </ol>
 <p><u>Diagram 3</u></p>
+<p style="text-align:center">
+          <img src="#Diagram3" alt="Diagram 3"/>
+        </p>
+ <p style="text-align:center">
 <ol>
 <li>When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a <b>slow</b>, steady rate (see Diagram 4).</li>
 </ol>
 <p>Diagram 4</p>
+<p style="text-align:center">
+          <img src="#Diagram4" alt="Diagram 4"/>
+        </p>
+ <p style="text-align:center">
 <ol>
 <li>When the syringe is empty, pull the needle out of the skin, being careful to keep it at the same angle as inserted. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. If needed, you may cover the injection site with a bandage.</li>
 </ol>
