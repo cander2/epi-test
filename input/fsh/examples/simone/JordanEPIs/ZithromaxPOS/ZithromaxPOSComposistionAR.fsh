@@ -109,32 +109,30 @@ Usage: #inline
         <p>أخبر طبيبك فورًا إذا شعرت بنبض قلبك داخل صدرك، أو إذا أصبت باختلال في ضربات القلب، أو إذا أصبت بدوار أو إغماء، أو إذا عانيت من أي ضعف في العضلات أثناء تناول زيثروماكس.</p>
         <p>إذا أصبت بإسهال أو أصبح البراز لينًا أثناء العلاج أو بعده، فأخبر طبيبك فورًا. لا تتناول أي دواء لعلاج حالة الإسهال لديك دون مراجعة طبيبك أولًا. إذا استمر الإسهال لديك، يُرجى إبلاغ طبيبك.</p>
         <p><b>الأدوية الأخرى وزيثروماكس</b></p>
-        <p>Tell your doctor or pharmacist if you/your child are taking, have recently taken or might take any other medicines.</p>
-        <p>In particular, Zithromax may interact with the medicines listed below: </p>
+        <p>أخبر طبيبك أو الصيدلي إذا كنت أنت/طفلك تتناولان أو تناولتما مؤخرًا أو قد تتناولان أي أدوية أخرى.</p>
+        <p>وبشكل خاص، قد يتفاعل زيثروماكس مع الأدوية المدرجة أدناه:</p>
         <ul>
-            <li>ergot or ergotamine – see ‘Warnings and precautions’ section </li>
-            <li>warfarin or any similar medicine to prevent blood clots</li>
-            <li>ciclosporin (used to suppress the immune system to prevent and treat rejection of a transplanted organ or bone marrow) </li>
-            <li>antacids (for indigestion)</li>
-            <li>digoxin (used to treat heart failure)</li>
-            <li>colchicine (used for gout and familial Mediterranean fever)</li>
-            <li>terfenadine (for hay fever or a skin allergy). </li>
+            <li>الإرجوت أو إرجوتامين، انظر قسم "تحذيرات واحتياطات" </li>
+            <li>وارفارين أو أي دواء مشابه لمنع الجلطات الدموية</li>
+            <li>سيكلوسبورين (يُستخدم لكبت جهاز المناعة لمنع وعلاج رفض الجسم للأعضاء المزروعة أو نخاع العظم المزروع) </li>
+            <li>مضادات الحموضة (لعلاج عسر الهضم)</li>
+            <li>ديجوكسين (يُستخدم لعلاج فشل القلب)</li>
+            <li>كولشيسين )يُستخدم لعلاج النقرس وحمى البحر المتوسط العائلية(</li>
+            <li>تيرفينادين (لعلاج حمى القش أو حساسية الجلد) </li>
 </ul>
         
-<p><b>Zithromax with food and drink</b></p>
-        <p>Please refer to section 3. </p>
+<p><b>تناول زيثروماكس مع الطعام والشراب </b></p>
+        <p>يرجى الرجوع إلى القسم 3. </p>
         
-        <p><b>Pregnancy, breast-feeding and fertility</b></p>
-        <p>If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine. </p>
+        <p><b>الحمل والرضاعة الطبيعية والخصوبة</b></p>
+        <p>إذا كنتِ حاملًا، أو تُرضعين رضاعة طبيعية، أو تعتقدين أنكِ ربما تكونين حاملًا أو تخططين للإنجاب، فاستشيري طبيبكِ أو الصيدلي قبل تناول هذا الدواء. </p>
 
-        <p><b>Driving and using machines</b></p>
-        <p>Zithromax is not expected to affect your ability to drive or use machines. </p>
+        <p><b>القيادة واستخدام الآلات</b></p>
+        <p>من غير المتوقع أن يؤثر زيثروماكس على قدرتك على القيادة أو استخدام الآلات. </p>
         
-        <p><b>Zithromax suspension contains sucrose</b>, a type of sugar (3.87 g in 5 ml). If you have been told by your doctor that you have an intolerance to some sugars contact your doctor before taking this medicine. If you are diabetic, you may need to take this into account in your diet.</p>
-
-
-<p><b>Information on sodium content</b></p>
-        <p>Zithromax contains less than 1 mmol sodium (23 mg) per 5 ml of reconstituted suspension, that is to say essentially ‘sodium free’.</p>    
+        <p>يحتوي معلق زيثروماكس على السكروز، وهو أحد أنواع السكر (3.87 جم في 5 مل). إذا كان طبيبك قد أخبرك أنك تعاني من عدم تحمل بعض السكريات، فاتصل بطبيبك قبل تناول هذا الدواء. إذا كنت مصابًا بداء السكري، فقد يتعين عليك أخذ هذا بعين الاعتبار في نظامك الغذائي</p>
+<p><b>معلومات عن المحتوى من الصوديوم</b></p>
+        <p>يحتوي زيثروماكس على أقل من 1 مليمول من الصوديوم (23 مجم) لكل 5 مل من المعلق المُحضر، وهذا يعني أنه "خالٍ من الصوديوم" بشكل أساسي.</p>    
   
   </div>"""   
                     
