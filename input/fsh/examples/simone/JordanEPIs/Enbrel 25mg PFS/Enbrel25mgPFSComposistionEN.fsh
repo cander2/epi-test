@@ -347,18 +347,27 @@ Usage: #inline
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 <tbody>
 <tr>
+			<td style="text-align:center"><strong>THIS IS A MEDICAMENT</strong></td>
+		</tr>
+<tr>
 <td>
-<p><b>THIS IS A MEDICAMENT</b></p>
 <p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
 <p>- Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
 <p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
 <p>- Do not by yourself interrupt the period of treatment prescribed.</p>
 <p>- Do not repeat the same prescription without consulting your doctor.</p>
-<p><b>Keep all medicaments out of reach and sight of children</b></p>
-<p><b>Council of Arab Health Ministers</b></p>
-<p><b> Union of Arabic Pharmacists</b></p>
+
 </td>
 </tr>
+<tr>
+			<td style="text-align:center"><strong>Keep all medicaments out of reach and sight of children</strong></td>
+		</tr>
+<tr>
+<td>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+<td>
+<tr>
 </tbody>
 </table>
 
