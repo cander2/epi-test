@@ -63,7 +63,7 @@ Usage: #inline
 
 
 * section[+].
-  * title = "B. Package Leaflet"
+  * title = "النشرة الداخلية: معلومات للمريض"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
@@ -76,7 +76,7 @@ Usage: #inline
   </div>"""   
       
 * section[=].section[+]
-  * title = "Package leaflet: Information for the patient"
+  * title = "النشرة الداخلية: معلومات للمريض"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
