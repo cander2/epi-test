@@ -100,9 +100,9 @@ Usage: #inline
   </div>"""   
 
 * section[=].section[+]
-  * title = "What is in this leaflet"
+  * title = "محتوى  هذه النشرة"
   * code = https://www.jfda.jo/#100000155538
-  * code.text = "محتوى  هذه النشرة:"
+  * code.text = "What is in this leaflet"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
      
@@ -120,9 +120,9 @@ Usage: #inline
 </div>"""   
           
 * section[=].section[+]
-  * title = "1. What Enbrel is and what it is used for"
+  * title = "1. ما هو زيثروماكس وفيم يستخدم "
   * code = https://www.jfda.jo/#100000155538
-  * code.text = "1. ما هو إنبريل وفيم يستخدم"
+  * code.text = "1. What x is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
  <p>إن إنبريل هو دواء يتم تصنيعه من نوعين من البروتينات البشرية. وهو يوقف نشاط بروتين آخر في الجسم يسبب الالتهاب. ويعمل إنبريل على تقليل الالتهاب المرتبط ببعض الأمراض.</p>
@@ -144,9 +144,9 @@ Usage: #inline
   </div>"""   
           
 * section[=].section[+]
-  * title = "2. What you need to know before you take Enbrel"
+  * title = "2. ما تحتاج إلى معرفته قبل أن تتناول زيثروماكس"
   * code = https://www.jfda.jo/#100000155538
-  * code.text = "2. ما ينبغي عليك معرفته قبل استخدام إنبريل "
+  * code.text = "2. What you need to know before you take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p><b>يُحظر استخدام إنبريل</b></p>
@@ -196,228 +196,247 @@ Usage: #inline
   </div>"""   
                     
 * section[=].section[+]
-  * title = "3. How to take Zithromax"
+  * title = "3. كيفية تناول زيثروماكس"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "3. How to take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-      <p>Always use this medicine exactly as the doctor has told you. Check with the doctor or pharmacist if you are not sure.</p>
-<p>If you feel that the effect of Enbrel is too strong or too weak, talk to your doctor or pharmacist.</p>
-<p>The pre-filled syringe is available in dose strengths of 25 mg and 50 mg.</p>
-<p><b>Dosing for adult patients (aged 18 years or over)</b></p>
-<p><b><u>Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis including ankylosing spondylitis</u></b></p>
-<p>The usual dose is 25 mg given twice a week or 50 mg once a week as an injection under the skin. However, your doctor may determine an alternative frequency at which to inject Enbrel.</p>
-<p><b><u>Plaque psoriasis</u></b></p>
-<p>The usual dose is 25 mg twice a week or 50 mg once a week. </p>
-<p>Alternatively, 50 mg may be given twice a week for up to 12 weeks, followed by 25 mg twice a week or 50 mg once a week.</p>
-<p>Your doctor will decide how long you should take Enbrel and whether retreatment is needed based on your response. If Enbrel has no effect on your condition after 12 weeks, your doctor may tell you to stop taking this medicine.</p>
-<p><b>Use in children and adolescents</b></p>
-<p>The appropriate dose and frequency of dosing for the child or adolescent will depend on body weight and disease. Your doctor will determine the correct dose for the child and will prescribe an appropriate strength of Enbrel (25 mg or 50 mg).</p>
-<p>For polyarthritis or extended oligoarthritis in patients from the age of 2 years, or enthesitis-related arthritis or psoriatic arthritis in patients from the age of 12 years, the usual dose is 0.4 mg of Enbrel per kg bodyweight (up to a maximum of 25 mg) given twice weekly, or 0.8 mg of Enbrel per kg of bodyweight (up to a maximum of 50 mg) given once weekly.</p>
-<p>For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of Enbrel per kg bodyweight (up to a maximum of 50 mg), and should be given once weekly. If Enbrel has no effect on the child's condition after 12 weeks, your doctor may tell you to stop using this medicine.</p>
-<p>The doctor will provide you with detailed directions for preparing and measuring the appropriate dose.</p>
-<p><b>Method and route of administration</b></p>
-<p>Enbrel is administered by an injection under the skin (by subcutaneous injection).</p>
-<p>Enbrel can be taken with or without food or drink.</p>
-<p><b>Detailed instructions on how to inject Enbrel are provided in section 7,  “Instructions for preparing and giving an injection of Enbrel”. </b>Do not mix the Enbrel solution with any other medicine.</p>
-<p>To help you remember, it may be helpful to write in a diary which day(s) of the week Enbrel should be used.</p>
-<p><b>If you use more Enbrel than you should</b></p>
-<p>If you have used more Enbrel than you should (either by injecting too much on a single occasion or by using it too frequently), talk to a doctor or pharmacist immediately. Always have the outer carton of the medicine with you, even if it is empty.</p>
-<p><b>If you forget to inject Enbrel</b></p>
-<p>If you forget a dose, you should inject it as soon as you remember, unless the next scheduled dose is the next day; in which case you should skip the missed dose. Then continue to inject the medicine on the usual day(s). If you do not remember until the day that the next injection is due, do not take a double dose (two doses on the same day) to make up for a forgotten dose.</p>
-<p><b>If you stop using Enbrel</b></p>
-<p>Your symptoms may return upon discontinuation.</p>
-<p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist.</p>
+     <p>استخدم هذا الدواء دائمًا كما أخبرك طبيبك بالضبط. راجع الطبيب أو الصيدلي إذا لم تكن متأكدًا.</p>
+<p>إذا شعرت أن تأثير إنبريل قوي جدًا أو ضعيف جدًا، فتحدث إلى الطبيب أو الصيدلي.</p>
+<p>تتوفر المحقنة مسبقة التعبئة بتركيزات جرعات 25 مجم و50 مجم.</p>
+<p><b>الجرعة التي يتم إعطاؤها للمرضى البالغين (من سن 18 سنة أو أكثر)</b></p>
+<p><u>الالتهاب الروماتيزمي للمفاصل، التهاب المفاصل الصدفي و الالتهاب الفقري المفصلي اللاصق و يشمل التهاب العمود الفقري اللاصق (التهاب الفقرات التصلبي)</u></p>
+<p>إن الجرعة المعتادة هي 25 مجم يتم إعطاؤها مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا في صورة حقنة تحت الجلد. وعلى أي حال، فإن طبيبك يمكن أن يحدد نظامًا بديلًا لعدد مرات حقن إنبريل.</p>
+<p><u>الصدفية القشرية</u></p>
+<p>إن الجرعة المعتادة هي 25 مجم يتم إعطاؤها مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا.</p>
+<p>وبدلًا من ذلك، يمكن إعطاء 50 مجم مرتين أسبوعيًا لمدة تصل إلى 12 أسبوعًا، مع إتباع ذلك بجرعة 25 مجم مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا.</p>
+<p>سيحدد طبيبك الفترة التي يجب خلالها أن تتناول إنبريل وما إذا كانت هناك حاجة لإعادة العلاج على أساس استجابتك. وإذا لم يكن لإنبريل تأثير على حالتك بعد 12 أسبوعًا، فإن طبيبك يمكن أن يخبرك أن تتوقف عن تناول هذا الدواء.</p>
+<p><b>استعمال الأطفال والمراهقين للدواء</b></p>
+<p>إن الجرعة الملائمة وعدد مرات إعطاء الجرعة للطفل أو المراهق سوف تعتمد على وزن الجسم والمرض. سيقوم طبيبك بتحديد الجرعة الصحيحة للطفل وسيصف التركيز المناسب من إنبريل (25 مجم أو 50 مجم).</p>
+<p>بالنسبة لالتهاب المفاصل المتعددة أو التهاب المفاصل القليلة الممتد في المرضى من عمر سنتين أو التهاب المفاصل المتعلق بالتهاب الارتكاز أو التهاب المفاصل الصدفي في المرضى من عمر 12 سنة، فإن الجرعة المعتادة هي 0.4 مجم من إنبريل لكل كجم من وزن الجسم (حتى 25 مجم بحد أقصى) مرتين أسبوعيًا أو 0.8 مجم من إنبريل لكل كجم من وزن الجسم (حتى 50 مجم بحد أقصى) مرة واحدة أسبوعيًا.</p>
+<p>أما بالنسبة للصدفية في المرضى من عمر 6 سنوات، فإن الجرعة المعتادة هي 0.8 مجم من إنبريل لكل كجم من وزن الجسم (حتى 50 مجم بحد أقصى)، ويجب أن يتم إعطاؤها مرة واحدة أسبوعيًا. وإذا لم يكن لإنبريل تأثير على حالة الطفل بعد 12 أسبوعًا، فإن طبيبك قد يخبرك بإيقاف استخدام هذا الدواء.</p>
+<p>سوف يمدك الطبيب بالمعلومات التفصيلية لتحضير وقياس الجرعة الملائمة.</p>
+<p><b>طريقة ومسار التناول</b></p>
+<p>يتم إعطاء إنبريل بالحقن تحت الجلد (تحت الجلد).</p>
+<p>يُمكن تناول إنبريل مع أو بدون طعام أو شراب.</p>
+<p><b>توجد تعليمات مفصلة عن كيفية حقن إنبريل في القسم 7، "تعليمات تحضير وإعطاء حقنة من إنبريل". </b>لا تخلط محلول إنبريل مع أي دواء آخر.</p>
+<p>لمساعدتك على التذكر، من المفيد كتابة اليوم (الأيام) الذي يتم فيه تناول إنبريل أسبوعيًا في مفكرة يومية.</p>
+<p><b>إذا أخذت جرعة من إنبريل أكبر مما ينبغي</b></p>
+<p>إذا استخدمت كمية من إنبريل أكبر مما ينبغي (إما بحقن كمية كبيرة مرة واحدة أو باستخدامه عدد مرات أكبر)، تحدث إلى الطبيب أو الصيدلي في الحال. احتفظ معك بعلبة الدواء الخارجية دائما، حتى إن كانت فارغة.</p>
+<p><b>في حالة نسيانك أخذ حقنة من إنبريل</b></p>
+<p>إذا نسيت تناول جرعة واحدة، يجب عليك أخذ حقنة في أسرع وقت بمجرد تذكرك، مالم يكن موعد الجرعة التالية وفقًاً لجدول التناول في اليوم التالي؛ وفي تلك الحالة يجب عليك تخطي الجرعة الفائتة. بعد ذلك استمر في الحقن بالدواء وفقاً لجدول التناول المعتاد لليوم (الأيام). إذا لم تتذكر حتى اليوم الذي تكون فيه الحقنة الثانية مستحقة التناول، لا تأخذ جرعة مزدوجة (جرعتين في نفس اليوم) لتعويض الجرعة الفائتة.</p>
+<p><b>في حالة التوقف عن تناول إنبريل</b></p>
+<p>يمكن أن تعود الأعراض عند إيقاف العلاج.</p>
+<p>إذا كانت لديك أي أسئلة أخرى حول استخدام هذا الدواء، فيمكنك سؤال طبيبك أو الصيدلي.</p>
 
   </div>"""         
     
 * section[=].section[+]
-  * title = "4. Possible side effects"
+  * title = "4. الآثار الجانبية المحتملة"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "4. Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
-<p><b>Allergic reactions</b></p>
-<p>If any of the following happen, do not inject more Enbrel. Tell your doctor immediately, or go to the casualty department at your nearest hospital.</p>
+<p>مثل جميع الأدوية، يمكن أن يتسبب هذا الدواء في حدوث آثار جانبية، ومع ذلك فهي لا تحدث مع الجميع.</p>
+<p><b>أعراض الحساسية</b></p>
+<p>إذا حدث أي مما يلي، لا تحقن كميات أخرى من إنبريل. أخبر طبيبك في الحال أو اذهب إلى قسم (جناح) الإصابات في أقرب مستشفى.</p>
 <ul>
-<li>Trouble swallowing or breathing</li>
-<li>Swelling of the face, throat, hands, or feet</li>
-<li>Feeling nervous or anxious, throbbing sensations, sudden reddening of the skin and/or a warm feeling</li>
-<li>Severe rash, itching, or hives (elevated patches of red or pale skin that often itch)</li>
+<li>مشكلة في البلع أو التنفس</li>
+<li>انتفاخ في الوجه، الحلق، الأيدي أو القدم</li>
+<li>الشعور بالعصبية أو القلق، شعور بالنبض،الاحمرار المفاجئ للجلد و/أو الإحساس بالدفء</li>
+<li>وجود طفح جلدي حاد، حكة أو حمى قراصية (بقع بارزة من جلد أحمر أو باهت والذي غالبًا ما يؤدي للحكة)</li>
 </ul>
-<p>Serious allergic reactions are rare. However, any of the above symptoms may indicate an allergic reaction to Enbrel, so you should seek immediate medical attention.</p>
-<p><b>Serious side effects</b></p>
-<p>If you notice any of the following, you or the child may need urgent medical attention.</p>
+<p>إن تفاعلات الحساسية الخطيرة تكون نادرة. وعلى الرغم من ذلك، يمكن أن توضح أي من الأعراض المذكورة أعلاه وجود تفاعل حساسية تجاه إنبريل، ولذلك يجب أن تبحث عن رعاية طبية فورية.</p>
+<p><b>الآثار الجانبية الخطيرة</b></p>
+<p>إذا لاحظت أيًا مما يلي، فيمكن أن تحتاج أنت أو الطفل لرعاية طبية عاجلة.</p>
 <ul>
-<li>Signs of <b>serious infections</b>, such as high fever that may be accompanied by cough, shortness of breath, chills, weakness, or a hot, red, tender, sore area on the skin or joints</li>
-<li>Signs of <b>blood disorders</b>, such as bleeding, bruising, or paleness</li>
-<li>Signs of <b>nerve disorders</b>, such as numbness or tingling, changes in vision, eye pain, or onset of weakness in an arm or leg</li>
-<li>Signs of <b>heart failure</b> or <b>worsening heart failure</b>, such as fatigue or shortness of breath with activity, swelling in the ankles, a feeling of fullness in the neck or abdomen, night-time shortness of breath or coughing, bluish colour of the nails or the lips</li>
-<li><b>Signs of cancers: </b>Cancers may affect any part of the body including the skin and blood, and possible signs will depend on the type and location of the cancer. These signs may include weight loss, fever, swelling (with or without pain), persistent cough, presence of lumps or growths on the skin</li>
-<li>Signs of <b>autoimmune reactions</b> (where antibodies are made that may harm normal tissues in the body) such as pain, itching, weakness, and abnormal breathing, thinking, sensation, or vision</li>
-<li>Signs of lupus or lupus-like syndrome, such as weight changes, persistent rash, fever, joint or muscle pain, or fatigue</li>
-<li>Signs of <b>inflammation of the blood vessels</b> such as pain, fever, redness or warmth of the skin, or itching.</li>
+<li>علامات<b> العداوى الخطيرة</b>، على سبيل المثال ارتفاع درجة الحرارة التي يمكن أن يصاحبها السعال أو قصر النفس أو القشعريرة أو الضعف أو منطقة ساخنة أو حمراء أو لينة أو مؤلمة على الجلد أو المفاصل</li>
+<li>علامات <b>اضطرابات بالدم</b>، على سبيل المثال النزف أو التكدم أو الشحوب</li>
+<li>علامات <b>اضطرابات الأعصاب</b>، على سبيل المثال الخدر أو التنميل أو تغيرات في الرؤية أو ألم بالعين أو بدء وجود ضعف في أحد الذراعين أو القدمين</li>
+<li>علامات <b>فشل القلب أو تفاقم فشل القلب</b>، على سبيل المثال الإرهاق أو قصر النفس مع ممارسة أي نشاط أو انتفاخ الكاحل أو الإحساس بالامتلاء في الرقبة أو البطن أو قصر النفس أو السعال في الليل أو ازرقاق لون الأظافر أو الشفاه</li>
+<li><b>علامات السرطانات: </b>قد تؤثر السرطانات على أي جزء في الجسم بما في ذلك الجلد والدم، وستعتمد العلامات المحتملة على نوع وموقع السرطان. قد تتضمن هذه العلامات فقدان الوزن، الحمى، التورم (مع الألم أو بدونه)، السعال الدائم، وجود كتل أو أجزاء نامية على الجلد</li>
+<li>علامات <b>تفاعلات المناعة الذاتية</b> (حيث تتكون أجسام مضادة قد تضر بالأنسجة السليمة في الجسم) مثل الألم أو الحكة أو الضعف أو التنفس بشكل غير طبيعي أو التفكير أو الشعور أو الرؤية غير الطبيعيين</li>
+<li>علامات الذئبة الحمراء أو متلازمة شبيهة بالذئبة الحمراء مثل تغيرات الوزن، الطفح الجلدي الدائم، الحمى، ألم المفاصل أو العضلات، أو الإرهاق</li>
+<li>علامات <b>التهاب الأوعية الدموية</b> مثل الألم أو الحمى أو احمرار الجلد أو دفئه أو الحكة.</li>
 </ul>
-<p>These are rare or uncommon side effects, but are serious conditions (some of which may rarely be fatal). If these signs occur, tell your doctor immediately, or visit the casualty department at your nearest hospital.</p>
-<p>The known side effects of Enbrel include the following in groups of decreasing frequency:</p>
+<p>هناك أعراض جانبية نادرة أو غير شائعة، ولكن هناك حالات خطيرة (وقد يكون بعضها مميتًا في حالات نادرة). وإذا حدثت تلك العلامات، أخبر طبيبك في الحال، أو قم بزيارة قسم الإصابات في أقرب مستشفى.</p>
+<p>تتضمن الآثار الجانبية المعروفة لإنبريل ما يلي في مجموعات مرتبة تنازليًا حسب التكرار:</p>
 <ul>
-<li><b>Very common </b>(may affect more than 1 in 10 people):</li>
+<li><b>شائع جدًا </b>(قد يؤثر على أكثر من شخص واحد بين كل 10 أشخاص):</li>
 </ul>
-<p>Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment; some patients have developed a reaction at an injection site that was recently used); and headache.</p>
+<p>العدوى (والتي تتضمن البرد، التهاب الجيوب الأنفية، الالتهاب الشعبي، عداوى الجهاز البولي وعداوى الجلد)؛ تفاعلات في موضع الحقن (والتي تتضمن النزف، التكدم، الاحمرار، الحكة، الألم، والانتفاخ (لا تحدث هذه بنفس المعدل بعد الشهر الأول من العلاج) ، وهناك بعض المرضى قد حدث عندهم تفاعل عند موضع الحقن الذي استُخدِم مؤخرًا)؛ والصداع.</p>
 <ul>
-<li><b>Common </b>(may affect up to 1 in 10 people):</li>
+<li><b>شائع </b>(قد يؤثر على شخص واحد بين كل 10 أشخاص):</li>
 </ul>
-<p>Allergic reactions; fever; rash; itching; antibodies directed against normal tissue (autoantibody formation).</p>
+<p>تفاعلات الحساسية؛ الحمى؛ الطفح الجلدي؛ الحكة؛ أجسام مضادة موجهة ضد النسيج السليم (تكوين أجسام مضادة ذاتية).</p>
 <ul>
-<li><b>Uncommon </b>(may affect up to 1 in 100 people):</li>
+<li><b>غير شائع </b>(قد يؤثر على شخص واحد بين كل 100 شخص):</li>
 </ul>
-<p>Serious infections (including pneumonia, deep skin infections, joint infections, blood infection, and infections at various sites); worsening of congestive heart failure; low red blood cell count, low white blood cell count, low neutrophil (a type of white blood cell) count; low blood platelet count; skin cancer (excluding melanoma); localised swelling of the skin (angioedema); hives (elevated patches of red or pale skin that often itch); eye inflammation; psoriasis (new or worsening); inflammation of the blood vessels affecting multiple organs; elevated liver blood tests (in patients also receiving methotrexate treatment, the frequency of elevated liver blood tests is common); abdominal cramps and pain, diarrhoea, weight loss or blood in the stool (signs of bowel problems).</p>
+<p>العداوى الخطيرة (تتضمن الالتهاب الرئوي والعداوى الجلدية العميقة وعداوى المفاصل وعداوى الدم والعداوى في مواضع مختلفة)؛ تفاقم حالة فشل القلب الاحتقاني، انخفاض عدد خلايا الدم الحمراء، انخفاض عدد خلايا الدم البيضاء، انخفاض عدد العَدِلات (نوع من خلايا الدم البيضاء)، انخفاض عدد الصفيحات الدموية في الدم؛ سرطان الجلد (باستثناء الميلانوما)؛ التورم الموضعي في الجلد (الوذمة الوعائية)؛ الحُمى القراصية (بقع بارزة من جلد أحمر أو شاحب والتي غالبًا ما تؤدي للحكة)؛ التهاب العين؛ الصدفية (جديدة أو متفاقمة)؛ التهاب الأوعية الدموية الذي يؤثر على أعضاء عديدة؛ ارتفاع نتائج اختبارات الدم لفحص وظائف الكبد (في المرضى الذين يتلقون أيضًا علاجًا بميثوتريكسات، كان معدل تكرار ارتفاع نتائج اختبارات الدم لفحص وظائف الكبد شائعًا)؛ تقلصات وألم في البطن، أو إسهال، أو خسارة الوزن أو دم في البراز (علامات مشكلات الأمعاء).</p>
 <ul>
-<li><b>Rare </b>(may affect up to 1 in 1,000 people):</li>
+<li><b>نادر </b>(قد يؤثر على شخص واحد بين كل 1000 شخص):</li>
 </ul>
-<p>Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish‑purple skin rash and/or threadlike white-grey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon).</p>
+<p>تفاعلات حساسية خطيرة (تتضمن تورمًا موضعيًا حادًا في الجلد وأزيزًا)؛ الليمفومة (نوع من سرطان الدم)؛ اللوكيميا (سرطان يؤثر على الدم ونخاع العظم)؛ الميلانوما (نوع من سرطان الجلد)، انخفاض العدد المجمع للصفيحات الدموية، وعدد خلايا الدم الحمراء والبيضاء؛ واضطرابات الجهاز العصبي (مع ضعف عضلي حاد وعلامات وأعراض تشبه الخاصة بالتصلب المتعدد أو التهاب أعصاب العين أو الحبل الشوكي)؛ السل؛ وبدء حالة جديدة من الفشل الاحتقاني للقلب؛ النوبات؛ الذئبة الحمراء أو المتلازمة الشبيهة بالذئبة الحمراء (يمكن أن تتضمن الأعراض طفحًا جلديًا دائمًا، الحمى، ألم المفاصل، والتعب)، طفح جلدي والذي يمكن أن يؤدي إلى تقرح وتقشر حاد في الجلد؛ تفاعلات حزازية (طفح جلدي أرجواني مائل إلى الأحمر مثير للحكة و/أو خطوط خيطية الشكل بيضاء ورمادية على الأغشية المخاطية)؛ التهاب الكبد الذي يتسبب فيه الجهاز المناعي الخاص بالجسم نفسه (التهاب الكبد نتيجة اضطراب مناعة ذاتي، لدى المرضى الذين يتلقون أيضًا العلاج بميثوتريكسات، معدل التكرار غير شائع)؛ اضطراب مناعي والذي يمكن أن يؤثر على الرئة، والجلد والعقد الليمفاوية (الساركويد)؛ التهاب أو تندب بالرئتين (لدى المرضى الذين يتلقون أيضًا العلاج بميثوتريكسات، معدل تكرار الإصابة بالتهاب أو تندب بالرئتين غير شائع).</p>
 <ul>
-<li><b>Very rare </b>(may affect up to 1 in 10,000 people): failure of the bone marrow to produce crucial blood cells.</li>
+<li><b>نادر جدًا </b>(قد يؤثر على شخص واحد بين كل 10000 شخص):</li>
 </ul>
+<p>فشل نخاع العظم وعدم قدرته على إنتاج خلايا الدم المهمة.</p>
 <ul>
-<li><b>Not known </b>(frequency cannot be estimated from the available data): Merkel cell carcinoma (a type of skin cancer); Kaposi’s sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi’s sarcoma most commonly appear as purple lesions on the skin); excessive activation of white blood cells associated with inflammation (macrophage activation syndrome);recurrence of hepatitis B (a liver infection); worsening of a condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).</li>
+<li><b>غير معروف </b>(لا يمكن تقدير معدل التكرار من خلال البيانات المتاحة):</li>
 </ul>
-<p><b>Additional side effects in children and adolescents</b></p>
-<p>The side effects and their frequencies seen in children and adolescents are similar to those described above.</p>
-<p><b>Reporting of side effects</b></p>
-<p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. By reporting side effects you can help provide more information on the safety of this medicine.</p>
+<p>سرطان خلايا ميركل (نوع من سرطان الجلد)؛ ساركوما كابوسي (نوع من السرطانات النادرة مرتبط بعدوى فيروس الهربس البشري 8. وتظهر ساركوما كابوسي بشكل أكثر شيوعًا في صورة آفات أرجوانية اللون على الجلد)؛ التنشيط المتزايد لخلايا الدم البيضاء المرتبطة بالالتهاب (متلازمة تنشيط البلاعم)؛ عودة الالتهاب الكبدي الوبائي B (التهاب كبدي)؛ تفاقم حالة معروفة بالتهاب الجلد والعضلات (التهاب وضعف في العضلات يصاحبه طفح جلدي).</p>
+<p><b>آثار جانبية إضافية بين الأطفال والمراهقين</b></p>
+<p>تكون الآثار الجانبية التي شوهدت لدى الأطفال والمراهقين ومعدلات تكرارها مشابهة لتلك التي تم وصفها بالأعلى.</p>
+<p><b>الإبلاغ عن الآثار الجانبية</b></p>
+<p>إذا ظهرت عليك أي آثار جانبية، فتحدث إلى الطبيب أو الصيدلي. يشمل هذا أي آثار جانبية محتملة وغير مدرجة في هذه النشرة. بإبلاغك عن الآثار الجانبية، يمكنك المساعدة في توفير المزيد من المعلومات حول مأمونية هذا الدواء.</p>
 
   </div>"""      
         
 * section[=].section[+]
-  * title = "5. How to store Enbrel"
+  * title = "5. كيفية تخزين زيثروماكس"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "5. How to store x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>Keep this medicine out of the sight and reach of children.</p>
-<p>Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe after EXP. The expiry date refers to the last day of that month.</p>
-<p>Store in a refrigerator (2° – 8°C). Do not freeze.</p>
-<p>Keep the pre-filled syringes in the outer carton in order to protect from light.</p>
-<p>After taking a syringe from the refrigerator, <b>wait approximately 15-30 minutes to allow the Enbrel solution in the syringe to reach room temperature</b>. Do not warm in any other way. Immediate use is then recommended.</p>
-<p>Inspect the solution in the syringe. It should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</p>
-<p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
+<p>احفظ هذا الدواء بعيدًا عن مرأى ومتناول الأطفال.</p>
+<p>لا تستخدم هذا الدواء بعد انتهاء تاريخ الصلاحية المكتوب على العبوة والمحقنة مسبقة التعبئة بعد "EXP". يشير تاريخ انتهاء الصلاحية إلى آخر يوم من ذلك الشهر.</p>
+<p>يُحفظ في المُبرِّد (الثلاجة) (في درجة حرارة من 2 - 8درجات مئوية). يجب عدم تجميده.</p>
+<p>تُحفظ المحاقن مسبقة التعبئة في العبوة الخارجية لحمايتها من الضوء.</p>
+<p>بعد أخذ محقنة من المُبرِّد، <b>انتظر حوالي 15-30 دقيقة للسماح لمحلول إنبريل الموجود في المحقنة بالوصول إلى درجة حرارة الغرفة</b>. لا تقم بالتدفئة بأي طريقة أخرى.يُنصح بالاستخدام المباشر عندها.</p>
+<p>افحص المحلول الموجود بالمحقنة. ينبغي أن يكون المحلول صافيًا أو يميل إلى التعكر قليلًا أو شفافًا إلى لون أصفر باهت أو بني باهت وقد يحتوي على جسيمات صغيرة من البروتين بيضاء أو تكاد تكون شفافة. هذا الشكل طبيعي بالنسبة إلى إنبريل. لا تستخدم المحلول إذا كان لونه متغيرًا أو معكرًا أو إذا لوحظ وجود جسيمات غير التي تم وصفها أعلاه. إذا كنت قلقًا بشأن شكل المحلول، فاتصل بالصيدلي الخاص بك للمساعدة.</p>
+<p>يجب عدم التخلص من أي أدوية عبر مياه الصرف أو مع المخلفات المنزلية. اسأل الصيدلي عن كيفية التخلص من الأدوية التي لم تعد تستخدمها. تساعد هذه التدابير على حماية البيئة.</p>
 
   </div>"""      
                 
 * section[=].section[+]
-  * title = "6. Contents of the pack and other information"
+  * title = "6. محتويات العبوة ومعلومات أخرى"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "6. Contents of the pack and other information"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
- <p><b>What Enbrel contains </b></p>
-<p><u>Enbrel 25 mg solution for injection in pre-filled syringe</u></p>
-<p>The active substance in Enbrel is etanercept. Each pre-filled syringe contains 0.5 ml of solution, providing 25 mg of etanercept. </p>
-<p>The other ingredients are sucrose, sodium chloride, L-arginine hydrochloride, sodium phosphate monobasic dihydrate and sodium phosphate dibasic dihydrate, and water for injections.</p>
- <p><b>What Enbrel looks like and contents of the pack </b></p>
-<p><u>Enbrel 25 mg solution for injection in pre-filled syringe</u></p>
-<p>Enbrel is supplied as a pre-filled syringe containing a clear, colourless to pale yellow or pale brown solution for injection (solution for injection). Each pack contains 4, 8, 12 or 24 pre-filled syringes and 4, 8, 12 or 24 alcohol swabs. Not all pack sizes, strengths, presentations may be marketed.</p>
- <p><b>Marketing Authorisation Holder </b></p>
-<p>Pfizer Europe MA EEIG</p>
-<p> Boulevard de la Plaine 17</p>
-<p> 1050 Bruxelles</p>
-<p> Belgium</p>
-<p><b>Manufactured, Packed &amp; Released by</b></p>
-<p>Pfizer Manufacturing Belgium NV,</p>
-<p>Rijksweg 12, 2870 Puurs, Belgium</p>
-<p><b>This leaflet was last revised in: May 2021</b></p>
+<p><b>مكونات إنبريل</b></p>
+<p><u>محلول إنبريل </u><u>25</u><u> مجم للحقن المعبأ في محقنة مسبقة التعبئة</u></p>
+<p>المادة الفعالة في إنبريل هي إتانيرسيبت. تحتوي كل محقنة مسبقة التعبئة على 0.5 مل من المحلول، مما يوفر 25 مجم من إتانيرسيبت.</p>
+<p>المكونات الأخرى هي السكروز، كلوريد الصوديوم، هيدروكلوريد ل- الأرجنين، ثنائي هيدرات فوسفات الصوديوم أحادي القاعدة، وثنائي هيدرات فوسفات الصوديوم ثنائي القاعدة، والماء من أجل الحقن.</p>
+<p><b>شكل إنبريل ومحتويات العبوة</b></p>
+<p>يتوفر إنبريل في صورة محقنة مسبقة التعبئة تحتوي على محلول صافٍ أو عديم اللون إلى لون أصفر باهت أو بني باهت يتم حقنه (محلول للحقن). تحتوي كل عبوة على 4 أو 8 أو 12 أو 24 محقنة مسبقة التعبئة و4 أو 8 أو 12 أو 24 مسحة كحولية.</p>
+<p>قد لا يتم طرح جميع أحجام العبوات، التركيزات ، الأشكال الصيدلية في الأسواق</p>
+<p><b>مالك حق التسويق</b></p>
+<p>شركة فايزر الأوروبية MA EEIG</p>
+<p>17 شارع بولفار دي لا بلين</p>
+<p>1050 بروكسل<br /> بلجيكا</p>
+<p><b>تم التصنيع والتعبئة واجازة ال</b><b>ت</b><b>شغيلات بواسطة</b></p>
+<p>شركة فايزر بلجيكا للتصنيع NV ،</p>
+<p>12 ريجكس فيج، 2870 بورس، بلجيكا</p>
+<p><b>تمت المراجعة الأخيرة لهذه النشرة في </b><b>مايو 2021</b></p>
+
 
   </div>"""
 
 * section[=].section[+]
-  * title = "7. Instructions for preparing and giving an injection of Enbrel"
+  * title = "7. تعليمات تحضير وإعطاء حقنة من إنبريل "
   * code = https://www.jfda.jo/#100000155538
   * code.text = "7. Instructions for preparing and giving an injection of x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p>This section is divided into the following subsections:</p>
-<p><b>Introduction</b></p>
-<p><b>Step 1: Setting up for an injection</b></p>
-<p><b>Step 2: Choosing an injection site</b></p>
-<p><b>Step 3: Injecting the Enbrel solution</b></p>
-<p><b>Step 4: Disposing of supplies</b></p>
-<p><b>Introduction </b></p>
-<p>The following instructions explain how to prepare and inject Enbrel. Please read the instructions carefully and follow them step by step. You will be instructed by your doctor or his/her assistant on the techniques of self-injection or on giving an injection to a child. Do not attempt to administer an injection until you are sure that you understand how to prepare and give the injection.</p>
-<p>The Enbrel solution should not be mixed with any other medicine before use.</p>
-<p><b>Step 1: Setting up for an injection </b></p>
+<p>يُقسَم هذا القسم إلى الأقسام الفرعية التالية:</p>
+<p><b>مقدمة</b></p>
+<p><b>الخطوة 1: التجهيز للحقن</b></p>
+<p><b>الخطوة 2: اختيار موضع الحقن</b></p>
+<p><b>الخطوة 3: حقن محلول إنبريل</b></p>
+<p><b>الخطوة 4: التخلص من المستلزمات</b></p>
+<p><b>مقدمة</b></p>
+<p>تفسر التعليمات التالية كيفية تحضير وحقن إنبريل. برجاء قراءة التعليمات بحرص وإتباعها خطوة بخطوة. سيقوم طبيبك أو مساعده بإعطائك تعليمات تخص أساليب الحقن الذاتي أو إعطاء حقنة لطفل. لا تحاول القيام بالحقن حتى تتأكد من إدراكك لكيفية تحضير واعطاء الحقنة بشكل مناسب.</p>
+<p>لا ينبغي خلط محلول إنبريل بأي دواء آخر قبل الاستخدام.</p>
+<p><b>الخطوة 1: التجهيز للحقن</b></p>
 <ol>
-<li>Select a clean, well-lit, flat working surface.</li>
-<li>Take the Enbrel carton containing the pre-filled syringes out of the refrigerator and place it on the flat work surface. Starting from one of the top corners, pull back the paper cover from the top and sides of the tray. Remove one pre-filled syringe and one alcohol swab and place them on the work surface. Do not shake the pre-filled syringe of Enbrel. Fold the paper cover back over the tray and place the carton containing any remaining pre-filled syringes back into the refrigerator. Please see section 5 for instructions on how to store Enbrel. If you have any questions about storage, contact your doctor, nurse, or pharmacist for further instructions.</li>
-<li><b>You should allow 15 to 30 minutes for the Enbrel</b><b> solution </b><b>in the syringe to reach room temperature.</b><b>Do NOT</b> remove the needle cover while allowing it to reach room temperature. Waiting until the solution reaches room temperature may make the injection more comfortable for you. Do not warm Enbrel in any other way (for example, do not warm it in a microwave or in hot water).</li>
-<li>Assemble the additional supplies you will need for your injection. These include the alcohol swab from the Enbrel carton and a cotton ball or gauze.</li>
-<li>Wash your hands with soap and warm water.</li>
-<li>Inspect the solution in the syringe. It should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</li>
+<li>اختر سطح عمل نظيفًا وجيد الإضاءة ومستويًا.</li>
 </ol>
-<p><b>Step 2: Choosing an injection site </b></p>
 <ol>
-<li>The three recommended injection sites for Enbrel using a pre-filled syringe include: (1) the front of the middle thighs; (2) the abdomen, except for the 5 cm area right around the navel; and (3) the outer area of the upper arms (see Diagram 1). If you are self injecting, you should not use the outer area of the upper arms.</li>
+<li>أخرِج عبوة إنبريل التي تحتوي على المحاقن مسبقة التعبئة من المبرد ثم ضعها على سطح العمل المستوي. بدءًا من إحدى الزوايا العلوية، اسحب الغطاء الورقي من أعلى وجانبي الصينية. أخرِج إحدى المحاقن مسبقة التعبئة وإحدى المسحات الكحولية وضعهما على سطح العمل. لا ترج محقنة إنبريل مسبقة التعبئة. أعِد طي الغطاء الورقي على الصينية ثم ضع العبوة التي تحتوي على أي محاقن مسبقة ا‑لتعبئة متبقية في المبرِّد مرة أخرى. رجاءً انظر القسم 5 للاطلاع على التعليمات الخاصة بكيفية تخزين إنبريل. إذا كانت لديك أي أسئلة تتعلق بالتخزين فاتصل بطبيبك أو الممرضة أو الصيدلي لمزيدٍ من التعليمات.</li>
 </ol>
-<p style="text-align:center"><u>Diagram 1</u></p>
+<ol>
+<li><b>ينبغي عليك الانتظار حوالي 15 إلى 30 دقيقة للسماح لمحلول إنبريل الموجود في المحقنة بالوصول إلى درجة حرارة الغرفة.</b><b>لا</b> تنزع غطاء الإبرة أثناء تركك المحقنة لتصل إلى درجة حرارة الغرفة. انتظار المحلول حتي يبلغ درجة حرارة الغرفة قد يجعل عملية الحقن أكثر راحة لك. لا تقم بتدفئة إنبريل بأي طريقة أخرى (على سبيل المثال، لا تقم بتدفئته في الميكروويف أو في ماء ساخن).</li>
+</ol>
+<ol>
+<li>قم بتجميع المستلزمات الإضافية التي ستحتاجها للحقن. تتضمن هذه المستلزمات المسحة الكحولية الموجودة بعبوة إنبريل وقطعة قطنية أو ضمادة.</li>
+</ol>
+<ol>
+<li>اغسل يديك بالماء الدافئ والصابون.</li>
+</ol>
+<ol>
+<li>افحص المحلول الموجود بالمحقنة. ينبغي أن يكون المحلول صافيًا أو يميل إلى التعكر قليلًا، شفافًا إلى لون أصفر باهت أو بني باهت وقد يحتوي على جسيمات صغيرة من البروتين بيضاء أو تكاد تكون شفافة. هذا الشكل طبيعي بالنسبة إلى إنبريل. لا تستخدم المحلول إذا كان لونه متغيرًا أو معكرًا أو إذا لوحظ وجود جسيمات غير التي تم وصفها أعلاه. إذا كنت قلقًا بشأن شكل المحلول، فاتصل بالصيدلي الخاص بك للمساعدة.</li>
+</ol>
+<p><b>الخطوة 2: اختيار موضع الحقن</b></p>
+<ol>
+<li>تتضمن مواقع الحقن الثلاث الموصى بها لحقن إنبريل باستخدام محقنة مسبقة التعبئة: (1) الجزء الأمامي الأوسط من الفخذ؛ (2) البطن، فيما عدا مساحة 5 سنتيمتر مباشرة حول السرة؛ و (3) المساحة الخارجية من الجزء العلوي من الذراع (انظر الشكل 1). وإذا كنت تحقن نفسك، فإنك لا يجب أن تستخدم المساحة الخارجية من الجزء العلوي من الذراع.</li>
+</ol>
+<p style="text-align:center"><u>شكل 1</u></p>
+
 <p style="text-align:center">
           <img src="#Diagram1" alt="Diagram1"/>
         </p>
 
-
 <ol>
-<li>A different site should be used for each new injection. Each new injection should be given at least 3 cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
-<li>If you or the child have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin patches (“psoriasis skin lesions”).</li>
+<li>ينبغي استخدام موضع مختلف لكل حقنة جديدة. وينبغي إعطاء كل حقنة على مسافة 3سم على الأقل من الموضع القديم. لا تحقن في مناطق يكون فيها الجلد رقيقًا أو مكدومًا أو أحمر أو متيبسًا. تجنب المناطق ذات الجروح أو التي فيها تمددات (قد يساعدك أن تحتفظ بملاحظات تخص موضع الحقنة السابقة).</li>
 </ol>
-<p><b>Step 3: Injecting the Enbrel solution </b></p>
 <ol>
-<li>Wipe the site where Enbrel is to be injected with the alcohol swab, using a circular motion. <b>Do NOT</b> touch this area again before giving the injection.</li>
-<li>Pick up the pre-filled syringe from the flat work surface. Remove the needle cover by firmly pulling it straight off the syringe (see Diagram 2). <b>Be careful not to bend or twist the cover during removal to avoid damage to the needle.</b></li>
+<li>إذا كنت تعاني أو يعاني الطفل من الصدفية، فإنك يجب ألا تجرب أن تحقن مباشرة في أي بقع مرتفعة، سميكة، حمراء أو ذات قشور (" التهابات الصدفية على الجلد").</li>
 </ol>
-<p>When you remove the needle cover, there may be a drop of liquid at the end of the needle; this is normal. Do not touch the needle or allow it to touch any surface. Do not touch or bump the plunger. Doing so could cause the liquid to leak out.</p>
-<p style="text-align:center"><u>Diagram 2</u></p>
+<p><b>الخطوة 3: حقن محلول إنبريل</b></p>
+<ol>
+<li>امسح الموضع المراد حقن إنبريل فيه بمسحة كحول باستخدام حركة دائرية. <b>لا</b> تلمس تلك المساحة مرةً أخرى قبل الحقن.</li>
+</ol>
+<ol>
+<li>التقط المحقنة مسبقة التعبئة من على سطح العمل المستوي. انزع غطاء الإبرة عن طريق سحبه تمامًا بقوة من على المحقنة (انظر شكل 2). <b>كن حريصا ألا تثني أو تلف الغطاء أثناء الإزالة لتجنب إتلاف الإبرة.</b></li>
+</ol>
+<p>عند نزع غطاء الإبرة، قد توجد قطرة سائل على طرف الإبرة؛ هذا أمرٌ طبيعي. لا تلمس الإبرة أو تتركها تلمس أي سطح. لا تلمس أو تدفع المكبس. فقد يتسبب هذا في تسرب السائل.</p>
+<p style="text-align:center"><u>شكل 2</u></p>
 <p style="text-align:center">
           <img src="#Diagram2" alt="Diagram2"/>
         </p>
 
 <ol>
-<li>When the cleaned area of skin has dried, pinch and hold it firmly with one hand. With the other hand, hold the syringe like a pencil.</li>
-<li>With a quick, short motion, push the needle all the way into the skin at an angle between 45° and 90° (see Diagram 3). With experience, you will find the angle that is most comfortable for you or the child. Be careful not to push the needle into the skin too slowly, or with great force.</li>
+<li>عند جفاف المساحة المنظفة من الجلد، اضغط عليها وامسكها بثبات بيد واحدة. احمل المحقنة مثل القلم الرصاص.</li>
+<li>بحركة سريعة وقصيرة، ادفع الإبرة بالكامل إلى الجلد بزاوية تقع ما بين 45 درجة مئوية و90 درجة مئوية (انظر الشكل 3). ومع الخبرة، ستجد الزاوية التي تكون أكثر راحة لك أو للطفل. كن حريصا بحيث لا تدفع الإبرة إلى الجلد ببطء شديد، أو بقوة كبيرة.</li>
 </ol>
-<p style="text-align:center"><u>Diagram 3</u></p>
+<p style="text-align:center"><u>شكل 3</u></p>
 <p style="text-align:center">
           <img src="#Diagram3" alt="Diagram3"/>
         </p>
 
 <ol>
-<li>When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a <b>slow</b>, steady rate (see Diagram 4).</li>
+<li>عند إدخال الإبرة بالكامل إلى الجلد، اترك الجلد الذي تُمسك به. وبيدك الحرة، احمل المحقنة بالقرب من قاعدته لتثبيته. بعد ذلك ادفع المكبس لحقن كل المحلول بمعدل <b>بطيء</b> وثابت (انظر الشكل 4).</li>
 </ol>
-<p style="text-align:center"><u>Diagram 4</u></p>
+<p style="text-align:center"><u>شكل 4</u></p>
 <p style="text-align:center">
           <img src="#Diagram4" alt="Diagram4"/>
         </p>
 
 <ol>
-<li>When the syringe is empty, pull the needle out of the skin, being careful to keep it at the same angle as inserted. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. If needed, you may cover the injection site with a bandage.</li>
+<li>عندما تكون المحقنة فارغة، أزل الإبرة من الجلد مع الحرص على الاحتفاظ بها بنفس الزاوية التي أُدخِلت بها. قد يظهر القليل من الدم في موضع الحقن. يمكنك الضغط بقطعة قطن أو ضمادة على موضع الحقن لمدة 10 ثوانٍ. لا تمسح موضع الحقن. إذا اقتضت الحاجة، يمكنك تغطية موضع الحقن بضمادة.</li>
 </ol>
-<p><b>Step 4: Disposing of supplies </b></p>
+<p><b>الخطوة 4: التخلص من المستلزمات</b></p>
 <ul>
-<li>The pre-filled syringe is for single-use administration only. The syringe and needle should <b>NEVER</b> be re-used. <b>NEVER</b> re-cap a needle. Dispose of the needle and syringe as instructed by your doctor, nurse or pharmacist.</li>
+<li>إن المحقنة مسبقة التعبئة مخصصة للاستخدام مرة واحدة فقط. ينبغي عدم إعادة استخدام المحقنة والإبر <b>أبدًا</b>. لا تُعِد تركيب الإبرة في المحقنة <b>أبدًا</b>. تخلص من الإبرة والمحقنة وفقًا لتعليمات طبيبك أو الممرضة أو الصيدلي.</li>
 </ul>
-<p><b>If you have any questions, please talk to a doctor, nurse or pharmacist who is familiar with Enbrel.</b></p>
+<p><b>إذا كانت لديك أي أسئلة، برجاء التحدث لطبيبك الممرضة أو الصيدلي الخبير بدواء إنبريل.</b></p>
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 <tbody>
 <tr>
 <td>
-<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
-<p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
-<p>- Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
-<p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
-<p>- Do not by yourself interrupt the period of treatment prescribed.</p>
-<p>- Do not repeat the same prescription without consulting your doctor.</p>
-<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
-<p><b>Council of Arab Health Ministers</b></p>
-<p><b> Union of Arabic Pharmacists</b></p>
+<p style="text-align:center"><b>إن هذا دواء</b></p>
+<ul>
+<li>إن الدواء منتج يؤثر على صحتك واستهلاكه خلافًا للتعليمات يعرضك للخطر.</li>
+<li>اتبع بدقة وصفة الطبيب وطريقة الاستعمال المنصوص عليها وتعليمات الصيدلي الذي صرف لك الدواء.</li>
+<li>الطبيب والصيدلي خبيران في الأدوية وفوائدها ومخاطرها.</li>
+<li>لا تقطع مدة العلاج المحددة لك من تلقاء نفسك.</li>
+<li>لا تكرر صرف نفس الدواء دون استشارة طبيبك.</li>
+</ul>
+<p style="text-align:center"><b>احتفظ بجميع الأدوية بعيدًا عن متناول ومرأى الأطفال</b></p>
+<p><b>مجلس وزراء الصحة العرب</b></p>
+<p><b>اتحاد الصيادلة العرب</b></p>
+
 </td>
 </tr>
 </tbody>
