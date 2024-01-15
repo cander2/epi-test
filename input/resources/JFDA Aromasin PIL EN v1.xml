@@ -7,7 +7,7 @@
 		<value value="L000"/>
 	</identifier>
 	<type value="document"/>
-	<timestamp value="2021-04"/>
+	<timestamp value="2021-04-01"/>
 	<entry>
 		<fullUrl value="Composition/composition-00000000-0000-0000-0000-000000000000"/>
 		<resource>
@@ -30,7 +30,7 @@
 					</valueReference>
 				</extension>
 				<version value="1"/>
-				<date value="2021-04"/>
+				<date value="2021-04-01"/>
 				<status value="final"/>
 				<identifier>
 					<system value="https://leaflet.healthcare/sid/composition"/>
