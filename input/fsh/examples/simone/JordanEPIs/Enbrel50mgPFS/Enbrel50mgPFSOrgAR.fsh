@@ -1,4 +1,4 @@
-Instance: Enbrel25mgPFSOrgAR
+Instance: Enbrel50mgPFSOrgAR
 InstanceOf: OrganizationUvEpi
 Title: "Pfizer Europe MA EEIG, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium"
 Description: "Pfizer Europe MA EEIG, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium"
