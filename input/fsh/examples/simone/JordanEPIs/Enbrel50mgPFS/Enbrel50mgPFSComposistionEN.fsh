@@ -356,14 +356,10 @@ Usage: #inline
 <p><b>Step 2: Choosing an injection site </b></p>
 <ol>
 <li>The three recommended injection sites for Enbrel using a pre-filled syringe include: (1) the front of the middle thighs; (2) the abdomen, except for the 5 cm area right around the navel; and (3) the outer area of the upper arms (see Diagram 1). If you are self injecting, you should not use the outer area of the upper arms.</li>
-</ol>
 <p style="text-align:center"><u>Diagram 1</u></p>
 <p style="text-align:center">
           <img src="#Diagram1" alt="Diagram1"/>
         </p>
-
-
-<ol>
 <li>A different site should be used for each new injection. Each new injection should be given at least 3 cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
 <li>If you or the child have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin patches (“psoriasis skin lesions”).</li>
 </ol>
@@ -371,31 +367,22 @@ Usage: #inline
 <ol>
 <li>Wipe the site where Enbrel is to be injected with the alcohol swab, using a circular motion. <b>Do NOT</b> touch this area again before giving the injection.</li>
 <li>Pick up the pre-filled syringe from the flat work surface. Remove the needle cover by firmly pulling it straight off the syringe (see Diagram 2). <b>Be careful not to bend or twist the cover during removal to avoid damage to the needle.</b></li>
-</ol>
 <p>When you remove the needle cover, there may be a drop of liquid at the end of the needle; this is normal. Do not touch the needle or allow it to touch any surface. Do not touch or bump the plunger. Doing so could cause the liquid to leak out.</p>
 <p style="text-align:center"><u>Diagram 2</u></p>
 <p style="text-align:center">
           <img src="#Diagram2" alt="Diagram2"/>
         </p>
-
-<ol>
 <li>When the cleaned area of skin has dried, pinch and hold it firmly with one hand. With the other hand, hold the syringe like a pencil.</li>
 <li>With a quick, short motion, push the needle all the way into the skin at an angle between 45° and 90° (see Diagram 3). With experience, you will find the angle that is most comfortable for you or the child. Be careful not to push the needle into the skin too slowly, or with great force.</li>
-</ol>
 <p style="text-align:center"><u>Diagram 3</u></p>
 <p style="text-align:center">
           <img src="#Diagram3" alt="Diagram3"/>
         </p>
-
-<ol>
 <li>When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a <b>slow</b>, steady rate (see Diagram 4).</li>
-</ol>
 <p style="text-align:center"><u>Diagram 4</u></p>
 <p style="text-align:center">
           <img src="#Diagram4" alt="Diagram4"/>
         </p>
-
-<ol>
 <li>When the syringe is empty, pull the needle out of the skin, being careful to keep it at the same angle as inserted. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. If needed, you may cover the injection site with a bandage.</li>
 </ol>
 <p><b>Step 4: Disposing of supplies </b></p>
