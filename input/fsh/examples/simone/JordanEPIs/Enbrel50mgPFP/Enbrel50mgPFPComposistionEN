@@ -12,9 +12,9 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(Enbrel50mgPFSMedicinalProduct) //Medicinal Product
+* subject = Reference(Enbrel50mgPFPMedicinalProduct) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
-* author = Reference(Enbrel50mgPFSOrgEN) //Organization
+* author = Reference(Enbrel50mgPFPOrgEN) //Organization
 
 * title = "Jordanian Enbrel 50mg PFP EN"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
@@ -39,9 +39,9 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
         <p><b>Enbrel®</b></p>
-        <p>50 mg solution for injection in pre-filled syringe</p>
-	<p>Etanercept</p>
-        <p>Reference Market: EU</p>
+       	<p>Etanercept</p>
+        <p>50 mg solution for injection in pre-filled pen</p>
+        <p>Reference Label: EU</p>
         <p><b>PACKAGE LEAFLET</b></p>
   </div>"""   
       
@@ -51,7 +51,7 @@ Usage: #inline
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-        <p><b>Enbrel 50 mg solution for injection in pre-filled syringe</b></p>
+        <p><b>Enbrel 50 mg solution for injection in pre-filled pen</b></p>
         <p><b>Etanercept</b></p>  
 <table>
 <tbody>
