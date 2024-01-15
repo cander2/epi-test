@@ -1,7 +1,7 @@
-Instance: Enbrel25mgPFSComposistionAR
+Instance: Enbrel50mgPFSComposistionAR
 InstanceOf: CompositionUvEpi
-Title: "Composition for Enbrel 25mg PFS - AR Jordanian Package Leaflet"
-Description:  "Composition for Enbrel (Etanercept) 25 mg solution for injection in pre-filled syringe - AR Jordanian Package Leaflet"
+Title: "Composition for Enbrel 50mg PFS - AR Jordanian Package Leaflet"
+Description:  "Composition for Enbrel (Etanercept) 50 mg solution for injection in pre-filled syringe - AR Jordanian Package Leaflet"
 Usage: #inline
 
 * identifier[+].system = "https://www.jfda.jo"
@@ -12,11 +12,11 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(Enbrel25mgPFSMedicinalProductAR) //Medicinal Product
+* subject = Reference(Enbrel50mgPFSMedicinalProductAR) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
-* author = Reference(Enbrel25mgPFSOrgAR) //Organization
+* author = Reference(Enbrel50mgPFSOrgAR) //Organization
 
-* title = "Jordanian Enbrel 25mg PFS AR"
+* title = "Jordanian Enbrel 50mg PFS AR"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
