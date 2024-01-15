@@ -1,5 +1,5 @@
 
-Instance: Enbrel25mgPFSBundleAR
+Instance: Enbrel50mgPFSBundleAR
 InstanceOf: BundleUvEpi
 Title: "Bundle for Enbrel 50mg PFS - Jordanian AR Package Leaflet"
 Description: "Bundle for Enbrel (Etanercept) 50 mg solution for injection in pre-filled syringe - Jordanian AR Package Leaflet"
