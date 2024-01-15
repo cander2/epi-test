@@ -16,7 +16,7 @@ Usage: #inline
 * date = "2023-06-20T13:28:17Z"
 * author = Reference(Enbrel50mgPFSOrgEN) //Organization
 
-* title = "Jordanian Enbrel 50mg PFS EN"
+* title = "Jordanian Enbrel 50mg PFP EN"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
