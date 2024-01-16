@@ -418,7 +418,7 @@ Usage: #inline
           <img src="#Diagram3" alt="Diagram3"/>
 </p>
 <li>Lightly pinching the skin around the injection site between the thumb and index finger of your free hand may make the injection easier and more comfortable.</li>
-<li>Hold the pen at a right angle (90°) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
+<li>Hold the pen at a right angle (90) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
 
 <p style="text-align:center"><u>Diagram 4</u></p>
 <p style="text-align:center">
