@@ -452,5 +452,29 @@ Usage: #inline
 <li>If you notice a spot of blood at the injection site, you should press the cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. </li>
 </ol>
 
+<p><b>Step 4: Disposing of the used MYCLIC pen</b></p>
+<ul>
+<li>The pen should be used once only - it should never be re-used. Dispose of the used pen as instructed by your doctor, nurse or pharmacist. Do not attempt to recap the pen.</li>
+</ul>
+<p><b>If you have any questions, please talk to a doctor, nurse or pharmacist who is familiar with Enbrel.</b></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+<p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
+<p>- Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
+<p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
+<p>- Do not by yourself interrupt the period of treatment prescribed.</p>
+<p>- Do not repeat the same prescription without consulting your doctor.</p>
+<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
 
   </div>"""
