@@ -17,8 +17,8 @@ Usage: #example
 
 // Organization
 
-//* entry[+].fullUrl = "Organization/Enbrel50mgPFPOrgEN"
-//* entry[=].resource = Enbrel50mgPFPOrgEN
+* entry[+].fullUrl = "Organization/Enbrel50mgPFPOrgEN"
+* entry[=].resource = Enbrel50mgPFPOrgEN
  
 
 // MedicinalProductDefinition
