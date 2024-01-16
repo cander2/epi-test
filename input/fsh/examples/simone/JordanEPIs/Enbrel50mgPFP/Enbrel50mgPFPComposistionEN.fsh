@@ -386,5 +386,16 @@ Usage: #inline
           <img src="#Diagram1" alt="Diagram1"/>
 </p>
 
+<p><b>Step 1: Preparing for an Enbrel injection</b></p>
+<ol>
+<li>Select a clean, well-lit, flat surface.</li>
+<li>Gather the items that you will need for your injection, and place them on the chosen surface:</li>
+<li>One MYCLIC pre-filled pen and one alcohol swab (take these from the carton of pens you keep in your refrigerator). Do not shake the pen.</li>
+<li>One cotton ball or gauze</li>
+<li><b> Check the expiry date (month/year) on the pen</b>. If the date has passed, do not use the pen and contact your pharmacist for assistance.</li>
+<li>Inspect the solution in the pen by looking through the clear inspection window. The solution should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</li>
+<li><b>Leave the white needle cap in place and wait approximately 15-30 minutes</b> to allow the Enbrel solution in the pen to reach room temperature. Waiting until the solution reaches room temperature may make the injection more comfortable for you. Do not warm in any other way.<b> Always leave the pen out of sight and reach of children.</b></li>
+</ol>
+<p>Whilst waiting for the solution in the pen to reach room temperature, read Step 2 (below), and choose an injection site.</p>
 
   </div>"""
