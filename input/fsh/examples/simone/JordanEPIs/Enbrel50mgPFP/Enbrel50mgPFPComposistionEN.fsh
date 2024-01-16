@@ -409,47 +409,7 @@ Usage: #inline
 <li>If you have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin.</li>
 </ol>
 
-<p><b>Step 3: Injecting the Enbrel solution</b></p>
-<ol>
-<li>After waiting approximately 15-30 minutes for the solution in the pen to warm to room temperature, wash your hands with soap and water.</li>
-<li>Clean the injection site with the alcohol swab using a circular motion, and allow it to dry. Do not touch this area again before injecting.</li>
-<li>Pick up the pen, and remove the white needle cap by pulling it straight off (see Diagram 3). To avoid damaging the needle inside the pen, do not bend the white needle cap while you are removing it, and do not re-attach it once it has been removed. After removal of the needle cap, you will see a purple needle safety shield extending slightly from the end of the pen. The needle will remain protected inside the pen until the pen is activated. Do not use the pen if it is dropped with the needle cap off.</li>
-<p style="text-align:center"><u>Diagram 3</u></p>
-<p style="text-align:center">
-          <img src="#Diagram3" alt="Diagram3"/>
-</p>
-<li>Lightly pinching the skin around the injection site between the thumb and index finger of your free hand may make the injection easier and more comfortable.</li>
-<li>Hold the pen at a right angle (90°) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
 
-<p style="text-align:center"><u>Diagram 4</u></p>
-<p style="text-align:center">
-          <img src="#Diagram4" alt="Diagram4"/>
-</p>
-
-
-<li>Whilst pushing the pen <b>firmly</b> against the skin to ensure that the needle safety shield is fully depressed inside the pen, <b>press the centre of the green button</b> on top of the pen with your thumb to start the injection (see Diagram 5). On pressing the centre of the button, you will hear a click. <b>Continue to hold the pen firmly against your skin until you hear a second click,</b> or until 10 seconds after the first click (whichever happens first). </li>
-<p>Note: If you are unable to start the injection as described, press the pen more firmly against your skin, then press the green button again.</p>
-
-<p style="text-align:center"><u>Diagram 5</u></p>
-<p style="text-align:center">
-          <img src="#Diagram5" alt="Diagram5"/>
-</p>
-
-<li>On hearing the second 'click'(or, if you do not hear a second 'click', after 10 seconds have passed), your injection will be complete (see Diagram 6). You may now lift the pen from your skin (see Diagram 7). As you lift the pen, the purple needle safety shield will automatically extend to cover the needle.</li>
-
-//<p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
-//<p style="text-align:center">
-          //<img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
-//</p>
-
-<li>The pen's inspection window should now be completely purple, confirming that the dose has been injected correctly (see Diagram 8). If the window is not completely purple, contact your nurse or pharmacist for assistance, since the pen may not have injected the Enbrel solution completely. Do not try to use the pen again, and do not try to use another pen without agreement from your nurse or pharmacist.</li>
-
-<p style="text-align:center"><u>Diagram 8</u></p>
-<p style="text-align:center">
-          <img src="#Diagram8" alt="Diagram8"/>
-</p>
-<li>If you notice a spot of blood at the injection site, you should press the cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. </li>
-</ol>
 
 <p><b>Step 4: Disposing of the used MYCLIC pen</b></p>
 <ul>
