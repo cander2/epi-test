@@ -427,10 +427,9 @@ Usage: #inline
 </p>
 
 
-<li>
-<p>Whilst pushing the pen <b>firmly</b> against the skin to ensure that the needle safety shield is fully depressed inside the pen, <b>press the centre of the green button</b> on top of the pen with your thumb to start the injection (see Diagram 5). On pressing the centre of the button, you will hear a click. <b>Continue to hold the pen firmly against your skin until you hear a second click,</b> or until 10 seconds after the first click (whichever happens first). </p>
-<p>Note  If you are unable to start the injection as described, press the pen more firmly against your skin, then press the green button again.</p>
-</li>
+<li>Whilst pushing the pen <b>firmly</b> against the skin to ensure that the needle safety shield is fully depressed inside the pen, <b>press the centre of the green button</b> on top of the pen with your thumb to start the injection (see Diagram 5). On pressing the centre of the button, you will hear a click. <b>Continue to hold the pen firmly against your skin until you hear a second click,</b> or until 10 seconds after the first click (whichever happens first). </li>
+<p>Note: If you are unable to start the injection as described, press the pen more firmly against your skin, then press the green button again.</p>
+
 <p style="text-align:center"><u>Diagram 5</u></p>
 <p style="text-align:center">
           <img src="#Diagram5" alt="Diagram5"/>
@@ -439,9 +438,9 @@ Usage: #inline
 <li>On hearing the second 'click'(or, if you do not hear a second 'click', after 10 seconds have passed), your injection will be complete (see Diagram 6). You may now lift the pen from your skin (see Diagram 7). As you lift the pen, the purple needle safety shield will automatically extend to cover the needle.</li>
 
 <p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
-<p style="text-align:center">
-          <img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
-</p>
+//<p style="text-align:center">
+          //<img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
+//</p>
 
 <li>The pen's inspection window should now be completely purple, confirming that the dose has been injected correctly (see Diagram 8). If the window is not completely purple, contact your nurse or pharmacist for assistance, since the pen may not have injected the Enbrel solution completely. Do not try to use the pen again, and do not try to use another pen without agreement from your nurse or pharmacist.</li>
 
