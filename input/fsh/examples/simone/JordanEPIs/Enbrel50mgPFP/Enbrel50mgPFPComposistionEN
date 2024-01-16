@@ -21,15 +21,85 @@ Usage: #inline
 * attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
 
-//* contained
-//  * resourceType = "Binary"
- // * id = "Diagram2"
- // * contentType = #image/jpeg
-//  * data = ""
-//* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
-//* extension
- // * valueReference
- //   * reference = "#Diagram2"
+* contained
+* resourceType = "Binary"
+* id = "Diagram1"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram1"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram2"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram2"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram3"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram3"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram4"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram4"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram5"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram5"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram6"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram6"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram7"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram7"
+
+* contained
+* resourceType = "Binary"
+* id = "Diagram8"
+* contentType = #image/jpeg
+* data = ""
+* extension.url = "http://www.jordan.gov.jo/fhir/extension/ValidationReference"
+* extension
+* valueReference
+* reference = "#Diagram8"
 
 
 * section[+].
