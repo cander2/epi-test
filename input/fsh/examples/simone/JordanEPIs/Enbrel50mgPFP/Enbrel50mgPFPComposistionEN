@@ -263,6 +263,13 @@ Usage: #inline
   * code.text = "5. How to store x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Keep this medicine out of the sight and reach of children.</p>
+<p>Do not use this medicine after the expiry date which is stated on the carton and on the MYCLIC pre-filled pen after EXP. The expiry date refers to the last day of that month.</p>
+<p>Store in a refrigerator (2 – 8C). Do not freeze.</p>
+<p>Keep the pre-filled pens in the outer carton in order to protect from light.</p>
+<p>After taking a pre-filled pen from the refrigerator, <b>wait approximately 15-30 minutes to allow the Enbrel solution</b><b>in the pen to reach room temperature</b>. Do not warm in any other way. Immediate use is then recommended.</p>
+<p>Inspect the solution in the pen by looking through the clear inspection window. The solution should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</p>
+<p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
 
   </div>"""      
                 
@@ -272,7 +279,20 @@ Usage: #inline
   * code.text = "6. Contents of the pack and other information"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-
+<p><b>What Enbrel contains</b></p>
+<p>The active substance in Enbrel is etanercept. Each MYCLIC pre-filled pen contains 50 mg of etanercept.  </p>
+<p>The other ingredients are sucrose, sodium chloride, L-arginine hydrochloride, sodium phosphate monobasic dihydrate and sodium phosphate dibasic dihydrate, and water for injections.</p>
+<p><b>What Enbrel looks like and contents of the pack</b></p>
+<p>Enbrel is supplied as a solution for injection in a pre-filled pen (MYCLIC) (solution for injection). The MYCLIC pen contains a clear, colourless to pale yellow or pale brown solution for injection. Each pack contains 2, 4 or 12 pens and 2, 4 or 12 alcohol swabs. Not all pack sizes may be marketed.</p>
+<p><b>Marketing Authorisation Holder</b></p>
+<p>Pfizer Europe MA EEIG</p>
+<p>Boulevard de la Plaine 17</p>
+<p>1050 Bruxelles</p>
+<p>Belgium</p>
+<p>< b>Manufactured, Packed &amp; Released by</ b></p>
+<p>Pfizer Manufacturing Belgium NV,</p>
+<p>Rijksweg 12, 2870 Puurs, Belgium</p>
+<p>< b>This leaflet was last revised in: May 2021</ b></p>
 
   </div>"""
 
@@ -282,6 +302,50 @@ Usage: #inline
   * code.text = "7. Using the MYCLIC pre-filled pen to inject  x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>This section is divided into the following subsections:</p>
+<p><b>Introduction</b></p>
+<p><b>Step 1: Preparing for an Enbrel injection</b></p>
+<p>Step 2: Choosing an injection site</p>
+<p><b>Step 3: Injecting the Enbrel solution</b></p>
+<p><b>Step 4: Disposing of the used MYCLIC pen</b></p>
+<p><b>Introduction</b></p>
+<p>The instructions below explain how to use the MYCLIC pen to inject Enbrel. Please read the instructions carefully and follow them step by step. Your doctor or nurse will tell you how to inject Enbrel. Do not attempt to administer an injection until you are sure that you understand how to use the MYCLIC pen properly. If you have questions about how to inject, please ask your doctor or nurse for help.</p>
+<p><u>Diagram 1</u></p>
+<p><u>The MYCLIC pre-filled pen</u></p>
+//diagram1
+<p><b>Step 1: Preparing for an Enbrel injection</b></p>
+<ol>
+<li>Select a clean, well-lit, flat surface.</li>
+<li>Gather the items that you will need for your injection, and place them on the chosen surface:</li>
+<li>One MYCLIC pre-filled pen and one alcohol swab (take these from the carton of pens you keep in your refrigerator). Do not shake the pen.</li>
+<li>One cotton ball or gauze</li>
+<li><b> Check the expiry date (month/year) on the pen</b>. If the date has passed, do not use the pen and contact your pharmacist for assistance.</li>
+<li>Inspect the solution in the pen by looking through the clear inspection window. The solution should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</li>
+<li><b>Leave the white needle cap in place and wait approximately 15-30 minutes</b> to allow the Enbrel solution in the pen to reach room temperature. Waiting until the solution reaches room temperature may make the injection more comfortable for you. Do not warm in any other way.<b> Always leave the pen out of sight and reach of children.</b></li>
+</ol>
+<p>Whilst waiting for the solution in the pen to reach room temperature, read Step 2 (below), and choose an injection site.</p>
+
+<p><b>Step 2: Choosing an injection site (see Diagram 2)</b></p>
+<ol>
+<li>The recommended injection site is the middle of the front of the thighs. If you prefer, you may alternatively use the stomach area, but make sure you choose a site at least 5 cm away from the belly button (navel). If someone else is giving you the injection, the outer area of the upper arms may also be used.</li>
+
+<p><u>Diagram 2</u></p>
+//diagram2
+<li>Each injection should be given at least 3&nbsp;cm from where you last injected. Do not inject into tender, bruised or hard skin. Avoid scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
+<li>If you have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin.</li>
+</ol>
+<p><b>Step 3: Injecting the Enbrel solution</b></p>
+<ol>
+<li>After waiting approximately 15-30 minutes for the solution in the pen to warm to room temperature, wash your hands with soap and water.</li>
+<li>Clean the injection site with the alcohol swab using a circular motion, and allow it to dry. Do not touch this area again before injecting.</li>
+<li>Pick up the pen, and remove the white needle cap by pulling it straight off (see Diagram 3). To avoid damaging the needle inside the pen, do not bend the white needle cap while you are removing it, and do not re-attach it once it has been removed. After removal of the needle cap, you will see a purple needle safety shield extending slightly from the end of the pen. The needle will remain protected inside the pen until the pen is activated. Do not use the pen if it is dropped with the needle cap off.</li>
+<p><u>Diagram 3</u></p>
+//diagram3
+<li>Lightly pinching the skin around the injection site between the thumb and index finger of your free hand may make the injection easier and more comfortable.</li>
+<li>Hold the pen at a right angle (90º) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
+</ol>
+<p><u>Diagram 4</u></p>
+//diagram4
 
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 <tbody>
