@@ -397,5 +397,38 @@ Usage: #inline
 <li><b>Leave the white needle cap in place and wait approximately 15-30 minutes</b> to allow the Enbrel solution in the pen to reach room temperature. Waiting until the solution reaches room temperature may make the injection more comfortable for you. Do not warm in any other way.<b> Always leave the pen out of sight and reach of children.</b></li>
 </ol>
 <p>Whilst waiting for the solution in the pen to reach room temperature, read Step 2 (below), and choose an injection site.</p>
+<p><b>Step 2: Choosing an injection site (see Diagram 2)</b></p>
+<ol>
+<li>The recommended injection site is the middle of the front of the thighs. If you prefer, you may alternatively use the stomach area, but make sure you choose a site at least 5 cm away from the belly button (navel). If someone else is giving you the injection, the outer area of the upper arms may also be used.</li>
+
+<p style="text-align:center"><u>Diagram 2</u></p>
+<p style="text-align:center">
+          <img src="#Diagram2" alt="Diagram2"/>
+</p>
+<li>Each injection should be given at least 3 cm from where you last injected. Do not inject into tender, bruised or hard skin. Avoid scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
+<li>If you have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin.</li>
+</ol>
+<p><b>Step 3: Injecting the Enbrel solution</b></p>
+<ol>
+<li>After waiting approximately 15-30 minutes for the solution in the pen to warm to room temperature, wash your hands with soap and water.</li>
+<li>Clean the injection site with the alcohol swab using a circular motion, and allow it to dry. Do not touch this area again before injecting.</li>
+<li>Pick up the pen, and remove the white needle cap by pulling it straight off (see Diagram 3). To avoid damaging the needle inside the pen, do not bend the white needle cap while you are removing it, and do not re-attach it once it has been removed. After removal of the needle cap, you will see a purple needle safety shield extending slightly from the end of the pen. The needle will remain protected inside the pen until the pen is activated. Do not use the pen if it is dropped with the needle cap off.</li>
+<p style="text-align:center"><u>Diagram 3</u></p>
+<p style="text-align:center">
+          <img src="#Diagram3" alt="Diagram3"/>
+</p>
+<li>Lightly pinching the skin around the injection site between the thumb and index finger of your free hand may make the injection easier and more comfortable.</li>
+<li>Hold the pen at a right angle (90°) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
+
+<p style="text-align:center"><u>Diagram 4</u></p>
+<p style="text-align:center">
+          <img src="#Diagram4" alt="Diagram4"/>
+</p>
+
+
+<li>
+<p>Whilst pushing the pen <b>firmly</b> against the skin to ensure that the needle safety shield is fully depressed inside the pen, <b>press the centre of the green button</b> on top of the pen with your thumb to start the injection (see Diagram 5). On pressing the centre of the button, you will hear a click. <b>Continue to hold the pen firmly against your skin until you hear a second click,</b> or until 10 seconds after the first click (whichever happens first). <p>
+<p>Note  If you are unable to start the injection as described, press the pen more firmly against your skin, then press the green button again.</p>
+</li>
 
   </div>"""
