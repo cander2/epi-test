@@ -335,7 +335,7 @@ Usage: #inline
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p>Keep this medicine out of the sight and reach of children.</p>
 <p>Do not use this medicine after the expiry date which is stated on the carton and on the MYCLIC pre-filled pen after EXP. The expiry date refers to the last day of that month.</p>
-<p>Store in a refrigerator (2 – 8C). Do not freeze.</p>
+<p>Store in a refrigerator (2&deg; – 8&deg;C). Do not freeze.</p>
 <p>Keep the pre-filled pens in the outer carton in order to protect from light.</p>
 <p>After taking a pre-filled pen from the refrigerator, <b>wait approximately 15-30 minutes to allow the Enbrel solution</b><b>in the pen to reach room temperature</b>. Do not warm in any other way. Immediate use is then recommended.</p>
 <p>Inspect the solution in the pen by looking through the clear inspection window. The solution should be clear or slightly opalescent, colourless to pale yellow or pale brown, and may contain small white or almost transparent particles of protein. This appearance is normal for Enbrel. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.</p>
