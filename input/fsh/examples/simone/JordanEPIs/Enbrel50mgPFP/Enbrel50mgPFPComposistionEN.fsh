@@ -437,7 +437,7 @@ Usage: #inline
 
 <li>On hearing the second 'click'(or, if you do not hear a second 'click', after 10 seconds have passed), your injection will be complete (see Diagram 6). You may now lift the pen from your skin (see Diagram 7). As you lift the pen, the purple needle safety shield will automatically extend to cover the needle.</li>
 
-<p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
+//<p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
 //<p style="text-align:center">
           //<img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
 //</p>
