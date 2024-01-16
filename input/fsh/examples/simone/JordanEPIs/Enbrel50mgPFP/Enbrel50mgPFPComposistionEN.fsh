@@ -375,7 +375,7 @@ Usage: #inline
 <p>This section is divided into the following subsections:</p>
 <p><b>Introduction</b></p>
 <p><b>Step 1: Preparing for an Enbrel injection</b></p>
-<p>Step 2: Choosing an injection site</p>
+<p><b>Step 2: Choosing an injection site</b></p>
 <p><b>Step 3: Injecting the Enbrel solution</b></p>
 <p><b>Step 4: Disposing of the used MYCLIC pen</b></p>
 <p><b>Introduction</b></p>
