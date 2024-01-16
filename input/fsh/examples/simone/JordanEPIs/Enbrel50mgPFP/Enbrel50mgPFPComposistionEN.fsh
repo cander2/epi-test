@@ -372,6 +372,19 @@ Usage: #inline
   * code.text = "7. Using the MYCLIC pre-filled pen to inject  x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>This section is divided into the following subsections:</p>
+<p><b>Introduction</b></p>
+<p><b>Step 1: Preparing for an Enbrel injection</b></p>
+<p><b>Step 2: Choosing an injection site</b></p>
+<p><b>Step 3: Injecting the Enbrel solution</b></p>
+<p><b>Step 4: Disposing of the used MYCLIC pen</b></p>
+<p><b>Introduction</b></p>
+<p>The instructions below explain how to use the MYCLIC pen to inject Enbrel. Please read the instructions carefully and follow them step by step. Your doctor or nurse will tell you how to inject Enbrel. Do not attempt to administer an injection until you are sure that you understand how to use the MYCLIC pen properly. If you have questions about how to inject, please ask your doctor or nurse for help.</p>
+<p style="text-align:center"><u>Diagram 1</u></p>
+<p style="text-align:center"><u>The MYCLIC pre-filled pen</u></p>
+<p style="text-align:center">
+          <img src="#Diagram1" alt="Diagram1"/>
+</p>
 
 
   </div>"""
