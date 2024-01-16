@@ -16,8 +16,8 @@ Usage: #example
 
 // Organization
 
-//* entry[+].fullUrl = "Organization/ZithromaxPOSOrgAR"
-//* entry[=].resource = ZithromaxPOSOrgAR
+* entry[+].fullUrl = "Organization/ZithromaxPOSOrgAR"
+* entry[=].resource = ZithromaxPOSOrgAR
  
 
 // MedicinalProductDefinition
