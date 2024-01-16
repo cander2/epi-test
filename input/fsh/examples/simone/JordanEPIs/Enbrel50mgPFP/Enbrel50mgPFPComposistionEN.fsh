@@ -405,7 +405,7 @@ Usage: #inline
 <p style="text-align:center">
           <img src="#Diagram2" alt="Diagram2"/>
 </p>
-<li>Each injection should be given at least 3&nbsp;cm from where you last injected. Do not inject into tender, bruised or hard skin. Avoid scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
+<li>Each injection should be given at least 3 cm from where you last injected. Do not inject into tender, bruised or hard skin. Avoid scars or stretch marks. (It may be helpful to keep notes on the location of the previous injections.)</li>
 <li>If you have psoriasis, you should try not to inject directly into any raised, thick, red, or scaly skin.</li>
 </ol>
 <p><b>Step 3: Injecting the Enbrel solution</b></p>
@@ -418,7 +418,7 @@ Usage: #inline
           <img src="#Diagram3" alt="Diagram3"/>
 </p>
 <li>Lightly pinching the skin around the injection site between the thumb and index finger of your free hand may make the injection easier and more comfortable.</li>
-<li>Hold the pen at a right angle (90º) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
+<li>Hold the pen at a right angle (90&deg;) to the injection site. <b>Push the open end of the pen firmly against the skin</b>, so that the needle safety shield is pushed completely inside of the pen. A slight depression in the skin will be seen (see Diagram 4). The pen can only be activated when the needle shield is completely pushed inside the pen.</li>
 
 <p style="text-align:center"><u>Diagram 4</u></p>
 <p style="text-align:center">
