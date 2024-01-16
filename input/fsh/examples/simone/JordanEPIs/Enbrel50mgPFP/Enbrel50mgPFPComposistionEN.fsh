@@ -359,10 +359,10 @@ Usage: #inline
 <p>Boulevard de la Plaine 17</p>
 <p>1050 Bruxelles</p>
 <p>Belgium</p>
-<p>< b>Manufactured, Packed &amp; Released by</ b></p>
+<p><b>Manufactured, Packed &amp; Released by</b></p>
 <p>Pfizer Manufacturing Belgium NV,</p>
 <p>Rijksweg 12, 2870 Puurs, Belgium</p>
-<p>< b>This leaflet was last revised in: May 2021</ b></p>
+<p><b>This leaflet was last revised in: May 2021</b></p>
 
   </div>"""
 
