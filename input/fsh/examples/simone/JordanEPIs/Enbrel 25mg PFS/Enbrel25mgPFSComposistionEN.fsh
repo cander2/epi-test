@@ -193,7 +193,7 @@ Usage: #inline
   </div>"""   
                     
 * section[=].section[+]
-  * title = "3. How to take Zithromax"
+  * title = "3. How to take Enbrel"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "3. How to take x"
   * text.status = #additional
