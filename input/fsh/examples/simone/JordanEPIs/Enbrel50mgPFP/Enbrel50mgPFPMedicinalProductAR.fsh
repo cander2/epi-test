@@ -1,8 +1,8 @@
 
 Instance: Enbrel50mgPFPMedicinalProductAR
 InstanceOf: MedicinalProductDefinitionUvEpi
-Title: "Medicinal Product Enbrel 50mg PFS"
-Description: "Enbrel 50 mg solution for injection in pre-filled syringe"
+Title: "Medicinal Product Enbrel 50mg PFP"
+Description: "Enbrel 50 mg solution for injection in pre-filled pen"
 Usage: #example
 
 * identifier[+].system = "https://jfda.jo"
