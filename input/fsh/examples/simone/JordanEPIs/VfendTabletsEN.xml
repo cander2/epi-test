@@ -516,10 +516,10 @@
 		</resource>
 	</entry>
 	<entry>
-		<fullUrl value="Organization/organization-00000000-0000-0000-0000-000000000000"/>
+		<fullUrl value="Organization/organization-VfendTabletsEN"/>
 		<resource>
 			<Organization>
-				<id value="organization-00000000-0000-0000-0000-000000000000"/>
+				<id value="organization-VfendTabletsEN"/>
 				<meta>
 					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
 				</meta>
@@ -538,26 +538,26 @@
 					</coding>
 					<text value="Marketing Authorisation Holder"/>
 				</type>
-				<name value="Example Company, Limited."/>
+				<name value="Pfizer Europe MA EEIG"/>
 				<contact>
 					<address>
 						<use value="work"/>
 						<type value="physical"/>
-						<text value=""/>
-						<line value=""/>
-						<city value=""/>
-						<postalCode value=""/>
-						<country value=""/>
+						<text value="Boulevard de la Plaine 171050 Bruxelles Belgium"/>
+						<line value="Boulevard de la Plaine 171050"/>
+						<city value="Bruxelles"/>
+						<postalCode value="NA"/>
+						<country value="Belgium"/>
 					</address>
 				</contact>
 			</Organization>
 		</resource>
 	</entry>
 	<entry>
-		<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition-00000000-0000-0000-0000-000000000000"/>
+		<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition-VfendTabletsEN"/>
 		<resource>
 			<MedicinalProductDefinition>
-				<id value="medicinalproductdefinition-00000000-0000-0000-0000-000000000000"/>
+				<id value="medicinalproductdefinition-VfendTabletsEN"/>
 				<meta>
 					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
 				</meta>
@@ -619,7 +619,7 @@
 				<route>
 					<coding>
 						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
-						<code value=" "/>
+						<code value=""/>
 
 						<display value=""/>
 
@@ -638,7 +638,7 @@
 
 				<name>
 
-					<productName value=""/>
+					<productName value="Vfend 50 mg & 200 mg film-coated tablets"/>
 					<type>
 						<coding>
 							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
@@ -673,7 +673,7 @@
 						</type>
 					</part>
 					<part>
-						<part value=""/>
+						<part value="50 mg & 200 mg"/>
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
@@ -684,7 +684,7 @@
 						</type>
 					</part>
 					<part>
-						<part value=""/>
+						<part value="film-coated tablets"/>
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
@@ -705,15 +705,15 @@
 						<jurisdiction>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
-								<code value=""/>
-								<display value=""/>
+								  <code value="JO"/>
+                                                                  <display value="Jordan"/>
 							</coding>
 						</jurisdiction>
 						<language>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/all-languages"/>
-								<code value=""/>
-								<display value=""/>
+								 <code value="en"/>
+                                                                 <display value="English"/>
 							</coding>
 						</language>
 					</usage>
