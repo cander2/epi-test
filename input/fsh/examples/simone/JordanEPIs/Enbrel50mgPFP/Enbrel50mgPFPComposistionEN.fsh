@@ -439,7 +439,7 @@ Usage: #inline
 
 <p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
 <p style="text-align:center">
-          //<img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
+          <img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
 </p>
 
 <li>The pen's inspection window should now be completely purple, confirming that the dose has been injected correctly (see Diagram 8). If the window is not completely purple, contact your nurse or pharmacist for assistance, since the pen may not have injected the Enbrel solution completely. Do not try to use the pen again, and do not try to use another pen without agreement from your nurse or pharmacist.</li>
