@@ -638,7 +638,7 @@
 
 				<name>
 
-					<productName value="Vfend 50 mg & 200 mg film-coated tablets"/>
+					<productName value="Vfend 50 mg &amp; 200 mg film-coated tablets"/>
 					<type>
 						<coding>
 							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
@@ -673,7 +673,7 @@
 						</type>
 					</part>
 					<part>
-						<part value="50 mg & 200 mg"/>
+						<part value="50 mg &amp; 200 mg"/>
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
