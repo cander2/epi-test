@@ -4,7 +4,7 @@
 	<language value="en"/>
 	<identifier>
 		<system value="https://leaflet.healthcare/sid/doc"/>
-		<value value="L000"/>VfendTabletsEN
+		<value value="L000"/>
 	</identifier>
 	<type value="document"/>
 	<timestamp value="2021-04"/>
