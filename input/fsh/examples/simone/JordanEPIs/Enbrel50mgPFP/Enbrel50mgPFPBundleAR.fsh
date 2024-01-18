@@ -1,8 +1,8 @@
 
 Instance: Enbrel50mgPFPBundleAR
 InstanceOf: BundleUvEpi
-Title: "Bundle for Enbrel 50mg PFP - Jordanian EN Package Leaflet"
-Description: "Bundle for Enbrel (Etanercept) 50 mg solution for injection in pre-filled pen - Jordanian EN Package Leaflet"
+Title: "Bundle for Enbrel 50mg PFP - Jordanian AR Package Leaflet"
+Description: "Bundle for Enbrel (Etanercept) 50 mg solution for injection in pre-filled pen - Jordanian AR Package Leaflet"
 Usage: #example
 
 * language = #en
