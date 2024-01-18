@@ -437,9 +437,9 @@ Usage: #inline
 
 <li>On hearing the second 'click'(or, if you do not hear a second 'click', after 10 seconds have passed), your injection will be complete (see Diagram 6). You may now lift the pen from your skin (see Diagram 7). As you lift the pen, the purple needle safety shield will automatically extend to cover the needle.</li>
 
-<p style="text-align:center"><u>Diagram 6</u>&nbsp;&nbsp;&nbsp;&nbsp;<u>Diagram 7</u></p>
+<p style="text-align:center"><u>Diagram 6</u>             <u>Diagram 7</u></p>
 <p style="text-align:center">
-          <img src="#Diagram6" alt="Diagram6"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="#Diagram7" alt="Diagram7"/>
+          <img src="#Diagram6" alt="Diagram6"/>             <img src="#Diagram7" alt="Diagram7"/>
 </p>
 
 <li>The pen's inspection window should now be completely purple, confirming that the dose has been injected correctly (see Diagram 8). If the window is not completely purple, contact your nurse or pharmacist for assistance, since the pen may not have injected the Enbrel solution completely. Do not try to use the pen again, and do not try to use another pen without agreement from your nurse or pharmacist.</li>
