@@ -108,11 +108,12 @@ Usage: #inline
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
-        <p><b>Enbrel®</b></p>
-       	<p>Etanercept</p>
-        <p>50 mg solution for injection in pre-filled pen</p>
-        <p>Reference Label: EU</p>
-        <p><b>PACKAGE LEAFLET</b></p>
+<p><b>إنبريل®</b></p>
+<p>إتانيرسيبت</p>
+<p>محلول 50 مجم للحقن معبأ في قلم مسبق التعبئة</p>
+<p>السوق المرجعية: الاتحاد الأوروبي</p>
+<p><b>نشرة العبوة</b></p>
+
   </div>"""   
       
 * section[=].section[+]
@@ -121,19 +122,18 @@ Usage: #inline
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-        <p><b>Enbrel 50 mg solution for injection in pre-filled pen</b></p>
-        <p><b>Etanercept</b></p>  
+       <p><b>محلول إنبريل 50 مجم للحقن معبأ في قلم مسبق التعبئة</b></p>
+<p>إتانيرسيبت</p>
 <table>
 <tbody>
- <tr>
-  <p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you. </b></p>
-        <ul>
-            <li>Keep this leaflet. You may need to read it again. </li>
-            <li>If you have any further questions, ask your doctor or pharmacist or nurse. </li>
-            <li>This medicine has been prescribed for you or a child in your care. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours or those of the child you are caring for.</li>
-            <li>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4. </li>
-        </ul>
- </tr>
+<tr>
+<td><p><b>اقرأ هذه النشرة بالكامل بعناية قبل البدء في استخدام هذا الدواء لأنها تحتوي على معلومات تهمك.</b></p>
+<p>احتفظ بهذه النشرة. فقد تحتاج إلى قراءتها مجددًا.</p>
+<p>إذا كان لديك أي أسئلة أخرى، فيُرجى استشارة الطبيب أو الصيدلي أو الممرضة.</p>
+<p>هذا الدواء تم وصفه لك أو لطفلك الذي ترعاه. لا تنصح الآخرين بتناوله. فقد يسبب لهم ضررًا، حتى إذا كانوا يعانون من نفس علامات المرض التي تعاني منها أو التي يعاني منها الطفل الذي تقوم برعايته.</p>
+<p>إذا ظهرت عليك أي آثار جانبية، فتحدث إلى الطبيب أو الصيدلي. يشمل هذا أي آثار جانبية محتملة وغير مدرجة في هذه النشرة. انظر القسم 4.</p>
+</td>
+</tr>
 </tbody>
 </table>
   </div>"""   
@@ -144,92 +144,96 @@ Usage: #inline
   * code.text = "What is in this leaflet"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-        <p>Information in this leaflet is organised under the following 7 sections:</p>
-        <ol>
-            <li>What Enbrel is and what it is used for </li>
-            <li>What you need to know before you take Enbrel </li>
-            <li>How to take Enbrel </li>
-            <li>Possible side effects </li>
-            <li>How to store Enbrel </li>
-            <li>Contents of the pack and other information </li>
-            <li>Using the MYCLIC pre-filled pen to inject  Enbrel (See overleaf)</li>
-        </ol>
+<p><b>1. ما هو إنبريل وفيم يستخدم</b></p>
+<p><b>2.</b> <b>ما ينبغي عليك معرفته قبل استخدام إنبريل</b></p>
+<p><b>3. طريقة استخدام إنبريل</b></p>
+<p><b>4. الآثار الجانبية المحتملة</b></p>
+<p><b>5. كيفية تخزين إنبريل</b></p>
+<p><b>6.</b> <b>محتويات العبوة ومعلومات أخرى</b></p>
+<p><b>7.</b> <b>استخدام قلم MYCLIC مسبق التعبئة لحقن إنبريل (انظر الجانب الخلفي من النشرة)</b></p>
 </div>"""   
           
 * section[=].section[+]
-  * title = "1. What Enbrel is and what it is used for"
+  * title = "1. ما هو إنبريل وفيم يستخدم"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "1. What x is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-  <p>Enbrel is a medicine that is made from two human proteins. It blocks the activity of another protein in the body that causes inflammation. Enbrel works by reducing the inflammation associated with certain diseases.</p>
-<p>In adults (aged 18 and over), Enbrel can be used for moderate or severe <b>rheumatoid arthritis</b>, <b>psoriatic arthritis</b>, severe<b> axial spondyloarthritis</b> including<b> ankylosing spondylitis,</b> and moderate or severe <b>psoriasis</b> - in each case usually when other widely used treatments have not worked well enough or are not suitable for you.</p>
-<p>For rheumatoid arthritis, Enbrel is usually used in combination with methotrexate, although it may also be used alone if treatment with methotrexate is unsuitable for you. Whether used alone or in combination with methotrexate, Enbrel can slow down the damage to your joints caused by the rheumatoid arthritis and improve your ability to do normal daily activities.</p>
-<p>For psoriatic arthritis patients with multiple joint involvement, Enbrel can improve your ability to do normal daily activities. For patients with multiple symmetrical painful or swollen joints (e.g., hands, wrists and feet), Enbrel can slow down the structural damage to those joints caused by the disease.</p>
-<p>Enbrel is also prescribed for the treatment of the following diseases in children and adolescents</p>
+<p>إن إنبريل هو دواء يتم تصنيعه من نوعين من البروتينات البشرية. وهو يوقف نشاط بروتين آخر في الجسم يسبب الالتهاب. ويعمل إنبريل على تقليل الالتهاب المرتبط ببعض الأمراض.</p>
+<p>بالنسبة للبالغين (من سن 18 سنة فأعلى)، فإنه يمكن استخدام إنبريل لعلاج <b>التهاب المفاصل الروماتويدي</b> المتوسط أو الحاد و<b>التهاب المفاصل الصدفي</b> ، والالتهاب الفقري المفصلي اللاصق الحادويشمل <b>التهاب الفقار المقسط</b> (التهاب الفقرات التصلبي) و<b>الصدفية</b> المتوسطة أو الحادة - وفي كل حالة يُستخدم عادةً عندما لا تعمل أنواع العلاج الأخرى واسعة الاستخدام جيدًا بالقدر الكافي أو عندما لا تكون ملائمة لك.</p>
+<p>بالنسبة لالتهاب المفاصل الروماتويدي، فإن إنبريل يستخدم عادة بالتزامن مع دواء يسمى ميثوتريكسات، على الرغم من أنه يمكن أن يستخدم بمفرده أيضًا إذا كان العلاج بميثوتريكسات ليس ملائمًا لك. وبغض النظر عن استخدامه بمفرده أو بالتزامن مع ميثوتريكسات، فإن إنبريل يمكن أن يبطئ من معدلات حدوث الأضرار التي تحدث لمفاصلك بسبب الالتهاب الروماتيزمي للمفاصل ويحسن من قدرتك على تنفيذ الأنشطة اليومية.</p>
+<p>وبالنسبة لالتهاب المفاصل الصدفي مع تأثر عدة مفاصل، فإن إنبريل يمكن أن يحسن قدرتك على تنفيذ الأنشطة اليومية المعتادة. وبالنسبة للمرضى الذين يعانون من ألم أو انتفاخ في عدة مفاصل بشكل متماثل (على سبيل المثال، في اليد والمعصم والقدم)، فإن إنبريل يمكنه أن يبطئ الأضرار الهيكلية على تلك المفاصل والتي تحدث بسبب المرض.</p>
+<p>ويمكن وصف إنبريل أيضا لعلاج الأمراض التالية للأطفال والمراهقين:</p>
 <ul>
- <li>For the following types of juvenile idiopathic arthritis when treatment with methotrexate has not worked well enough or is not suitable for them:</li>
-   <ul>
-    <li>Polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in patients from the age of 2 years</li>
-    <li>Psoriatic arthritis in patients from the age of 12 years</li>
-   </ul>
-<li>For enthesitis-related arthritis in patients from the age of 12 years when other widely used treatments have not worked well enough or are not suitable for them</li>
-<li>Severe psoriasis in patients from the age of 6 years who have had an inadequate response to (or are unable to take) phototherapies or other systemic therapies.</li>
+<li> 
+<p>للأنواع التالية من مرض التهاب المفاصل اليفعي مجهول السبب عندما لا يعمل العلاج بالميثوتريكسات جيدًا بالقدر الكافي أو لا يكون مناسبًا لها:</p>
+ 
+<ul>
+<li><p>التهاب المفاصل المتعددة (سواء كان عامل الروماتويد إيجابيًا أو سلبيًا) والتهاب المفاصل القليلة الممتد في المرضى من سن سنتين</p></li>
+<li><p>التهاب المفاصل الصدفي في المرضى من سن 12 عامًا</p></li>
+</ul></li>
+</ul>
+<ul>
+<li><p>التهاب المفاصل المتعلق بالتهاب الارتكاز في المرضى من سن 12 سنة عندما لا تعمل أنواع العلاج الأخرى واسعة الاستخدام جيدًا بالقدر الكافي أو عندما لا تكون ملائمة لهم.</p></li>
+<li><p>الصدفية الشديدة للمرضى من سن 6 سنوات والذين لم يستجيبوا جيدًا بالقدر الكافي (أو الذين ليس لديهم القدرة على تناول) للمعالجات الضوئية أو العلاجات المنهجية الأخرى.</p></li>
 </ul>
   </div>"""   
           
 * section[=].section[+]
-  * title = "2. What you need to know before you take Enbrel"
+  * title = "2.ما ينبغي عليك معرفته قبل استخدام إنبريل"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "2. What you need to know before you take x"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-<p><b>Do not use Enbrel</b></p>
+<p><b>يُحظر استخدام إنبريل</b></p>
 <ul>
-<li>if you, or the child you are caring for, are allergic to etanercept or any of the other ingredients of Enbrel (listed in section 6). If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Enbrel, and contact your doctor immediately.</li>
-<li>if you or the child have, or are at risk of developing a serious blood infection called sepsis. If you are not sure, please contact your doctor.</li>
-<li>if you or the child have an infection of any kind. If you are not sure, please talk to your doctor.</li>
+<li><p>إذا كنت، أو كان الطفل الذي تقوم برعايته يعاني من حساسية تجاه إيتانيرسيبت أو أي مكونات أخرى لإنبريل المدرجة في قسم 6. إذا حدث لك أو لطفلك تفاعلات حساسية مثل ضيق الصدر، التنفس بصفير، الدوخة أو الطفح الجلدي، فلا تحقن أي كميات أخرى من إنبريل، واتصل بطبيبك في الحال.</p></li>
+<li><p>إذا كنت أو كان الطفل يعاني من، أو من المحتمل أن يعاني من عدوى خطيرة في الدم تسمى إنتان الدم. وإذا لم تكن متأكدا، رجاءالرجوع إلى طبيبك.</p></li>
+<li><p>إذا كنت أو كان الطفل يعاني من عدوى من أي نوع. وإذا لم تكن متأكدا، رجاء الرجوع الى طبيبك.</p></li>
 </ul>
-<p><b>Warnings and precautions</b></p>
-<p>Talk to your doctor before taking Enbrel.</p>
+<p><b>تحذيرات واحتياطات </b></p>
+<p>تحدث مع طبيبك قبل استخدام إنبريل</p>
 <ul>
-<li><b>Allergic reactions</b>: If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Enbrel, and contact your doctor immediately.</li>
-<li><b>Infections/surgery</b>: If you or the child develop a new infection, or are about to have any major surgery, your doctor may wish to monitor the treatment with Enbrel.</li>
-<li><b>Infections/diabetes:</b> Tell your doctor if you or the child have a history of recurrent infections or suffer from diabetes or other conditions that increase the risk of infection.</li>
-<li><b>Infections/monitoring: </b>Tell your doctor of any recent travel outside the European region. If you or the child develop symptoms of an infection such as fever, chills or cough, notify your doctor immediately. Your doctor may decide to continue to monitor you or the child for the presence of infections after you or the child stop using Enbrel.</li>
-<li><b>Tuberculosis: </b>As cases of tuberculosis have been reported in patients treated with Enbrel, your doctor will check for signs and symptoms of tuberculosis before starting Enbrel. This may include a thorough medical history, a chest X-ray and a tuberculin test. It is very important that you tell your doctor if you or the child have ever had tuberculosis, or have been in close contact with someone who has had tuberculosis. If symptoms of tuberculosis (such as persistent cough, weight loss, listlessness, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.</li>
-<li><b>Hepatitis B: </b>Tell your doctor if you or the child have or have ever had hepatitis B. Your doctor should test for the presence of hepatitis B infection before you or the child begin treatment with Enbrel. Treatment with Enbrel may result in reactivation of hepatitis B in patients who have previously been infected with the hepatitis B virus. If this occurs, you should stop using Enbrel.</li>
-<li><b>Hepatitis C:</b> Tell your doctor if you or the child have hepatitis C. Your doctor may wish to monitor the treatment with Enbrel in case the infection worsens.</li>
-<li><b>Blood disorders:</b> Seek medical advice immediately if you or the child have any signs or symptoms such as persistent fever, sore throat, bruising, bleeding or paleness. Such symptoms may point to the existence of potentially life-threatening blood disorders, which may require discontinuation of Enbrel.</li>
-<li><b>Nervous system and eye disorders:</b> Tell your doctor if you or the child have multiple sclerosis, optic neuritis (inflammation of the nerves of the eyes) or transverse myelitis (inflammation of the spinal cord). Your doctor will determine if Enbrel is an appropriate treatment.</li>
-<li><b>Congestive heart failure:</b> Tell your doctor if you or the child have a history of congestive heart failure, because Enbrel needs to be used with caution under these circumstances.</li>
-<li><b>Cancer: </b>Tell your doctor if you have or have ever had lymphoma (a type of blood cancer) or any other cancer before you are given Enbrel.</li>
+<li><p><b>تفاعلات الحساسية</b>: إذا حدث لك أو لطفلك تفاعلات حساسية مثل ضيق الصدر، التنفس بصفير، الدوخة أو الطفح الجلدي، فلا تحقن أي كميات أخرى من إنبريل، و إرجع إلى طبيبك في الحال.</p></li>
+<li><p><b>حالات العدوى/الجراحة</b>: إذا حدث لك أو لطفلك عدوى جديدة، أو إذا كنت أو طفلك مقدمًا على جراحة كبيرة، فقد يرغب طبيبك في مراقبة العلاج بإنبريل.</p></li>
+<li><p><b>حالات العدوى/مرض السكر:</b> أخبر طبيبك إذا كان لك أو لطفلك تاريخ من الإصابة بعدوى متكررة أو كنتما تعانيان من مرض السكر أو الحالات الأخرى التي تزيد من احتمالات حدوث العدوى.</p></li>
 </ul>
-<p>Patients with severe rheumatoid arthritis, who have had the disease for a long time, may be at higher than average risk of developing lymphoma.</p>
-<p>Children and adults taking Enbrel may have an increased risk of developing lymphoma or another cancer.</p>
-<p>Some children and teenage patients who have received Enbrel or other medicines that work the same way as Enbrel have developed cancers, including unusual types, which sometimes resulted in death.</p>
-<p>Some patients receiving Enbrel have developed skin cancers. Tell your doctor if you or the child develop any change in the appearance of the skin or growths on the skin.</p>
 <ul>
-<li><b>Chickenpox:</b> Tell your doctor if you or the child are exposed to chickenpox when using Enbrel. Your doctor will determine if preventive treatment for chickenpox is appropriate.</li>
-<li><b>Latex: </b>The needle cap of the MYCLIC pen is made from latex (dry natural rubber). Contact your doctor before using Enbrel if the needle cap will be handled by, or Enbrel will be given to, someone with a known or possible hypersensitivity (allergy) to latex.</li>
-<li><b>Alcohol abuse</b>: Enbrel should not be used for the treatment of hepatitis related to alcohol abuse. Please tell your doctor if you or the child in your care have a history of alcohol abuse.</li>
-<li><b> Wegener’s granulomatosis </b>: Enbrel is not recommended for the treatment of Wegener’s granulomatosis, a rare inflammatory disease. If you or the child in your care have Wegener’s granulomatosis, talk to your doctor.</li>
-<li><b>Anti-diabetic medicines</b>: Tell your doctor if you or the child have diabetes or are taking medicines to treat diabetes. Your doctor may decide if you or the child need less anti-diabetic medicine while taking Enbrel.</li>
+<li><p><b>حالات العدوى/المراقبة:</b> أخبر طبيبك عن أي سفر حديث خارج أوربا. وإذا حدث لك أو للطفل أعراض عدوى مثل الحمى أو القشعريرة (رعشة) أو السعال، أخبر طبيبك في الحال. يمكن أن يقرر طبيبك مراقبتك أو مراقبة طفلك لتحديد وجود حالات عدوى بعد أن توقف أنت أو طفلك استخدام إنبريل.</p></li>
+<li><p><b>مرض السل:</b> حيث أنه تم الإبلاغ عن حالات حدوث لمرض السل للمرضى الذين تم علاجهم بإنبريل، فإن طبيبك سوف يفحص علامات وأعراض السل قبل بدء العلاج بإنبريل. ويمكن أن يتضمن ذلك إعطاء الطبيب التاريخ الطبي بالكامل، الأشعة السينية على الصدر واختبار تيوبركلين (السل). ومن المهم جدًا أن تخبر طبيبك إذا كان قد سبق أن أصبت (أو طفلك) بالسل، أو كنت (أو طفلك) قريبًا من شخص كان يعاني من مرض السل. وإذا ظهرت أعراض مرض السل (مثل الكحة المستمرة، فقد الوزن، الكسل، الحمى الخفيفة)، أو أي عدوى أخرى أثناء أو بعد العلاج، أخبر طبيبك في الحال.</p></li>
+<li><p><b>الالتهاب الكبدي الوبائيb:</b> أخبر طبيبك إذا كنت أنت أو الطفل تعانيان من أو عانيتما سابقًا من الالتهاب الكبدي الوبائيb. ينبغي أن يقوم طبيبك بالفحص للبحث عن وجود عدوى الالتهاب الكبدي الوبائيb قبل أن تبدأ أنت أو الطفل العلاج بإنبريل. قد ينتج عن العلاج بإنبريل إعادة تنشيط الالتهاب الكبدي الوبائيb في المرضى الذين أصابهم فيروس الالتهاب الكبدي الوبائيb سابقًا. إذا حدث ذلك يجب عليك التوقف عن استخدام إنبريل.</p></li>
+<li><p><b>الالتهاب الكبدي الوبائي C:</b> أخبر طبيبك إذا كنت أنت (أو طفلك) تعانيان من الالتهاب الكبدي الفيروسي C. إن طبيبك يمكن أن يرغب في مراقبة العلاج بإنبريل في حالة تفاقم العدوى.</p></li>
 </ul>
-<p><b>Children and adolescents </b></p>
-<p><b>Vaccinations:</b> If possible, children should be up to date with all vaccinations before using Enbrel. Some vaccines, such as oral polio vaccine, should not be given while using Enbrel. Please consult your doctor before you or the child receive any vaccines.</p>
-<p>Enbrel should not normally be used in children with polyarthritis or extended oligoarthritis below the age of 2 years, or in children with enthesitis-related arthritis or psoriatic arthritis below the age of 12 years, or in children with psoriasis below the age of 6 years.</p>
-<p><b>Other medicines and Enbrel</b></p>
-<p>Tell your doctor or pharmacist if you or the child are taking, have recently taken or might take any other medicines (including anakinra, abatacept or sulfasalazine), even those not prescribed by the doctor. You or the child should not use Enbrel with medicines that contain the active substance anakinra or abatacept.</p>
-<p><b>Pregnancy and breast-feeding</b></p>
-<p>Enbrel should only be used during pregnancy if clearly needed. You should consult your doctor if you become pregnant, think you may be pregnant, or are planning to have a baby.</p>
-<p>If you received Enbrel during pregnancy, your baby may have a higher risk of getting an infection. In addition, one study found more birth defects when the mother had received Enbrel in pregnancy, compared with mothers who had not received Enbrel or other similar medicines (TNF‑antagonists), but there was no particular kind of birth defect reported. Another study found no increased risk of birth defects when the mother had received Enbrel in pregnancy. Your doctor will help you to decide whether the benefits of treatment outweigh the potential risk to your baby. It is important that you tell the baby’s doctors and other healthcare professionals about the use of Enbrel during pregnancy before the baby receives any vaccine (for more information see section 2, “Vaccinations”).</p>
-<p>Women using Enbrel should not breast-feed, since Enbrel passes into human breast milk.</p>
-<p><b>Driving and using machines</b></p>
-<p>The use of Enbrel is not expected to affect the ability to drive or use machines.</p>
-<p><b>Enbrel contains sodium</b></p>
-<p>This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is to say essentially ‘sodium free’.</p>
-
+<ul>
+<li><p><b>اضطرابات في الدم:</b> اطلب المشورة الطبية في الحال إذا كنت تعاني أنت أو الطفل من أي علامات أو أعراض مثل الحمى المستمرة أو وجود احتقان في الحلق أو التكدم أو النزيف أو الشحوب. وتلك الأعراض يمكن أن تشير إلى وجود اضطرابات في الدم تهدد الحياة، ويمكن أن يتطلب ذلك إيقاف العلاج بإنبريل.</p></li>
+<li><p><b>اضطرابات الجهاز العصبي والعين:</b> أخبر طبيبك إذا كنت أنت أو كان طفلك يعاني من التصلب المتعدد، التهاب العصب البصري (التهاب أعصاب العين) أو التهاب النخاع الشوكي المستعرض (التهاب الحبل الشوكي). سوف يحدد طبيبك إذا كان إنبريل علاجًا ملائمًا أم لا.</p></li>
+<li><p><b>فشل القلب الاحتقاني:</b> أخبر طبيبك إذا كنت أنت أو طفلك قد سبق أن عانيتما من القصور الاحتقاني للقلب، وذلك بسبب أن إنبريل يحتاج لأن يستخدم بحرص في تلك الظروف.</p></li>
+</ul>
+ 
+<p><b>السرطان:</b> أخبر طبيبك إذا كنت تعاني من أو سبق أن عانيت من أورام لمفاوية(نوع من أنواع سرطان الدم) أو أي نوع آخر من أنواع السرطان قبل إعطائك إنبريل.وقد يكون المرضى الذين يعانون من التهاب المفاصل الروماتويدي الحاد منذ فترة طويلة، معرضين لنسبة خطر أعلى من المتوسطة لحدوث الأورام اللمفية لهم.وقد يتعرض الأطفال والبالغون الذين يتناولون إنبريل لاحتمالات أكبر لظهور الأورام اللمفية أو نوع آخر من أنواع السرطان.هناك بعض الأطفال والمرضى المراهقين الذين تم إعطاؤهم إنبريل أو أدوية أخرى تعمل بنفس طريقة إنبريل قد ظهر عندهم سرطان، بما في ذلك الأنواع غير المعتادة، والتي نتج عنها الوفاة في بعض الأحيان.وهناك بعض المرضى الذين تم إعطاؤهم إنبريل قد ظهر عندهم سرطان الجلد.أخبر طبيبك إذا كنت أنت أو الطفل قد ظهر لديكما أي تغير في شكل الجلد أو أشكال نمو على الجلد.</p>
+ 
+<ul>
+<li><p><b>الجديري المائي:</b> أخبر طبيبك إذا كنت أنت أو الطفل قد تعرضتما للجديري المائي عند استخدام إنبريل. سوف يحدد طبيبك إذا ما كان هناك حاجة لعلاج وقائي للجديري المائي أم لا.</p></li>
+<li><p><b>اللاتكس:</b> غطاء الإبرة لقلم MYCLIC ذاتي الحقن مصنوع من اللاتكس (المطاط الطبيعي الجاف). اتصل بطبيبك قبل استخدام إنبريل إذا كان من سيتعامل مع غطاء الإبرة أو من سيتم إعطاء إنبريل له، شخصًا معروفًا بإصابته أو باحتمال إصابته بفرط التحسس (الحساسية) للاتكس.</p></li>
+<li><p><b>الإسراف في الكحوليات</b>: يجب عدم استخدام إنبريل لعلاج الالتهاب الكبدي المرتبط بإدمان الكحول. برجاء إخبار طبيبك إذا كنت أو طفلك الذي تعتني به قد سبق لك أو له إدمان الكحول.</p></li>
+<li><p><b>ورم ويغنر الحبيبي</b>: لا ينصح باستخدام إنبريل لعلاج ورم ويغنر الحبيبي، وهو مرض التهابي نادر. وإذا كنت أنت أو طفلك تعانيان من ورم ويغنر الحبيبي، تحدث إلى طبيبك.</p></li>
+<li><p><b>الأدوية المضادة لمرض السكر</b>: أخبر طبيبك إذا كنت أنت أو الطفل تعانيان من مرض السكر أو تتناولان أدوية لعلاج مرض السكر. ويمكن لطبيبك أن يقرر إذا كنت أنت أو طفلك تحتاجان لكمية أقل من الأدوية المضادة لمرض السكر بينما يتم تناول إنبريل.</p></li>
+</ul>
+<p><b>الأطفال والمراهقون </b></p>
+<ul>
+<li><p><b>التحصينات:</b> إذا أمكن، يجب أن يتم إعطاء الأطفال كل التطعيمات في مواعيدها قبل استخدام إنبريل. وهناك بعض التطعيمات، مثل تطعيم شلل الأطفال عن طريق الفم، التي يجب عدم إعطائها أثناء استخدام إنبريل. برجاء مراجعة طبيبك قبل أن يتم إعطاؤك أو إعطاء طفلك أي تطعيمات.</p></li>
+</ul>
+<p>ينبغي عدم استخدام إنبريل عادةً في الأطفال المصابين بالتهاب المفاصل المتعددة أو التهاب المفاصل القليلة الموسع تحت عمر سنتين، أو في الأطفال المصابين بالتهاب المفاصل المتعلق بالتهاب الارتكاز أو التهاب المفاصل الصدفي تحت سن 12 عامًا، أو في الأطفال المصابين بالصدفية تحت سن 6 أعوام.</p>
+<p><b>الأدوية الأخرى وإنبريل</b></p>
+<p>أخبر طبيبك أو الصيدلي إذا كان طفلك يتناول أو قد تناول حديثًا أو قد يتناول أي أدوية أخرى (بما في ذلك أناكينرا، أباتاسيبت أو سلفاسالازين)، حتى تلك الأدوية التي لم يصفها الطبيب. يجب ألا تستخدم أنت أو طفلك إنبريل مع أدوية تحتوي على المواد النشطة أناكينرا أو أباتاسيبت.</p>
+<p><b>الحمل والرضاعة</b></p>
+<p>ينبغي عدم استخدام إنبريل أثناء الحمل إلا إذا كانت هناك ضرورة واضحة لذلك. ينبغي أن تستشيري طبيبك إذا أصبحتِ حاملاً أو تعتقدين بأنك قد تكونين حاملًا أو تخططين للحمل.</p>
+<p>إذا تلقيتِ إنبريل أثناء الحمل، فقد يكون هناك خطر أكبر على طفلك في الإصابة بعدوى. وبالإضافة لذلك فقد وجدت إحدى الدراسات المزيد من العيوب الولادية عند تلقي الأم لإنبريل أثناء الحمل، مقارنة بالأمهات الذين لم يتلقين إنبريل أو أدوية أخرى مماثلة (مضادات عامل نخر الورم) ولكن لم يتم الإبلاغ عن نوع معين من العيوب الولادية. ووجدت دراسة أخرى أنه لم يكن هناك خطر مرتفع لحدوث عيوب ولادية عند تلقي الأم لإنبريل أثناء الحمل. سيساعدكِ طبيبكِ في تقرير ما إذا كانت فوائد العلاج تفوق الخطر المحتمل على طفلكِ أم لا. من المهم أن تخبر أطباء الطفل وأخصائيي الرعاية الصحية الآخرين عن استخدام إنبريل أثناء الحمل قبل أن يتلقى الطفل أي لقاح (للمزيد من المعلومات انظر القسم 2 'اللقاحات').</p>
+<p>يجب ألا تقوم السيدات اللاتي يستخدمن إنبريل بالإرضاع، حيث أن إنبريل يمر إلى لبن الثدي البشري.</p>
+<p><b>القيادة واستخدام الآلات</b></p>
+<p>لا يتوقع أن يؤثر استخدام إنبريل على القدرة على القيادة أو استخدام الآلات.</p>
+<p><b>يحتوي إنبريل على الصوديوم</b></p>
+<p>يحتوي هذا الدواء على أقل من 1 مليمول من الصوديوم (23 مجم) لكل وحدة جرعة، أي أنه 'خالٍ من الصوديوم' بشكل أساسي.</p>
   </div>"""   
                     
 * section[=].section[+]
