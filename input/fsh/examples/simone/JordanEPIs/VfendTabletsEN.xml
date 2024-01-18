@@ -38,7 +38,7 @@
 				<author>
 					<reference value="Organization/organization-VfendTabletsEN"/>
 				</author>
-				<title value="Vfend(Voriconazole)50 mg & 200 mg film-coated tablets"/>
+				<title value="Vfend(Voriconazole)50 mg &amp; 200 mg film-coated tablets"/>
 				<section>
 					<title value="PACKAGE LEAFLET"/><!--Title Page-->
 					<text>
@@ -485,6 +485,27 @@
 <p>Italy</p>
 <p></p>
 <p><b>The Leaflet was last revised in May 2022</b></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+<ul>
+<li>Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</li>
+<li>Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</li>
+<li>The doctor and the Pharmacist are experts in medicines, their benefits and risks.</li>
+<li>Do not by yourself interrupt the period of treatment prescribed.</li>
+<li>Do not repeat the same prescription without consulting your doctor.</li>
+</ul>
+<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+								
 
 							</div>
 						</text>
