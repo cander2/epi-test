@@ -46,7 +46,7 @@
 				<section>
 					<title value="PACKAGE LEAFLET"/><!--Title Page-->
 					<text>
-						<status value="additional"/>
+						<status value="generated"/>
 						<div xmlns="http://www.w3.org/1999/xhtml">
 							<p><b>Vfend®</b></p>
               <p>Voriconazole</p>
@@ -81,7 +81,7 @@
 					<section>
 						<title value="1. What VFEND is and what it is used for"/>						
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
               <p>VFEND contains the active substance voriconazole. VFEND is an antifungal medicine. It works by killing or stopping the growth of the fungi that cause infections.</p>
               <p>It is used for the treatment of patients (adults and children over the age of 2) with:</p>
@@ -101,7 +101,7 @@
 					<section>
 						<title value="2. What you need to know before you take VFEND"/>
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
 <p><b>Do not take VFEND</b></p>
 <p>If you are allergic to voriconazole or any of the other ingredients of this medicine (listed in section 6).</p>
@@ -209,7 +209,7 @@
 					<section>
 						<title value="3. How to take VFEND"/>
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
 <p>Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
 <p>Your doctor will determine your dose depending on your weight and the type of infection you have.</p>
@@ -344,7 +344,7 @@
 					<section>
 						<title value="4. Possible side effects"/>
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
 <p>Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
 <p>If any side effects occur, most are likely to be minor and temporary. However, some may be serious and need medical attention.</p>
@@ -451,7 +451,7 @@
 					<section>
 						<title value="5. How to store VFEND"/>
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
 <p>Keep this medicine out of the sight and reach of children.</p>
 <p> Do not use Vfend after the expiry date which is stated on the label. The expiry date refers to the last day of that month.</p>
@@ -465,7 +465,7 @@
 					<section>
 						<title value="6. Contents of the pack and other information"/>
 						<text>
-							<status value="additional"/>
+							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
 <p><b>What VFEND contains </b></p>
 <ul>
