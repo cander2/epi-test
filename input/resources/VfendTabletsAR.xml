@@ -11,7 +11,7 @@
 		<value value="L000VfendTabletsAR"/>
 	</identifier>
 	<type value="document"/>
-	<timestamp value="2021-04"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
 	<entry>
 		<fullUrl value="Composition/composition-VfendTabletsAR"/>
 		<resource>
@@ -22,7 +22,7 @@
 				</meta>
 				<language value="en"/>
 				<version value="1"/>
-				<date value="2021-04"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
 				<status value="final"/>
 				<identifier>
 					<system value="https://leaflet.healthcare/sid/composition"/>
