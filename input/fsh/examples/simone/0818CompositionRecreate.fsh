@@ -40,7 +40,7 @@ Usage: #example
   * code.text = "1. What Talzenna is and what it is used for"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'> 
-<p>0129 update - To be deleted</p>
+0129 update - To be deleted</p>
   </div>""" 
 
 * section[=].section[+] //When you see it like this (x2 sections) it means this is a level 2 heading under the previous section. E.g., 1.1
