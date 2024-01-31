@@ -245,7 +245,7 @@
             </text>
           </section>
           <section>
-            <title cssClass="other-medicines" value="Other medicines and Talzenna" />
+            <title value="Other medicines and Talzenna" />
             <code>
               <coding>
                 <system value="https://www.mhra.gov.uk/" />
@@ -255,7 +255,7 @@
             </code>
             <text>
               <status value="additional" />
-              <div xmlns="http://www.w3.org/1999/xhtml" class="other-medicines">
+              <div xmlns="http://www.w3.org/1999/xhtml">
                 <p>Tell your doctor, pharmacist or nurse if you are taking, have recently taken or
                   might take any other medicines. This includes medicines obtained without a
                   prescription and herbal medicines. This is because Talzenna can affect the way
