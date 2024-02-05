@@ -181,3 +181,17 @@ Usage: #inline
 
   </div>"""   
                     
+* section[=].section[+]
+  * title = "3.	How To Use Genotropin"
+  * code = https://www.jfda.jo/#100000155538
+  * code.text = "3. How to take x"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p><b>Recommended dosage</b></p>
+<p>The dose depends on your size, the condition for which you are being treated and how well growth hormone works for you. Everyone is different. Your doctor will advise you about your individualised dose of Genotropin in milligrams (mg) from either your body weight in kilograms (kg) or your body surface area calculated from your height and weight in square metres (m2), as well as your treatment schedule. Do not change the dosage and treatment schedule without consulting your doctor.</p>
+
+<p>Children with growth hormone deficiency:</p>
+<p>0.025-0.035 mg/kg body weight per day or 0.7-1.0 mg/m2 body surface area per day. Higher doses can be used. When growth hormone deficiency continues into adolescence, Genotropin should be continued until completion of physical development.</p>
+
+
+  </div>""" 
