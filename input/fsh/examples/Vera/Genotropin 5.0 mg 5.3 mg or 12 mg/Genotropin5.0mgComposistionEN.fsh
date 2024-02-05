@@ -1,4 +1,4 @@
-Instance: Genotropin5.0mgComposistionEN
+Instance: Genotropin5mgComposistionEN
 InstanceOf: CompositionUvEpi
 Title: "Composition for Genotropin 5.0/5.3/12 mg powder and solvent - EN Jordanian Package Leaflet"
 Description:  "Composition for Genotropin (Somatropin) 5.0/5.3/12 mg powder and solvent for solution for injection - EN Jordanian Package Leaflet"
@@ -12,9 +12,9 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(Genotropin5.0mgMedicinalProduct) //Medicinal Product
+* subject = Reference(Genotropin5mgMedicinalProduct) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
-* author = Reference(Genotropin5.0mgOrgEN) //Organization
+* author = Reference(Genotropin5mgOrgEN) //Organization
 
 * title = "Jordanian Genotropin 5.0/5.3/12 mg Powder and Solvent EN"
 * attester.mode = http://hl7.org/fhir/composition-attestation-mode#official
