@@ -217,4 +217,37 @@ Usage: #inline
 <p><b>Refer to the instuctions for use before using your medicine.</b></p>
 <p>When using, a pen injection device or reconstitution device, the needle must be screwed on before mixing. A new needle must be used for each injection. Needles must not be re-used.</p>
 
+<ul>
+<li>Preparing the injection:</li>
+</ul>
+<p>You can take your Genotropin out of the refrigerator half an hour before your injection. This lets it warm up slightly and can make your injections more comfortable.</p>
+
+<p>Genotropin in a two-chamber cartridge contains both the growth hormone and the dissolving liquid and it is to be used in a Genotropin device. The growth hormone and the dissolving liquid in the two chamber cartridge can be mixed together using a Genotropin Mixer or by screwing the Genotropin Pen device together.</p>
+
+<p>For the two-chamber cartridge, dissolve the powder by gently tipping it back and forth 5-10 times until the powder is dissolved.</p>
+
+<p>When you are mixing your Genotropin, DO NOT SHAKE the solution. Mix it gently. Shaking the solution could make your growth hormone foam and damage the active substance. Check the solution and do not inject if the solution is cloudy or has particles in it.</p>
+
+<ul>
+<li>Injecting Genotropin:</li>
+</ul>
+<p>Remember to wash your hands and clean your skin first.</p>
+
+<p>Inject your growth hormone at about the same time every day. Bedtime is a good time because it is easy to remember. It is also natural to have a higher level of growth hormone at night.</p>
+
+<p>Most people do their injections into their thigh or their bottom. Do your injection in the place you have been shown by your doctor. Fatty tissue of the skin can shrink at the site of injection. To avoid this, use a slightly different place for your injection each time. This gives your skin and the area under your skin time to recover from one injection before it gets another one in the same place.</p>
+
+<p>Remember to put your Genotropin back in the refrigerator straight after your injection.</p>
+
+<p><b>If you use more Genotropin than you should</b></p>
+<p>If you inject much more than you should, contact your doctor or pharmacist as soon as possible. Your blood sugar level could fall too low and later rise too high. You might feel shaky, sweaty, sleepy or "not yourself", and you might faint.</p>
+
+<p><b>If you forget to use Genotropin</b></p>
+<p>Do not use a double dose to make up for a forgotten dose.</p>
+<p>It is best to use your growth hormone regularly. If you forget to use a dose, have your next injection at the usual time the next day. Keep a note of any missed injections and tell your doctor at your next check-up.</p>
+
+<p><b>If you stop using Genotropin</b></p>
+<p>Ask for advice from your doctor before you stop using Genotropin.</p>
+<p>If you have any further questions on the use of this product, ask your doctor or pharmacist.</p>
+
   </div>""" 
