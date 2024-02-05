@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bundle xmlns="http://hl7.org/fhir">
 	<id value="8da11d29-85ba-4a37-8c13-590ec8a14e5d"/>
-		<meta>
+	<meta>
 		<profile
 			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
 	</meta>
@@ -484,10 +484,7 @@
 										Pfizer Italia
 									</p>
 									<p>
-										S.r.l., via Isonzo 71 – 04100
-									</p>
-									<p>
-										Latina
+										S.r.l., via Isonzo 71 – 04100 Latina
 									</p>
 									<p>
 										Italy.
@@ -496,16 +493,16 @@
 										<b>Manufacturer</b>
 									</p>
 									<p>
-										Pfizer Italia
+										Pfizer Italia S.r.l
 									</p>
 									<p>
-										S.r.l Località Marino del Tronto – 63100
-									</p>
-									<p>
-										Ascoli Piceno (AP) ,
+										Località Marino del Tronto – 63100 Ascoli Piceno (AP) ,
 									</p>
 									<p>
 										Italy.
+									</p>
+									<p>
+										<b>This leaflet was updated in April 2021.</b>
 									</p>
 								</div>
 							</text>
@@ -682,6 +679,14 @@
 				</route>
 				<name>
 					<productName value="Aromasin® (exemestane) 25 mg coated tablets"/>
+					<type>
+						<coding>
+							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
+							<code value="INN"/>
+							<display value="International Non-Proprietary Name"/>
+						</coding>
+						<text value="exemestane"/>
+					</type>
 					<part>
 						<part value="Aromasin"/>
 						<type>

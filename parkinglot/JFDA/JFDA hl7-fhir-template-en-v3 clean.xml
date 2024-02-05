@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bundle xmlns="http://hl7.org/fhir">
 	<id value="bundle-00000000-0000-0000-0000-000000000000"/>
+	<meta>
+		<profile
+			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+	</meta>
 	<language value="en"/>
 	<identifier>
 		<system value="https://leaflet.healthcare/sid/doc"/>
 		<value value="L000"/>
 	</identifier>
 	<type value="document"/>
-	<timestamp value="2021-04"/>
+	<timestamp value="YYYY-MM-DDT00:00:00Z"/>
 	<entry>
 		<fullUrl value="Composition/composition-00000000-0000-0000-0000-000000000000"/>
 		<resource>
@@ -18,7 +22,7 @@
 				</meta>
 				<language value="en"/>
 				<version value="1"/>
-				<date value="2021-04"/>
+				<date value="2YYYY-MM-DDT00:00:00Z"/>
 				<status value="final"/>
 				<identifier>
 					<system value="https://leaflet.healthcare/sid/composition"/>
@@ -43,8 +47,7 @@
 					<title value="PACKAGE LEAFLET"/><!--Title Page-->
 					<text>
 						<status value="additional"/>
-						<div xmlns="http://www.w3.org/1999/xhtml">
-							
+						<div xmlns="http://www.w3.org/1999/xhtml">							
 						</div>
 					</text>
 					<section>
@@ -52,7 +55,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 					</section>
@@ -61,7 +63,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 						<section>
@@ -69,7 +70,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -78,7 +78,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -87,7 +86,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -96,7 +94,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -105,7 +102,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -114,7 +110,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -123,7 +118,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -132,7 +126,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -142,7 +135,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 						<section>
@@ -150,7 +142,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -159,7 +150,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -168,7 +158,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -177,7 +166,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -187,7 +175,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 						<section>
@@ -195,7 +182,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -204,7 +190,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -213,7 +198,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -222,7 +206,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -231,7 +214,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -240,7 +222,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -249,7 +230,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -268,7 +248,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 					</section>
@@ -277,7 +256,6 @@
 						<text>
 							<status value="additional"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-
 							</div>
 						</text>
 						<section>
@@ -285,7 +263,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -294,7 +271,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -303,7 +279,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -312,7 +287,6 @@
 							<text>
 								<status value="additional"/>
 								<div xmlns="http://www.w3.org/1999/xhtml">
-
 								</div>
 							</text>
 						</section>
@@ -334,7 +308,6 @@
 					<system value="https://leaflet.healthcare/sid/organization"/>
 					<value value="U001"/>
 				</identifier>
-
 				<active value="true"/>
 				<type>
 					<coding>
@@ -375,35 +348,25 @@
 					<coding>
 						<system value="http://hl7.org/fhir/medicinal-product-type"/>
 						<code value="MedicinalProduct"/>
-
 						<display value="Medicinal Product"/>
-
 					</coding>
 					<text value=""/>
 				</type>
-
 				<domain>
 					<coding>
 						<system value="http://hl7.org/fhir/medicinal-product-domain"/>
 						<code value="Human"/>
-
 						<display value="Human use"/>
-
 					</coding>
 				</domain>
-
 				<status>
 					<coding>
 						<system value="http://hl7.org/fhir/publication-status"/>
 						<code value="active"/>
-
 						<display value="active"/>
-
 					</coding>
 				</status>
-
 				<statusDate value="2018-06-23T08:38:00+02:00"/>
-
 				<legalStatusOfSupply>
 					<coding>
 						<system value="http://hl7.org/fhir/legal-status-of-supply"/>
@@ -411,52 +374,39 @@
 						<display value="Medicinal product subject to medical prescription"/>
 					</coding>
 				</legalStatusOfSupply>
-
 				<classification>
 					<coding>
 						<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
 						<code value=""/>
-
 						<display value=""/>
-
 					</coding>
 				</classification>
-
 				<route>
 					<coding>
 						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
 						<code value=" "/>
-
 						<display value=""/>
-
 					</coding>
 				</route>
-
 				<combinedPharmaceuticalDoseForm>
 					<coding>
 						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/doseForm"/>
 						<code value=" "/>
-
 						<display value=""/>
-
 					</coding>
 				</combinedPharmaceuticalDoseForm>
-
 				<name>
-
 					<productName value=""/>
 					<type>
 						<coding>
 							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
 							<code value="INN"/>
-
 							<display value=""/>
 						</coding>
 						<text value=""/>
 					</type>
 					<part>
 						<part value=""/>
-
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
@@ -468,7 +418,6 @@
 					</part>
 					<part>
 						<part value=""/>
-
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
