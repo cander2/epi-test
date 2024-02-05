@@ -341,3 +341,25 @@ Usage: #inline
 
   </div>"""      
 
+* section[=].section[+]
+  * title = "5.	How To Store Genotropin"
+  * code = https://www.jfda.jo/#100000155538
+  * code.text = "5. How to store x"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Keep out of the sight and reach of children.</p>
+<p>Do not use Genotropin after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.</p>
+<p><u>Before reconstitution:</u></p>
+<p><b>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></b></p>
+<p>Store in a refrigerator (2°C – 8°C). Keep the two-chamber cartridge in the outer carton in order to protect from light.</p>
+<p>Before opening, the product may be taken out of the refrigerator, without being replaced, for a maximum period of 1 month at a temperature not above 25°C but after this it must be discarded.</p>
+
+<p><u>After reconstitution:</u></p>
+<p><b>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></b></p>
+<p>Store in a refrigerator (2°C – 8°C) for up to 4 weeks. Do not freeze. Keep the two-chamber cartridge in the Pen box in order to protect from light.</p>
+<p>Do not use this medicine if you notice particles or if the solution is not clear.</p>
+<p>Do not freeze or expose Genotropin to frost. If it freezes, do not use it.</p>
+<p>Never throw away needles or partly used or empty cartridges with your ordinary rubbish. When you have finished with a needle, you must discard it carefully so that no-one will be able to use it or prick themselves on it. You can get a special “sharps” bin from your hospital or growth clinic.</p>
+<p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
+
+  </div>"""      
