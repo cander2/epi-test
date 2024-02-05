@@ -237,7 +237,7 @@ Usage: #inline
 
 <p>Most people do their injections into their thigh or their bottom. Do your injection in the place you have been shown by your doctor. Fatty tissue of the skin can shrink at the site of injection. To avoid this, use a slightly different place for your injection each time. This gives your skin and the area under your skin time to recover from one injection before it gets another one in the same place.<p>
 
-<p>Remember to put your Genotropin back in the refrigerator straight after your injection.<p>
+<p>Remember to put your Genotropin back in the refrigerator straight after your injection.</p>
 
 <p><b>If you use more Genotropin than you should</b></p>
 <p>	If you inject much more than you should, contact your doctor or pharmacist as soon as possible. Your blood sugar level could fall too low and later rise too high. You might feel shaky, sweaty, sleepy or "not yourself", and you might faint.</p>
