@@ -205,4 +205,16 @@ Usage: #inline
 <p>Children born smaller or lighter than expected and with growth disturbance:</p>
 <p>0.035 mg/kg body weight per day or 1.0 mg/m2 body surface area per day). It is important to continue treatment until final height is reached. Treatment should be discontinued after the first year if you are not responding or if you have reached your final height and stopped growing.</p>
 
+<p>Adults with growth hormone deficiency:</p>
+<p>If you continue Genotropin after treatment during childhood you should start with 0.2-0.5 mg per day. This dosage should be gradually increased or decreased according to blood test results as well as clinical response and side effects.</p>
+<p>If your growth hormone deficiency starts during adult life you should start with 0.15-0.3 mg per day. This dosage should be gradually increased according to blood test results as well as clinical response and side effects. The daily maintenance dose seldom exceeds 1.0 mg per day. Women may require higher doses than men. Dosage should be monitored every 6 months. Persons above 60 years should start with a dose of 0.1-0.2 mg per day which should be slowly increased according to individual requirements. The minimum effective dose should be used. The maintenance dose seldom exceeds 0.5 mg per day. Follow the instructions given to you by your doctor.</p>
+
+<p><b>Injecting Genotropin</b></p>
+<p>Genotropin is intended for subcutaneous use. This means that it is injected through a short injection needle into the fatty tissue just under your skin. Your doctor should have already shown you how to use Genotropin. Always inject Genotropin exactly as your doctor has told you. You should check with your doctor or pharmacist if you are not sure.</p>
+
+<p>Genotropin 5.0 mg, 5.3mg and 12mg</p>
+<p><b>The instructions for using the Genotropin two-chamber cartridge with the Genotropin Pen or Genotropin Mixer are provided with your devices.</b></p>
+<p><b>Refer to the instuctions for use before using your medicine.</b></p>
+<p>When using, a pen injection device or reconstitution device, the needle must be screwed on before mixing. A new needle must be used for each injection. Needles must not be re-used.</p>
+
   </div>""" 
