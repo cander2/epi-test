@@ -251,3 +251,93 @@ Usage: #inline
 <p>If you have any further questions on the use of this product, ask your doctor or pharmacist.</p>
 
   </div>""" 
+
+* section[=].section[+]
+  * title = "4.	Possible Side Effects"
+  * code = https://www.jfda.jo/#100000155538
+  * code.text = "4. Possible side effects"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>Like all medicines, Genotropin can cause side effects, although not everybody gets them. The very common and common side effects in adults may start within the first months of treatment and may either stop spontaneously or if your dose is reduced.</p>
+<p><b>Very common side effects (may affect more than 1 in 10 people) include:</b></p>
+<p><b>In adults:</b></p>
+<ul>
+  <li>Joint pain.</li>
+  <li>Water retention (which shows as puffy fingers or swollen ankles).</li>
+</ul>
+
+<p><b>Common side effects (may affect up to 1 in 10 people) include:</b></p>
+
+<p><b>In children:</b></p>
+<ul>
+  <li>Temporary reddening, itchiness or pain at the injection site.</li>
+  <li>Joint pain.</li>
+  <li>Rash.</li>
+  <li>Raised itchy bumps on the skin.</li>
+</ul>
+
+<p><b>In adults:</b></p>
+<ul>
+  <li>Numbness / tingling.</li>
+  <li>Stiffness in the arms and legs, muscle pain.</li>
+  <li>Pain or burning sensation in the hands or underarms (known as Carpal Tunnel Syndrome).</li>
+</ul>
+
+<li><b>Uncommon side effects (may affect up to 1 in 100 people) include:</b></li>
+
+<p><b>In children:</b></p>
+<ul>
+  <li>Water retention (which shows as puffy fingers or swollen ankles, for a short time at the start of treatment).</li>
+  <li>Itching.</li>
+  <li>Breast enlargement (gynaecomastia).</li>
+</ul>
+
+<p><b>In adults:</b></p>
+<ul>
+  <li>Breast enlargement (gynaecomastia).</li>
+</ul>
+
+<p><b>Rare side effects (may affect up to 1 in 1,000 people) include:</b></p>
+
+<p><b>In children:</b></p>
+<ul>
+  <li>Numbness / tingling.</li>
+  <li>Leukaemia (This has been reported in a small number of growth hormone deficiency patients, some of whom have been treated with somatropin. However, there is no evidence that leukaemia incidence is increased in growth hormone recipients without predisposing factors.).</li>
+  <li>Increased intracranial pressure (which causes symptoms such as strong headache, visual disturbances or vomiting).</li>
+  <li>Muscle pain.</li>
+</ul>
+
+<p><b>Not known: frequency cannot be estimated from the available data</b></p>
+<ul>
+  <li>Type 2 diabetes.</li>
+  <li>A decrease in the levels of the hormone Cortisol in your blood.</li>
+  <li>Facial swelling.</li>
+</ul>
+
+<p><b>In children:</b></p>
+<ul>
+  <li>Stiffness in the arms and legs.</li>
+</ul>
+
+<p><b>In adults:</b></p>
+<ul>
+  <li>Increased intracranial pressure (which causes symptoms such as strong headache, visual disturbances or vomiting).</li>
+  <li>Reddening, itchiness or pain at the injection site.</li>
+  <li>Rash.</li>
+  <li>Itching.</li>
+  <li>Raised itchy bumps on the skin.</li>
+</ul>
+
+<p>Formation of antibodies to the injected growth hormone but these do not seem to stop the growth hormone from working.</p>
+<p>The skin around the injection area can get uneven or lumpy, but this should not happen if you inject in a different place each time.</p>
+<p>A very rare side effect that can occur because of the preservative metacresol is inflammation of the muscles near the injection site. If your doctor confirms that you have developed this, you should use a Genotropin product without metacresol.</p>
+<p>There have been rare cases of sudden death in patients with Prader-Willi syndrome. However, no link has been made between these cases and treatment with Genotropin.</p>
+<p>Slipped capital femoral epiphysis and Legg-Calve-Perthes disease may be considered by your doctor if discomfort or pain in the hip or knee is experienced whilst being treated with Genotropin.</p>
+<p>Other possible side effects related to your treatment with growth hormone may include the following.</p>
+<p>You (or your child) may experience a high blood sugar or reduced levels of thyroid hormone. This can be tested by your doctor and if necessary your doctor will prescribe the adequate treatment. Rarely, an inflammation of the pancreas has been reported in patients treated with growth hormone.</p>
+
+<p><b>Reporting of side effects</b></p>
+<p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. By reporting side effects you can help provide more information on the safety of this medicine.</p>
+
+  </div>"""      
+
