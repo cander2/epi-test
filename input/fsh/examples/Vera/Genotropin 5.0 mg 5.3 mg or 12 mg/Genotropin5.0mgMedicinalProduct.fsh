@@ -46,7 +46,7 @@ Usage: #example
     * type.text = "Strength part"
   
   * part[+]
-    * part = "powder and solvent for solution for injection
+    * part = "powder and solvent for solution for injection"
     * type = $spor-productNamePartType-cs#220000000005
     * type.text = "Pharmaceutical dose form part"
   
