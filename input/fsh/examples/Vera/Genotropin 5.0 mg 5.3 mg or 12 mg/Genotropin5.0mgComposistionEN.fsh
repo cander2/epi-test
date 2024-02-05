@@ -193,5 +193,16 @@ Usage: #inline
 <p>Children with growth hormone deficiency:</p>
 <p>0.025-0.035 mg/kg body weight per day or 0.7-1.0 mg/m2 body surface area per day. Higher doses can be used. When growth hormone deficiency continues into adolescence, Genotropin should be continued until completion of physical development.</p>
 
+<p>Children with Turner syndrome:</p>
+<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day). Higher doses may be necessary if the rate of growth is too low. Dosage adjustment may be necessary after 6 months of treatment.</p>
+
+<p>Children with chronic renal (kidney) insufficiency:</p>
+<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day.</p>
+
+<p>Children with Prader-Willi syndrome:</p>
+<p>0.035 mg/kg body weight per day or 1.0 mg/m2 body surface area per day. The daily dosage should not exceed 2.7 mg. Treatment should not be used in children who have almost stopped growing after puberty.</p>
+
+<p>Children born smaller or lighter than expected and with growth disturbance:</p>
+<p>0.035 mg/kg body weight per day or 1.0 mg/m2 body surface area per day). It is important to continue treatment until final height is reached. Treatment should be discontinued after the first year if you are not responding or if you have reached your final height and stopped growing.</p>
 
   </div>""" 
