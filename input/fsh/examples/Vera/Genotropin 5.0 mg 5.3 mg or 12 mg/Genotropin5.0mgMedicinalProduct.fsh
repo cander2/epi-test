@@ -34,16 +34,6 @@ Usage: #example
     * part = "5.0 mg"
     * type = $spor-productNamePartType-cs#220000000004
     * type.text = "Strength part"
-
-    * part[+]
-    * part = "5.3 mg"
-    * type = $spor-productNamePartType-cs#220000000004
-    * type.text = "Strength part"
-
-    * part[+]
-    * part = "12 mg"
-    * type = $spor-productNamePartType-cs#220000000004
-    * type.text = "Strength part"
   
   * part[+]
     * part = "powder and solvent for solution for injection"
