@@ -405,7 +405,7 @@ Usage: #inline
 <td>
 <p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
 <p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
-<p>-	Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
+<p>-	Follow strictly the doctor's prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
 <p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
 <p>-	Do not by yourself interrupt the period of treatment prescribed.</p>
 <p>- Do not repeat the same prescription without consulting your doctor.</p>
