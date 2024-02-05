@@ -240,7 +240,7 @@ Usage: #inline
 <p>Remember to put your Genotropin back in the refrigerator straight after your injection.<p>
 
 <p><b>If you use more Genotropin than you should</b></p>
-<p>	If you inject much more than you should, contact your doctor or pharmacist as soon as possible. Your blood sugar level could fall too low and later rise too high. You might feel shaky, sweaty, sleepy or “not yourself”, and you might faint.</p>
+<p>	If you inject much more than you should, contact your doctor or pharmacist as soon as possible. Your blood sugar level could fall too low and later rise too high. You might feel shaky, sweaty, sleepy or "not yourself", and you might faint.</p>
 
 <p><b>If you forget to use Genotropin</b></p>
 <p>Do not use a double dose to make up for a forgotten dose.</p>
