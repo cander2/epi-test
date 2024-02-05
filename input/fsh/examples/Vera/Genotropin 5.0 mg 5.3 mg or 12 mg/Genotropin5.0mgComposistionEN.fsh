@@ -363,3 +363,58 @@ Usage: #inline
 <p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
 
   </div>"""      
+
+* section[=].section[+]
+  * title = "6. Contents of the pack and other information"
+  * code = https://www.jfda.jo/#100000155538
+  * code.text = "6. Contents of the pack and other information"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+<p><b>What Genotropin contains</b></p>
+<ul>
+  <li>The active substance is somatropin*.</li>
+</ul>
+  <p><i>Genotropin 5mg, 5.3 mg and 12 mg:</i></p>
+<ul>
+  <li>One cartridge contains 5.0 mg, 5.3 mg or 12 mg of somatropin*.</li>
+  <li>After reconstitution the concentration of somatropin* is 5.0 mg, 5.3 mg or 12 mg per ml.</li>
+  <li>The other ingredients in the powder are: glycine (E640), mannitol (E421), sodium dihydrogen phosphate anhydrous (E339), and disodium phosphate anhydrous (E339).</li>
+  <li>The ingredients in the solvent are: water for injections, mannitol (E421) and metacresol.</li>
+
+</ul>
+<p>* Produced in <i>Escherichia coli</i> cells by recombinant DNA technology</p>
+
+<p><b>What Genotropin looks like and contents of the pack</b></p>
+<p>Genotropin <b>5mg, 5.3 mg and 12 mg:</b></p>
+<p>is a powder and solvent for solution for injection, in a two-chamber cartridge containing the powder in one section and the solvent in the other (5 mg/ml, 5.3 mg/ml or 12 mg/ml). The cartridge may be contained in a pre-filled pen. Pack size of 1 or 5 pre-filled pen(s), or 1 or 5 or 20 cartridge(s).</p>
+<p>Not all strengths, pack sizes or mixing devices may be marketed.</p>
+<p>The powder is white and the solvent is clear.</p>
+<p>You can use the cartridges in a specific pen injection device for Genotropin. Genotropin cartridges are colour coded and must be used with the matching colour coded Genotropin Pen to give the correct dose: The Genotropin 5.0 mg cartridge (green) must be used with the Genotropin Pen 5 (green). The Genotropin 5.3 mg cartridge (blue) must be used with the Genotropin Pen 5.3 (blue). The Genotropin 12 mg cartridge (purple) must be used with the Genotropin Pen 12 (purple).</p>
+<p>The instructions for use of the device are enclosed in the device package. You should ask your doctor for an injection or reconstitution device if you do not already have one.</p>
+<p><b>General classification for supply:</b> by medical prescription.</p>
+<p><b>Marketing Authorisation Holder:</b></p>
+<p>Pfizer SA, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium</p>
+<p><b>Manufactured, Primary & Secondary Packaged and Released by:</b></p>
+<p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
+<p><b>Date of revision of the text</b></p>
+<p>October 2021</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+<p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
+<p>- Follow strictly the doctor's prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
+<p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
+<p>- Do not by yourself interrupt the period of treatment prescribed.</p>
+<p>- Do not repeat the same prescription without consulting your doctor.</p>
+<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+  </div>"""
