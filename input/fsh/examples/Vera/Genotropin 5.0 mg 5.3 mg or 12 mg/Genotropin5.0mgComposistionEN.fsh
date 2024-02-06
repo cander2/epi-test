@@ -194,10 +194,10 @@ Usage: #inline
 <p>0.025-0.035 mg/kg body weight per day or 0.7-1.0 mg/m2 body surface area per day. Higher doses can be used. When growth hormone deficiency continues into adolescence, Genotropin should be continued until completion of physical development.</p>
 
 <p>Children with Turner syndrome:</p>
-<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day). Higher doses may be necessary if the rate of growth is too low. Dosage adjustment may be necessary after 6 months of treatment.</p>
+<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day.</p>
 
 <p>Children with chronic renal (kidney) insufficiency:</p>
-<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day.</p>
+<p>0.045-0.050 mg/kg body weight per day or 1.4 mg/m2 body surface area per day). Higher doses may be necessary if the rate of growth is too low. Dosage adjustment may be necessary after 6 months of treatment.</p>
 
 <p>Children with Prader-Willi syndrome:</p>
 <p>0.035 mg/kg body weight per day or 1.0 mg/m2 body surface area per day. The daily dosage should not exceed 2.7 mg. Treatment should not be used in children who have almost stopped growing after puberty.</p>
@@ -350,12 +350,12 @@ Usage: #inline
 <p>Keep out of the sight and reach of children.</p>
 <p>Do not use Genotropin after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.</p>
 <p><u>Before reconstitution:</u></p>
-<p><b>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></b></p>
+<p><b><u>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></u></b></p>
 <p>Store in a refrigerator (2°C – 8°C). Keep the two-chamber cartridge in the outer carton in order to protect from light.</p>
 <p>Before opening, the product may be taken out of the refrigerator, without being replaced, for a maximum period of 1 month at a temperature not above 25°C but after this it must be discarded.</p>
 
 <p><u>After reconstitution:</u></p>
-<p><b>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></b></p>
+<p><b><u>For Genotropin <i>5mg, 5.3 mg and 12 mg:</i></u></b></p>
 <p>Store in a refrigerator (2°C – 8°C) for up to 4 weeks. Do not freeze. Keep the two-chamber cartridge in the Pen box in order to protect from light.</p>
 <p>Do not use this medicine if you notice particles or if the solution is not clear.</p>
 <p>Do not freeze or expose Genotropin to frost. If it freezes, do not use it.</p>
