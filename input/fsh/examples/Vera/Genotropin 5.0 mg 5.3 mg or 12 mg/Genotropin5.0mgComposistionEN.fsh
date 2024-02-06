@@ -390,6 +390,8 @@ Usage: #inline
 <p>Not all strengths, pack sizes or mixing devices may be marketed.</p>
 <p>The powder is white and the solvent is clear.</p>
 <p>You can use the cartridges in a specific pen injection device for Genotropin. Genotropin cartridges are colour coded and must be used with the matching colour coded Genotropin Pen to give the correct dose: The Genotropin 5.0 mg cartridge (green) must be used with the Genotropin Pen 5 (green). The Genotropin 5.3 mg cartridge (blue) must be used with the Genotropin Pen 5.3 (blue). The Genotropin 12 mg cartridge (purple) must be used with the Genotropin Pen 12 (purple).</p>
+<p>The instructions for use of the device are enclosed in the device package. You should ask your doctor for an injection or reconstitution device if you do not already have one.</p>
+<p><b>General classification for supply:</b> by medical prescription.</p>
 
 
   </div>"""
