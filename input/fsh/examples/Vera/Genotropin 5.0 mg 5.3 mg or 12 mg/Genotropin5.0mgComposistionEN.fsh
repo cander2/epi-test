@@ -399,6 +399,23 @@ Usage: #inline
 <p><b>Date of revision of the text</b></p>
 <p>October 2021</p>
 
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+<p>- Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</p>
+<p>- Follow strictly the doctor's prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</p>
+<p>- The doctor and the Pharmacist are experts in medicines, their benefits and risks.</p>
+<p>- Do not by yourself interrupt the period of treatment prescribed.</p>
+<p>- Do not repeat the same prescription without consulting your doctor.</p>
+<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b> Union of Arabic Pharmacists</b></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
   </div>"""
