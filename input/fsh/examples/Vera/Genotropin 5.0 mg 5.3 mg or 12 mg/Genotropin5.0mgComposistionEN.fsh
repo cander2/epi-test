@@ -394,6 +394,11 @@ Usage: #inline
 <p><b>General classification for supply:</b> by medical prescription.</p>
 <p><b>Marketing Authorisation Holder:</b></p>
 <p>Pfizer SA, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium</p>
+<p><b>Manufactured, Primary &amp Secondary Packaged and Released by:</b></p>
+<p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
+<p><b>Date of revision of the text</b></p>
+<p>October 2021</p>
+
 
 
   </div>"""
