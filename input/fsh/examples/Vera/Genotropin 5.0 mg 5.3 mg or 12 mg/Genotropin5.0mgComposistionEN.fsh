@@ -392,6 +392,12 @@ Usage: #inline
 <p>You can use the cartridges in a specific pen injection device for Genotropin. Genotropin cartridges are colour coded and must be used with the matching colour coded Genotropin Pen to give the correct dose: The Genotropin 5.0 mg cartridge (green) must be used with the Genotropin Pen 5 (green). The Genotropin 5.3 mg cartridge (blue) must be used with the Genotropin Pen 5.3 (blue). The Genotropin 12 mg cartridge (purple) must be used with the Genotropin Pen 12 (purple).</p>
 <p>The instructions for use of the device are enclosed in the device package. You should ask your doctor for an injection or reconstitution device if you do not already have one.</p>
 <p><b>General classification for supply:</b> by medical prescription.</p>
+<p><b>Marketing Authorisation Holder:</b></p>
+<p>Pfizer SA, Boulevard de la Plaine 17, 1050 Bruxelles, Belgium</p>
+<p><b>Manufactured, Primary & Secondary Packaged and Released by:</b></p>
+<p>Pfizer Manufacturing Belgium NV, Rijksweg 12, 2870 Puurs, Belgium</p>
+<p><b>Date of revision of the text</b></p>
+<p>October 2021</p>
 
 
   </div>"""
