@@ -92,7 +92,7 @@
 								<p>If you have any further questions, ask your doctor or pharmacist.</p>
 								<p>This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</p>
 								<p>If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.</p>
-								<p>What is in this leaflet</p>
+								<p><b>What is in this leaflet</b></p>
 								<ol>
 									<li>What Aromasin is and what it is used for</li>
 									<li>What you need to know before you take Aromasin</li>
@@ -105,7 +105,7 @@
 						</text>
 					</section>
 					<section>
-						<title value="1. What X is and what it is used for"/>
+						<title value="1. What Aromasin is and what it is used for"/>
 						<text>
 							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
@@ -120,7 +120,7 @@
 						</text>
 					</section>
 					<section>
-						<title value="2. What you need to know before you take use X"/>
+						<title value="2. What you need to know before you take Aromasin"/>
 						<text>
 							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml"/>
@@ -260,8 +260,9 @@
 										Always take this medicine exactly as your doctor has told you. Check with your doctor if you are not sure.
 									</p>
 									<p>
-										Aromasin tablets should be taken by mouth after a meal at approximately the same time each day. Your doctor will tell you how to take Aromasin and for how long. The recommended dose is one 25 mg tablet daily.
+										Aromasin tablets should be taken by mouth after a meal at approximately the same time each day. Your doctor will tell you how to take Aromasin and for how long. 
 									</p>
+									<p>The recommended dose is one 25 mg tablet daily.</p>
 									<p>
 										If you need to go to the hospital whilst taking Aromasin, let the medical staff know what medication you are taking.
 									</p>
@@ -392,19 +393,16 @@
 									<li>Drowsiness</li>
 									<li>Inflammation of the liver</li>
 									<li>Inflammation of the bile ducts of the liver which cause yellowing of the skin</li>
-									<li>Not known frequency cannot be estimated from the available data</li>
-								</ul>
-
+								</ul>								
 								<p>
-									<b>known frequency cannot be estimated from the available data</b>
+									<b>Not known frequency cannot be estimated from the available data</b>
 								</p>
-
 								<ul>
 									<li>
 										Low level of certain white blood cells in the blood
 									</li>
 								</ul>
-								<p>    Changes in the amount of certain blood cells (lymphocytes) and platelets circulating in your blood, especially in patients with a pre-existing lymphopenia (reduced lymphocytes in the blood) may also be seen.</p>
+								<p>Changes in the amount of certain blood cells (lymphocytes) and platelets circulating in your blood, especially in patients with a pre-existing lymphopenia (reduced lymphocytes in the blood) may also be seen.</p>
 							</div>
 						</text>
 						<section>
@@ -420,7 +418,7 @@
 						</section>
 					</section>
 					<section>
-						<title value="5. How to store X"/>
+						<title value="5. How to store Aromasin"/>
 						<text>
 							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
@@ -481,10 +479,7 @@
 										<b>Marketing Authorisation Holder</b>
 									</p>
 									<p>
-										Pfizer Italia
-									</p>
-									<p>
-										S.r.l., via Isonzo 71 – 04100 Latina
+										Pfizer Italia S.r.l., via Isonzo 71 – 04100 Latina
 									</p>
 									<p>
 										Italy.
@@ -679,54 +674,6 @@
 				</route>
 				<name>
 					<productName value="Aromasin® (exemestane) 25 mg coated tablets"/>
-					<type>
-						<coding>
-							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
-							<code value="INN"/>
-							<display value="International Non-Proprietary Name"/>
-						</coding>
-						<text value="exemestane"/>
-					</type>
-					<part>
-						<part value="Aromasin"/>
-						<type>
-							<coding>
-								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
-								<code value="InventedNamePart"/>
-								<display value="Invented Name Part"/>
-							</coding>							
-						</type>
-					</part>
-					<part>
-						<part value="exemestane"/>
-						<type>
-							<coding>
-								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
-								<code value="ScientificNamePart"/>
-								<display value="Scientific Name Part"/>
-							</coding>							
-						</type>
-					</part>
-					<part>
-						<part value="25 mg"/>
-						<type>
-							<coding>
-								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
-								<code value="StrengthPart"/>
-								<display value="Strength Part"/>
-							</coding>							
-						</type>
-					</part>
-					<part>
-						<part value="Coated tablet"/>
-						<type>
-							<coding>
-								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
-								<code value="DoseFormPart"/>
-								<display value="Pharmaceutical dose form part"/>
-							</coding>							
-						</type>
-					</part>
 					<usage>
 						<country>
 							<coding>
