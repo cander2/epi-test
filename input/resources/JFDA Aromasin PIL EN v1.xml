@@ -2,6 +2,8 @@
 <Bundle xmlns="http://hl7.org/fhir">
 	<id value="8da11d29-85ba-4a37-8c13-590ec8a14e5d"/>
 	<meta>
+		<versionId value="1"/>
+		<lastUpdated value="2021-04-01T00:00:00.000Z"/>
 		<profile
 			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
 	</meta>
