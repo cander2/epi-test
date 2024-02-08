@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="" />
+  <meta>
+    <versionId value=""/>
+    <lastUpdated value="" />
+    <profile
+      value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
+  </meta>
+  <language value="en" /><!--ISO two letter country code-->
+  <identifier>
+    <system value="" />
+    <value value="" />
+  </identifier>
+  <type value="document" />
+  <timestamp value="" /><!--use this date format YYYY-MM-DDT00:00:00.000Z-->
+  <entry>
+    <fullUrl value="Composition/" /><!--add composition resource id after Composition/-->
+    <resource>
+      <Composition>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
+        </meta>
+        <language value="en" />
+        <identifier>
+          <system value="" />
+          <value value="0d69fdcb-33cf-407f-8209-a6529856ab4f" /><!--replace all UUIDS-->
+        </identifier>
+        <status value="final" />
+        <type>
+          <coding>
+            <system value="" />
+            <code value="100000155538" />
+          </coding>
+          <text value="Package Leaflet" />
+        </type>
+        <subject>
+          <reference value="MedicinalProductDefinition/" /><!--add resource id after /-->
+        </subject>
+        <date value="" />
+        <author>
+          <reference value="Organization/" /><!--add resource id after /-->
+        </author>
+        <title value="" />
+        <section>
+          <title value="Package leaflet: Information for the patient" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="Package leaflet: Information for the patient" />
+          </code>
+          <text>
+            <status value="additional" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <!--add HTML text here-->
+            </div>
+          </text>
+          <section>
+            <title value="What is in this leaflet" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" /><!--Change codes to suit region requirements or default to reference market codes like EMA or FDA-->
+              </coding>
+              <text value="What is in this leaflet" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <ol>
+                  <li>What Talzenna is and what it is used for</li>
+                  <li>What you need to know before you take Talzenna</li>
+                  <li>How to take Talzenna</li>
+                  <li>Possible side effects</li>
+                  <li>How to store Talzenna</li>
+                  <li>Contents of the pack and other information</li>
+                </ol>
+              </div>
+            </text>
+          </section>
+        </section>
+        <section>
+          <title value="1. What x is and what it is used for" /><!--Replace x-->
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="1. What X is and what it is used for" /><!--Do not modify the text within the code element. Only change in the title element-->
+          </code>
+          <text>
+            <status value="additional" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+            </div>
+          </text>
+        </section>
+        <section>
+          <title value="2. What you need to know before you take x" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="2. What you need to know before you take X" />
+          </code>
+          <section>
+            <title value="Do not take x" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Do not &amp;lt;take&amp;gt;; &amp;lt;use&amp;gt; X" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Warnings and precautions" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Warnings and precautions" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Children and adolescents" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Children and adolescents" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Other medicines and Talzenna" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Other medicines and Talzenna" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="x with food and drink" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text
+                value="X with &amp;lt;food&amp;gt; &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; &amp;lt;drink&amp;gt; &amp;lt;and&amp;gt; &amp;lt;alcohol&amp;gt;" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Pregnancy" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text
+                value="Pregnancy &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; breast-feeding &amp;lt;and fertility&amp;gt;" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Breast-feeding" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="200000029813" />
+              </coding>
+              <text value="Breast-feeding" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Fertility" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="200000029814" />
+              </coding>
+              <text value="Fertility" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Driving and using machines" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Driving and using machines" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+        </section>
+        <section>
+          <title value="3. How to take Talzenna" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="3. How to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
+          </code>
+          <text>
+            <status value="additional" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+            </div>
+          </text>
+          <section>
+            <title value="If you take more Talzenna than you should" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="If you &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; more X than you should" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="If you forget to take x" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="If you forget to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="If you stop taking x" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="If you stop &amp;lt;taking&amp;gt; &amp;lt;using&amp;gt; X" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+        </section>
+        <section>
+          <title value="4. Possible side effects" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="4. Possible side effects" />
+          </code>
+          <text>
+            <status value="additional" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+            </div>
+          </text>
+          <section>
+            <title value="Reporting of side effects" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Reporting of side effects" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+        </section>
+        <section>
+          <title value="5. How to store x" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="5. How to store X" />
+          </code>
+          <text>
+            <status value="additional" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+            </div>
+          </text>
+        </section>
+        <section>
+          <title value="6. Contents of the pack and other information" />
+          <code>
+            <coding>
+              <system value="" />
+              <code value="100000155538" />
+            </coding>
+            <text value="6. Contents of the pack and other information" />
+          </code>
+          <section>
+            <title value="What x contains" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="What X contains" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="What x looks like and contents of the pack" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="What X looks like and contents of the pack" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="Marketing Authorization Holder and Manufacturer" />
+            <code>
+              <coding>
+                <system value="" />
+                <code value="100000155538" />
+              </coding>
+              <text value="Marketing Authorization Holder and Manufacturer" />
+            </code>
+            <text>
+              <status value="additional" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+<!--add HTML text here-->
+              </div>
+            </text>
+          </section>
+        </section>
+      </Composition>
+    </resource>
+  </entry>
+  <entry><!--active ingredient-->
+    <fullUrl value="Ingredient/" /><!--add resource id after / -->
+    <resource>
+      <Ingredient>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="" /><!--add GSRS substance code here-->
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/" /><!--add reference id for manufactured item-->
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072072" />
+            <display value="Active" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <manufacturer>
+          <manufacturer>
+            <reference value="Organization/" /><!--add resource id after / -->
+          </manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="" /><!--add GSRS substance code here-->
+                <display value="" /><!--add substance name here-->
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="" />
+              <unit value="" />
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+                <code value="ACTIB" />
+              </coding>
+              <text value="active ingredient - basis of strength" />
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry><!--excipient ingredient-->
+    <fullUrl value="Ingredient/" />
+    <resource>
+      <Ingredient>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/" /><!--add reference id for manufactured item-->
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <manufacturer>
+          <manufacturer>
+            <reference value="Organization/" /><!--add reference id for ingredient manufacturer-->
+          </manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="" />
+                <display value="" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="SubstanceDefinition/" /><!--add reference id-->
+    <resource>
+      <SubstanceDefinition>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+          <value value="" />
+        </identifier>
+        <version value="1" />
+        <status>
+          <coding>
+            <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+            <code value="1" />
+            <display value="Validated (UNII)" />
+          </coding>
+        </status>
+        <manufacturer>
+          <reference value="Organization/" />
+        </manufacturer>
+        <molecularWeight>
+          <type>
+            <text value="exact" />
+          </type>
+          <amount>
+            <value value="" /><!--add molecular weight-->
+          </amount>
+        </molecularWeight>
+        <structure>
+          <molecularFormula value="" /><!--add formula-->
+        </structure>
+        <name>
+          <name
+            value="" /><!--add chemical name-->
+          <type>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+              <code value="x" /><!--add code for chemical name term-->
+              <display value="Chemical Name" />
+            </coding>
+          </type>
+        </name>
+      </SubstanceDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="ManufacturedItemDefinition/" /><!--add resource id after /-->
+    <resource>
+      <ManufacturedItemDefinition>
+        <id value="" /><!--add unique resource id-->
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="" />
+          <value value="99b900c6-4776-4cde-8125-4f6de8e98b98" />
+        </identifier>
+        <status value="active" />
+        <manufacturedDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi/" />
+            <code value="100000073375" /><!--Replace with code and name -->
+            <display value="Capsule, hard" />
+          </coding>
+        </manufacturedDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002113" /><!--Replace with code and name -->
+            <display value="Capsule" />
+          </coding>
+        </unitOfPresentation>
+        <manufacturer>
+          <reference value="Organization/" />
+        </manufacturer>
+      </ManufacturedItemDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="AdministrableProductDefinition/" />
+    <resource>
+      <AdministrableProductDefinition>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.who-umc.org/phpid" />
+          <value value="identifier" />
+        </identifier>
+        <status value="active" />
+        <formOf>
+          <reference value="MedicinalProductDefinition/" />
+        </formOf>
+        <administrableDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000073375" />
+            <display value="Capsule, hard" />
+          </coding>
+        </administrableDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002113" />
+            <display value="Capsule" />
+          </coding>
+        </unitOfPresentation>
+        <producedFrom>
+          <reference value="ManufacturedItemDefinition/" />
+        </producedFrom>
+        <routeOfAdministration>
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073619" />
+              <display value="Oral use" />
+            </coding>
+          </code>
+          <targetSpecies>
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi" />
+                <code value="100000109093" />
+                <display value="Human" />
+              </coding>
+            </code>
+          </targetSpecies>
+        </routeOfAdministration>
+      </AdministrableProductDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="RegulatedAuthorization/" />
+    <resource>
+      <RegulatedAuthorization>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="5321fb02-cd43-4c7e-bba5-b1d628815a54" />
+        </identifier>
+        <subject>
+          <reference value="MedicinalProductDefinition/" />
+        </subject>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000061" />
+            <display value="Marketing Authorisation" />
+          </coding>
+        </type>
+        <region>
+          <coding>
+            <system value="urn:iso:std:iso:3166" />
+            <code value="GBR" /><!--Replace code and name -->
+            <display value="United Kingdom" />
+          </coding>
+        </region>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="" />
+        <holder>
+          <reference value="Organization/" />
+        </holder>
+      </RegulatedAuthorization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="RegulatedAuthorization/" />
+    <resource>
+      <RegulatedAuthorization>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+        </identifier>
+        <subject>
+          <reference value="MedicinalProductDefinition/" />
+        </subject>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000061" />
+            <display value="Marketing Authorisation" />
+          </coding>
+        </type>
+        <region>
+          <coding>
+            <system value="urn:iso:std:iso:3166" />
+            <code value="GBR" />
+            <display value="United Kingdom" />
+          </coding>
+        </region>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2022-03-01T00:00:00Z" />
+        <holder>
+          <reference value="Organization/" />
+        </holder>
+      </RegulatedAuthorization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Organization/" />
+    <resource>
+      <Organization>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="" /><!--Replace with right org ID from EMA's SPOR-->
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000034" /><!--Replace with right type code and name -->
+            <display value="Marketing authorisation holder" />
+          </coding>
+          <text value="Marketing authorisation holder" />
+        </type>
+        <name value="Pfizer Limited" />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="" />
+            <line value="" />
+            <city value="" />
+            <country value="" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="PackagedProductDefinition/" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+        </identifier>
+        <name value="" /><!--Replace with name for this pack presentation-->
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2022-03-01T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="0.25" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073496" />
+              <display value="Blister" />
+            </coding>
+          </type>
+          <quantity value="30" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="MedicinalProductDefinition/" />
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="" />
+          <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type" />
+            <code value="MedicinalProduct" />
+            <display value="Medicinal Product" />
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain" />
+            <code value="Human" />
+            <display value="Human use" />
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="active" />
+          </coding>
+        </status>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072084" />
+            <display value="Medicinal product subject to medical prescription" />
+          </coding>
+        </legalStatusOfSupply>
+        <name>
+          <productName value="" />          
+          <usage>
+            <country>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="urn:ietf:bcp:47" />
+                <code value="en" />
+                <display value="English" />
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="ClinicalUseDefinition/" />
+    <resource>
+      <ClinicalUseDefinition>
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120002" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="N3RQ532IUT" />
+        </identifier>
+        <type value="interaction" />
+        <subject>
+          <reference value="MedicinalProductDefinition/" />
+        </subject>
+        <subject>
+          <reference value="MedicinalProductDefinition/" />
+        </subject>
+        <interaction>
+          <interactant>
+            <itemCodeableConcept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="" />
+                <display value="" />
+              </coding>
+            </itemCodeableConcept>
+          </interactant>
+        </interaction>
+      </ClinicalUseDefinition>
+    </resource>
+  </entry>  
+</Bundle>
