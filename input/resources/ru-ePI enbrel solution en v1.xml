@@ -172,9 +172,6 @@
 					</valueReference>
 				</extension>
 
-
-
-
         <identifier>
           <system value="https://www.minzdrav.gov.ru/" />
           <value value="0d69fdcb-33cf-407f-8209-a6529856ab4f" />
@@ -207,6 +204,7 @@
           <text>
             <status value="generated" />
             <div xmlns="http://www.w3.org/1999/xhtml">
+              <p style="text-align:center;"><b>MINISTRY OF HEALTH OF THE RUSSIAN FEDERATION</b></p>
               <p><b>Registration number:</b> LSR-006652/09</p>
               <p><b>Invented name:</b> Enbrel®</p>
               <p><b>International non-proprietary name:</b> etanercept</p>
@@ -221,8 +219,7 @@
               mL.</p>
               <p><b>Description</b></p>
               <p>Clear or opalescent from colorless to yellow or light brown liquid.
-              Small transparent to white amorphous particles are permissible.</p>
-              
+              Small transparent to white amorphous particles are permissible.</p>              
               <p><b>Pharmacotherapeutic group:</b> tumor necrosis factor-α (TNF-α) inhibitor</p>
               <p><b>ATC Code:</b> L04AB01</p>
             </div>
@@ -896,7 +893,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 from the syringe.</p>
                 
                 <p style="text-align: center;"><u>Fig. 2</u></p>
-                <p style="text-align: center;"><img src="#image2.png"
+                <p style="text-align: center;"><img src="#image2" alt="Figure 2" 
                 style="width:1.78937in;height:1.78937in" /></p>
                 
                 <ul>
@@ -910,7 +907,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 </ul>
                 
                 <p style="text-align: center;"><u>Fig. 3</u></p>
-                <p style="text-align: center;"><img src="#image3.png" /></p>
+                <p style="text-align: center;"><img src="#image3" alt="Figure 3" /></p>
                 
                 <ul>
                 <li><p>After the needle has fully entered the skin, release the fold of
@@ -922,7 +919,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 <b>slow</b>, constant speed (see Fig. 4).</p>
                 
                 <p style="text-align: center;"><u>Fig. 4</u></p>
-                <p style="text-align: center;"><img src="#image4.png"
+                <p style="text-align: center;"><img src="#image4" alt="Figure 4"
                 style="width:1.88502in;height:1.68625in" /></p>
                 
                 <ul>
@@ -950,8 +947,8 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 regarding injections, please ask your physician or nurse.</p>
                                 
                 <p style="text-align: center;"><u>Fig. 5</u></p>
-                <p><u>Pre-filled injection pen</u></p>
-                <p style="text-align: center;"><img src="#image5.png" /></p>
+                <p style="text-align: center;"><u>Pre-filled injection pen</u></p>
+                <p style="text-align: center;"><img src="#image5" alt="Figure 5" /></p>
                 
                 <b>Step 1. Preparation
                 for the injection of Enbrel®</b>
@@ -960,7 +957,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 </ul>
                 <p>Gather the following items needed for the injection and place them on
                 the working surface:</p>
-                <ol type="a">
+                <ol>
                 <li><p><b>One pre-filled injection pen and one alcohol
                 wipe</b> (take them out of the carton of injection pens that you
                 store in the refrigerator). Do not shake the injection pen.</p></li>
@@ -1015,7 +1012,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 </ul>
                 
                 <p style="text-align: center;"><u>Fig. 7</u></p>
-                <p style="text-align: center;"><img src="#image6.png" /></p>
+                <p style="text-align: center;"><img src="#image7" alt="Figure 7" /></p>
                 
                 <ul>
                 <li><p>Carefully pinch the skin into a fold between the thumb and index
@@ -1029,8 +1026,8 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 will be activated only when the protective screen of the needle has
                 fully gone into the injection pen.</p></li>
                 </ul>
-                                
-                <p style="text-align: center;"><img src="#image7.png" /></p>
+                <p style="text-align: center;"><u>Fig. 8</u></p>
+                <p style="text-align: center;"><img src="#image8" alt="Figure 8" /></p>
                 
                 <ul>
                 <li><p>Press the injection pen firmly against the skin and make sure
@@ -1046,7 +1043,7 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 the green button again.</p>
                 
                 <p style="text-align: center;"><u>Fig. 9</u></p>
-                <p style="text-align: center;"><img src="#image8.png"
+                <p style="text-align: center;"><img src="#image9" alt="Figure 9"
                 style="width:2.42172in;height:1.62823in" /></p>
                 
                 <ul>
@@ -1057,11 +1054,11 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 </ul>
                 
                 <p style="text-align: center;"><u>Fig. 10</u></p>
-                <p style="text-align: center;"><img src="#image9.png"
+                <p style="text-align: center;"><img src="#image10" alt="Figure 10"
                 style="width:2.20542in;height:1.49635in" /></p>                
                              
                 <p style="text-align: center;"><u>Fig. 11</u></p>
-                <p style="text-align: center;"><img src="#image10.png" /></p>
+                <p style="text-align: center;"><img src="#image11" alt="Figure 11" /></p>
                 
                 <ul>
                 <li><p>When this is done, the color of the inspection window of the
@@ -1074,8 +1071,8 @@ prescribe a dose of 25 mg twice a week or 50 mg once a week.</p>
                 pharmacist.</p></li>
                 </ul>
                 
-                <p>Fig. 12</p>
-                <p style="text-align: center;"><img src="#image11.png" /></p>
+                <p style="text-align: center;">Fig. 12</p>
+                <p style="text-align: center;"><img src="#image12" alt="Figure 12" /></p>
                 
                 <ul>
                 <li><p>If drops of blood appear at the injection site, press a cotton
