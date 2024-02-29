@@ -12,7 +12,7 @@ Usage: #inline
 * type = https://www.jfda.jo/#100000155538
 * type.text = "Package Leaflet"
 
-* subject = Reference(Genotropin5mgMedicinalProduct) //Medicinal Product
+* subject = Reference(Genotropin5mgMedicinalProductAR) //Medicinal Product
 * date = "2023-06-20T13:28:17Z"
 * author = Reference(Genotropin5mgOrgAR) //Organization
 
