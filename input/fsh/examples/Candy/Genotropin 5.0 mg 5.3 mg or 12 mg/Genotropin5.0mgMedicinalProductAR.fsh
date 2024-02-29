@@ -1,5 +1,5 @@
 
-Instance: Genotropin5mgMedicinalProduct
+Instance: Genotropin5mgMedicinalProductAR
 InstanceOf: MedicinalProductDefinitionUvEpi
 Title: "Medicinal Product Genotropin 5.0/5.3/12 mg powder and solvent"
 Description: "Genotropin 5.0/5.3/12 mg powder and solvent for solution for injection"
