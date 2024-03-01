@@ -30,7 +30,7 @@ Usage: #inline
         <p><b>Zithromax®</b></p>
         <p><b>ZITHROMAX 250 mg hard capsules</b></p>
         <p>Azithromycin</p>
-        <p>Reference Market : UK</p>
+        <p>Reference Market: UK</p>
         <p><b>PACKAGE LEAFLET</b></p>
 
   </div>"""   
