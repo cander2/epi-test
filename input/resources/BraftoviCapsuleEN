@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="bundle-BraftoviCapsuleEN"/>
+	<meta>
+		<profile
+			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+	</meta>
+	<language value="en"/>
+	<identifier>
+		<system value="https://leaflet.healthcare/sid/doc"/>
+		<value value="L000BraftoviCapsuleEN"/>
+	</identifier>
+	<type value="document"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
+	<entry>
+		<fullUrl value="Composition/composition-BraftoviCapsuleEN"/>
+		<resource>
+			<Composition>
+				<id value="composition-BraftoviCapsuleEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+				</meta>
+				<language value="en"/>
+				<version value="1"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
+				<status value="final"/>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition"/>
+					<value value="C000composition-BraftoviCapsuleEN" />
+				</identifier>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/"/>
+						<code value="100000155538"/>
+						<display value="Package Leaflet"/>
+					</coding>
+					<text value="Package Leaflet"/>
+				</type>
+				<subject>
+					<reference value="MedicinalProductDefinition/medicinalproductdefinition-BraftoviCapsuleEN"/>
+				</subject>
+				<author>
+					<reference value="Organization/organization-BraftoviCapsuleEN"/>
+				</author>
+				<title value="Master Gulf &amp; Levant - Braftovi - 50, 75 mg Capsule - EN"/>
+				<section>
+					<title value="PACKAGE LEAFLET"/>
+					<text>
+						<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p style="text-align: center">
+								<img src="#pfizer-logo" alt="Pfizer Logo"/>
+							</p>
+							<p style="text-align: center">
+								<b>Braftovi®</b>
+							</p>
+							<p style="text-align: center">Encorafenib</p>
+							<p style="text-align: center">50 mg hard capsules</p>
+              <p style="text-align: center">75 mg hard capsules</p>
+							<p style="text-align: center">Reference Market: EU</p>
+							<p style="text-align: center">
+								<b>Package leaflet</b>
+								</p>						
+						</div>
+					</text>
+					</section>
+
+				    <section>
+						<title value="Package leaflet: Information for the patient"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+								<p style="text-align: center">
+									<b>Package leaflet: Information for the patient</b>
+								</p>
+								<p style="text-align: center">
+									<b>Braftovi® 50 mg hard capsules</b>
+								</p>
+		            <p style="text-align: center">
+									<b>Braftovi® 75 mg hard capsules</b>
+								</p>
+								<p style="text-align: center">encorafenib</p>
+								<p>This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.</p>
+
+								<p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
+								<ul>
+									<li>Keep this leaflet. You may need to read it again.</li>
+									<li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
+                  <li>This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</li>
+									<li>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</li>
+                </ul>
+								<p><b>What is in this leaflet</b></p>
+								<ol>
+									<li>What Braftovi is and what it is used for</li>
+									<li>What you need to know before you take Braftovi</li>
+									<li>How to take Braftovi</li>
+									<li>Possible side effects</li>
+									<li>How to store Braftovi</li>
+									<li>Contents of the pack and other information</li>
+								</ol>
+
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="1.	What Braftovi is and what it is used for"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+								<p>Braftovi is an anti-cancer medicine that contains the active substance encorafenib. Changes (mutations) in the BRAF gene can produce proteins that cause the cancer to grow. Braftovi targets proteins made from this changed BRAF gene.</p>
+                <p>It is used in combination with another medicine containing binimetinib to treat adult patients with a type of skin cancer called melanoma when it has</p>
+                <ul>
+                <li>a particular change (mutation) in a gene responsible for producing a protein called BRAF, and</li>
+                <li>spread to other parts of the body, or cannot be removed by surgery</li>
+                </ul>
+                <p>When Braftovi is used in combination with binimetinib, which targets another protein that stimulates cancer cell growth, the combination slows down or stops the growth of your cancer.</p>
+                <p>Braftovi is also used in combination with another medicine cetuximab, to treat adult patients with a type of large intestine cancer when it has</p>
+                <ul>
+                <li>a particular change (mutation) in a gene responsible for producing a protein called BRAF, and</li>
+                <li>spread to other parts of the body of patients who have been previously treated with other anticancer medicines</li>
+                </ul>
+                <p>When Braftovi is used in combination with cetuximab (which binds to the epidermal growth factor receptor (EGFR)), a protein on the surface of certain cancer cells), the combination slows down or stops the growth of your cancer.</p>
+
+								
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="2.	What you need to know before you take Braftovi"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+              <p>Before starting treatment your doctor will check for the BRAF mutation.</p>
+                <p>As Braftovi is to be used in combination with binimetinib to treat melanoma, read the binimetinib leaflet carefully as well as this leaflet.</p>
+              <p>As Braftovi is to be used in combination with cetuximab to treat large intestine cancer, read the cetuximab leaflet carefully as well as this leaflet.</p>
+              <p><b>Do not take Braftovi</b></p>
+									<ul>
+										<li>if you are allergic to encorafenib or any of the other ingredients of this medicine (listed in section 6).</li>
+									</ul>
+              <p><b>Warnings and precautions</b></p>
+              <p>Talk to your doctor, pharmacist or nurse before taking Braftovi, about all of your medical conditions, particularly if you have any of the following:</p>
+									<ul>
+										<li>heart problems including alteration of the electrical activity of your heart (QT interval prolongation)</li>
+										<li>bleeding problems or if you are taking medicines that may cause bleeding</li>
+										<li>eye problems</li>
+										<li>liver or kidney problems</li>
+									</ul>
+
+              <p>Tell your doctor if you have had a different type of cancer than melanoma or large intestine cancer, as Braftovi may worsen certain other types of cancers.</p>
+              <p>Tell your doctor, pharmacist or nurse immediately if you get the following while you are taking this medicine:</p>
+									<ul>
+										<li>Heart problems: Braftovi when taken with binimetinib can make your heart work less well, alter the electrical activity of your heart called “QT interval prolongation” or make existing heart problems worse. Your doctor will check that your heart is working properly before and during your treatment with these medicines. Talk to your doctor immediately if you have any symptoms of heart problems such as feeling dizzy, tired, lightheaded, if you have shortness of breath, if you feel like your heart is pounding, racing, beating irregularly, or if you have swelling in the legs.</li>
+										<li>Bleeding problems: Braftovi may cause serious bleeding problems. Talk to your doctor immediately if you have any symptoms of bleeding problems such as coughing up of blood, blood clots, vomit containing blood or that looks like “coffee grounds”, red or black stools that look like tar, passing blood in the urine, stomach (abdominal) pain, unusual vaginal bleeding. Also tell your doctor if you have headache, dizziness or weakness.</li>
+										<li>Eye problems: Braftovi, when taken with binimetinib, can cause serious eye problems. Talk to your doctor immediately if you get blurred vision, loss of vision, or other vision changes (e.g. coloured dots in your vision), halo (seeing blurred outline around objects). Your doctor will examine your eyes for any problems with your sight while you are taking Braftovi.</li>
+										<li>Skin changes: Braftovi may cause other types of skin cancer such as cutaneous squamous cell carcinoma. New melanomas may also occur while taking Braftovi. Your doctor will check your skin for any new skin cancers before treatment, every 2 months during treatment, and for up to 6 months after you stop taking Braftovi. Tell your doctor immediately if you detect skin changes during and after treatment including: new wart, skin sore or reddish bump that bleeds or does not heal, or a change in size or colour of a mole. Additionally, your doctor needs to check for squamous cell carcinoma on your head, neck, mouth and lymph glands, and you will have CT scans regularly. This is a precaution in case a squamous cell carcinoma develops inside your body. Genital examinations (for women) and anal examinations are also recommended before and at the end of your treatment.</li>
+										<li>Liver problems: Braftovi can cause abnormal blood tests related to how your liver works (raised levels of liver enzymes). Your doctor will run blood tests to check your liver before and during treatment.</li>
+										<li>Kidney problems: Braftovi can alter your kidney activity (often abnormal blood tests, more rarely dehydration and vomiting). Your doctor will run blood tests to monitor your kidneys before and during treatment. Drink plenty of fluids during treatment. Tell your doctor immediately if you vomit and become dehydrated.</li>
+									</ul>
+              <p><b>Children and adolescents</b></p>
+              <p>Braftovi is not recommended for children and adolescents under 18 years of age. This medicine has not been studied in this age group.</p>
+              <p><b>Other medicines and Braftovi</b></p>
+              <p>Tell your doctor, pharmacist or nurse if you are taking, have recently taken or might take any other medicines.</p>
+              <p>Some medicines may affect how Braftovi works or make it more likely that you will have side effects.</p>
+              <p>In particular, tell your doctor if you are taking anything in this list or any other medicines:</p>
+									<ul>
+										<li>some medicines to treat fungal infections (such as itraconazole, posaconazole, fluconazole)</li>
+										<li>some medicines to treat bacterial infections (such as rifampicin, clarithromycin, telithromycin, erythromycin, penicillin)</li>
+										<li>medicines typically used to treat epilepsy (seizures) (such as phenytoin, carbamazepine)</li>
+										<li>medicines typically used to treat cancer (such as methotrexate, imatinib)</li>
+										<li>medicines typically used to treat high cholesterol (such as rosuvastatin, atorvastatin)</li>
+										<li>an herbal treatment for depression: St. John’s wort</li>
+										<li>some medicines for HIV treatment such as ritonavir, amprenavir, raltegravir, dolutegravir</li>
+										<li>birth control medicines containing hormones</li>
+										<li>medicines typically used to treat high blood pressure (such as diltiazem, bosentan, furosemide)</li>
+										<li>a medicine used to treat an uneven heartbeat: amiodarone.</li>
+	
+									</ul>
+              <p><b>Braftovi with food and drink</b></p>
+              <p>Do not have grapefruit juice during your treatment with Braftovi. This is because it could increase Braftovi side effects.</p>
+              <p><b>Pregnancy, breast-feeding and fertility</b></p>
+              <p><u>Pregnancy</u></p>
+              <p>Braftovi is not recommended during pregnancy. It may cause harm or birth defects to an unborn baby.</p>
+              <p>If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.</p>
+              <p>If you are a woman who could become pregnant, you must use reliable contraception while you are taking Braftovi, and you must continue to use reliable contraception for at least 1 month after taking your last dose. Birth control medicines containing hormones (such as pills, injections, patches, implants and certain intrauterine devices (IUDs) that release hormones) may not work as well as expected while you are taking Braftovi. You should use another reliable method of birth control such as a barrier method (e.g. condom) so you do not become pregnant while you are taking this medicine.</p>
+              <p>Ask your doctor, pharmacist or nurse for advice.</p>
+              <p>Contact your doctor straightaway if you become pregnant while taking Braftovi.</p>
+
+              <p><u>Breast feeding</u></p>
+              <p>Braftovi is not recommended while breast feeding. It is not known if Braftovi passes into breast milk.</p>
+              <p>If you are breast-feeding, or planning to breast feed, ask your doctor for advice before taking this medicine.</p>
+
+              <p><u>Fertility</u></p>
+              <p>Braftovi may reduce sperm count in males. This could affect the ability to father a child. Talk to your doctor if this is a concern for you.</p>
+
+              <p><b>Driving and using machines</b></p>
+              <p>Braftovi can affect your ability to drive or use machines. Avoid driving or using machines if you have any problems with your vision, or have any other side effects that can affect your ability to drive or use machines (see section 4), while taking Braftovi. Talk to your doctor if you are not sure you can drive.</p>
+
+								</div>
+							</text>
+						</section>
+
+					<section>
+						<title value="3. How to take Braftovi"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b>How much to take</b></p>
+              <p>Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.</p>
+              <p><u>For melanoma treatment</u></p>
+              <p>The recommended dose of Braftovi to treat melanoma is 6 capsules of 75 mg once daily (corresponding to a daily dose of 450 mg). You will also receive treatment with another medicine, binimetinib.</p>
+              <p><u>For large intestine cancer treatment</u></p>        
+              <p>The recommended dose of Braftovi to treat large intestine cancer is 4 capsules of 75 mg once daily (corresponding to a daily dose of 300 mg). You will also receive treatment with another medicine cetuximab.</p>   
+
+              <p>If you have liver or kidney problems, your doctor may start you on a lower dose. </p>
+              <p>If you get serious side effects (such as heart, eye or bleeding problems) your doctor may lower the dose or stop treatment temporarily or permanently.</p>
+              <p><b>How to take Braftovi</b></p>
+              <p>Instructions to open the blister:</p>
+              <ul>
+              <li>- Do not push the capsule forcefully through the blister.</li>
+              <li>-	Gently remove the capsule.</li>
+              </ul>
+              <p>Swallow the capsules whole with water. Braftovi can be taken with food or between meals.</p>
+
+              <p><b>If you are sick</b></p>
+              <p>If you vomit at any time after taking Braftovi, do not take an additional dose. Take the next dose as scheduled.</p>
+
+             <p><b>If you take more Braftovi than you should</b></p>
+             <p>If you take more capsules than you should, contact your doctor, pharmacist or nurse straightaway. Side effects of Braftovi such as nausea, vomiting, dehydration and blurred vision may appear or worsen. If possible, show them this leaflet and the medicine package.</p>
+             <p><b>If you forget to take Braftovi</b></p>
+             <p>If you miss a dose of Braftovi, take it as soon as you remember. However if the missed dose is more than 12 hours late, skip that dose and take your next dose at the usual time. Then continue taking your capsules at regular times as usual.</p>
+             <p>Do not take a double dose to make up for a forgotten dose.</p>
+             <p><b>If you stop taking Braftovi</b></p>
+             <p>It is important to take Braftovi for as long as your doctor prescribes it. Do not stop taking this medicine unless your doctor tells you to.</p>
+             <p>If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.</p>
+
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="4. Possible side effects"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+             <p>Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
+             <p><b>Serious side effects</b></p>
+             <p><b>Braftovi may cause serious side effects. Tell your doctor immediately</b> if you have any of the following serious side effects, either for the first time or if they get worse (see also section 2):</p>
+             <p>Heart problems: Braftovi when taken with binimetinib can affect how well your heart works (left ventricular ejection fraction decrease); signs and symptoms can include:</p>
+             <ul>
+             <li>- feeling dizzy, tired or lightheaded</li>
+             <li>- shortness of breath</li>
+             <li>- feeling like your heart is pounding, racing or beating irregularly</li>
+             <li>- swelling in the legs</li>
+             </ul>
+             <p>Eye problems: Braftovi, when taken with binimetinib can cause serious eye problems such as fluid to leak under the retina in the eye, leading to detachment of different layers in the eye (retinal epithelial pigmental detachment). Call your doctor right away if you get these symptoms of eye problems:</p>
+             <ul>
+             <li>- blurred vision, loss of vision, or other vision changes (such as coloured dots in your vision)</li>
+             <li>- halo (seeing blurred outline around objects)</li>
+             <li>- eye pain, swellling or redness</li>
+             </ul>
+             <p>Bleeding problems: Braftovi can cause serious bleeding problems. Tell your doctor right away if you have any unusual signs of bleeding, including:</p>
+              <ul>
+             <li>- headaches, dizziness or weakness</li>
+             <li>- coughing up of blood or blood clots</li>
+             <li>- vomit containing blood or that looks like “coffee grounds”</li>
+             <li>- red or black stools that look like tar</li>
+             <li>- passing blood in the urine</li>
+             <li>- stomach (abdominal) pain</li>
+             <li>- unusual vaginal bleeding</li>
+              </ul>
+             
+             <p>Muscle problems: Braftovi, when taken with binimetinib can cause breakdown of muscles (rhabdomyolysis) which can lead to kidney damage and can be fatal; signs and symptoms can include:</p>
+             <ul>
+             <li>- muscle pain, cramps, stiffness or spasm</li>
+             <li>- dark urine </li>
+             </ul>
+             <p>Other skin cancers: Treatment with Braftovi may result in a type of skin cancer such as cutaneous squamous cell carcinoma. Usually, these skin changes (see also section 2) are confined to a small area and can be removed with surgery and treatment with Braftovi can continue without interruption. Some people taking Braftovi may also notice new melanomas. These melanomas are usually removed by surgery and treatment with Braftovi can continue without interruption.</p>
+
+             <p><b>Other side effects</b></p>
+             <p>Besides the serious side effects mentioned above, people taking Braftovi may also get other side effects.</p>
+             <p><b>Side effects when Braftovi and binimetinib are taken together for treatment of melanoma</b></p>
+             <p><b>Very common</b> (may affect more than 1 in 10 people):</p>
+             <ul>
+             <li>- reduced red blood cell count (anaemia)</li>
+             <li>- problem with the nerves resulting in pain, loss of sensation or tingling in hands and feet</li>
+             <li>- headache</li>
+             <li>- dizziness</li>
+             <li>- bleeding at various sites in the body</li>
+             <li>- high blood pressure</li>
+             <li>- problems with your vision (visual impairment)</li>
+             <li>- stomach pain</li>
+             <li>- diarrhoea</li>
+             <li>- being sick (vomiting)</li>
+             <li>- feeling sick (nausea)</li>
+             <li>- constipation</li>
+             <li>- itching </li>
+             <li>- dry skin</li>
+             <li>- hair loss or thinning (alopecia)</li>
+             <li>- skin rash of various types</li>
+             <li>- thickening of the outer layers of the skin</li>
+             <li>- joint pain (arthralgia)</li>
+             <li>- muscle pain, weakness or spasm</li>
+             <li>- back pain</li>
+             <li>- pain in the extremities </li>
+             <li>- fever</li>
+             <li>- swelling of the hands or feet (peripheral oedema), localised swelling</li>
+             <li>- fatigue</li>
+             <li>- abnormal blood test results for liver function</li>
+             <li>- abnormal blood test results related to blood creatine kinase (an enzyme found in the blood that may indicate muscle inflammation or damage)</li>
+             </ul>
+             <p><b>common</b> (may affect up to 1 in 10 people):</p>
+             <ul>
+             <li>- some types of skin tumours such as skin papilloma and basal cell carcinoma</li>
+             <li>- allergic reaction that may include swelling of the face and difficulty breathing</li>
+             <li>- changes in the way things taste</li>
+             <li>- inflammation of the eye (uveitis)</li>
+             <li>- blood clots</li>
+             <li>- inflammation of the colon (colitis)</li>
+             <li>- redness, chapping or cracking of the skin</li>
+             <li>- inflammation of the fatty layer under the skin, symptoms include tender skin nodules </li>
+             <li>- skin rash with a flat discoloured area or raised bumps like acne (dermatitis acneiform)</li>
+             <li>- redness, skin peeling or blisters on hand and feet (palmar-plantar erythrodysesthesia or hand and foot syndrome)</li>
+             <li>- kidney failure</li>
+             <li>- abnormal kidney test results (creatinine elevations)</li>
+             <li>- abnormal blood test results for liver function (blood alkaline phosphatase)</li>
+             <li>- abnormal blood test results for pancreas function (amylase, lipase)</li>
+             <li>- increased skin sensitivity to sunlight</li>
+             </ul>
+             <p><b>Uncommon</b> (may affect up to 1 in 100 people):</p>
+             <ul>
+             <li>- weakness and paralysis of face muscles </li>
+             <li>- inflammation of the pancreas (pancreatitis) causing severe abdominal pain</li>
+             </ul>
+             <p><b>Side effects when Braftovi was used on its own in clinical trials conducted in patients with melanoma</b></p>
+             <p>If you continue Braftovi on its own while the other medicine (binimetinib) is temporarily stopped based on your doctor’s decision, you may get some of the side effects given in the lists above, although the frequency may change (increase or decrease).</p>
+             <p><b>Very common</b> (may affect more than 1 in 10 people):</p>
+             <ul>
+             <li>- fatigue</li>
+             <li>- feeling sick (nausea)</li>
+             <li>- being sick (vomiting)</li>
+             <li>- constipation</li>
+             <li>- skin rash of various types </li>
+             <li>- redness, skin peeling or blisters on hand and feet (called palmar-plantar erythrodysesthesia or hand and foot syndrome)</li>
+             <li>- thickening of the outer layers of the skin (hyperkeratosis)</li>
+             <li>- dry skin</li>
+             <li>- itching</li>
+             <li>- abnormal hair loss or thinning (alopecia)</li>
+             <li>- redness, chapping or cracking of the skin </li>
+             <li>- skin darkening</li>
+             <li>- lost of appetite</li>
+             <li>- difficulty sleeping (insomnia)</li>
+             <li>- headache</li>
+             <li>- problem with the nerves that can produce pain, loss of sensation or tingling in hands and feet</li>
+             <li>- changes in the way things taste</li>
+             <li>- joint pain (arthralgia)</li>
+             <li>- muscle pain, spasm or weakness</li>
+             <li>- pain in the extremities</li>
+             <li>- back pain</li>
+             <li>- fever</li>
+             <li>- some types of benign skin tumour such as melanocytic naevus and skin papilloma</li>
+             <li>- abnormal blood tests results related to the liver</li>
+
+             </ul>
+             <p><b>Common</b> (may affect up to 1 in 10 people):</p>
+             <ul>
+             <li>- allergic reaction that may include swelling of the face and difficulty in breathing </li>
+             <li>- weakness and paralysis of face muscles </li>
+             <li>- fast heart beat</li>
+             <li>- skin rash with a flat discoloured area or raised bumps like acne (dermatitis acneiform)</li>
+             <li>- peeling or scaly skin</li>
+             <li>- inflammation of joints (arthritis)</li>
+             <li>- kidney failure</li>
+             <li>- abnormal kidney test results (creatinine elevations)</li>
+             <li>- increased skin sensitivity to sunlight</li>
+             <li>- abnormal blood test result for pancreas function (lipase)</li>
+             </ul>
+
+             <p><b>Uncommon</b> (may affect up to 1 in 100 people)</p>
+             <ul>
+             <li>- type of skin cancer such as basal cell carcinoma</li>
+             <li>- inflammation of the eye (uveitis) </li>
+             <li>- inflammation of the pancreas (pancreatitis) causing severe abdominal pain</li>
+             <li>- abnormal blood test result for pancreas function (amylase)</li>
+             </ul>
+
+             <p><b>Side effects when Braftovi is taken together with cetuximab for treatment of large intestine cancer</b></p>
+             <p>Besides the serious side effects mentioned above, people taking Braftovi together with cetuximab may also get the following side effects.</p>
+
+             <p><b>Very common</b> (may affect more than 1 in 10 people)</p>
+             <ul>
+             <li>- new moles called “melanocytic naevus”</li>
+             <li>- lost of appetite</li>
+             <li>- difficulty sleeping (insomnia)</li>
+             <li>- problem with the nerves resulting in pain, loss of sensation or tingling in hands and feet</li>
+             <li>- headache</li>
+             <li>- bleeding at various sites in the body</li>
+             <li>- diarrhoea</li>
+             <li>- stomach pain</li>
+             <li>- feeling sick (nausea)</li>
+             <li>- being sick (vomiting)</li>
+             <li>- constipation</li>
+             <li>- skin rash with a flat discoloured area or raised bumps like acne (dermatitis acneiform)</li>
+             <li>- skin rash of various types</li>
+             <li>- dry skin</li>
+             <li>- itching </li>
+             <li>- joint pain (arthralgia) and muscle and/or bone pain (musculosketal pain)</li>
+             <li>- muscle pain, weakness or spasm</li>
+             <li>- pain in the extremities</li>
+             <li>- back pain</li>
+             <li>- fatigue</li>
+             <li>- fever</li>
+             </ul>
+
+             <p><b>Common</b> (may affect up to 1 in 10 people)</p>
+             <ul>
+             <li>- some types of skin tumours such as skin papilloma.</li>
+             <li>- allergic reaction that may include swelling of the face and difficulty breathing</li>
+             <li>- dizziness</li>
+             <li>- changes in the way things taste</li>
+             <li>- fast heart beat</li>
+             <li>- skin darkening</li>
+             <li>- redness, skin peeling or blisters on hand and feet (palmar plantar erythrodysesthesia or hand and foot syndrome)</li>
+             <li>- thickening of the outer layers of the skin (hyperkeratosis)</li>
+             <li>- redness, chapping or cracking of the skin</li>
+             <li>- hair loss or thinning (alopecia)</li>
+             <li>- kidney failure</li>
+             <li>- abnormal kidney test results (creatinine elevations)</li>
+             <li>- abnormal blood test results for liver function</li>
+             </ul>
+
+             <p><b>Uncommon</b> (may affect up to 1 in 100 people)</p>
+             <ul>
+             <li>- some types of skin tumours such as basal cell carcinoma</li>
+             <li>- inflammation of the pancreas (pancreatitis) causing severe abdominal pain</li>
+             <li>- skin peeling</li>
+             <li>- abnormal blood test results for pancreas function (amylase, lipase)</li>
+             </ul>
+             <p><b>Reporting of side effects</b></p>
+             <p>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly. By reporting side effects you can help provide more information on the safety of this medicine.</p>
+
+
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="5. How to store Braftovi"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+							<p>Keep Braftovi out of the sight and reach of children.</p>
+							<p>Store at or below 30°C. Store in the original package</p>
+							<p>Do not use this medicine after the expiry date which is stated on the carton and the blister after EXP.</p>
+							<p>The expiry date refers to the last day of that month.</p>
+							<p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="6. Contents of the pack and other information"/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b>What Braftovi contains </b></p>
+							<ul>
+							<li>-	The active substance is encorafenib.</li>
+							</ul>
+							<p>&nbsp;&nbsp;Braftovi 50 mg: Each hard capsule contains 50 mg encorafenib.</p>
+	            <p>&nbsp;&nbsp;Braftovi 75 mg: Each hard capsule contains 75 mg encorafenib.</p>
+							<ul>
+							<li>-	The other ingredients are:</li>
+							</ul>
+							<ul>
+							<li>&nbsp;&nbsp;•	Capsule contents: copovidone (E1208), poloxamer 188, cellulose microcrystalline (E460i), succinic acid (E363), crospovidone (E1202), silica colloidal anhydrous (E551), magnesium stearate (E470b)</li>
+							<li>&nbsp;&nbsp;•	Capsule shell: gelatin (E441), titanium dioxide (E171), iron oxide red (E172), iron oxide yellow (E172), iron oxide black (E172)</li>
+							<li>&nbsp;&nbsp;•	Printing ink: shellac (E904), iron oxide black (E172), propylene glycol (E1520) Ammonium Hydroxide, Isopropyl Alcohol, N-Butyl Alcohol</li>
+							</ul>
+
+							<p><b>What Braftovi looks like and contents of the pack</b></p>
+							<p><u>Braftovi 50 mg hard capsules</u></p>
+							<p>The hard capsule (capsule) has an orange opaque cap and flesh opaque body, with a stylised “A” printed on the cap and “LGX 50mg” printed on the body.</p>
+							<p>Braftovi 50 mg is available in packs of 28 capsules in polyamide/aluminium/PVC/aluminium/ blisters.</p>
+							<p>Braftovi 50mg pack of 28's contains 7 blisters (4 capsules per blister),</p>
+
+							<p><u>Braftovi 75 mg hard capsules</u></p>
+							<p>The hard capsule (capsule) has a flesh-coloured opaque cap and white opaque body, with a stylised “A” printed on the cap and “LGX 75mg” printed on the body.</p>
+							<p>Braftovi 75 mg is available in packs of 42 capsules in polyamide/aluminium/PVC/aluminium blisters.</p>
+							<p>Braftovi 75 mg pack of 42's contains 7 blisters (6 capsules per blister),</p>
+							<p>Not all strengths or pack sizes may be marketed.</p>
+							<p><b>Marketing Authorisation Holder</b></p>
+							<p>Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium.</p>
+							<p><b>Bulk Manufacturer:</b></p>
+							<p>Catalent Pharma Solutions LLC</p>
+							<p>14 Schoolhouse Road - Somerset, NJ 08873, US</p>
+							<p><b>Packager &amp; Releaser:</b></p>
+							<p>Pierre Fabre Médicament Production Site</p>
+							<p>PROGIPHARM - Rue du Lycée, 45500 GIEN, France</p>
+							<p></p>
+							<p><b>This leaflet was last revised in</b> July 2022</p>
+							<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+							<tbody>
+							<tr>
+							<td>
+							<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+							<ul>
+							<li>-	Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</li>
+							<li>-	Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</li>
+							<li>-	The doctor and the Pharmacist are experts in medicines, their benefits and risks.</li>
+							<li>-	Do not by yourself interrupt the period of treatment prescribed.</li>
+							<li>-	Do not repeat the same prescription without consulting your doctor.</li>
+							</ul>
+							<p style="text-align:center"><b>Keep all medicaments out of reach and sight of children</b></p>
+							<p><b>Council of Arab Health Ministers</b></p>
+							<p><b>Union of Arabic Pharmacists</b></p>
+
+							</td>
+							</tr>
+							</tbody>
+							</table>
+								
+
+							</div>
+						</text>
+						</section>
+
+
+			</Composition>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="Organization/organization-BraftoviCapsuleEN"/>
+		<resource>
+			<Organization>
+				<id value="organization-BraftoviCapsuleEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+				</meta>
+				<identifier>
+					<use value="official"/>
+					<system value="https://leaflet.healthcare/sid/organization"/>
+					<value value="U001"/>
+				</identifier>
+
+				<active value="true"/>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi"/>
+						<code value="220000000034"/>
+						<display value="Marketing Authorisation Holder"/>
+					</coding>
+					<text value="Marketing Authorisation Holder"/>
+				</type>
+				<name value="Pfizer Europe MA EEIG"/>
+				<contact>
+					<address>
+						<use value="work"/>
+						<type value="physical"/>
+						<text value="Boulevard de la Plaine 171050 Bruxelles Belgium"/>
+						<line value="Boulevard de la Plaine 171050"/>
+						<city value="Bruxelles"/>
+						<postalCode value="NA"/>
+						<country value="Belgium"/>
+					</address>
+				</contact>
+			</Organization>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition-BraftoviCapsuleEN"/>
+		<resource>
+			<MedicinalProductDefinition>
+				<id value="medicinalproductdefinition-BraftoviCapsuleEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+				</meta>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/product"/>
+					<value value="P001"/>
+				</identifier>
+				<type>
+					<coding>
+						<system value="http://hl7.org/fhir/medicinal-product-type"/>
+						<code value="MedicinalProduct"/>
+
+						<display value="Medicinal Product"/>
+
+					</coding>
+					<text value=""/>
+				</type>
+
+				<domain>
+					<coding>
+						<system value="http://hl7.org/fhir/medicinal-product-domain"/>
+						<code value="Human"/>
+
+						<display value="Human use"/>
+
+					</coding>
+				</domain>
+
+				<status>
+					<coding>
+						<system value="http://hl7.org/fhir/publication-status"/>
+						<code value="active"/>
+
+						<display value="active"/>
+
+					</coding>
+				</status>
+
+				<statusDate value="2018-06-23T08:38:00+02:00"/>
+
+				<legalStatusOfSupply>
+					<coding>
+						<system value="http://hl7.org/fhir/legal-status-of-supply"/>
+						<code value="100000072084"/>
+						<display value="Medicinal product subject to medical prescription"/>
+					</coding>
+				</legalStatusOfSupply>
+
+				<classification>
+					<coding>
+						<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
+						<code value=""/>
+
+						<display value=""/>
+
+					</coding>
+				</classification>
+
+				<route>
+					<coding>
+						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
+						<code value=""/>
+
+						<display value=""/>
+
+					</coding>
+				</route>
+
+				<combinedPharmaceuticalDoseForm>
+					<coding>
+						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/doseForm"/>
+						<code value=" "/>
+
+						<display value=""/>
+
+					</coding>
+				</combinedPharmaceuticalDoseForm>
+
+				<name>
+
+					<productName value="Braftovi - 50, 75 mg Capsule"/>
+					<type>
+						<coding>
+							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
+							<code value="INN"/>
+
+							<display value=""/>
+						</coding>
+						<text value=""/>
+					</type>
+					<part>
+						<part value=""/>
+
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="InventedNamePart"/>
+								<display value="Invented Name Part"/>
+							</coding>
+							<text value="Invented Name Part"/>
+						</type>
+					</part>
+					<part>
+						<part value=""/>
+
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="ScientificNamePart"/>
+								<display value="Scientific Name Part"/>
+							</coding>
+							<text value="Scientific Name Part"/>
+						</type>
+					</part>
+					<part>
+						<part value="50 mg &amp; 75 mg"/>
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="StrengthPart"/>
+								<display value="Strength Part"/>
+							</coding>
+							<text value="Strength Part"/>
+						</type>
+					</part>
+					<part>
+						<part value="hard capsules"/>
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="DoseFormPart"/>
+								<display value="Pharmaceutical dose form part"/>
+							</coding>
+							<text value="Pharmaceutical dose form part"/>
+						</type>
+					</part>
+					<usage>
+						<country>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/country"/>
+								<code value=""/>
+								<display value=""/>
+							</coding>
+						</country>
+						<jurisdiction>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
+								  <code value="JO"/>
+                                                                  <display value="Jordan"/>
+							</coding>
+						</jurisdiction>
+						<language>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/all-languages"/>
+								 <code value="en"/>
+                                                                 <display value="English"/>
+							</coding>
+						</language>
+					</usage>
+				</name>
+			</MedicinalProductDefinition>
+		</resource>
+	</entry>
+</Bundle>
