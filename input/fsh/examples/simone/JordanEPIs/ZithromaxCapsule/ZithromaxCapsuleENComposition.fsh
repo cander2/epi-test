@@ -98,7 +98,7 @@ Usage: #inline
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
 <p><b>Do not take Zithromax:</b></p>
-        <p>• if you are allergic to azithromycin or any other macrolide antibiotic such as
+        <p>if you are allergic to azithromycin or any other macrolide antibiotic such as
             erythromycin or clarithromycin or any of the ingredients of this medicine (listed in
             section 6). An allergic reaction may cause skin rash or wheezing.</p>
         
@@ -302,7 +302,6 @@ Usage: #inline
         <p>If you get any side effects, talk to your doctor or pharmacist. This includes any
             possible side effects not listed in this leaflet. You can also report side effects
             directly </p>
-        <p></p>
         <p>By reporting side affects you can help provide more information on the safety of this
             medicine.</p>  
   </div>"""      
