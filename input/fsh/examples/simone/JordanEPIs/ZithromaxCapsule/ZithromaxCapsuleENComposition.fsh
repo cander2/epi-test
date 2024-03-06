@@ -70,7 +70,8 @@ Usage: #inline
             <li>Contents of the pack and other information </li>
         </ol>
 </div>"""   
-          
+
+
 * section[=].section[+]
   * title = "1. What Zithromax is and what it is used for"
   * code = https://www.jfda.jo/#100000155538
