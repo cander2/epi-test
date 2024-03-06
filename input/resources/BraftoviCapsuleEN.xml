@@ -48,19 +48,12 @@
 					<text>
 						<status value="generated"/>
 						<div xmlns="http://www.w3.org/1999/xhtml">
-							<p style="text-align: center">
-								<img src="#pfizer-logo" alt="Pfizer Logo"/>
-							</p>
-							<p style="text-align: center">
-								<b>Braftovi®</b>
-							</p>
-							<p style="text-align: center">Encorafenib</p>
-							<p style="text-align: center">50 mg hard capsules</p>
-              <p style="text-align: center">75 mg hard capsules</p>
-							<p style="text-align: center">Reference Market: EU</p>
-							<p style="text-align: center">
-								<b>Package leaflet</b>
-								</p>						
+							<p><b>Braftovi®</b></p>
+							<p>Encorafenib</p>
+							<p>50 mg hard capsules</p>
+                                                        <p>75 mg hard capsules</p>
+							<p>Reference Market: EU</p>
+							<p><b>Package leaflet</b></p>						
 						</div>
 					</text>
 					</section>
@@ -70,16 +63,10 @@
 						<text>
 							<status value="generated"/>
 							<div xmlns="http://www.w3.org/1999/xhtml">
-								<p style="text-align: center">
-									<b>Package leaflet: Information for the patient</b>
-								</p>
-								<p style="text-align: center">
-									<b>Braftovi® 50 mg hard capsules</b>
-								</p>
-		            <p style="text-align: center">
-									<b>Braftovi® 75 mg hard capsules</b>
-								</p>
-								<p style="text-align: center">encorafenib</p>
+								<p><b>Package leaflet: Information for the patient</b></p>
+								<p><b>Braftovi® 50 mg hard capsules</b></p>
+		                                                <p><b>Braftovi® 75 mg hard capsules</b></p>
+								<p>encorafenib</p>
 								<p>This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.</p>
 
 								<p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
