@@ -561,7 +561,7 @@
 						</type>
 					</part>
 					<part>
-						<part value="50 mg &amp; 75 mg"/>
+						<part value="1 mg; 5 mg"/>
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
@@ -572,7 +572,7 @@
 						</type>
 					</part>
 					<part>
-						<part value="hard capsules"/>
+						<part value="Film coated tablets"/>
 						<type>
 							<coding>
 								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
