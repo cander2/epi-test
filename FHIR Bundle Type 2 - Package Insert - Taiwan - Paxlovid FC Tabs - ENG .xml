@@ -1,0 +1,1596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundle-paxlovidfctablets"/>
+  <meta>
+    <versionId value="1"/>
+    <lastUpdated value="2024-01-31T00:00:00Z"/>
+    <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+  </meta>
+  <language value="en"/>
+  <identifier>
+    <system value="https://mcp.fda.gov.tw/"/>
+    <value value="paxlovid"/>
+  </identifier>
+  <type value="document"/>
+  <timestamp value="2024-01-31T00:00:00"/>
+  <entry>
+    <fullUrl value="urn:uuid:97739d08-3a4f-4739-9433-2ae56f522dfc"/>
+    <resource>
+      <Composition>
+        <id value="97739d08-3a4f-4739-9433-2ae56f522dfc"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+        </meta>
+        <language value="en"/>
+        <version value="1"/>
+				<date value="2024-01-31T00:00:00"/>
+				<status value="final"/>
+        <contained>
+          <Binary>
+            <id value="image1"/>
+            <contentType value="image/png"/>
+            <data value= "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"/>
+          </Binary>
+        </contained>
+        <contained>
+          <Binary xmlns="http://hl7.org/fhir">
+            <id value="image2"/>
+            <contentType value="image/png"/>
+            <data value= "iVBORw0KGgoAAAANSUhEUgAAAbwAAACICAMAAACr8q7iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf////n5+fv7+/j4+Pz8/Obm5vf39/7+/vb29v39/efn54yMjEhISIWFheLi4vT09KqqqkZGRjAwMFFRUT4+PkFBQZqamtDQ0GNjYygoKEpKSre3t+/v78bGxlRUVCAgIGdnZ8TExPr6+ujo6IiIiCoqKi4uLpmZme7u7qGhoTg4OHp6euHh4fX19aCgoEtLSykpKXl5edTU1MfHx2JiYtzc3NHR0Xt7ezMzM0VFRaioqPDw8MPDwxcXF1BQUMDAwOXl5X5+fisrKzY2Npubm+zs7MHBwVhYWCYmJsnJydfX13Z2djo6Oo+PjzU1NScnJ319fdbW1jc3N01NTXV1dfPz87GxsVJSUl1dXbi4uMvLy2lpaVNTU7y8vCMjI2FhYc7OzsXFxRYWFr29vRQUFF5eXjQ0ND8/P6SkpNra2nh4eDk5OZeXl+rq6pCQkC0tLSIiIr6+vpWVlXNzcywsLElJSXBwcM/Pz/Ly8r+/v9nZ2eDg4JaWlllZWURERE9PT46OjlpaWpiYmNvb29XV1UxMTFxcXJKSktPT01ZWVt3d3bOzs+vr697e3u3t7UNDQ1VVVenp6X9/f2pqajExMUdHR6ampqKioo2NjRoaGnFxcSUlJcLCwp6enkJCQhsbG2VlZZGRkZSUlBkZGWhoaICAgAkJCTIyMoqKivHx8R0dHS8vL4SEhFtbW+Pj47q6um5ubsrKyoKCgqWlpSEhIa2trYODg2RkZN/f3zs7O52dnYGBgczMzGxsbD09PZycnCQkJKurq7CwsBAQEIuLi4mJibKyshUVFba2tk5OTh4eHp+fn3Jycmtra6Ojo9jY2Hx8fOTk5NLS0sjIyLm5uZOTk0BAQB8fHwwMDG1tbQAAAAoKCs3NzTw8PF9fX2ZmZoeHhwEBAQ0NDYaGhqmpqaenp3R0dHd3d6ysrGBgYAMDAxMTExISEhwcHK6urrS0tG9vb6+vrxgYGLu7u1dXV7W1tREREQYGBg8PDwcHBwICAgsLCwgICAUFBQ4ODgAAAH2f+jMAAAEAdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wBT9wclAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAVzUlEQVR4Xu1dTZazKhDNEliE58ASWJYrYAGMXBArycShC+Acx+/eKjQ/gt3pL51Ov/YmRuXfKqooEMjpwFfhyvnAb4Ij32Lnu1gcDvwqOBP8ELwttwd+Cagt09CH7NIwj1kdD/wWxK6nzEXIn58n6k4q0qMJfG8Ih5wNPTiWxgFsi5MPhmw7WPf2AIvyOId0chOEz5Fj0KBDIk81xIH3RZpmb06u872amuSa8f1E1h3se2vQxoTGNBA2GioLt9JYdOeBt4XLsC7jCb83rCNSmIdUrg+8H9wpe2jMKI1dcbvAWT8fvYZ3BfjV9YmNnfQNtg1c9l25OvBeEFbZPqYwqXa8453L2Q0H894U7OHZ3rmlR34HN4YYjrGyNwXZZfvVJnHSxbvCAOYdkveeKGqTp+W4BZh3qM13xpXkbXAw741BWYPBojcVUG0ebd4bQ5i31ZgCGCyH5L0zDsn7xdhr8w7Je1+IsiySV1Wch+Q9CFCx0QIVPPnt9lWbt0n3sDYfg7KmzZ6nMo5Qyasm64bhkLxHscMg8vZ5osd0FoNF0rxL+GjzHsInGPMszhW0rU13CsEdkvcQomlRk3DxMwx+AGBezJLjNtWjzXsM7pR8aDPHTePzOCcpWe9ya76DsccroYfgTnYWBt2TU9xsP9T8vgqkY/t8smEejd5Kypcscn+ozU9DyCbcu1eO4jP13dbnH4CEurPvnCP7yoQHfS+EHyfzcI9JLJ+HcAbytW334FN490Q4dAcmr+zrh6I8hXE44DQevHsEyj3I3oZJbprRANF/4/UllJwyZ9hyri1nsoBXcJQ88jCHY/bRY1DWmHkjeyJ39HsO6wSOXTmclX1R2KcFiGMfrDBRAh74FArBNpozis5UzycRFMmk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"/>
+          </Binary>
+        </contained>
+        <extension url="http://hl7.org/fhir">
+					<valueReference>
+						<reference value="#image1" />
+					</valueReference>
+				</extension>
+        <extension url="http://hl7.org/fhir">
+					<valueReference>
+						<reference value="#image2" />
+					</valueReference>
+				</extension>
+        <identifier>
+          <system value="https://mcp.fda.gov.tw/"/>
+          <value value="97739d08-3a4f-4739-9433-2ae56f522dfc"/>
+        </identifier>
+        <type>
+          <coding>
+            <system value="2.16.840.1.113883.6.1"/>
+            <code value="42229-5"/>
+            <display value="PACKAGE INSERT"/>
+          </coding>
+        </type>
+        <subject>
+          <reference value="urn:uuid:cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+        </subject>
+        <author>
+          <reference value="urn:uuid:e7fec37a-af43-4b91-9ec3-e7b2c5cb869b"/>
+        </author>
+        <title value="Paxlovid LPD USPI 202305-2"/>
+        <section>
+          <title value="PACKAGE INSERT"/>
+          <code>
+            <coding>
+              <system value="2.16.840.1.113883.6.1"/>
+              <code value="42229-5"/>
+              <display value="PACKAGE INSERT"/>
+            </coding>
+          </code>
+          <text>
+            <status value="generated"/>
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <h4>PAXLOVID 150 mg/100 mg film-coated tablets</h4>
+              <p><b>(nirmatrelvir/ritonavir)</b></p>
+              <p>License no. 028474</p>
+              <p>Rx only</p>
+            </div>
+          </text>
+          <section>
+            <title value="BOXED WARNING"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="34066-1"/>
+                <display value="BOXED WARNING"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p style="text-align:center"><b>SPECIAL WARNING: SIGNIFICANT DRUG INTERACTIONS WITH PAXLOVID</b></p>
+                <ul>
+                  <li><b>PAXLOVID includes ritonavir, a strong CYP3A inhibitor, which may lead to greater exposure of certain concomitant medications, resulting in potentially severe, life-threatening, or fatal events <i>[see Contraindications (4), Warnings/precautions (5.1), and Interactions (7)]</i>.</b></li>
+                  <li><b>Prior to prescribing PAXLOVID: 1) Review all medications taken by the patient to assess potential drug-drug interactions with a strong CYP3A inhibitor like PAXLOVID and 2) Determine if concomitant medications require a dose adjustment, interruption, and/or additional monitoring <i>[see Interactions (7)]</i>.</b></li>
+                  <li><b>Consider the benefit of PAXLOVID treatment in reducing hospitalization and death, and whether the risk of potential drug-drug interactions for an individual patient can be appropriately managed <i>[see Warnings/precautions (5.1), Interactions (7), and Clinical studies results (12)]</i>.</b></li>
+                </ul>
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="PHARMACEUTICAL PARTICULARS"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="42229-5"/>
+                <display value="PHARMACEUTICAL PARTICULARS"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>
+                  <b>1. PHARMACEUTICAL PARTICULARS</b>
+                </p>
+                <p>
+                  PAXLOVID is nirmatrelvir tablets co-packaged with ritonavir tablets. Nirmatrelvir is a SARS-CoV-2 main protease (Mpro) inhibitor, and ritonavir is an HIV-1 protease inhibitor and CYP3A inhibitor.  
+                </p> 
+                <u>Nirmatrelvir</u>
+                <p>
+                  The chemical name of active ingredient of nirmatrelvir is (1R,2S,5S)-N-((1S)-1-Cyano-2-((3S)-2-oxopyrrolidin-3-yl)ethyl)-3-((2S)-3,3-dimethyl-2-(2,2,2-trifluoroacetamido)butanoyl)-6,6-dimethyl-3-azabicyclo[3.1.0]hexane-2-carboxamide]. It has a molecular formula of C23H32F3N5O4 and a molecular weight of 499.54. Nirmatrelvir has the following structural formula:
+                </p>
+                <p>
+                  <img src="#image1"
+									 alt="Figure 1"
+									 style="width:1.78937in;height:1.78937in"/>
+                </p>
+                <p>
+                  <u>Ritonavir</u>
+                </p>
+                <p>
+                  Ritonavir is chemically designated as 10-Hydroxy-2-methyl-5-(1-methylethyl)-1- [2-(1¬ methylethyl)-4-thiazolyl]-3,6-dioxo-8,11-bis(phenylmethyl)-2,4,7,12- tetraazatridecan-13-oic acid, 5-thiazolylmethyl ester, [5S-(5R*,8R*,10R*,11R*)]. Its molecular formula is C37H48N6O5S2, and its molecular weight is 720.95. Ritonavir has the following structural formula:
+                </p>
+                <p>
+                  <img src="#image2"
+									 alt="Figure 2"
+									 style="width:5.78937in;height:1.78937in"/>
+                </p>
+                  <p>
+                    <b>1.2 List of excipients</b>
+                  </p>
+                  <p>
+                    <u>Nirmatrelvir</u>
+                  </p>
+                  <p>
+                    Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, and sodium stearyl fumarate. The  film coating contains: hydroxypropyl methylcellulose, iron oxide red, polyethylene glycol, and titanium dioxide.
+                  </p>
+                  <p>
+                    <u>Excipients with known effect</u>
+                  </p>
+                  <p>
+                    Each pink 150 mg film-coated tablet contains 176 mg of lactose.
+                  </p>
+                  <p>
+                    <u>Ritonavir</u>
+                  </p>
+                  <p>
+                    <b>1.3 Pharmaceutical form</b>
+                  </p>
+                  <p>PAXLOVID is nirmatrelvir tablets co-packaged with ritonavir tablets.</p>
+                  <p>Nirmatrelvir is available as film-coated tablets.</p>
+                  <p>Ritonavir is available as film-coated tablets.</p>
+                  <p>
+                    <b>1.4 Appearance</b>
+                  </p>
+                  <ul>
+                    <li><u>Nirmatrelvir</u></li>
+                    <p>Film-coated tablet (tablet).</p>
+                    <p>Pink, oval, debossing of 'PFE' on one side and '3CL' on the other side.</p>
+                    <li><u>Ritonavir</u></li>
+                    <p>Film-coated tablet (tablet).</p>
+                    <p>White to off white, capsule shaped film coated tablets, debossed with 'H' on one side and 'R9' on other side.</p>
+                  </ul>
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="THERAPEUTIC INDICATIONS"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="34067-9"/>
+                <display value="INDICATIONS AND USAGE"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>
+                <b>2. THERAPEUTIC INDICATIONS</b>
+              </p>
+              <p>
+                For the treatment of mild-to-moderate coronavirus disease 2019 (COVID-19) in patients 12 years of age and older who are at high risk for progression to severe COVID 19.
+              </p>
+              <p>
+                <u>Limitations of Use</u>
+              </p>
+              <ul>
+                <li>PAXLOVID is not approved for use as pre-exposure or post-exposure prophylaxis for prevention of COVID-19.</li>
+                <li>PAXLOVID is not approved for use for longer than 5 consecutive days.</li>
+              </ul> 
+            </div>
+            </text>
+          </section>
+          <section>
+            <title value="POSOLOGY AND METHOD OF ADMINISTRATION"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="34068-7"/>
+                <display value="DOSAGE AND ADMINISTRATION"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>3. POSOLOGY AND METHOD OF ADMINISTRATION</b></p> 
+                <p><b>3.1 Posology and method of administration</b></p>
+                <p><b>Recommended Dosage</b></p>
+                <p>The recommended dosage for PAXLOVID is 300 mg nirmatrelvir (two 150 mg tablets) with 100 mg ritonavir (one 100 mg tablet) in co-package pack, with all 3 tablets taken together orally twice daily for 5 days. The 5-day treatment course of PAXLOVID should be initiated as soon as possible after a diagnosis of COVID 19 has been made, and within 5 days of symptom onset even if baseline COVID-19 symptoms are mild. For adolescent patients, the weighting should be at least 40 kg to receive the treatment.</p>
+                <p>Failure to correctly co-administer all 3 tablets may result in plasma levels of nirmatrelvir that are insufficient to achieve the desired therapeutic effect. Completion of the full 5-day treatment course and continued isolation in accordance with public health recommendations are important to maximize viral clearance and minimize transmission of SARS-CoV-2.</p>
+                <p>Should a patient require hospitalization due to severe or critical COVID-19 after starting treatment with PAXLOVID, the patient should complete the full 5 day treatment course per the healthcare provider's discretion.</p>
+                <p>If the patient misses a dose of PAXLOVID within 8 hours of the time it is usually taken, the patient should take it as soon as possible and resume the normal dosing schedule. If the patient misses a dose by more than 8 hours, the patient should not take the missed dose and instead take the next dose at the regularly scheduled time. The patient should not double the dose to make up for a missed dose.</p>
+                <p>PAXLOVID (both nirmatrelvir and ritonavir tablets) can be taken with or without food [see Pharmacokinetic properties(11)]. The tablets should be swallowed whole and not chewed, broken, or crushed.</p>
+                <p><b>3.3 Use in special populations</b></p>
+                <p><b>3.3.1 Important Dosing Information in Patients with Renal Impairment</b></p>
+                <p>No dosage adjustment is recommended in patients with mild renal impairment (eGFR ≥60 to &lt;90 mL/min).</p>
+                <p>In patients with moderate renal impairment (eGFR ≥30 to &lt;60 mL/min), the dosage of PAXLOVID is 150 mg nirmatrelvir (one 150 mg tablet) and 100 mg ritonavir (one 100 mg tablet) with both tablets taken together twice daily for 5 days [see Packaging and storage (13)]. Prescriptions should specify the numeric dose of each active ingredient within PAXLOVID.</p>
+                <p>PAXLOVID is not recommended in patients with severe renal impairment (eGFR &lt;30 mL/min) until more data are available; the appropriate dosage for patients with severe renal impairment has not been determined [see Precautions for specific populations (6.7) and Pharmacokinetic properties (11)]. </p> 
+                <p><b>3.3.2 Use in Patients with Hepatic Impairment</b></p>
+                <p>No dosage adjustment is needed in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment.</p>
+                <p>No pharmacokinetic or safety data are available regarding the use of nirmatrelvir or ritonavir in subjects with severe (Child-Pugh Class C) hepatic impairment; therefore, PAXLOVID is not recommended for use in patients with severe hepatic impairment [see Precautions for specific populations (6.6)].</p>
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="CONTRAINDICATIONS"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="34070-3"/>
+                <display value="CONTRAINDICATIONS"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>4. CONTRAINDICATIONS</b></p>
+                <p>PAXLOVID is contraindicated in patients with a history of clinically significant hypersensitivity reactions [e.g., toxic epidermal necrolysis (TEN) or Stevens-Johnson syndrome] to its active ingredients (nirmatrelvir or ritonavir) or any other components of the product.</p> 
+                <p>PAXLOVID is contraindicated with drugs that are primarily metabolized by CYP3A and for which elevated concentrations are associated with serious and/or life-threatening reactions and drugs that are strong CYP3A inducers where significantly reduced nirmatrelvir or ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance. There are certain other drugs for which concomitant use with PAXLOVID should be avoided and/or dose adjustment, interruption, or therapeutic monitoring is recommended. Drugs listed in this section are a guide and not considered a comprehensive list of all drugs that may be contraindicated with PAXLOVID. The healthcare provider should consult other appropriate resources such as the prescribing information for the interacting drug for comprehensive information on dosing or monitoring with concomitant use of a strong CYP3A inhibitor like PAXLOVID [see Interactions (7.3)]:</p>
+                <p>Drugs that are primarily metabolized by CYP3A for which elevated concentrations are associated with serious and/or life-threatening reactions [see Interactions (7.3)]:</p>
+                <lu>
+                  <li>Alpha1-adrenoreceptor antagonist: alfuzosin</li>
+                  <li>Antianginal: ranolazine</li>
+                  <li>Antiarrhythmic: amiodarone, dronedarone, flecainide, propafenone, quinidine</li>
+                  <li>Anti-gout: colchicine (in patients with renal and/or hepatic impairment [see Table 1, Interactions (7.3)])</li>
+                  <li>Antipsychotics: lurasidone, pimozide</li>
+                  <li>Benign prostatic hyperplasia agents: silodosin</li>
+                  <li>Cardiovascular agents: eplerenone, ivabradine</li>
+                  <li>Ergot derivatives: dihydroergotamine, ergotamine, methylergonovine</li>
+                  <li>HMG-CoA reductase inhibitors: lovastatin, simvastatin (these drugs can be temporarily discontinued to allow PAXLOVID use [see Table 1, Interactions (7.3)])</li>
+                  <li>Immunosuppressants: voclosporin</li>
+                  <li>Microsomal triglyceride transfer protein inhibitor: lomitapide</li>
+                  <li>Migraine medications: eletriptan, ubrogepant</li> 
+                  <li>Mineralocorticoid receptor antagonists: finerenone</li> 
+                  <li>Opioid antagonists: naloxegol</li> 
+                  <li>PDE5 inhibitor: sildenafil (Revatio®) when used for pulmonary arterial hypertension (PAH)</li> 
+                  <li>Sedative/hypnotics: triazolam, oral midazolam</li> 
+                  <li>Serotonin receptor 1A agonist/serotonin receptor 2A antagonist: flibanserin</li> 
+                  <li>Vasopressin receptor antagonists: tolvaptan</li> 
+                </lu>
+                <p>Drugs that are strong CYP3A inducers where significantly reduced nirmatrelvir or ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance. PAXLOVID cannot be started immediately after discontinuation of any of the following medications due to the delayed offset of the recently discontinued CYP3A inducer [see Drug Interactions (7.3)]:</p>
+                <lu>
+                  <li>Anticancer drugs: apalutamide</li>
+                  <li>Anticonvulsant: carbamazepine, phenobarbital, primidone, phenytoin</li>
+                  <li>Cystic fibrosis transmembrane conductance regulator potentiators: lumacaftor/ivacaftor</li>
+                  <li>Antimycobacterials: rifampin, rifapentine</li>
+                  <li>Herbal products: St. John's Wort (hypericum perforatum)</li>
+                </lu>
+              </div>
+            </text>
+          </section>
+          <section>
+            <title value="WARNINGS AND PRECAUTIONS"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="43685-7"/>
+                <display value="WARNINGS AND PRECAUTIONS"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>5. WARNINGS AND PRECAUTIONS</b></p>  
+                <p><b>5.1 Warnings/precautions</b></p> 
+                <p><b>5.1.1 Risk of Serious Adverse Reactions Due to Drug Interactions</b></p>
+                <p>Initiation of PAXLOVID, which contains ritonavir, a strong CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PAXLOVID, may increase plasma concentrations of medications metabolized by CYP3A.</p>
+                <p>Medications that induce CYP3A may decrease concentrations of PAXLOVID.</p> 
+                <p>These interactions may lead to:</p> 
+                <lu>
+                  <li>Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events from greater exposures of concomitant medications.</li>
+                  <li>Loss of therapeutic effect of PAXLOVID and possible development of viral resistance.</li>
+                </lu>
+                <p>Severe, life-threatening, and/or fatal adverse reactions due to drug interactions have been reported in patients treated with PAXLOVID. The most commonly reported concomitant medications resulting in serious adverse reactions were calcineurin inhibitors (e.g., tacrolimus, cyclosporine), followed by calcium channel blockers.</p>
+                <p>Prior to prescribing PAXLOVID, review all medications taken by the patient to assess potential drug-drug interactions and determine if concomitant medications require a dose adjustment, interruption, and/or additional monitoring (e.g., calcineurin inhibitors) [see Contraindications (4) and Interactions (7)]. See Table 1 for clinically significant drug interactions, including contraindicated drugs. Drugs listed in Table 1 are a guide and not considered a comprehensive list of all possible drugs that may interact with PAXLOVID.</p>
+                <p>Consider the benefit of PAXLOVID treatment in reducing hospitalization and death, and whether the risk of potential drug-drug interactions for an individual patient can be appropriately managed [see Interactions (7) and Clinical studies results (12)].</p>
+                <p><b>5.1.2 Hypersensitivity Reactions</b></p>
+                <p>Anaphylaxis, serious skin reactions (including Toxic Epidermal Necrolysis and Stevens-Johnson syndrome), and other hypersensitivity reactions have been reported with PAXLOVID [see Undesirable events/Adverse reactions (8.1)]. If signs and symptoms of a clinically significant hypersensitivity reaction or anaphylaxis occur, immediately discontinue PAXLOVID and initiate appropriate medications and/or supportive care.</p>
+                <p><b>5.1.3 Hepatotoxicity</b></p>
+                <p>Hepatic transaminase elevations, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir. Therefore, caution should be exercised when administering PAXLOVID to patients with pre existing liver diseases, liver enzyme abnormalities, or hepatitis.</p>
+                <p><b>5.1.4 Risk of HIV-1 Resistance Development</b></p>
+                <p>Because nirmatrelvir is co-administered with ritonavir, there may be a risk of HIV-1 developing resistance to HIV protease inhibitors in individuals with uncontrolled or undiagnosed HIV-1 infection [see Contraindications (4), and Interactions (7)].</p>
+              </div>
+              </text>
+
+          </section>
+          <section>
+            <title value="PRECAUTIONS FOR SPECIAL POPULATIONS"/>
+            <code>
+              <coding>
+                <system value="2.16.840.1.113883.6.1"/>
+                <code value="43684-0"/>
+                <display value="USE IN SPECIFIC POPULATIONS SECTION"/>
+              </coding>
+            </code>
+            <text>
+              <status value="generated"/>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>6. PRECAUTIONS FOR SPECIAL POPULATIONS</b></p>
+                <p><b>6.1 Pregnancy</b></p>
+                <p><u>Risk Summary</u></p>
+                <p>Available data on the use of nirmatrelvir during pregnancy are insufficient to evaluate for a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. Published observational studies on ritonavir use in pregnant women have not identified an increase in the risk of major birth defects. Published studies with ritonavir are insufficient to identify a drug associated risk of miscarriage (see Data). There are maternal and fetal risks associated with untreated COVID-19 in pregnancy (see Clinical Considerations).</p>
+                <p>In an embryo-fetal development study with nirmatrelvir, reduced fetal body weights following oral administration of nirmatrelvir to pregnant rabbits were observed at systemic exposures (AUC) approximately 11 times higher than clinical exposure at the approved human dose of PAXLOVID. No other adverse developmental outcomes were observed in animal reproduction studies with nirmatrelvir at systemic exposures (AUC) greater than or equal to 3 times higher than clinical exposure at the approved human dose of PAXLOVID (see Data).</p>
+                <p>In embryo-fetal developmental studies with ritonavir, no evidence of adverse developmental outcomes was observed following oral administration of ritonavir to pregnant rats and rabbits at systemic exposures (AUC) 5 (rat) or 8 (rabbits) times higher than clinical exposure at the approved human dose of PAXLOVID (see Data).</p>
+                <p>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</p>
+                <p><u>Clinical Considerations</u></p>
+                <p><i>Disease-associated Maternal and/or Embryo-fetal Risk</i></p>
+                <p>COVID-19 in pregnancy is associated with adverse maternal and fetal outcomes, including preeclampsia, eclampsia, preterm birth, premature rupture of membranes, venous thromboembolic disease, and fetal death.</p>
+                <p><u>Data</u></p>
+                <p><i>Human Data</i></p>
+                <p><u><i>Ritonavir</i></u></p>
+                <p>Based on prospective reports to the antiretroviral pregnancy registry of live births following exposure to ritonavir-containing regimens (including over 3,500 live births exposed in the first-trimester and over 3,500 live births exposed in the second and third trimesters), there was no difference in the rate of overall birth defects for ritonavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP). The prevalence of birth defects in live births was 2.4% [95% confidence interval (CI): 1.9%, 2.9%] following first-trimester exposure to ritonavir-containing regimens and 2.9% (95% CI: 2.4%, 3.5%) following second and third trimester exposure to ritonavir-containing regimens. While placental transfer of ritonavir and fetal ritonavir concentrations are generally low, detectable levels have been observed in cord blood samples and neonate hair.</p>
+                <p><i>Animal Data</i></p>
+                <p><u><i>Nirmatrelvir</i></u></p>
+                <p>Embryo-fetal developmental (EFD) toxicity studies were conducted in pregnant rats and rabbits administered oral nirmatrelvir doses of up to 1,000 mg/kg/day during organogenesis [on Gestation Days (GD) 6 through 17 in rats and GD 6 through 19 in rabbits]. No biologically significant developmental effects were observed in the rat EFD study. At the highest dose of 1,000 mg/kg/day, the systemic nirmatrelvir exposure (AUC24) in rats was approximately 9 times higher than clinical exposures at the approved human dose of PAXLOVID. In the rabbit EFD study, lower fetal body weights (9% decrease) were observed at 1,000 mg/kg/day in the absence of significant maternal toxicity findings. At 1,000 mg/kg/day, the systemic exposure (AUC24) in rabbits was approximately 11 times higher than clinical exposures at the approved human dose of PAXLOVID. No other significant developmental toxicities (malformations and embryo-fetal lethality) were observed up to the highest dose tested, 1,000 mg/kg/day. No developmental effects were observed in rabbits at 300 mg/kg/day resulting in systemic exposure (AUC24) approximately 3 times higher than clinical exposures at the approved human dose of PAXLOVID. A pre- and postnatal developmental (PPND) study in pregnant rats administered oral nirmatrelvir doses of up to 1,000 mg/kg/day from GD 6 through Lactation Day (LD) 20 showed no adverse findings. Although no difference in body weight was noted at birth when comparing offspring born to nirmatrelvir-treated versus control animals, a decrease in the body weight of offspring was observed on Postnatal Day (PND) 17 (8% decrease) and PND 21 (up to 7% decrease) in the absence of maternal toxicity. No significant differences in offspring body weight were observed from PND 28 to PND 56. The maternal systemic exposure (AUC24) at 1,000 mg/kg/day was approximately 9 times higher than clinical exposures at the approved human dose of PAXLOVID. No body weight changes in the offspring were noted at 300 mg/kg/day, where maternal systemic exposure (AUC24) was approximately 6 times higher than clinical exposures at the approved human dose of PAXLOVID.</p>
+                <p><u><i>Ritonavir</i></u></p>
+                <p>Ritonavir was administered orally to pregnant rats (at 0, 15, 35, and 75 mg/kg/day) and rabbits (at 0, 25, 50, and 110 mg/kg/day) during organogenesis (on GD 6 through 17 in rats and GD 6 through 19 in rabbits). No evidence of teratogenicity due to ritonavir was observed in rats and rabbits at systemic exposures (AUC) 5 (rats) or 8 (rabbits) times higher than exposure at the approved human dose of PAXLOVID. Increased incidences of early resorptions, ossification delays, and developmental variations, as well as decreased fetal body weights were observed in rats in the presence of maternal toxicity, at systemic exposures (AUC) approximately 10 times higher than exposure at the approved human dose of PAXLOVID. In rabbits, resorptions, decreased litter size, and decreased fetal weights were observed at maternally toxic doses, at systemic exposures greater than 8 times higher than exposure at the approved human dose of PAXLOVID. In a pre and postnatal development (PPND) study in rats, administration of 0, 15, 35, and 60 mg/kg/day ritonavir from GD 6 through PND 20 resulted in no developmental toxicity, at ritonavir systemic exposures greater than 10 times the exposure at the approved human dose of PAXLOVID.</p>
+              
+              </div>
+            </text>
+          </section>
+        </section>
+      </Composition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:e7fec37a-af43-4b91-9ec3-e7b2c5cb869b"/>
+    <resource>
+      <Organization>
+        <id value="e7fec37a-af43-4b91-9ec3-e7b2c5cb869b"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://mcp.fda.gov.tw/"/>
+          <value value="e7fec37a-af43-4b91-9ec3-e7b2c5cb869b"/>
+        </identifier>
+        <active value="true"/>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000034"/>
+            <display value="Marketing authorisation holder"/>
+          </coding>
+        </type>
+        <name value="Pfizer Pharmaceutical Co., Ltd"/>
+        <contact>
+          <address>
+            <use value="work"/>
+            <type value="physical"/>
+            <text value="42, 43F., No. 100, Songren Road, Xinyi District, Taipei City, Taiwan"/>
+            <line value="42, 43F., No. 100, Songren Road, Xinyi District"/>
+            <city value="Taipei City"/>
+            <country value="TW"/>
+          </address>
+        </contact>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000033"/>
+            <display value="Manufacturer"/>
+          </coding>
+        </type>
+        <name value="Pfizer Manufacturing Deutschland GmbH"/>
+        <contact>
+          <address>
+            <use value="work"/>
+            <type value="physical"/>
+            <text value="Mooswaldallee 1, Bruehl, Freiburg Im Breisgau, Baden-Wuerttemberg, 79108, Germany"/>
+            <line value="Mooswaldallee 1, Bruehl, Freiburg Im Breisgau, Baden-Wuerttemberg"/>
+            <city value="Freiburg Im Breisgau"/>
+            <country value="DE"/>
+          </address>
+        </contact>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000033"/>
+            <display value="Manufacturer"/>
+          </coding>
+        </type>
+        <name value="Pfizer Italia S.r.L"/>
+        <contact>
+          <address>
+            <use value="work"/>
+            <type value="physical"/>
+            <text value="Localita Marino Del Tronto, Ascoli Piceno, AP, 63100, Italy"/>
+            <line value="Localita Marino Del Tronto"/>
+            <city value="Ascoli Piceno"/>
+            <country value="IT"/>
+          </address>
+        </contact>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000033"/>
+            <display value="Manufacturer"/>
+          </coding>
+        </type>
+        <name value="Hetero Labs Ltd., Unit III"/>
+        <contact>
+          <address>
+            <use value="work"/>
+            <type value="physical"/>
+            <text value="22-110, Industrial Development Area, Jeedimetla, Hyderabad, Telangana, India, 500055."/>
+            <line value="22-110, Industrial Development Area"/>
+            <city value="Telangana"/>
+            <country value="IN"/>
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <system value="https://mcp.fda.gov.tw/"/>
+          <value value="cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type"/>
+            <code value="MedicinalProduct"/>
+            <display value="Medicinal Product"/>
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain"/>
+            <code value="Human"/>
+            <display value="Human use"/>
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active"/>
+            <display value="Active"/>
+          </coding>
+        </status>
+        <statusDate value="2024-01-31T00:00:00Z"/>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="http://hl7.org/fhir/legal-status-of-supply"/>
+            <code value="100000072084"/>
+            <display value="Medicinal product subject to medical prescription"/>
+          </coding>
+        </legalStatusOfSupply>
+        <classification>
+					<coding>
+						<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
+						<code value="J05AE30"/>
+						<display value="antivirals protease inhibitors"/>
+					</coding>
+				</classification>
+        <route>
+					<coding>
+						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
+						<code value="26643006"/>
+						<display value="Oral route"/>
+					</coding>
+				</route>
+        <name>
+          <productName value="PAXLOVID 150 mg/100 mg film-coated tablets"/>
+          <usage>
+            <country>
+              <coding>
+                <system value="http://hl7.org/fhir/ValueSet/country"/>
+                <code value="TW"/>
+                <display value="Taiwan"/>
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
+                <code value="TW"/>
+                <display value="Taiwan"/>
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="http://hl7.org/fhir/ValueSet/all-languages"/>
+                <code value="en"/>
+                <display value="English"/>
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:9597af0f-64da-44eb-a05a-b302e2e5eb1d"/>
+    <resource>
+      <PackagedProductDefinition>
+        <id value="9597af0f-64da-44eb-a05a-b302e2e5eb1d"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://mcp.fda.gov.tw/"/>
+          <value value="594b9632-affb-4108-88ac-caad7541af00"/>
+        </identifier>
+        <name value="PAXLOVID 150 mg/100 mg film-coated tablets blister x 30 tablets"/>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type"/>
+            <code value="MedicinalProduct"/>
+            <display value="Medicinal Product"/>
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="urn:uuid:cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active"/>
+            <display value="Active"/>
+          </coding>
+        </status>
+        <statusDate value="2018-06-23T08:38:00+02:00"/>
+        <containedItemQuantity>
+          <value value="150/100"/>
+          <unit value="mg"/>
+        </containedItemQuantity>
+        <packaging>
+          <identifier>
+            <system value="https://mcp.fda.gov.tw/"/>
+            <value value="aeae17de-9dd9-4f67-86ad-2c078f60a445"/>
+          </identifier>
+          <type>
+            <coding>
+              <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
+              <code value="100000073496"/>
+              <display value="Blister"/>
+            </coding>
+          </type>
+          <quantity value="30"/>
+          <material>
+            <coding>
+              <system value="http://hl7.org/fhir/package-material"/>
+              <code value="200000003210"/>
+              <display value="Orientated PolyAmide"/>
+            </coding>
+            <coding>
+              <system value="http://hl7.org/fhir/package-material"/>
+              <code value="200000003200"/>
+              <display value="Aluminium"/>
+            </coding>
+            <coding>
+              <system value="http://hl7.org/fhir/package-material"/>
+              <code value="200000003222"/>
+              <display value="PolyVinyl Chloride"/>
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:4e0f663a-3b69-41cf-a3c0-416206d0deee"/>
+    <resource>
+      <AdministrableProductDefinition>
+        <id value="4e0f663a-3b69-41cf-a3c0-416206d0deee"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <system value="https://www.who-umc.org/phpid"/>
+          <value value="236b14ee-38bc-41ec-801a-b2c229a75e64"/>
+        </identifier>
+        <status value="active"/>
+        <formOf>
+          <reference value="urn:uuid:cfaeff60-72ff-42e0-bf17-d56db0f2da16"/>
+        </formOf>
+        <administrableDoseForm>
+          <coding>
+            <system value="http://hl7.org/fhir/administrable-dose-form"/>
+            <code value="100000073665"/>
+            <display value="Film-coated tablet"/>
+          </coding>
+        </administrableDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="http://hl7.org/fhir/unit-of-presentation"/>
+            <code value="200000002152"/>
+            <display value="Tablet"/>
+          </coding>
+        </unitOfPresentation>
+        <producedFrom>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </producedFrom>
+        <routeOfAdministration>
+          <code>
+            <coding>
+              <system value="http://snomed.info/sct"/>
+              <code value="26643006"/>
+              <display value="Oral route"/>
+            </coding>
+          </code>
+        </routeOfAdministration>
+      </AdministrableProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+    <resource>
+      <ManufacturedItemDefinition>
+        <id value="3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://mcp.fda.gov.tw/"/>
+          <value value="473f236d-9d51-47e7-9e27-576be2c266a1"/>
+        </identifier>
+        <status value="active"/>
+        <manufacturedDoseForm>
+          <coding>
+            <system value="http://hl7.org/fhir/manufactured-dose-form"/>
+            <code value="100000073665"/>
+            <display value="Film-coated tablet"/>
+          </coding>
+        </manufacturedDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="http://hl7.org/fhir/unit-of-presentation"/>
+            <code value="200000002152"/>
+            <display value="Tablet"/>
+          </coding>
+        </unitOfPresentation>
+      </ManufacturedItemDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:745c01bc-936e-45ca-9880-57e97608f43e"/>
+    <resource>
+      <Ingredient>
+        <id value="745c01bc-936e-45ca-9880-57e97608f43e"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="7R9A5P7H32"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072072"/>
+            <display value="Active"/>
+          </coding>
+        </role>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="7R9A5P7H32"/>
+                <display value="Nirmatrelvir"/>
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="150"/>
+              <unit value="mg"/>
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass"/>
+                <code value="ACTI"/>
+              </coding>
+              <text value="active ingredient"/>
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:792d123b-b476-4846-8c37-257cb02015f8"/>
+    <resource>
+      <Ingredient>
+        <id value="792d123b-b476-4846-8c37-257cb02015f8"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="O3J8G9O825"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072072"/>
+            <display value="Active"/>
+          </coding>
+        </role>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="O3J8G9O825"/>
+                <display value="Ritonavir"/>
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="100"/>
+              <unit value="mg"/>
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass"/>
+                <code value="ACTI"/>
+              </coding>
+              <text value="active ingredient"/>
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:09c13040-8fd5-4818-972d-f01d4ee169b6"/>
+    <resource>
+      <Ingredient>
+        <id value="09c13040-8fd5-4818-972d-f01d4ee169b6"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="ETJ7Z6XBU4"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="ETJ7Z6XBU4"/>
+                <display value="Silicon dioxide, colloidal"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:80c1871d-955b-452c-b486-1c008a49f94e"/>
+    <resource>
+      <Ingredient>
+        <id value="80c1871d-955b-452c-b486-1c008a49f94e"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="M28OL1HH48"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="M28OL1HH48"/>
+                <display value="Croscarmellose sodium"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:87772b11-f10f-4000-bcc5-6331da1317d9"/>
+    <resource>
+      <Ingredient>
+        <id value="87772b11-f10f-4000-bcc5-6331da1317d9"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="EWQ57Q8I5X"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="EWQ57Q8I5X"/>
+                <display value="Lactose monohydrate"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:a70e0d77-7023-4f0a-8543-29b88b79e3fb"/>
+    <resource>
+      <Ingredient>
+        <id value="a70e0d77-7023-4f0a-8543-29b88b79e3fb"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="OP1R32D61U"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="OP1R32D61U"/>
+                <display value="Microcrystalline cellulose"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:d0ec45e8-1b9a-4ffb-af8c-a3cbf40b7cbd"/>
+    <resource>
+      <Ingredient>
+        <id value="d0ec45e8-1b9a-4ffb-af8c-a3cbf40b7cbd"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="7CV7WJK4UI"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="7CV7WJK4UI"/>
+                <display value="Sodium stearyl fumarate"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:5a2530c8-4599-4fb3-b0e2-df8b29b03bba"/>
+    <resource>
+      <Ingredient>
+        <id value="5a2530c8-4599-4fb3-b0e2-df8b29b03bba"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="3NXW29V3WO"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="3NXW29V3WO"/>
+                <display value="Hydroxypropyl methylcellulose"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:b717362f-5bdc-4618-8e40-81171e75cd2d"/>
+    <resource>
+      <Ingredient>
+        <id value="b717362f-5bdc-4618-8e40-81171e75cd2d"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="1K09F3G675"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="1K09F3G675"/>
+                <display value="Iron oxide red"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:9d9a4607-9728-40f5-9f0f-3f190416a527"/>
+    <resource>
+      <Ingredient>
+        <id value="9d9a4607-9728-40f5-9f0f-3f190416a527"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="3WJQ0SDW1A"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+          <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="3WJQ0SDW1A"/>
+                <display value="Polyethylene glycol"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+    <resource>
+      <Ingredient>
+        <id value="3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="15FIX9V2JP"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="15FIX9V2JP"/>
+                <display value="Titanium Dioxide"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+    <resource>
+      <Ingredient>
+        <id value="3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="15FIX9V2JP"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="15FIX9V2JP"/>
+                <display value="Titanium Dioxide"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:dacf1690-984b-4b75-b39c-9ab42f0ed662"/>
+    <resource>
+      <Ingredient>
+        <id value="dacf1690-984b-4b75-b39c-9ab42f0ed662"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="D9C330MD8B"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="D9C330MD8B"/>
+                <display value="Copovidone"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+    <resource>
+      <Ingredient>
+        <id value="3fc6c9e0-da0f-44d6-93b7-16590597f7b6"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="6W9PS8B71J"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="6W9PS8B71J"/>
+                <display value="Sorbitan laurate"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:73445cfe-fcfc-4e6a-9c4a-8ef53cfc5095"/>
+    <resource>
+      <Ingredient>
+        <id value="73445cfe-fcfc-4e6a-9c4a-8ef53cfc5095"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="ETJ7Z6XBU4"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="ETJ7Z6XBU4"/>
+                <display value="Silica colloidal anhydrous"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:96ab37c6-19e1-42a1-ba44-b547e736cbad"/>
+    <resource>
+      <Ingredient>
+        <id value="96ab37c6-19e1-42a1-ba44-b547e736cbad"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="L11K75P92J"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="L11K75P92J"/>
+                <display value="Calcium hydrogen phosphate anhydrous"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:2aeb8dda-b7f6-4156-9328-7cbcbd6d6328"/>
+    <resource>
+      <Ingredient>
+        <id value="2aeb8dda-b7f6-4156-9328-7cbcbd6d6328"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="3NXW29V3WO"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="3NXW29V3WO"/>
+                <display value="Hypromellose"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:3e1df278-c76a-4c00-991a-80e399a6ea20"/>
+    <resource>
+      <Ingredient>
+        <id value="3e1df278-c76a-4c00-991a-80e399a6ea20"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="9XZ8H6N6OH"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="9XZ8H6N6OH"/>
+                <display value="Hydroxypropyl cellulose"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:cc341cf7-e010-4d71-bda5-06cc7f09974f"/>
+    <resource>
+      <Ingredient>
+        <id value="cc341cf7-e010-4d71-bda5-06cc7f09974f"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="7SEV7J4R1U"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="7SEV7J4R1U"/>
+                <display value="Talc"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:cc341cf7-e010-4d71-bda5-06cc7f09974f"/>
+    <resource>
+      <Ingredient>
+        <id value="cc341cf7-e010-4d71-bda5-06cc7f09974f"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+          <value value="6OZP39ZG8H"/>
+        </identifier>
+        <status value="active"/>
+        <for>
+        <reference value="urn:uuid:3214f286-b8ec-4ef5-bc8d-0aec39d97468"/>
+        </for>
+        <role>
+          <coding>
+            <system value="http://hl7.org/fhir/ingredient-role"/>
+            <code value="100000072082"/>
+            <display value="Excipient"/>
+          </coding>
+        </role>
+        <manufacturer>
+        </manufacturer>
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/"/>
+                <code value="6OZP39ZG8H"/>
+                <display value="polysorbate 80"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:7f19fe21-8a9b-4ee9-945f-872be96703ff"/>
+    <resource>
+      <SubstanceDefinition>
+        <id value="7f19fe21-8a9b-4ee9-945f-872be96703ff"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta"/>
+          <value value="7R9A5P7H32"/>
+        </identifier>
+        <version value="1"/>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active"/>
+          </coding>
+        </status>
+        <description value="Pink, oval, debossing of 'PFE' on one side and '3CL' on the other side."/>
+        <molecularWeight>
+          <type>
+            <text value="exact"/>
+          </type>
+          <amount>
+            <value value="499.53"/>
+          </amount>
+        </molecularWeight>
+        <structure>
+          <molecularFormula value="C23H32F3N5O4"/>
+        </structure>
+        <name>
+          <name value="Nirmatrelvir"/>
+          <type>
+            <coding>
+              <system value="http://hl7.org/fhir/substance-name-type"/>
+              <code value="Scientific"/>
+            </coding>
+            <text value="Scientific"/>
+          </type>
+        </name>
+      </SubstanceDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:b0846e21-502f-4e34-adbe-f73f6962ac8f"/>
+    <resource>
+      <SubstanceDefinition>
+        <id value="b0846e21-502f-4e34-adbe-f73f6962ac8f"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta"/>
+          <value value="O3J8G9O825"/>
+        </identifier>
+        <version value="1"/>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active"/>
+          </coding>
+        </status>
+        <description value="White to off white, capsule shaped film coated tablets, debossed with 'H' on one side and 'R9' on other side"/>
+        <molecularWeight>
+          <type>
+            <text value="exact"/>
+          </type>
+          <amount>
+            <value value="720.95"/>
+          </amount>
+        </molecularWeight>
+        <structure>
+          <molecularFormula value="C37H48N6O5S2"/>
+        </structure>
+        <name>
+          <name value="Ritonavir"/>
+          <type>
+            <coding>
+              <system value="http://hl7.org/fhir/substance-name-type"/>
+              <code value="Scientific"/>
+            </coding>
+            <text value="Scientific"/>
+          </type>
+        </name>
+      </SubstanceDefinition>
+    </resource>
+  </entry>
+</Bundle>
