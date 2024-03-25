@@ -295,14 +295,14 @@
             <display value="Marketing authorisation holder"/>
           </coding>
         </type>
-        <name value="Pfizer Pharmaceutical Co., Ltd"/>
+        <name value="輝瑞大藥廠股份有限公司"/>
         <contact>
           <address>
             <use value="work"/>
             <type value="physical"/>
-            <text value="42, 43F., No. 100, Songren Road, Xinyi District, Taipei City, Taiwan"/>
-            <line value="42, 43F., No. 100, Songren Road, Xinyi District"/>
-            <city value="Taipei City"/>
+            <text value="台北市信義區松仁路100號42、43樓"/>
+            <line value="台北市信義區松仁路100號42、43樓"/>
+            <city value="台北市"/>
             <country value="TW"/>
           </address>
         </contact>
@@ -430,14 +430,14 @@
           <coding>
             <system value="http://hl7.org/fhir/medicinal-product-type"/>
             <code value="MedicinalProduct"/>
-            <display value="Medicinal Product"/>
+            <display value="医药产品"/>
           </coding>
         </type>
         <domain>
           <coding>
             <system value="http://hl7.org/fhir/medicinal-product-domain"/>
             <code value="Human"/>
-            <display value="Human use"/>
+            <display value="人类使用"/>
           </coding>
         </domain>
         <status>
@@ -452,25 +452,25 @@
           <coding>
             <system value="http://hl7.org/fhir/legal-status-of-supply"/>
             <code value="100000072084"/>
-            <display value="Medicinal product subject to medical prescription"/>
+            <display value="药品须遵守医生处方"/>
           </coding>
         </legalStatusOfSupply>
         <classification>
 					<coding>
 						<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
 						<code value="J05AE30"/>
-						<display value="antivirals protease inhibitors"/>
+						<display value="抗病毒药物 蛋白酶抑制剂"/>
 					</coding>
 				</classification>
         <route>
 					<coding>
 						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
 						<code value="26643006"/>
-						<display value="Oral route"/>
+						<display value="口服途径"/>
 					</coding>
 				</route>
         <name>
-          <productName value="PAXLOVID 150 mg/100 mg film-coated tablets"/>
+          <productName value="倍拉維150毫克/100毫克膜衣錠"/>
           <usage>
             <country>
               <coding>
@@ -489,8 +489,8 @@
             <language>
               <coding>
                 <system value="http://hl7.org/fhir/ValueSet/all-languages"/>
-                <code value="en"/>
-                <display value="English"/>
+                <code value="zh"/>
+                <display value="Chinese"/>
               </coding>
             </language>
           </usage>
@@ -511,12 +511,12 @@
           <system value="https://mcp.fda.gov.tw/"/>
           <value value="594b9632-affb-4108-88ac-caad7541af00"/>
         </identifier>
-        <name value="PAXLOVID 150 mg/100 mg film-coated tablets blister x 30 tablets"/>
+        <name value="倍拉維150毫克/100毫克膜衣錠 吸塑包装 x 30 顆錠劑"/>
         <type>
           <coding>
             <system value="http://hl7.org/fhir/medicinal-product-type"/>
             <code value="MedicinalProduct"/>
-            <display value="Medicinal Product"/>
+            <display value="医药产品"/>
           </coding>
         </type>
         <packageFor>
@@ -529,10 +529,10 @@
             <display value="Active"/>
           </coding>
         </status>
-        <statusDate value="2018-06-23T08:38:00+02:00"/>
+        <statusDate value="2024-01-31 Time: 00:00:00Z"/>
         <containedItemQuantity>
           <value value="150/100"/>
-          <unit value="mg"/>
+          <unit value="毫克"/>
         </containedItemQuantity>
         <packaging>
           <identifier>
@@ -543,7 +543,7 @@
             <coding>
               <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
               <code value="100000073496"/>
-              <display value="Blister"/>
+              <display value="吸塑包装"/>
             </coding>
           </type>
           <quantity value="30"/>
@@ -588,14 +588,14 @@
           <coding>
             <system value="http://hl7.org/fhir/administrable-dose-form"/>
             <code value="100000073665"/>
-            <display value="Film-coated tablet"/>
+            <display value="膜衣錠"/>
           </coding>
         </administrableDoseForm>
         <unitOfPresentation>
           <coding>
             <system value="http://hl7.org/fhir/unit-of-presentation"/>
             <code value="200000002152"/>
-            <display value="Tablet"/>
+            <display value="顆錠劑"/>
           </coding>
         </unitOfPresentation>
         <producedFrom>
@@ -606,7 +606,7 @@
             <coding>
               <system value="http://snomed.info/sct"/>
               <code value="26643006"/>
-              <display value="Oral route"/>
+              <display value="口服途径"/>
             </coding>
           </code>
         </routeOfAdministration>
@@ -633,14 +633,14 @@
           <coding>
             <system value="http://hl7.org/fhir/administrable-dose-form"/>
             <code value="100000073665"/>
-            <display value="Film-coated tablet"/>
+            <display value="膜衣錠"/>
           </coding>
         </administrableDoseForm>
         <unitOfPresentation>
           <coding>
             <system value="http://hl7.org/fhir/unit-of-presentation"/>
             <code value="200000002152"/>
-            <display value="Tablet"/>
+            <display value="顆錠劑"/>
           </coding>
         </unitOfPresentation>
         <producedFrom>
@@ -651,7 +651,7 @@
             <coding>
               <system value="http://snomed.info/sct"/>
               <code value="26643006"/>
-              <display value="Oral route"/>
+              <display value="口服途径"/>
             </coding>
           </code>
         </routeOfAdministration>
@@ -671,20 +671,20 @@
           <system value="https://mcp.fda.gov.tw/"/>
           <value value="473f236d-9d51-47e7-9e27-576be2c266a1"/>
         </identifier>
-        <name value="Nirmatrelvir 150 mg Film-Coated Tablets"/>
+        <name value="Nirmatrelvir 150毫克膜衣錠"/>
         <status value="active"/>
         <manufacturedDoseForm>
           <coding>
             <system value="http://hl7.org/fhir/manufactured-dose-form"/>
             <code value="100000073665"/>
-            <display value="Film-coated tablet"/>
+            <display value="膜衣錠"/>
           </coding>
         </manufacturedDoseForm>
         <unitOfPresentation>
           <coding>
             <system value="http://hl7.org/fhir/unit-of-presentation"/>
             <code value="200000002152"/>
-            <display value="Tablet"/>
+            <display value="顆錠劑"/>
           </coding>
         </unitOfPresentation>
         <manufacturer>
@@ -709,20 +709,20 @@
           <system value="https://mcp.fda.gov.tw/"/>
           <value value="3ab80f4d-3932-47cd-89c6-c480006fd7cc"/>
         </identifier>
-        <name value="Ritonavir 100 mg Film-Coated Tablets"/>
+        <name value="Ritonavir 100毫克膜衣錠"/>
         <status value="active"/>
         <manufacturedDoseForm>
           <coding>
             <system value="http://hl7.org/fhir/manufactured-dose-form"/>
             <code value="100000073665"/>
-            <display value="Film-coated tablet"/>
+            <display value="膜衣錠"/>
           </coding>
         </manufacturedDoseForm>
         <unitOfPresentation>
           <coding>
             <system value="http://hl7.org/fhir/unit-of-presentation"/>
             <code value="200000002152"/>
-            <display value="Tablet"/>
+            <display value="顆錠劑"/>
           </coding>
         </unitOfPresentation>
         <manufacturer>
@@ -776,7 +776,7 @@
           <strength>
             <presentationQuantity>
               <value value="150"/>
-              <unit value="mg"/>
+              <unit value="毫克"/>
             </presentationQuantity>
             <basis>
               <coding>
@@ -827,7 +827,7 @@
           <strength>
             <presentationQuantity>
               <value value="100"/>
-              <unit value="mg"/>
+              <unit value="毫克"/>
             </presentationQuantity>
             <basis>
               <coding>
