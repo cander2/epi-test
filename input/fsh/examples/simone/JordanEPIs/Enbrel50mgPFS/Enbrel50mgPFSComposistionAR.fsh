@@ -338,7 +338,7 @@ Usage: #inline
   </div>"""
 
 * section[=].section[+]
-  * title = "7. تعليمات تحضير وإعطاء حقنة من إنبريل "
+  * title = "7. تعليمات تحضير وإعطاء حقنة من إنبريل"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "7. Instructions for preparing and giving an injection of x"
   * text.status = #additional
