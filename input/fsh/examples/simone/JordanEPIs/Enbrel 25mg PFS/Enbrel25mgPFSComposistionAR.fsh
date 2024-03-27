@@ -67,7 +67,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>  
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">  
         <p><b>®إنبريل</b></p>
 <p>إتانيرسيبت</p>
 <p>محلول 25 مجم للحقن معبأ في محقنة مسبقة التعبئة</p>
