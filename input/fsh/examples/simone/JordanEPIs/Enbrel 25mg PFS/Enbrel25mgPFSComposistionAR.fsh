@@ -61,7 +61,6 @@ Usage: #inline
   * valueReference
     * reference = "#Diagram2"
 
-
 * section[+].
   * title = "النشرة الداخلية: معلومات للمريض"
   * code = https://www.jfda.jo/#100000155538
