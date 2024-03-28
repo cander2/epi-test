@@ -80,7 +80,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "Package leaflet: Information for the patient"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
          <p><b>نشرة العبوة: معلومات للمستخدم</b></p>
 <p><b>محلول إنبريل 25 مجم للحقن معبأ في محقنة مسبقة التعبئة</b></p>
 <p>إتانيرسيبت</p>
@@ -104,7 +104,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "What is in this leaflet"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
      
            <p>يتم تنظيم المعلومات الواردة في هذه النشرة في الأقسام الـ7 التالية:</p>
 <ol>
@@ -124,7 +124,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "1. What x is and what it is used for"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
  <p>إن إنبريل هو دواء يتم تصنيعه من نوعين من البروتينات البشرية. وهو يوقف نشاط بروتين آخر في الجسم يسبب الالتهاب. ويعمل إنبريل على تقليل الالتهاب المرتبط ببعض الأمراض.</p>
 <p>بالنسبة للبالغين (من سن 18 سنة فأعلى)، فإنه يمكن استخدام إنبريل لعلاج <b>التهاب المفاصل الروماتويدي</b> المتوسط أو الحاد و<b>التهاب المفاصل الصدفي</b> ، والالتهاب الفقري المفصلي اللاصق الحاد و يشمل <b>التهاب الفقار المقسط </b>(التهاب الفقرات التصلبي) و<b>الصدفية</b> المتوسطة أو الحادة - وفي كل حالة يُستخدم عادةً عندما لا تعمل أنواع العلاج الأخرى واسعة الاستخدام جيدًا بالقدر الكافي أو عندما لا تكون ملائمة لك.</p>
 <p>بالنسبة لالتهاب المفاصل الروماتويدي، فإن إنبريل يستخدم عادة بالتزامن مع دواء يسمى ميثوتريكسات، على الرغم من أنه يمكن أن يستخدم بمفرده أيضًا إذا كان العلاج بميثوتريكسات ليس ملائمًا لك. وبغض النظر عن استخدامه بمفرده أو بالتزامن مع ميثوتريكسات، فإن إنبريل يمكن أن يبطئ من معدلات حدوث الأضرار التي تحدث لمفاصلك بسبب الالتهاب الروماتيزمي للمفاصل ويحسن من قدرتك على تنفيذ الأنشطة اليومية.</p>
@@ -148,7 +148,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "2. What you need to know before you take x"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
 <p><b>يُحظر استخدام إنبريل</b></p>
 <ul>
 <li>إذا كنت، أو كان الطفل الذي تقوم برعايته يعاني من حساسية تجاه إيتانيرسيبت أو أي مكونات أخرى لإنبريل المدرجة في قسم 6. إذا حدث لك أو لطفلك تفاعلات حساسية مثل ضيق الصدر، التنفس بصفير، الدوخة أو الطفح الجلدي، فلا تحقن أي كميات أخرى من إنبريل، واتصل بطبيبك في الحال.</li>
@@ -200,7 +200,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "3. How to take x"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
      <p>استخدم هذا الدواء دائمًا كما أخبرك طبيبك بالضبط. راجع الطبيب أو الصيدلي إذا لم تكن متأكدًا.</p>
 <p>إذا شعرت أن تأثير إنبريل قوي جدًا أو ضعيف جدًا، فتحدث إلى الطبيب أو الصيدلي.</p>
 <p>تتوفر المحقنة مسبقة التعبئة بتركيزات جرعات 25 مجم و50 مجم.</p>
@@ -236,7 +236,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "4. Possible side effects"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
 <p>مثل جميع الأدوية، يمكن أن يتسبب هذا الدواء في حدوث آثار جانبية، ومع ذلك فهي لا تحدث مع الجميع.</p>
 <p><b>أعراض الحساسية</b></p>
 <p>إذا حدث أي مما يلي، لا تحقن كميات أخرى من إنبريل. أخبر طبيبك في الحال أو اذهب إلى قسم (جناح) الإصابات في أقرب مستشفى.</p>
@@ -297,7 +297,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "5. How to store x"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
 <p>احفظ هذا الدواء بعيدًا عن مرأى ومتناول الأطفال.</p>
 <p>لا تستخدم هذا الدواء بعد انتهاء تاريخ الصلاحية المكتوب على العبوة والمحقنة مسبقة التعبئة بعد "EXP". يشير تاريخ انتهاء الصلاحية إلى آخر يوم من ذلك الشهر.</p>
 <p>يُحفظ في المُبرِّد (الثلاجة) (في درجة حرارة من 2 - 8درجات مئوية). يجب عدم تجميده.</p>
@@ -313,7 +313,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "6. Contents of the pack and other information"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
 <p><b>مكونات إنبريل</b></p>
 <p><u>محلول إنبريل </u><u>25</u><u> مجم للحقن المعبأ في محقنة مسبقة التعبئة</u></p>
 <p>المادة الفعالة في إنبريل هي إتانيرسيبت. تحتوي كل محقنة مسبقة التعبئة على 0.5 مل من المحلول، مما يوفر 25 مجم من إتانيرسيبت.</p>
@@ -338,7 +338,7 @@ Usage: #inline
   * code = https://www.jfda.jo/#100000155538
   * code.text = "7. Instructions for preparing and giving an injection of x"
   * text.status = #additional
-  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml' dir="rtl">
 <p>يُقسَم هذا القسم إلى الأقسام الفرعية التالية:</p>
 <p><b>مقدمة</b></p>
 <p><b>الخطوة 1: التجهيز للحقن</b></p>
