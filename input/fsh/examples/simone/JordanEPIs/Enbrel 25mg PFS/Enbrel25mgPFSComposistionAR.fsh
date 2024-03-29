@@ -119,7 +119,7 @@ Usage: #inline
 </div>"""   
           
 * section[=].section[+]
-  * title = "1. ما هو زيثروماكس وفيم يستخدم "
+  * title = "1. ما هو إنبريل وفيم يستخدم "
   * code = https://www.jfda.jo/#100000155538
   * code.text = "1. What x is and what it is used for"
   * text.status = #additional
@@ -143,7 +143,7 @@ Usage: #inline
   </div>"""   
           
 * section[=].section[+]
-  * title = "2. ما تحتاج إلى معرفته قبل أن تتناول زيثروماكس"
+  * title = "2. ما ينبغي عليك معرفته قبل استخدام إنبريل "
   * code = https://www.jfda.jo/#100000155538
   * code.text = "2. What you need to know before you take x"
   * text.status = #additional
@@ -195,7 +195,7 @@ Usage: #inline
   </div>"""   
                     
 * section[=].section[+]
-  * title = "3. كيفية تناول زيثروماكس"
+  * title = "3. طريقة استخدام إنبريل"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "3. How to take x"
   * text.status = #additional
@@ -292,7 +292,7 @@ Usage: #inline
   </div>"""      
         
 * section[=].section[+]
-  * title = "5. كيفية تخزين زيثروماكس"
+  * title = "5. كيفية تخزين إنبريل"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "5. How to store x"
   * text.status = #additional
@@ -333,7 +333,7 @@ Usage: #inline
   </div>"""
 
 * section[=].section[+]
-  * title = "7. تعليمات تحضير وإعطاء حقنة من إنبريل "
+  * title = "7. تعليمات تحضير وإعطاء حقنة من إنبريل"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "7. Instructions for preparing and giving an injection of x"
   * text.status = #additional
