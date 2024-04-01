@@ -62,3 +62,19 @@ Usage: #inline
 </tbody>
 </table>
   </div>"""   
+* section[=].section[+]
+  * title = "	ما هي محتويات هذه النشرة"
+  * code = https://www.jfda.jo/#100000155538
+  * code.text = "What is in this leaflet"
+  * text.status = #additional
+  * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
+        <p><b>	ما هي محتويات هذه النشرة: </b></p>
+        <ol>
+            <li>	ما هو جينوتروبين وفيم يستخدم</li>
+            <li>	ما ينبغي عليك معرفته قبل أن تستخدم جينوتروبين</li>
+            <li>كيفية استخدام جينوتروبين</li>
+            <li>الآثار الجانبية المحتملة</li>
+            <li>كيفية تخزين جينوتروبين</li>
+            <li>محتويات العبوة ومعلومات أخرى</li>
+        </ol>
+</div>"""   
