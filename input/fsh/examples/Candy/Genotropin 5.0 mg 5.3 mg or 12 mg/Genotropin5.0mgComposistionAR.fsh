@@ -247,7 +247,7 @@ Usage: #inline
 
   </div>""" 
 * section[=].section[+]
-	  * title = " 4.الآثار الجانبية المحتملة"
+  * title = " 4.الآثار الجانبية المحتملة"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "4. Possible side effects"
   * text.status = #additional
