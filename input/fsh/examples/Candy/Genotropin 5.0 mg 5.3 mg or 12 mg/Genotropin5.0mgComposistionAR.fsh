@@ -252,4 +252,4 @@ Usage: #inline
   * code.text = "4. Possible side effects"
   * text.status = #additional
   * text.div = """<div xmlns='http://www.w3.org/1999/xhtml'>
-
+  </div>""" 
