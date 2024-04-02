@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="bundle-RapamunTabletsEN"/>
+	<meta>
+		<profile
+			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+	</meta>
+	<language value="en"/>
+	<identifier>
+		<system value="https://leaflet.healthcare/sid/doc"/>
+		<value value="L000RapamunTabletsEN"/>
+	</identifier>
+	<type value="document"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
+	<entry>
+		<fullUrl value="Composition/composition-RapamunTabletsEN"/>
+		<resource>
+			<Composition>
+				<id value="composition-RapamunTabletsEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+				</meta>
+				<language value="en"/>
+				<version value="1"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
+				<status value="final"/>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition"/>
+					<value value="C000composition-RapamunTabletsEN" />
+				</identifier>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/"/>
+						<code value="100000155538"/>
+						<display value="Package Leaflet"/>
+					</coding>
+					<text value="Package Leaflet"/>
+				</type>
+				<subject>
+					<reference value="MedicinalProductDefinition/medicinalproductdefinition-RapamunTabletsEN"/>
+				</subject>
+				<author>
+					<reference value="Organization/organization-RapamunTabletsEN"/>
+				</author>
+				<title value="Master Gulf &amp; Levant - Rapamun -tablets -  05 1 2 mg - EN"/>
+				<section>
+					<title value="PACKAGE LEAFLET"/>
+					<text>
+						<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b>Rapamune</b></p>
+							<p>Sirolimus</p>
+							<p>0.5 mg coated tablets</p>
+                                                        <p>1 mg coated tablets</p>
+<p>2 mg coated tablets</p>
+					<p> Reference Market: European Union</p>
+							<p><b> PACKAGE LEAFLET</b></p>						
+						</div>
+					</text>
+					</section>
+
+				    <section>
+				<title value=" Package leaflet: Information for the user"/>
+						<text>
+							<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+				<p><b>Package leaflet: Information for the patient</b></p>
+					<p><b> Rapamune 0.5 mg coated tablets</b></p>
+		                                                <p><b> Rapamune 1 mg coated tablets</b></p>
+                                                <p><b> Rapamune 2 mg coated tablets</b></p>
+					<p> Sirolimus</p>
+<p><b> Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
+   <ul>
+   <li> Keep this leaflet. You may need to read it again.</li>
+<li> If you have any further questions, ask your doctor or pharmacist.<li>
+<li> This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</li>
+<p>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</p>
+                </ul>
+				<p><b>What is in this leaflet</b></p>
+								<ol>
+									<li> What Rapamune is and what it is used for </li>
+									<li> What you need to know before you take Rapamune </li>
+									<li> How to take Rapamune </li>
+								<li> Possible side effects </li>
+									<li> How to store Rapamune </li>
+									<li> Contents of the pack and other information </li>
+								</ol>
+
+							</div>
+						</text>
+					</section>
+
+					<section>
+						<title value="1. What Rapamune is and what it is used for "/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+								<p> Rapamune contains the active substance sirolimus, which belongs to a group of medicines called immunosuppressants. It helps to control your body’s immune system after you have received a kidney transplant. </p>
+                <p> Rapamune is used in adults to prevent your body from rejecting transplanted kidneys and is normally used with other immunosuppressant medicines called corticosteroids and initially (the first 2 to 3 months) with ciclosporin.</p>
+					<section>
+						<title value="2.	What you need to know before you take Rapamune "/>
+						<text>
+							<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b> Do not take Rapamune</b></p>
+		<ul>
+<li> if you are allergic to sirolimus or any of the other ingredients of this medicine (listed in section 6). </li>
+		</ul>
+              <p><b>Warnings and precautions</b></p>
+              <p> Talk to your doctor or pharmacist before taking Rapamune</p>
+<ul>
+<li> If you have any liver problems or have had a disease which may have affected your liver, please tell your doctor as this may affect the dose of Rapamune that you receive and may result in your having additional blood tests.</li>
+<li>  Rapamune, like other immunosuppressive medicines, may decrease your body’s ability to fight infection, and may increase the risk of developing cancer of the lymphoid tissues and skin.</li>
+<li>If you have a body mass index (BMI) greater than 30 kg/m2, you may be at increased risk of abnormal wound healing.</li>
+<li> If you are considered to be at high risk for kidney rejection, such as if you had a previous transplant that was lost to rejection.</li>
+</ul>
+
+              <p> Your doctor will perform tests to monitor the levels of Rapamune in your blood. Your doctor will also perform tests to monitor your kidney function, your blood fat (cholesterol and/or triglycerides) levels and possibly your liver function, during treatment with Rapamune.</p>
+              <p> Exposure to sunlight and UV light should be limited by covering your skin with clothing and using a sunscreen with a high protection factor because of the increased risk for skin cancer.</p>
+              <p><b>Children and adolescents</b></p>
+              <p> There is limited experience on the use of Rapamune in children and adolescents less than 18 years of age. The use of Rapamune is not recommended in this population.</p>
+              <p><b> Other medicines and Rapamune</b></p>
+              <p> Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. </p>
+              <p> Some medicines can interfere with the action of Rapamune and, therefore, dose adjustment of Rapamune may be required. In particular, you should inform your doctor or pharmacist if you are taking any of the following:</p>
+<ul>
+<li> any other immunosuppressant medicines. </li>
+<li> antibiotics or antifungal medicines used to treat infection e.g., clarithromycin, erythromycin, telithromycin, troleandomycin, rifabutin, clotrimazole, fluconazole, itraconazole. It is not recommended that Rapamune be taken with rifampicin, ketoconazole or voriconazole. </li>
+<li> any high blood pressure medicines or medicines for heart problems including nicardipine, verapamil and diltiazem.</li>
+<li> anti epileptic medicines including carbamazepine, phenobarbital, phenytoin. </li>
+<li> medicines used to treat ulcers or other gastrointestinal disorders such as cisapride, cimetidine, metoclopramide. </li>
+<li> bromocriptine (used in the treatment of Parkinson’s disease and various hormonal disorders), danazol (used in the treatment of gynaecological disorders), or protease inhibitors (e.g., for HIV and hepatitis C such as ritonavir, indinavir, boceprevir, and telaprevir).</li>
+<li> St. John’s Wort (Hypericum perforatum).</li>
+<li> letermovir (an antiviral medicine to prevent getting ill from cytomegalovirus). </li>
+
+</ul>
+<p> The use of live vaccines should be avoided with the use of Rapamune. Before vaccinations, please inform your doctor or pharmacist that you are receiving Rapamune.  </p>
+<p> The use of Rapamune may lead to increased levels of cholesterol and triglycerides (blood fats) in your blood that may require treatment. Medicines known as “statins” and “fibrates” used to treat elevated cholesterol and triglycerides have been associated with an increased risk of muscle breakdown (rhabdomyolysis). Please inform your doctor if you are taking medicines to lower your blood fats.</p>
+<p> The combined use of Rapamune with angiotensin converting enzyme (ACE) inhibitors (a type of medicine used to lower blood pressure) may result in allergic reactions. Please inform your doctor if you are taking any of these medicines.</p>
+
+              <p><b> Rapamune with food and drink</b></p>
+<p> Rapamune should be taken consistently, either with or without food. If you prefer to take Rapamune with food, then you should always take it with food. If you prefer to take Rapamune without food, then you should always take it without food. Food can affect the amount of medicine that gets into your bloodstream and taking your medicine in a consistent way means that the blood levels of Rapamune remain more stable.</p>
+<p> Rapamune should not be taken with grapefruit juice.</p>
+              <p><b>Pregnancy, breast-feeding and fertility</b></p>
+              <p> Rapamune should not be used during pregnancy unless clearly necessary. You must use an effective method of contraception during treatment with Rapamune and for 12 weeks after treatment has stopped. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.</p>
+              <p> It is not known whether Rapamune passes into breast milk. Patients taking Rapamune should discontinue breast feeding. </p>
+              <p> Decreased sperm count has been associated with the use of Rapamune and usually returns to normal once treatment is stopped. </p>
+              <p><b> Driving and using machines</b></p>
+              <p> Although Rapamune treatment is not expected to affect your ability to drive, if you have any concerns please consult your doctor.  </p>
+              <p><b> Rapamune contains lactose and sucrose</b></p>
+              <p> Rapamune contains 86.4 mg of lactose and up to 215.8 mg of sucrose. If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine. </p>
+</div>
+</text>
+</section>
+
+<section>
+<title value="3. How to take Rapamune "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p> Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
+<p> Your doctor will decide exactly what dose of Rapamune you must take and how often to take it. Follow your doctor’s instructions exactly, and never change the dose yourself. </p>
+<p> Rapamune is for oral use only. Do not crush, chew, or split the tablets. Inform your doctor if you have difficulty taking the tablet.</p>
+<p> Multiples of 0.5 mg tablets should not be used as a substitute for 1 mg and 2 mg tablets, as the different strengths are not directly interchangeable.</p>
+<p> Rapamune should be taken consistently, either with or without food. </p>
+              <p><u> Kidney Transplant </u></p>
+              <p> Your doctor will give you an initial dose of 6 mg as soon as possible after the kidney transplant operation. Then you will need to take 2 mg of Rapamune each day, until otherwise directed by your doctor. Your dose will be adjusted depending on the level of Rapamune in your blood. Your doctor will need to perform blood tests to measure Rapamune concentrations.  </p>
+              <p> If you are also taking ciclosporin, then you must take the two medicines approximately 4 hours apart. </p>
+              <p> It is recommended that Rapamune be used first in combination with ciclosporin and corticosteroids. After 3 months, your doctor may discontinue either Rapamune or ciclosporin, as it is not recommended that these medicines be taken together beyond this period.  </p>              
+              <p><b> If you take more Rapamune than you should </b></p>
+              <p> If you have taken more medicine than you were told to, contact a doctor or go to the nearest hospital emergency department as soon as possible. Always take the labelled blister with you, even if it is empty.  </p>
+              <p><b> If you forget to take Rapamune </b></p>
+                  <p> If you forget to take Rapamune, take it as soon as you remember, but not within 4 hours of the next dose of ciclosporin. After that, continue to take your medicines as usual. Do not take a double dose to make up for a forgotten dose, and always take Rapamune and ciclosporin approximately 4 hours apart. If you miss a dose of Rapamune completely, you should inform your doctor. </p>
+              <p><b> If you stop taking Rapamune </b></p>
+              <p> Do not stop taking Rapamune unless your doctor tells you to, as you risk losing your transplant.</p>
+         <p> If you have any further questions on the use of this medicine, ask your doctor or pharmacist. </p>
+</div>
+</text>
+</section>
+
+<section>
+<title value="4. Possible side effects"/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p> Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
+             <p><b> Allergic reactions</b></p>
+<p>You should <b> see your doctor immediately </b> if you experience symptoms, such as swollen face, tongue and/or back of the mouth (pharynx) and/or difficulties in breathing (angioedema), or a skin condition whereby the skin can peel off (exfoliative dermatitis). These may be symptoms of a serious allergic reaction. </p>
+<p><b> Kidney damage with low blood cell counts (thrombocytopaenic purpura/haemolytic uraemic syndrome) </b></p>
+<p> When taken with medicines called calcineurin inhibitors (ciclosporin or tacrolimus), Rapamune may increase the risk of kidney damage with low blood platelets and low red blood cell counts, with or without rash (thrombocytopaenic purpura/haemolytic uraemic syndrome). If you experience symptoms such as bruising or rash, changes in your urine, or changes in behaviour or any others that are serious, unusual or prolonged, contact your doctor. </p>
+<p><b> Infections </b></p>
+<p> Rapamune reduces your body’s own defence mechanisms. Consequently, your body will not be as good as normal at fighting infections. So, if you are taking Rapamune, you may therefore catch more infections than usual, such as infections of the skin, mouth, stomach and intestines, lungs and urinary tract (see list below). You should contact your doctor if you experience symptoms that are serious, unusual, or prolonged.</p>
+<p><b> Side effect frequencies </b></p>
+<p> Very common: may affect more than 1 in 10 people </p>
+             <ul>
+<li> Fluid collection around the kidney</li>
+<li> Swelling of the body including hands and feet</li>
+<li> Pain </li>
+<li> Fever</li>
+<li> Headache </li>
+ <li> Increased blood pressure</li>
+<li> Stomach pain, diarrhoea, constipation, nausea </li>
+<li> Low red blood cells, low blood platelets</li>
+<li> Increased fat in the blood (cholesterol and/or triglycerides), increased blood sugar, low blood potassium, low blood phosphorus, increased lactate dehydrogenase in the blood, increased creatinine in the blood</li>
+<li> Joint pain</li>
+<li> Acne </li>
+<li> Urinary tract infection</li>
+<li> Pneumonia and other bacterial, viral, and fungal infections</li>
+<li> A reduced number of infection fighting cells in the blood (white blood cells)</li>
+<li> Diabetes</li>
+<li> Abnormal tests of liver function, elevated AST and/or ALT liver enzymes </li>
+<li> Rash</li>
+<li> Elevated protein in the urine </li>
+<li> Menstrual disorders (including absent, infrequent or heavy periods) </li>
+<li> Slow healing (this may include separation of the layers of a surgical wound or stitch line) </li>
+<li> Rapid heart rate </li>
+<li> There is a general tendency for fluid to collect in various tissues. </li>
+             </ul>
+             <p> Common: may affect up to 1 in 10 people</p>
+             <ul>
+             <li>Infections (including life threatening infections) </li>
+             <li> Blood clots in the legs </li>
+             <li> Blood clots in the lung </li>
+             <li> Mouth sores</li>
+             <li> Fluid collection in the abdomen </li>
+             <li> Kidney damage with low blood platelets and low red blood cell counts, with or without rash (haemolytic uraemic syndrome)</li>
+             <li> Low levels of a type of white blood cells called neutrophils </li>
+             <li>Deterioration of bone </li>
+             <li> Inflammation that may lead to lung damage, fluid around the lung</li>
+             <li>Nose bleeds </li>
+             <li>Skin cancer </li>
+             <li> Kidney infection  </li>
+             <li> Ovarian cysts </li>
+             <li> Fluid collection in the sac around the heart, that in some cases may decrease the heart's ability to pump blood </li>
+             <li> Inflammation of the pancreas </li>
+             <li> Allergic reactions </li>
+             <li> Shingles</li>
+             <li> Cytomegalovirus infection</li>
+             </ul>
+             <p> Uncommon: may affect up to 1 in 100 people</p>
+              <ul>
+             <li> Cancer of the lymph tissue (lymphoma/post transplant lympho proliferative disorder), combined lowering of red blood cells, white blood cells and blood platelets</li>
+             <li> Bleeding from the lung </li>
+             <li> Protein in the urine, occasionally severe and associated with side effects, such as swelling</li>
+             <li> Scarring in the kidney that may reduce kidney function</li>
+             <li> Too much fluid collecting in the tissues due to irregular lymph function </li>
+             <li>Low blood platelets, with or without rash (thrombocytopaenic purpura) </li>
+             <li> Serious allergic reactions that can cause peeling of the skin</li>
+             <li>Tuberculosis </li>
+             <li> Epstein-Barr virus infection </li>
+             <li> Infectious diarrhoea with Clostridium difficile </li>
+             <li> Serious liver damage</li>
+              </ul>
+             
+             <p> Rare: may affect up to 1 in 1,000 people</p>
+             <ul>
+             <li> Protein build up in the air sacs of the lungs that may interfere with breathing </li>
+             <li> Serious allergic reactions that can affect blood vessels (see above paragraph on allergic reactions) </li>
+             </ul>
+             <p> Not known: frequency cannot be estimated from the available data </p>
+<ul>
+             <li> Posterior reversible encephalopathy syndrome (PRES), a serious nervous system syndrome that has the following symptoms: headache, nausea, vomiting, confusion, seizures, and visual loss. Should any of these occur together, please contact your physician. </li>
+             </ul>
+
+             <p><b> Reporting of side effects</b></p>
+             <p> If you get any side effects, talk to your doctor, pharmacist. This includes any possible side effects not listed in this leaflet. By reporting side effects you can help provide more information on the safety of this medicine. </p>
+</div>
+</text>
+</section>
+
+<section>
+<title value="5. How to store Rapamune "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p> Keep Rapamune out of the sight and reach of children.</p>
+<p> Do not use this medicine after the expiry date, which is stated on the blister and carton after “EXP”. The expiry date refers to the last day of that month.</p>
+<p> Store below 30ºC. </p>
+<p> Keep the blister in the outer carton in order to protect from light. </p>
+<p> Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment. </p>
+</div>
+</text>
+</section>
+
+<section>
+<title value="6. Contents of the pack and other information"/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><b> What Rapamune contains</b></p>
+<p> The active substance is sirolimus.</p>							
+<p> Each Rapamune 0.5 mg coated tablet contains 0.5 mg of sirolimus.</p>
+<p> Each Rapamune 1 mg coated tablet contains 1 mg of sirolimus.</p>
+<p> Each Rapamune 2 mg coated tablet contains 2 mg of sirolimus.</p>
+<p> Each Rapamune 2 mg coated tablet contains 2 mg of sirolimus.</p>
+<p> The other ingredients are:</p>
+<p> <u>Tablet core</u>: lactose monohydrate, macrogol, magnesium stearate, talc</p>
+<p> <u>Tablet coating</u>: macrogol, glycerol monooleate, pharmaceutical glaze, calcium sulfate, microcrystalline cellulose, sucrose, titanium dioxide, poloxamer 188,  tocopherol, povidone, carnauba wax, Printing ink (Shellac, Iron Oxide Red, Propylene Glycol, Ammonium Hydroxide, Simethicone). The 0.5 mg and 2 mg tablets also contain yellow iron oxide (E172) and brown iron oxide (E172).</p>
+<p><b> What Rapamune looks like and contents of the pack</b></p>
+<p> Rapamune 0.5 mg is supplied to you as tan coloured, triangular shaped, coated tablets marked “RAPAMUNE 0.5 mg” on one side. </p>
+<p> White, triangular-shaped sugar-coated tablet, Rapamune 1 mg, in red ink. </p>
+<p> Rapamune 2 mg is supplied to you as yellow to beige coloured, triangular shaped, coated tablets marked “RAPAMUNE 2 mg” on one side. </p>
+<p> The tablets are supplied in blister packs of 30 and 100 tablets.  </p>
+<p> Not all pack sizes or strengths may be marketed. </p>
+<p><b> Marketing Authorisation Holder: </b></p>
+<p> Pfizer Europe MA EEIG </p>
+<p> Boulevard de la Plaine 17 </p>
+<p> 1050 Bruxelles</p>
+<p> Belgium</p>
+<p><b> Manufactured:</b></p>
+<p> Pfizer Ireland Pharmaceuticals</p>
+<p> Little Connell, Newbridge </p>
+<p> Co. Kildare</p>
+<p> Ireland</p>
+<p><b> Primary Packager, Secondary Packager & Batch Releaser: </b></p>
+<p> Pfizer Manufacturing Deutschland GmbH, Betriebsstatte Freiburg, Mooswaldallee 1, 79090 Freiburg, Germany </p>
+<p><b> This leaflet was last revised in</b> November 2021.</p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b>THIS IS A MEDICAMENT</b></p>
+<ul>
+<li> Medicament is a product which affects your health and its consumption contrary to instructions is dangerous for you.</li>
+<li> Follow strictly the doctor’s prescription, the method of use and the instructions of the Pharmacist who sold the medicament.</li>
+<li> The doctor and the Pharmacist are experts in medicines, their benefits and risks.</li>
+<li>Do not by yourself interrupt the period of treatment prescribed.</li>
+<li> Do not repeat the same prescription without consulting your doctor.</li>
+</ul>
+<p style="text-align:center"><b> Keep all medicaments out of reach and sight of children</b></p>
+<p><b>Council of Arab Health Ministers</b></p>
+<p><b>Union of Arabic Pharmacists</b></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</text>
+</section>
+
+</Composition>
+</resource>
+</entry>
+<entry>
+<fullUrl value="Organization/organization- RapamunTabletsEN"/>
+<resource>
+<Organization>
+<id value="organization- RapamunTabletsEN"/>
+<meta>
+<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+</meta>
+<identifier>
+<use value="official"/>
+<system value="https://leaflet.healthcare/sid/organization"/>
+<value value="U001"/>
+</identifier>
+
+<active value="true"/>
+<type>
+<coding>
+<system value="https://spor.ema.europa.eu/rmswi"/>
+<code value="220000000034"/>
+<display value="Marketing Authorisation Holder"/>
+</coding>
+<text value="Marketing Authorisation Holder"/>
+</type>
+<name value="Pfizer Europe MA EEIG"/>
+<contact>
+<address>
+<use value="work"/>
+<type value="physical"/>
+<text value="Boulevard de la Plaine 171050 Bruxelles Belgium"/>
+<line value="Boulevard de la Plaine 171050"/>
+<city value="Bruxelles"/>
+<postalCode value="NA"/>
+<country value="Belgium"/>
+</address>
+</contact>
+</Organization>
+</resource>
+</entry>
+<entry>
+<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition- RapamunTabletsEN"/>
+<resource>
+<MedicinalProductDefinition>
+<id value="medicinalproductdefinition- RapamunTabletsEN"/>
+<meta>
+<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+</meta>
+<identifier>
+<system value="https://leaflet.healthcare/sid/product"/>
+<value value="P001"/>
+</identifier>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/medicinal-product-type"/>
+<code value="MedicinalProduct"/>
+
+<display value="Medicinal Product"/>
+
+</coding>
+<text value=""/>
+</type>
+
+<domain>
+<coding>
+<system value="http://hl7.org/fhir/medicinal-product-domain"/>
+<code value="Human"/>
+
+<display value="Human use"/>
+
+</coding>
+</domain>
+
+<status>
+<coding>
+<system value="http://hl7.org/fhir/publication-status"/>
+<code value="active"/>
+
+<display value="active"/>
+
+</coding>
+</status>
+
+<statusDate value="2018-06-23T08:38:00+02:00"/>
+
+<legalStatusOfSupply>
+<coding>
+<system value="http://hl7.org/fhir/legal-status-of-supply"/>
+<code value="100000072084"/>
+<display value="Medicinal product subject to medical prescription"/>
+</coding>
+</legalStatusOfSupply>
+
+<classification>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
+<code value=""/>
+
+<display value=""/>
+
+</coding>
+</classification>
+<route>
+<coding>
+<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
+<code value=""/>
+
+<display value=""/>
+
+</coding>
+</route>
+
+<combinedPharmaceuticalDoseForm>
+<coding>
+<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/doseForm"/>
+<code value=" "/>
+
+<display value=""/>
+
+</coding>
+</combinedPharmaceuticalDoseForm>
+
+<name>
+
+<productName value=" Rapamun -tablets -  05 1 2 mg"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
+<code value="INN"/>
+
+<display value=""/>
+</coding>
+<text value=""/>
+</type>
+<part>
+<part value=""/>
+
+<type>
+<coding>
+system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+code value="InventedNamePart"/>
+<display value="Invented Name Part"/>
+</coding>
+<text value="Invented Name Part"/>
+</type>
+</part>
+<part>
+<part value=""/>
+
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="ScientificNamePart"/>
+<display value="Scientific Name Part"/>
+</coding>
+<text value="Scientific Name Part"/>
+</type>
+</part>
+<part>
+<part value="05 mg &amp; 1 mg &amp; 2 mg"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="StrengthPart"/>
+<display value="Strength Part"/>
+</coding>
+<text value="Strength Part"/>
+</type>
+</part>
+<part>
+<part value="hard capsules"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="DoseFormPart"/>
+<display value="Pharmaceutical dose form part"/>
+</coding>
+<text value="Pharmaceutical dose form part"/>
+</type>
+</part>
+<usage>
+<country>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/country"/>
+<code value=""/>
+<display value=""/>
+</coding>
+</country>
+<jurisdiction>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
+<code value="JO"/>
+<display value="Jordan"/>
+</coding>
+</jurisdiction>
+<language>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/all-languages"/>
+<code value="en"/>
+<display value="English"/>
+</coding>
+</language>
+</usage>
+</name>
+</MedicinalProductDefinition>
+</resource>
+</entry>
+</Bundle>
