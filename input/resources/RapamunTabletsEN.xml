@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="bundle-RapamunTabletsEN"/>
+	<meta>
+		<profile
+			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+	</meta>
+	<language value="en"/>
+	<identifier>
+		<system value="https://leaflet.healthcare/sid/doc"/>
+		<value value="L000RapamunTabletsEN"/>
+	</identifier>
+	<type value="document"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
+	<entry>
+		<fullUrl value="Composition/composition-RapamunTabletsEN"/>
+		<resource>
+			<Composition>
+				<id value="composition-RapamunTabletsEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+				</meta>
+				<language value="en"/>
+				<version value="1"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
+				<status value="final"/>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition"/>
+					<value value="C000composition-RapamunTabletsEN" />
+				</identifier>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/"/>
+						<code value="100000155538"/>
+						<display value="Package Leaflet"/>
+					</coding>
+					<text value="Package Leaflet"/>
+				</type>
+				<subject>
+					<reference value="MedicinalProductDefinition/medicinalproductdefinition-RapamunTabletsEN"/>
+				</subject>
+				<author>
+					<reference value="Organization/organization-RapamunTabletsEN"/>
+				</author>
+				<title value="Master Gulf &amp; Levant - Rapamun -tablets -  05 1 2 mg - EN"/>
+				<section>
+					<title value="PACKAGE LEAFLET"/>
+					<text>
+						<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b>Rapamune</b></p>
+							<p>Sirolimus</p>
+							<p>0.5 mg coated tablets</p>
+                                                        <p>1 mg coated tablets</p>
+<p>2 mg coated tablets</p>
+					<p> Reference Market: European Union</p>
+							<p><b> PACKAGE LEAFLET</b></p>						
+						</div>
+					</text>
+					</section>
