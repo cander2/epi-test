@@ -63,7 +63,7 @@ Usage: #inline
     * reference = "#Diagram1"
 
 * section[+].
-  * title = "النشرة الداخلية: معلومات للمريض" dir="rtl"
+  * title = "النشرة الداخلية: معلومات للمريض"
   * code = https://www.jfda.jo/#100000155538
   * code.text = "B. PACKAGE LEAFLET"
   * text.status = #additional
