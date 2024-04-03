@@ -50,7 +50,7 @@
         <author>
           <reference value="Organization/orgpfizerukltd" />
         </author>
-        <title centered="true" value="Talzenna® (talazoparib) 0.25 mg and 1 mg hard capsules" />
+        <title centered="true" value="Talzenna® (talazoparib) 0.1 mg, 0.25 mg and 1 mg hard capsules" />
         <section>
           <title centered="true" value="Package leaflet: Information for the patient" />
           <code>
@@ -86,7 +86,7 @@
                 <li>This medicine has been prescribed for you only. Do not pass it on to others. It
                   may harm them, even if their signs of illness are the same as yours.</li>
                 <li>If you get any side effects, talk to your doctor, pharmacist or nurse. This
-                  includes any possible side effects not listed in this leaflet. See section 4.</li>
+                  includes any possible side effects not listed in this leaflet. See <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>.</li>
               </ul>
             </div>
           </text>
@@ -104,11 +104,11 @@
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <ol>
                   <li><a href="#5a34d358-e830-4308-8d86-cb1dc8b1ee8c">What Talzenna is and what it is used for</a></li>
-                  <li><a href="#">What you need to know before you take Talzenna</a></li>
-                  <li><a href="#">How to take Talzenna</a></li>
-                  <li><a href="#">Possible side effects</a></li>
-                  <li><a href="#">How to store Talzenna</a></li>
-                  <li><a href="#">Contents of the pack and other information</a></li>
+                  <li><a href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">What you need to know before you take Talzenna</a></li>
+                  <li><a href="#958ed385-b409-41d8-a868-fa5ec1fbaba4">How to take Talzenna</a></li>
+                  <li><a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">Possible side effects</a></li>
+                  <li><a href="#eb80ccf5-f971-4361-b25c-b8d86c457a00">How to store Talzenna</a></li>
+                  <li><a href="#2531776f-f478-40bc-a19d-6970524b8793">Contents of the pack and other information</a></li>
                 </ol>
               </div>
             </text>
@@ -141,7 +141,7 @@
               <ul>
                 <li><p class="breastCancer">alone to treat adults with breast cancer of a type
                 known as HER2-negative breast cancer who have an abnormal inherited BRCA gene. Your healthcare provider will perform a test to make sure that Talzenna is right for you. </p></li>
-                <li>in combination with a medicine called enzalutamide, to treat adults with prostate cancer who no longer respond to a hormone therapy or surgical treatment to lower testosterone. </li>
+                <li><p class="prostateCancer">in combination with a medicine called enzalutamide, to treat adults with prostate cancer who no longer respond to a hormone therapy or surgical treatment to lower testosterone.</p> </li>
               </ul>              
               <p>Talzenna is used when the cancer has spread beyond the original tumour or to other
                 parts of the body.</p>
@@ -232,8 +232,8 @@
                 </p>
                 <p class="Adolescent Adult Elderly">Women who can become pregnant and men with
                   partners who are or can become pregnant should use effective contraception.</p>
-                <p class="Adolescent Adult Elderly">Please see section “Male and female
-                  contraception” below.</p><!--add intra document link-->
+                <p class="Adolescent Adult Elderly">Please see section <a href="#698cd895-3954-4de6-80f1-f65fcc40288f">“Male and female
+                  contraception”</a> below.</p>
               </div>
             </text>
           </section>
@@ -364,7 +364,7 @@
                       or your partner may become pregnant.</p>
                   </li>
                 </ul>
-                <p>
+                <p id="698cd895-3954-4de6-80f1-f65fcc40288f">
                   <b>Male and female contraception</b>
                 </p>
                 <p class="Female"><b>Women </b>who are able to become pregnant should use effective
@@ -453,10 +453,10 @@
               </p>
               <p>Talzenna is taken by mouth once daily. The recommended dose is:</p>
               <ul>
-                <li>for breast cancer: one 1 mg capsule of Talzenna.</li>
-                <li>for prostate cancer: Talzenna is taken with a medicine called enzalutamide. The usual dose of Talzenna is 0.5 mg (two 0.25 mg capsules).</li>
+                <li><p class="breastCancer">for breast cancer: one 1 mg capsule of Talzenna.</p></li>
+                <li><p class="prostateCancer">for prostate cancer: Talzenna is taken with a medicine called enzalutamide. The usual dose of Talzenna is 0.5 mg (two 0.25 mg capsules).</p></li>
               </ul>                
-              <p>	If you get certain side effects while you are taking Talzenna alone or in combination with enzalutamide (see section 4), your doctor may lower your dose or stop treatment, either temporarily or permanently. Take Talzenna and enzalutamide exactly as your doctor has told you. </p><!--add intra doc link-->
+              <p>	If you get certain side effects while you are taking Talzenna alone or in combination with enzalutamide (see <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>), your doctor may lower your dose or stop treatment, either temporarily or permanently. Take Talzenna and enzalutamide exactly as your doctor has told you. </p>
             </div>
           </text>
           <section>
@@ -565,7 +565,7 @@
               </ul>
               <p><b>Uncommon</b> (may affect up to 1 in 100 people)</p>
               <ul>
-                <li>Abnormal blood cell counts due to serious problems with bone marrow (myelodysplastic syndrome or acute myeloid leukaemia). See Warnings and precautions in Section 2</li><!--add intra doc link-->
+                <li>Abnormal blood cell counts due to serious problems with bone marrow (myelodysplastic syndrome or acute myeloid leukaemia). See Warnings and precautions in <a href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">Section 2</a></li>
               </ul>
             </div>
           </text>
