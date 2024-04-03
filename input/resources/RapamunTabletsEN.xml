@@ -10,3 +10,281 @@
 		<system value="https://leaflet.healthcare/sid/doc"/>
 		<value value="L000RapamunTabletsEN"/>
 	</identifier>
+	<type value="document"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
+	<entry>
+		<fullUrl value="Composition/composition-RapamunTabletsEN"/>
+		<resource>
+			<Composition>
+				<id value="composition-RapamunTabletsEN"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+				</meta>
+				<language value="en"/>
+				<version value="1"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
+				<status value="final"/>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition"/>
+					<value value="C000composition-RapamunTabletsEN" />
+				</identifier>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/"/>
+						<code value="100000155538"/>
+						<display value="Package Leaflet"/>
+					</coding>
+					<text value="Package Leaflet"/>
+				</type>
+				<subject>
+					<reference value="MedicinalProductDefinition/medicinalproductdefinition-RapamunTabletsEN"/>
+				</subject>
+				<author>
+					<reference value="Organization/organization-RapamunTabletsEN"/>
+				</author>
+				<title value="Master Gulf &amp; Levant - Rapamun -tablets -  05 1 2 mg - EN"/>
+				<section>
+					<title value="PACKAGE LEAFLET"/>
+					<text>
+						<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b>Rapamune</b></p>
+							<p>Sirolimus</p>
+							<p>0.5 mg coated tablets</p>
+                                                        <p>1 mg coated tablets</p>
+                                                        <p>2 mg coated tablets</p>
+					                <p> Reference Market: European Union</p>
+							<p><b> PACKAGE LEAFLET</b></p>						
+						</div>
+					</text>
+					</section>
+
+<section>
+	<title value=" Package leaflet: Information for the user"/>
+	<text>
+		<status value="generated"/>
+		<div xmlns="http://www.w3.org/1999/xhtml">
+		        <p><b>Package leaflet: Information for the patient</b></p>
+	                <p><b> Rapamune 0.5 mg coated tablets</b></p>
+		        <p><b> Rapamune 1 mg coated tablets</b></p>
+                        <p><b> Rapamune 2 mg coated tablets</b></p>
+	                <p> Sirolimus</p>
+                        <p><b> Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
+   <ul>
+   <li> Keep this leaflet. You may need to read it again.</li>
+   <li> If you have any further questions, ask your doctor or pharmacist.<li>
+   <li> This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</li>
+	   </ul>
+   <p>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</p>
+                				
+</div>
+
+</Composition>
+</resource>
+</entry>
+<entry>
+<fullUrl value="Organization/organization- RapamunTabletsEN"/>
+<resource>
+<Organization>
+<id value="organization- RapamunTabletsEN"/>
+<meta>
+<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+</meta>
+<identifier>
+<use value="official"/>
+<system value="https://leaflet.healthcare/sid/organization"/>
+<value value="U001"/>
+</identifier>
+
+<active value="true"/>
+<type>
+<coding>
+<system value="https://spor.ema.europa.eu/rmswi"/>
+<code value="220000000034"/>
+<display value="Marketing Authorisation Holder"/>
+</coding>
+<text value="Marketing Authorisation Holder"/>
+</type>
+<name value="Pfizer Europe MA EEIG"/>
+<contact>
+<address>
+<use value="work"/>
+<type value="physical"/>
+<text value="Boulevard de la Plaine 171050 Bruxelles Belgium"/>
+<line value="Boulevard de la Plaine 171050"/>
+<city value="Bruxelles"/>
+<postalCode value="NA"/>
+<country value="Belgium"/>
+</address>
+</contact>
+</Organization>
+</resource>
+</entry>
+<entry>
+<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition- RapamunTabletsEN"/>
+<resource>
+<MedicinalProductDefinition>
+<id value="medicinalproductdefinition- RapamunTabletsEN"/>
+<meta>
+<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+</meta>
+<identifier>
+<system value="https://leaflet.healthcare/sid/product"/>
+<value value="P001"/>
+</identifier>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/medicinal-product-type"/>
+<code value="MedicinalProduct"/>
+
+<display value="Medicinal Product"/>
+
+</coding>
+<text value=""/>
+</type>
+
+<domain>
+<coding>
+<system value="http://hl7.org/fhir/medicinal-product-domain"/>
+<code value="Human"/>
+
+<display value="Human use"/>
+
+</coding>
+</domain>
+
+<status>
+<coding>
+<system value="http://hl7.org/fhir/publication-status"/>
+<code value="active"/>
+
+<display value="active"/>
+
+</coding>
+</status>
+
+<statusDate value="2018-06-23T08:38:00+02:00"/>
+
+<legalStatusOfSupply>
+<coding>
+<system value="http://hl7.org/fhir/legal-status-of-supply"/>
+<code value="100000072084"/>
+<display value="Medicinal product subject to medical prescription"/>
+</coding>
+</legalStatusOfSupply>
+
+<classification>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
+<code value=""/>
+
+<display value=""/>
+
+</coding>
+</classification>
+<route>
+<coding>
+<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
+<code value=""/>
+
+<display value=""/>
+
+</coding>
+</route>
+
+<combinedPharmaceuticalDoseForm>
+<coding>
+<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/doseForm"/>
+<code value=" "/>
+
+<display value=""/>
+
+</coding>
+</combinedPharmaceuticalDoseForm>
+
+<name>
+
+<productName value=" Rapamun -tablets -  05 1 2 mg"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
+<code value="INN"/>
+
+<display value=""/>
+</coding>
+<text value=""/>
+</type>
+<part>
+<part value=""/>
+
+<type>
+<coding>
+system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+code value="InventedNamePart"/>
+<display value="Invented Name Part"/>
+</coding>
+<text value="Invented Name Part"/>
+</type>
+</part>
+<part>
+<part value=""/>
+
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="ScientificNamePart"/>
+<display value="Scientific Name Part"/>
+</coding>
+<text value="Scientific Name Part"/>
+</type>
+</part>
+<part>
+<part value="05 mg &amp; 1 mg &amp; 2 mg"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="StrengthPart"/>
+<display value="Strength Part"/>
+</coding>
+<text value="Strength Part"/>
+</type>
+</part>
+<part>
+<part value="hard capsules"/>
+<type>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+<code value="DoseFormPart"/>
+<display value="Pharmaceutical dose form part"/>
+</coding>
+<text value="Pharmaceutical dose form part"/>
+</type>
+</part>
+<usage>
+<country>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/country"/>
+<code value=""/>
+<display value=""/>
+</coding>
+</country>
+<jurisdiction>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
+<code value="JO"/>
+<display value="Jordan"/>
+</coding>
+</jurisdiction>
+<language>
+<coding>
+<system value="http://hl7.org/fhir/ValueSet/all-languages"/>
+<code value="en"/>
+<display value="English"/>
+</coding>
+</language>
+</usage>
+</name>
+</MedicinalProductDefinition>
+</resource>
+</entry>
+</Bundle>
