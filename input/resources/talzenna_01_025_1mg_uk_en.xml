@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="bundlepackageleaflet-talzenna1-025" />
+  <id value="bundlepackageleaflet-talzenna01-025-1" />
   <meta>
     <versionId value="1"/>
     <lastUpdated value="2022-03-01T00:00:00Z" />
