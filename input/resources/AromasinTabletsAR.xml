@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="bundle-AromasinTabletsAR"/>
+	<meta>
+		<profile
+			value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+	</meta>
+	<language value="en"/>
+	<identifier>
+		<system value="https://leaflet.healthcare/sid/doc"/>
+		<value value="L000AromasinTabletsAR"/>
+	</identifier>
+	<type value="document"/>
+	<timestamp value="2021-04-01T00:00:00.000Z"/>
+	<entry>
+		<fullUrl value="Composition/composition-AromasinTabletsAR"/>
+		<resource>
+			<Composition>
+				<id value="composition-AromasinTabletsAR"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+				</meta>
+				<language value="en"/>
+				<version value="1"/>
+				<date value="2021-04-01T00:00:00.000Z"/>
+				<status value="final"/>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition"/>
+					<value value="C000composition-AromasinTabletsAR" />
+				</identifier>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/"/>
+						<code value="100000155538"/>
+						<display value="Package Leaflet"/>
+					</coding>
+					<text value="Package Leaflet"/>
+				</type>
+				<subject>
+					<reference value="MedicinalProductDefinition/medicinalproductdefinition-AromasinTabletsAR"/>
+				</subject>
+				<author>
+					<reference value="Organization/organization-AromasinTabletsAR"/>
+				</author>
+				<title value="Master Gulf Levant  _LL-PLD_ Aromasin(Exemestane)_ 25mg_ tablets- AR"/>				
+<section>
+					<title value=" النشرة الداخلية"/>
+					<text>
+						<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b> أروماسين®</b></p>
+							<p> إكسيميستان </p>
+				<p> أقراص مغلفة 25 مجم </p>
+                                                        <p> السوق المرجعية: إيطاليا</p>
+							<p><b> النشرة الداخلية</b></p>						
+						</div>
+					</text>
+					</section>
+<section>
+	<title value=" النشرة الداخلية: معلومات للمستخدم"/>
+	<text>
+		<status value="generated"/>
+		<div xmlns="http://www.w3.org/1999/xhtml">
+		        <p><b> النشرة الداخلية: معلومات للمستخدم</b></p>
+	                <p><b> أقراص أروماسين المغلفة 25 </b></p>
+<p>(إكسيميستان)</p>
+                        <p><b> اقرئي هذه النشرة بالكامل بعناية قبل البدء في تناول هذا الدواء، حيث إنها تحتوي على معلومات مهمة لكِ.</b></p>
+   <ul>
+       <li> 	احتفظي بهذه النشرة. فقد تحتاجين إلى قراءتها مجددًا.</li>
+       <li> 	إذا كانت لديكِ أي أسئلة أخرى، فاسألي طبيبكِ أو الصيدلي.</li>
+       <li> 	لقد تم وصف هذا الدواء من أجلكِ أنتِ فقط. فلا تعطه لآخرين. فقد يسبب لهن ضررًا، حتى وإن كن يعانين من نفس العلامات المرضية التي تعانين منها.</li>
+<li> إذا أصبتِ بأي آثار جانبية، فتحدثي إلى طبيبكِ أو الصيدلي. يتضمن ذلك أي آثار جانبية محتملة غير مذكورة في هذه النشرة. انظري القسم 4.</li>
+                </ul>
+<p><b> محتويات هذه النشرة </b></p>
+								<ol>
+									<li> ما هو أروماسين وفيم يستخدم </li>
+									<li> ما تحتاجين إلى معرفته قبل تناول أروماسين </li>
+									<li> كيفية تناول أروماسين </li>
+								        <li> الآثار الجانبية المحتملة </li>
+									<li> كيفية تخزين أروماسين </li>
+									<li> محتويات العبوة ومعلومات أخرى </li>
+								</ol>
+
+							</div>
+						</text>
+					</section>
+<section>
+						<title value="1. ما هو أروماسين وفيم يستخدم "/>
+						<text>
+							<status value="generated"/>
+							<div xmlns="http://www.w3.org/1999/xhtml">
+								<p> يُطلق على دوائكِ اسم أروماسين. ينتمي أروماسين إلى مجموعة أدوية تُعرف باسم مثبطات إنزيم الأروماتاز. تعارض هذه الأدوية عمل مادة تُسمى الأروماتاز، اللازمة لتكوين الهرمونات الجنسية الأنثوية، أي الإستروجينات، خاصةً لدى السيدات في المرحلة التالية لانقطاع الحيض. إن الانخفاض في مستويات الإستروجين في الجسم هو إحدى طرق علاج سرطان الثدي المعتمد على الهرمون.</p>
+                <p> يُستخدم أروماسين لعلاج سرطان الثدي المبكر المعتمد على الهرمون لدى السيدات في المرحلة التالية لانقطاع الحيض بعد أن يكملن 2-3 أعوام من العلاج بدواء تاموكسيفين.</p>
+<p> يستخدم أروماسين أيضًا لعلاج سرطان الثدي المتقدم المعتمد على الهرمون لدى السيدات في المرحلة التالية لانقطاع الحيض عندما يفشل العلاج بعقار هرموني مختلف في العمل بدرجة كافية.</p>
+							</div>
+						</text>
+					</section>
+<section>
+						<title value="2.	ما تحتاجين إلى معرفته قبل تناول أروماسين "/>
+						<text>
+							<status value="generated"/>
+						<div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b> لا تتناولي أروماسين في الحالات التالية:</b></p>
+		<ul>
+<li> إذا كنتِ مصابة أو سبق أن أصبتِ بالحساسية تجاه إكسيميستان (المكون الفعال في أروماسين) أو أي مكون آخر من مكونات هذا الدواء (المدرجة بالقسم 6).</li>
+<li> إذا لم تكوني قد مررتِ بفترة " انقطاع الحيض" بالفعل، أي ما زالت تأتيكِ الدورة الشهرية.</li>
+<li> إذا كنتِ حاملًا أو من المرجح أن تكوني حاملًا أو كنتِ ترضعين رضاعة طبيعية.</li>
+		</ul>
+              <p><b> تحذيرات واحتياطات</b></p>
+<ul>
+<li> تحدثي مع طبيبكِ أو الصيدلي أو الممرضة قبل تناول أروماسين.</li>
+<li>قبل العلاج بأروماسين، قد يود طبيبكِ أخذ عينات دم للتأكد من أنكِ وصلتِ لفترة انقطاع الحيض. </li>
+<li> سيُجرى أيضًا فحص روتيني قبل العلاج لقياس مستوى فيتامين د لديكِ، لأن مستواه لديكِ يمكن أن يكون منخفضًا جدًا في المراحل المبكرة من سرطان الثدي. سوف تُعطين مكملٌ لفيتامين د إذا كانت المستويات لديكِ أقل من الطبيعي.</li>
+<li> قبل تناول أروماسين، أبلغي طبيبك إذا كنتِ تعانين من مشكلات في كبدكِ أو كليتيكِ. </li>
+<li> أخبري طبيبكِ إذا كان لديكِ تاريخ مرضي أو إذا كنتِ تعانين من أي حالة تؤثر على قوة عظامكِ. قد يرغب طبيبكِ في قياس كثافة عظامكِ قبل وأثناء العلاج بأروماسين. وهذا لأن أدوية هذه الفئة تقوم بخفض مستويات هرمونات الأنوثة وقد يؤدي هذا إلى فقدان المحتوى المعدني للعظام، مما قد يضعف قوتها. </li>
+</ul>
+<p><b> الأدوية الأخرى وأروماسين</b></p>
+	              <p> أخبري طبيبكِ أو الصيدلي إذا كنتِ تتناولين أو تناولتِ مؤخرًا أو قد تتناولين أي أدوية أخرى، بما في ذلك الأدوية التي تحصلين عليها دون وصفة طبية. </p>
+	              <p> ينبغي عدم إعطاء أروماسين في نفس الوقت مع العلاج الهرموني التعويضي (HRT). </p>
+	              <p> ينبغي استخدام الأدوية التالية بحذر عند تناول أروماسين. أبلغي طبيبكِ إذا كنت تتناولين أدوية مثل: </p>
+<ul>
+<li>رِيفامبيسين (مضاد حيوي)، </li>
+<li>كربامازيبين أو فينيتوين (مضادات تشنجات تستخدم لعلاج الصرع)،</li>
+<li>العلاج العشبي نبتة سانت جون (هايبريكوم بيرفوراتوم) أو مستحضرات تحتوي عليها.</li>
+</ul>
+<p> بالنسبة لهؤلاء الذين يمارسون أنشطة رياضية: يُعد استخدام العقار دون ضرورة علاجية بمثابة منشطات ويمكن، على كل حال، أن يعطي نتيجة إيجابية في اختبارات كشف المنشطات </p>
+              <p><b> الحمل والرضاعة الطبيعية </b></p>
+	<p> لا تتناولي أروماسين إذا كنتِ حاملًا أو ترضعين رضاعة طبيعية.</p>
+<p> إذا كنتِ حاملًا أو تعتقدين أنكِ حامل، فأخبري طبيبكِ.</p>
+<p> ناقشي استخدام وسائل فعالة لمنع الحمل مع طبيبكِ، إذا كان هناك أي احتمال أن تصبحي حاملًا.</p>
+              <p><b> القيادة واستخدام الآلات</b></p>
+              <p> إذا شعرتِ بالنعاس أو الدوار أو الضعف أثناء تناول أروماسين، ينبغي ألّا تحاولي القيادة أو تشغيل الآلات.</p>
+              <p><b> يحتوي أروماسين على السكروز والصوديوم وبارا هيدروكسي بنزوات الميثيل</b></p>
+              <ul>
+<li>إذا أخبركِ طبيبكِ أنكِ تعانين من عدم تحمل لبعض أنواع السكريات، فتواصلي مع طبيبكِ قبل تناول هذا المنتج الدوائي.</li>
+<li> يحتوي هذا الدواء على أقل من 1 مليمول من الصوديوم (23 مجم) في كل قرص، أي أنه "خالٍ من الصوديوم" بشكل أساسي.</li>
+<li>يحتوي أروماسين على كمية قليلة من بارا هيدروكسي بنزوات الميثيل، والتي قد تسبب تفاعلات حساسية (يحتمل تأخرها)، إذا حدث هذا، يُرجى الاتصال بطبيبكِ.</li>
+</ul>
+</div>
+</text>
+</section>
+<section>
+<title value="3. كيفية تناول أروماسين "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p><b> المريضات من البالغات والمسنات</b></p>
+<p> احرصي دائمًا على تناول هذا الدواء تمامًا كما أخبركِ طبيبكِ. استشيري طبيبكِ إذا لم تكوني متأكدة مما ينبغي فعله.</p>
+<p> ينبغي تناول أقراص أروماسين عن طريق الفم بعد تناول وجبة في نفس الوقت تقريبًا كل يوم. سيخبركِ طبيبكِ بكيفية تناول أروماسين وطول فترة تناوله. </p>
+<p> تبلغ الجرعة الموصى بها قرصًا واحدًا 25 مجم يوميًا. </p>
+<p> 	إذا احتجتِ للدخول إلى المستشفى أثناء استخدام أروماسين، فأبلغي طاقم العمل الطبي بالأدوية التي تتناولينها.</p>
+              <p><b> 	الاستخدام في الأطفال</b></p>
+              <p> 	أروماسين غير مناسب للاستخدام في الأطفال.  </p>
+              <p><b> في حالة تناولكِ جرعة من أروماسين أكبر مما ينبغي</b></p>
+                  <p> في حالة تناول أقراص أكثر مما ينبغي بشكل عرضي، يتعين عليكِ الاتصال بطبيبكِ فورًا أو الذهاب مباشرةً لقسم الطوارئ في أقرب مستشفى. أريهم عبوة أقراص أروماسين </p>
+              <p><b> في حالة نسيانكِ تناول أروماسين</b></p>
+              <p> 	لا تتناولي جرعة مضاعفة لتعويض القرص الذي نسيتيه.</p>
+         <p> إذا نسيتِ تناول قرص علاجكِ، فتناوليه بمجرد تذكره. إذا كان موعد تناول الجرعة التالية وشيكًا، فتناوليها في الوقت المعتاد. </p>
+<p><b> 	في حالة التوقف عن تناول أروماسين</b></p>
+<p> 	لا تتوقفي عن تناول أقراص علاجكِ حتى لو كنتِ تشعرين بأنكِ على ما يرام، ما لم يخبركِ طبيبكِ بفعل هذا.</p>
+<p> إذا كان لديكِ أي أسئلة إضافية حول استخدام هذا الدواء، فاسألي طبيبكِ أو الصيدلي أو الممرضة. </p>
+</div>
+</text>
+</section>
+<section>
+<title value="4. الآثار الجانبية المحتملة "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p> مثل جميع الأدوية، يمكن أن يتسبب هذا الدواء في حدوث آثار جانبية، غير أنها لا تصيب الجميع. يمكن أن يحدث فرط حساسية والتهاب الكبد (التهاب الكبد الوبائي) والتهاب القنوات الصفراوية للكبد الذي يسبب اصفرار الجلد (التهاب الكبد الركودي). تشتمل الأعراض على شعور بالتوعك بشكل عام والغثيان واليرقان (اصفرار الجلد والعينين) والحكة وألم في جانب البطن الأيمن وفقدان الشهية. تواصلي مع طبيبكِ فورًا لطلب المشورة الطبية العاجلة إذا كنتِ تعتقدين أنكِ مصابة بأحد هذه الأعراض.</p>
+<p> بشكل عام، يكون تحمل أروماسين جيدًا والآثار الجانبية التالية التي لوحظت لدى المريضات الخاضعات للعلاج بأروماسين هي بطبيعتها خفيفة أو متوسطة الشدة بشكل أساسي. معظم الآثار الجانبية مرتبطة بنقص الإستروجين (مثل هبّات الحرارة).</p>
+             <p><b> شائعة جدًا: يمكن أن تصيب أكثر من سيدة واحدة من بين كل 10 سيدات</b></p>
+
+             <ul>
+<li> الاكتئاب</li>
+<li>صعوبة النوم</li>
+<li>الصداع </li>
+<li>هبّات الحرارة</li>
+<li>الدوار </li>
+<li> الغثيان</li>
+<li>زيادة العرق</li>
+<li>ألم العضلات والمفاصل (بما في ذلك الفصال العظمي، وألم الظهر، والتهاب المفاصل، وتيبس المفاصل) </li>
+<li>التعب</li>
+<li>انخفاض في عدد خلايا الدم البيضاء</li>
+<li> ألم البطن </li>
+<li>ارتفاع مستوى إنزيمات الكبد</li>
+<li> ارتفاع نسبة انحلال الهيموجلوبين في الدم</li>
+<li>ارتفاع مستوى إنزيم في الدم نتيجة لتلف الكبد</li>
+<li> الألم</li>
+             </ul>
+             <p><b> شائعة: يمكن أن تصيب ما يصل إلى سيدة واحدة من بين كل 10 سيدات</b></p>
+             <ul>
+             <li>فقدان الشهية </li>
+  <li>متلازمة النفق الرسغي (مزيج من إحساس الشكشكة والوخز، مع شعور بالتنميل والألم يصيب اليد كلها باستثناء الإصبع الصغير) أو الوخز/النخز في الجلد</li>
+  <li>القيء (الغثيان)، والإمساك، وعسر الهضم، والإسهال </li>
+  <li> تساقط الشعر </li>
+  <li>الطفح الجلدي، والشرى، والحكة </li>
+  <li>ترقق العظام الذي قد يضعف قوتها (هشاشة العظام)، مما يؤدي إلى كسور في العظام (كسور أو شروخ) في بعض الحالات </li>
+  <li> تورم اليدين والقدمين </li>
+  <li>انخفاض في عدد الصفيحات الدموية في الدم </li>
+  <li>الشعور بالضعف </li>
+             </ul>
+             <p><b> غير شائعة: يمكن أن تصيب ما يصل إلى سيدة واحدة من بين كل 100 سيدة</b></p>
+              <ul>
+             <li> فرط الحساسية </li>
+              </ul>
+             
+             <p> نادرة: يمكن أن تصيب ما يصل إلى سيدة واحدة من بين كل 1000 سيدة</p>
+             <ul>
+             <li>انتشار بثور صغيرة على منطقة من الجلد كطفح جلدي  </li>
+             <li>النعاس </li>
+             <li>التهاب الكبد </li>
+             <li>التهاب القنوات الصفراوية للكبد الذي يؤدي إلى اصفرار الجلد </li>
+             </ul>
+             <p><b> ذات معدل تكرار غير معروف: لا يمكن تقدير معدل التكرار من البيانات المتاحة</b></p>
+<ul>
+             <li> انخفاض مستويات بعض خلايا الدم البيضاء في الدم</li>
+             </ul>
+<p> يمكن أيضًا ملاحظة تغيرات في كمية خلايا دم معينة (الليمفاويات) والصفائح الدموية الدائرة في دمكِ، خاصة لدى المريضات المصابات بالفعل بقلة الليمفاويات (عدد الليمفاويات في الدم منخفض).</p>
+             <p><b> الإبلاغ عن الآثار الجانبية</b></p>
+             <p> إذا أصبتِ بأي آثار جانبية، فتحدثي إلى طبيبكِ أو الصيدلي. يشمل هذا أي آثار جانبية محتملة غير مدرجة في هذه النشرة. بالإبلاغ عن الآثار الجانبية، يمكنكِ المساعدة في توفير المزيد من المعلومات حول السلامة فيما يتعلق بهذا الدواء.</p>
+</div>
+</text>
+</section>
+<section>
+<title value="5. كيفية تخزين أروماسين "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<ul>
+<li> احتفظي بهذا الدواء بعيدًا عن مرأى ومتناول الأطفال.</li>
+<li> يحفظ في درجة حرارة أقل من ٣٠ درجة مئوية.</li>
+<li> لا تستخدمي منتج أروماسين بعد تاريخ انتهاء الصلاحية المدون على العلبة وعلى شريط البليستر بعد كلمة "EXP". يشير تاريخ انتهاء الصلاحية إلى آخر يوم في ذلك الشهر.</li>
+<li> لا يتطلب هذا الدواء احتياطات خاصة للتخزين.</li>
+</ul>
+	<p> ينبغي عدم التخلص من الأدوية عبر مياه الصرف أو في القمامة المنزلية. اسألي الصيدلي عن كيفية التخلص من الأدوية التي لم تعد هناك حاجة إليها. ستساعد هذه الإجراءات على حماية البيئة.</p>
+</div>
+</text>
+</section>
+<section>
+<title value="6. محتويات العبوة ومعلومات أخرى "/>
+<text>
+<status value="generated"/>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p> مكونات أروماسين </p>
+<ul>
+<li>المكون الفعال هو إكسيميستان. يحتوي كل قرص مغلّف على 25 مجم من إكسيميستان. </li>
+<li> المكونات الأخرى هي: سيليكا غروية مميهة، وكروسبوفيدون، وهيبروميلوز، وستيارات المغنيسيوم، ومانيتول، وسليولوز بلوري مكروي، وكربوكسي ميثيل نشا الصوديوم (النوع أ)، وبولي سوربات 80، وكحول البولي فينيل، وسيميثيكون، وماكروجول 6000 سكروز، وكربونات المغنيسيوم الخفيفة، وبارا هيدروكسي بنزوات الميثيل ((E218، وشمع إسترات السيتيل، وتَلك، وشمع الكارنوبا وكحول إيثيلي، وصمغ اللّك، و وثاني أكسيد التيتانيوم ((E171، وأكسيدات الحديد (E172).</li>
+</ul>
+<p><b> شكل أروماسين ومحتويات العبوة</b></p>
+<p> أقراص أروماسين هي أقراص مغلفة مستديرة محدبة الوجهين لونها مائل للأبيض وبها العلامة "7663" على أحد جانبيها.</p>							
+<p> يتوافر أروماسين في عبوات تحتوي على شرائط بليستر بها 15 أو 20 أو 30 أو 90 أو 100 أو 120 قرصًا.</p>
+<p> 	قد لا يتم طرح جميع أحجام العبوات في الأسواق.</p>
+<p><b> مالك تصريح التسويق</b></p>
+<p> فايزر إيطاليا، .S.r.l،</p>
+<p> 71 شارع إيسونزو – 04100 لاتينا</p>
+<p> إيطاليا.</p>
+<p><b> الجهة المصنعة </b></p>
+<p> فايزر إيطاليا، S.r.l.</p>
+<p> تقع في مارينو ديل ترونتو – 63100 أسكولي بيتشينو (AP)،</p>
+<p> إيطاليا. </p>
+<p><b> تمت آخر مراجعة لهذه النشرة في إبريل/نيسان 2021.</b></p>
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+<tbody>
+<tr>
+<td>
+<p style="text-align:center"><b> إن هذا دواء</b></p>
+<ul>
+<li>الدواء مستحضر يؤثر على صحتك واستهلاكه خلافًا للتعليمات يعرضك للخطر.</li>
+<li> اتبع بدقة وصفة الطبيب وطريقة الاستخدام وتعليمات الصيدلي الذي قام بصرف الدواء.</li>
+<li>الطبيب والصيدلي خبيران في الأدوية وفوائدها ومخاطرها.</li>
+<li> لا تقطع فترة العلاج الموصوفة لك من تلقاء نفسك.</li>
+<li> لا تكرر صرف نفس الدواء دون استشارة طبيبك.</li>
+</ul>
+<p style="text-align:center"><b> احتفظ بجميع الأدوية بعيدًا عن متناول ومرأى الأطفال</b></p>
+<p><b> مجلس وزراء الصحة العرب</b></p>
+<p><b> اتحاد الصيادلة العرب       </b></p>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</text>
+</section>
+
+			</Composition>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="Organization/organization-AromasinTabletsAR"/>
+		<resource>
+			<Organization>
+				<id value="organization-AromasinTabletsAR"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+				</meta>
+				<identifier>
+					<use value="official"/>
+					<system value="https://leaflet.healthcare/sid/organization"/>
+					<value value="U001"/>
+				</identifier>
+
+				<active value="true"/>
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi"/>
+						<code value="220000000034"/>
+						<display value="Marketing Authorisation Holder"/>
+					</coding>
+					<text value="Marketing Authorisation Holder"/>
+				</type>
+				<name value="Pfizer Europe MA EEIG"/>
+				<contact>
+					<address>
+						<use value="work"/>
+						<type value="physical"/>
+						<text value="Boulevard de la Plaine 171050 Bruxelles Belgium"/>
+						<line value="Boulevard de la Plaine 171050"/>
+						<city value="Bruxelles"/>
+						<postalCode value="NA"/>
+						<country value="Belgium"/>
+					</address>
+				</contact>
+			</Organization>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="MedicinalProductDefinition/medicinalproductdefinition-AromasinTabletsAR"/>
+		<resource>
+			<MedicinalProductDefinition>
+				<id value="medicinalproductdefinition-AromasinTabletsAR"/>
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+				</meta>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/product"/>
+					<value value="P001"/>
+				</identifier>
+				<type>
+					<coding>
+						<system value="http://hl7.org/fhir/medicinal-product-type"/>
+						<code value="MedicinalProduct"/>
+
+						<display value="Medicinal Product"/>
+
+					</coding>
+					<text value=""/>
+				</type>
+
+				<domain>
+					<coding>
+						<system value="http://hl7.org/fhir/medicinal-product-domain"/>
+						<code value="Human"/>
+
+						<display value="Human use"/>
+
+					</coding>
+				</domain>
+
+				<status>
+					<coding>
+						<system value="http://hl7.org/fhir/publication-status"/>
+						<code value="active"/>
+
+						<display value="active"/>
+
+					</coding>
+				</status>
+
+				<statusDate value="2018-06-23T08:38:00+02:00"/>
+
+				<legalStatusOfSupply>
+					<coding>
+						<system value="http://hl7.org/fhir/legal-status-of-supply"/>
+						<code value="100000072084"/>
+						<display value="Medicinal product subject to medical prescription"/>
+					</coding>
+				</legalStatusOfSupply>
+
+				<classification>
+					<coding>
+						<system value="http://hl7.org/fhir/ValueSet/medicinal-product-classification"/>
+						<code value=""/>
+
+						<display value=""/>
+
+					</coding>
+				</classification>
+
+				<route>
+					<coding>
+						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/routeOfAdministration"/>
+						<code value=""/>
+
+						<display value=""/>
+
+					</coding>
+				</route>
+
+				<combinedPharmaceuticalDoseForm>
+					<coding>
+						<system value="http://hl7.org/fhir/uv/emedicinal-product-info/ValueSet/doseForm"/>
+						<code value=" "/>
+
+						<display value=""/>
+
+					</coding>
+				</combinedPharmaceuticalDoseForm>
+
+				<name>
+
+					<productName value="Aromasin(Exemestane)_ 25mg_ tablets"/>
+					<type>
+						<coding>
+							<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-type"/>
+							<code value="INN"/>
+
+							<display value=""/>
+						</coding>
+						<text value=""/>
+					</type>
+					<part>
+						<part value=""/>
+
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="InventedNamePart"/>
+								<display value="Invented Name Part"/>
+							</coding>
+							<text value="Invented Name Part"/>
+						</type>
+					</part>
+					<part>
+						<part value=""/>
+
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="ScientificNamePart"/>
+								<display value="Scientific Name Part"/>
+							</coding>
+							<text value="Scientific Name Part"/>
+						</type>
+					</part>
+					<part>
+						<part value="50 mg &amp; 75 mg"/>
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="StrengthPart"/>
+								<display value="Strength Part"/>
+							</coding>
+							<text value="Strength Part"/>
+						</type>
+					</part>
+					<part>
+						<part value="hard capsules"/>
+						<type>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/medicinal-product-name-part-type"/>
+								<code value="DoseFormPart"/>
+								<display value="Pharmaceutical dose form part"/>
+							</coding>
+							<text value="Pharmaceutical dose form part"/>
+						</type>
+					</part>
+					<usage>
+						<country>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/country"/>
+								<code value=""/>
+								<display value=""/>
+							</coding>
+						</country>
+						<jurisdiction>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/jurisdiction"/>
+								  <code value="JO"/>
+                                                                  <display value="Jordan"/>
+							</coding>
+						</jurisdiction>
+						<language>
+							<coding>
+								<system value="http://hl7.org/fhir/ValueSet/all-languages"/>
+								 <code value="en"/>
+                                                                 <display value="English"/>
+							</coding>
+						</language>
+					</usage>
+				</name>
+			</MedicinalProductDefinition>
+		</resource>
+	</entry>
+</Bundle>
