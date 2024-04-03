@@ -114,7 +114,7 @@
             </text>
           </section>
         </section>
-        <section id="5a34d358-e830-4308-8d86-cb1dc8b1ee8c">
+        <section>
           <title value="1. What Talzenna is and what it is used for" />
           <code>
             <coding>
@@ -125,7 +125,7 @@
           </code>
           <text>
             <status value="additional" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml" id="5a34d358-e830-4308-8d86-cb1dc8b1ee8c">
               <p>
                 <b>What Talzenna is and how it works</b>
               </p>
@@ -150,7 +150,7 @@
             </div>
           </text>
         </section>
-        <section id="a2f089b4-fef4-497e-81bd-251cd9c7571f">
+        <section>
           <title value="2. What you need to know before you take Talzenna" />
           <code>
             <coding>
@@ -170,7 +170,7 @@
             </code>
             <text>
               <status value="additional" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns="http://www.w3.org/1999/xhtml" id="a2f089b4-fef4-497e-81bd-251cd9c7571f">
                 <ul>
                   <li class="allergen">
                     <p>If you are allergic to talazoparib or any of the other ingredients of this
@@ -434,7 +434,7 @@
             </text>
           </section>
         </section>
-        <section id="958ed385-b409-41d8-a868-fa5ec1fbaba4">
+        <section>
           <title value="3. How to take Talzenna" />
           <code>
             <coding>
@@ -445,7 +445,7 @@
           </code>
           <text>
             <status value="additional" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml" id="958ed385-b409-41d8-a868-fa5ec1fbaba4">
               <p>Always take this medicine exactly as your doctor or pharmacist has told you. Check
                 with your doctor or pharmacist if you are not sure.</p>
               <p>
@@ -514,7 +514,7 @@
             </text>
           </section>
         </section>
-        <section id="7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">
+        <section>
           <title value="4. Possible side effects" />
           <code>
             <coding>
@@ -525,7 +525,7 @@
           </code>
           <text>
             <status value="additional" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml" id="7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">
               <p>Like all medicines, this medicine can cause side effects, although not everybody
                 gets them.</p>
               <p>
@@ -591,7 +591,7 @@
             </text>
           </section>
         </section>
-        <section id="eb80ccf5-f971-4361-b25c-b8d86c457a00">
+        <section>
           <title value="5. How to store Talzenna" />
           <code>
             <coding>
@@ -602,7 +602,7 @@
           </code>
           <text>
             <status value="additional" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml" id="eb80ccf5-f971-4361-b25c-b8d86c457a00">
               <p>Keep this medicine out of the sight and reach of children.</p>
               <p>Do not use this medicine after the expiry date which is stated on the carton and
                 the bottle or blister after EXP. The expiry date refers to the last day of that
@@ -615,7 +615,7 @@
             </div>
           </text>
         </section>
-        <section id="2531776f-f478-40bc-a19d-6970524b8793">
+        <section>
           <title value="6. Contents of the pack and other information" />
           <code>
             <coding>
@@ -635,7 +635,7 @@
             </code>
             <text>
               <status value="additional" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns="http://www.w3.org/1999/xhtml" id="2531776f-f478-40bc-a19d-6970524b8793">
                 <ul>
                   <li>
                     <p>The active substance is talazoparib. Talzenna hard capsules come in different
