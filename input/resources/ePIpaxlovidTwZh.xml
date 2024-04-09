@@ -1098,7 +1098,7 @@
                     <p>在受試者次群體分析中觀察到相似的趨勢（見圖 1）。</p>
 
                     <p><b>圖 1：至第 28 天，COVID-19 症狀發作後 5 天內接受給藥且因 COVID‑19 相關住院或全因死</b> 亡成人的次群體分析：EPIC-HR</p>
-                    <p><img src="#category"/></p>                    
+                    <p><img src="#category" alt="Subpopulation analysis"/></p>                    
                     <p>縮寫：BMI = 身體質量指數；COVID-19 = 2019 新型冠狀病毒疾病；mAb = 單株抗體；mITT = 改良版意圖治療；SARS-CoV-2 = 嚴重急性呼吸道症候群冠狀病毒 2 型。</p>
                     <p>N = 分析群體中各類別之受試者人數。所有類別均基於 mITT1 群體，惟是否接受COVID-19 單株抗體治療類別之療效是基於 mITT2 群體。</p>
                     <p>如果在 Elecsys 抗 SARS-CoV-2 S 或 Elecsys 抗 SARS-CoV-2(N) 測定中結果為陽性，則定義 血清陽性。</p>
@@ -1228,15 +1228,16 @@
               <p style="text-align:center">倍拉維150毫克/100毫克膜衣錠</p>
               <p style="text-align:center">(nirmatrelvir tablets; ritonavir tablets)</p>
               <p style="text-align:center">組合包裝供口服使用</p>
-              <h3>什麼是我應該知道關於 PAXLOVID 最重要的資訊</h3>
-              <p>PAXLOVID 可能會和其他藥物產生交互作用，造成嚴重或危及生命的副作用或死亡。了解哪些藥物不應該與 PAXLOVID 共同使用是非常重要的。 </p>
-              <p>不該服用PAXLOVID的情況：</p>
-              <p>•	您正在服用任何下列藥物： </p>
-              <head>
-                <title>Product Names</title>
-            </head>
-            <body>
+
                 <table>
+                  <tr>
+                    <td colspan="3">
+                      <p>什麼是我應該知道關於 PAXLOVID 最重要的資訊</p>
+                      <p>PAXLOVID 可能會和其他藥物產生交互作用，造成嚴重或危及生命的副作用或死亡。了解哪些藥物不應該與 PAXLOVID 共同使用是非常重要的。 </p>
+                      <p>不該服用PAXLOVID的情況：</p>
+                      <p>•	您正在服用任何下列藥物： </p>
+                    </td>
+                  </tr>
                     <tr>
                         <td>o alfuzosin</td>
                         <td>o amiodarone</td>
@@ -1303,7 +1304,6 @@
                         <td></td>
                     </tr>
                 </table>
-            </body>
             <p>如果與 PAXLOVID 一起服用，並不是只有這些藥物可能會導致嚴重副作用。PAXLOVID 可能會增加或減少多種其他藥物的濃度。請務必告訴您的醫療照護提供者您正在使用的所有藥物，這非常重要，因為在 PAXLOVID 療程中，可能需要進行額外的實驗室檢測或變更其他藥物的劑量。您的醫療照護提供者也可能會告訴您有關需要注意的特定症狀，這些可能表示您需要停止或減少某些其他藥物的劑量。</p>
             <p>•	您對 nirmatrelvir、ritonavir或 PAXLOVID 中的任何成分過敏。PAXLOVID 完整成分清單請參見本文件結尾處。過敏反應的徵兆和症狀請參見「PAXLOVID 可能產生的重要副作用有哪些？」。</p>
             <h3>PAXLOVID是甚麽藥物？</h3>
@@ -1327,17 +1327,19 @@
             <h3>我應如何服用PAXLOVID？</h3>
             <ul>
               <li>完全遵照您的醫療照護提供者告訴您的方式服用 PAXLOVID。</li>
-              <li>PAXLOVID 由 2 種藥物組成：nirmatrelvir 錠劑和 ritonavir 錠劑。每天服用兩種藥物兩次，持續 5 天。</li>
-              <ul>
-                <li>Nirmatrelvir是一種橢圓型、粉紅色的錠劑。</li>
-                <li>Ritonavir是一種白色或灰白色錠劑。</li>
-              </ul>
+              <li>PAXLOVID 由 2 種藥物組成：nirmatrelvir 錠劑和 ritonavir 錠劑。每天服用兩種藥物兩次，持續 5 天。
+                <ul>
+                  <li>Nirmatrelvir是一種橢圓型、粉紅色的錠劑。</li>
+                  <li>Ritonavir是一種白色或灰白色錠劑。</li>
+                </ul>
+              </li>
               <li>如果您患有腎臟疾病，請與您的醫療照護提供者討論。您 可能會需要不一樣的劑量。</li>
-              <li>除非您準備服用您的劑量，否則請勿打開PAXLOVID錠劑的泡殼包裝。</li>
-              <ul>
-                <li>在早上或睡前服用第一劑PAXLOVID，取決於您何時取得處方藥物，或者按照醫療照護提供者告訴您的方式。</li>
-                <li>針對每次劑量，同時服用所有 3 顆錠劑。</li>
-              </ul>
+              <li>除非您準備服用您的劑量，否則請勿打開PAXLOVID錠劑的泡殼包裝。
+                <ul>
+                  <li>在早上或睡前服用第一劑PAXLOVID，取決於您何時取得處方藥物，或者按照醫療照護提供者告訴您的方式。</li>
+                  <li>針對每次劑量，同時服用所有 3 顆錠劑。</li>
+                </ul>
+              </li>
               <li>錠劑應整粒吞服。不得咀嚼、破壞或壓碎錠劑。</li>
               <li>可隨餐或空腹服用 PAXLOVID。</li>
               <li>即使您感覺好多了，請勿在沒有和您的醫療照護提供者討論的情況下停止服用PAXLOVID。</li>
