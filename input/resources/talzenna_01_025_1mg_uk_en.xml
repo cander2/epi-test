@@ -4,7 +4,7 @@
   <id value="bundlepackageleaflet-talzenna01-025-1" />
   <meta>
     <versionId value="1"/>
-    <lastUpdated value="2022-03-01T00:00:00Z" />
+    <lastUpdated value="2024-04-11T00:00:00Z" />
     <profile
       value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
   </meta>
@@ -14,7 +14,7 @@
     <value value="talzenna" />
   </identifier>
   <type value="document" />
-  <timestamp value="2022-03-01T00:00:00Z" />
+  <timestamp value="2024-04-11T00:00:00Z" />
   <entry>
     <fullUrl value="Composition/compositionuken" />
     <resource>
@@ -46,7 +46,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp025mg" />
         </subject>
-        <date value="2022-03-01T00:00:00Z" />
+        <date value="2024-04-11T00:00:00Z" />
         <author>
           <reference value="Organization/orgpfizerukltd" />
         </author>
@@ -456,7 +456,8 @@
                 <li><p class="breastCancer">for breast cancer: one 1 mg capsule of Talzenna.</p></li>
                 <li><p class="prostateCancer">for prostate cancer: Talzenna is taken with a medicine called enzalutamide. The usual dose of Talzenna is 0.5 mg (two 0.25 mg capsules).</p></li>
               </ul>                
-              <p>	If you get certain side effects while you are taking Talzenna alone or in combination with enzalutamide (see <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>), your doctor may lower your dose or stop treatment, either temporarily or permanently. Take Talzenna and enzalutamide exactly as your doctor has told you. </p>
+              <p>If you get certain side effects while you are taking Talzenna alone or in combination with enzalutamide (see <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>), your doctor may lower your dose or stop treatment, either temporarily or permanently. Take Talzenna and enzalutamide exactly as your doctor has told you. </p>
+              <p>Swallow the capsule whole with a glass of water. Do not chew or crush the capsules. You can take Talzenna with food or between meals. Do not open the capsules. Contact with the capsule content should be avoided.</p>
             </div>
           </text>
           <section>
@@ -1832,7 +1833,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <holder>
           <reference value="Organization/orgpfizerukltd" />
         </holder>
@@ -1877,7 +1878,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <holder>
           <reference value="Organization/orgpfizerukltd" />
         </holder>
@@ -1922,7 +1923,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <holder>
           <reference value="Organization/orgpfizerukltd" />
         </holder>
@@ -2035,7 +2036,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.1" />
           <system value="http://unitsofmeasure.org" />
@@ -2100,7 +2101,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.25" />
           <system value="http://unitsofmeasure.org" />
@@ -2165,7 +2166,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.25" />
           <system value="http://unitsofmeasure.org" />
@@ -2230,7 +2231,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.25" />
           <system value="http://unitsofmeasure.org" />
@@ -2295,7 +2296,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.25" />
           <system value="http://unitsofmeasure.org" />
@@ -2360,7 +2361,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="0.25" />
           <system value="http://unitsofmeasure.org" />
@@ -2425,7 +2426,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="1" />
           <system value="http://unitsofmeasure.org" />
@@ -2490,7 +2491,7 @@
             <display value="Active" />
           </coding>
         </status>
-        <statusDate value="2022-03-01T00:00:00Z" />
+        <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
           <value value="1" />
           <system value="http://unitsofmeasure.org" />
