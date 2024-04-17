@@ -757,7 +757,7 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid01mg" />
         </for>
         <role>
           <coding>
@@ -2136,6 +2136,8 @@
     </resource>
   </entry>
   <entry>
+<<<<<<< HEAD
+=======
     <fullUrl value="PackagedProductDefinition/ppd025mgblister30" />
     <resource>
       <PackagedProductDefinition>
@@ -2201,6 +2203,7 @@
     </resource>
   </entry>
   <entry>
+>>>>>>> d20499148567f5104eb2e77a5384a1345a0021c6
     <fullUrl value="PackagedProductDefinition/ppd025mgblister60" />
     <resource>
       <PackagedProductDefinition>

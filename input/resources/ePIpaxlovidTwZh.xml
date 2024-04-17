@@ -1451,6 +1451,51 @@
     </resource>
   </entry>
   <entry>
+    <fullUrl value="RegulatedAuthorization/authorizationpaxlovid" />
+    <resource>
+      <RegulatedAuthorization>
+        <id value="authorizationpaxlovid" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+        </identifier>
+        <subject>
+          <reference value="MedicinalProductDefinition/cfaeff60-72ff-42e0-bf17-d56db0f2da16" />
+        </subject>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000061" />
+            <display value="Marketing Authorisation" />
+          </coding>
+        </type>
+        <region>
+          <coding>
+            <system value="urn:iso:std:iso:3166" />
+            <code value="TW" />
+            <display value="Taiwan" />
+          </coding>
+        </region>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2022-03-01T00:00:00Z" />
+        <holder>
+          <reference value="Organization/e7fec37a-af43-4b91-9ec3-e7b2c5cb869b" />
+        </holder>
+      </RegulatedAuthorization>
+    </resource>
+  </entry>
+  <entry>
     <fullUrl value="urn:uuid:e7fec37a-af43-4b91-9ec3-e7b2c5cb869b"/>
     <resource>
       <Organization>
