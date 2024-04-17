@@ -24,7 +24,8 @@
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
         </meta>
-        <language value="en" />
+        <language value="en"/>
+        <version value="TE 6_1"/>
         <identifier>
           <system value="https://www.mhra.gov.uk/" />
           <value value="0d69fdcb-33cf-407f-8209-a6529856ab4f" />
