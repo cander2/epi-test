@@ -1346,16 +1346,16 @@
         </status>
         <statusDate value="2023-02-17T00:00:00Z" />
         <holder>
-          <reference value="Organization/orgpfizermalysia" />
+          <reference value="Organization/orgpfizermalaysia" />
         </holder>
       </RegulatedAuthorization>
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Organization/orgpfizermalysia" />
+    <fullUrl value="Organization/orgpfizermalaysia" />
     <resource>
       <Organization>
-        <id value="orgpfizermalysia" />
+        <id value="orgpfizermalaysia" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
