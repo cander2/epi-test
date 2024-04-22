@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundlepackageleaflet-zeljanz-5mg" />
+  <meta>
+    <versionId value="1"/>
+    <lastUpdated value="2023-02-17T00:00:00Z" />
+    <profile
+      value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
+  </meta>
+  <language value="ms" />
+  <identifier>
+    <system value="https://www.npra.gov.my/" />
+    <value value="xeljanz" />
+  </identifier>
+  <type value="document" />
+  <timestamp value="2023-02-17T00:00:00Z" />
+  <entry>
+    <fullUrl value="Composition/compositionmyms" />
+    <resource>
+      <Composition>
+        <id value="compositionmyms" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
+        </meta>
+        <language value="ms"/>
+        <version value="1"/>
+        <identifier>
+          <system value="https://www.npra.gov.my/" />
+          <value value="0d69fdcb-33cf-407f-8209-a6529856ab4f" />
+        </identifier>
+        <status value="final" />
+        <type>
+          <coding>
+            <system value="https://www.npra.gov.my/" />
+            <code value="100000155538" />
+          </coding>
+          <text value="Risalah Maklumat Ubat untuk Pengguna " />
+        </type>
+        <subject>
+          <reference value="MedicinalProductDefinition/mp5mg" />
+        </subject>
+        <date value="2023-02-17T00:00:00Z" />
+        <author>
+          <reference value="Organization/orgpfizermalaysia" />
+        </author>
+        <title centered="true" value="XELJANZ® FILM-COATED TABLETS, Tofacitinib citrate (5 mg)" />
+        <section>
+          <title centered="true" value="Risalah Maklumat Ubat untuk Pengguna (RiMUP)" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029894" />
+            </coding>
+            <text value="Package leaflet: Information for the patient" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml"/>
+          </text>
+          <section>
+            <title value="Apakah yang ada pada risalah ini" />
+            <code>
+              <coding>
+                <system value="https://www.npra.gov.my/" />
+                <code value="100000155538" />
+              </coding>
+              <text value="What is in this leaflet" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <ol>
+                  <li>
+                    <p>Apakah kegunaan XELJANZ</p>
+                  </li>
+                  <li>
+                    <p>Bagaimana XELJANZ berfungsi</p>
+                  </li>
+                  <li>
+                    <p>Sebelum menggunakan XELJANZ</p>
+                  </li>
+                  <li>
+                    <p>Cara menggunakan XELJANZ</p>
+                  </li>
+                  <li>
+                    <p>Semasa menggunakan XELJANZ</p>
+                  </li>
+                  <li>
+                    <p>Kesan-kesan sampingan</p>
+                  </li>
+                  <li>
+                    <p>Cara penyimpanan dan pelupusan XELJANZ</p>
+                  </li>
+                  <li>
+                    <p>Maklumat lanjut</p>
+                  </li>
+                  <li>
+                    <p>Pengilang dan Pemegang Pendaftaran Produk</p>
+                  </li>
+                  <li>
+                    <p>Tarikh kemaskini RiMUP</p>
+                  </li>
+                  <li>
+                    <p>Nombor Siri</p>
+                  </li>
+                </ol>
+              </div>
+            </text>
+          </section>
+        </section>
+        <section id="5a34d358-e830-4308-8d86-cb1dc8b1ee8c">
+          <title value="Apakah kegunaan XELJANZ" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029895" />
+            </coding>
+            <text value="What XELJANZ is used for" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>XELJANZ digunakan untuk merawat pesakit-pesakit dewasa yang menghidap
+                <i>rheumatoid arthritis</i> aktif sederhana hingga teruk yang tidak
+                memberi respons yang baik kepada methotrexate atau yang telah menghadapi
+                kesukaran mengendalikan methotrexate disebabkan kesan sampingannya. Ia
+                boleh digunakan sebagai agen tunggal atau dengan gabungan bersama
+                methotrexate atau ubat antireumatik pengubah suai penyakit (DMARD) bukan
+                biologik lain.
+              </p>
+              <p>XELJANZ juga digunakan untuk merawat pesakit dewasa yang menghidap
+                <i>psoriatic arthritis</i> (PsA) aktif yang tidak memberikan respons
+                yang baik kepada, atau yang tidak tahan dengan, methotrexate atau ubat
+                antireumatik pengubah suai penyakit (DMARD) bukan biologik lain.
+              </p>
+              <p>XELJANZ juga digunakan untuk merawat pesakit dewasa yang menghidap
+                <i>ulcerative colitis</i> (UC) aktif yang sederhana hingga teruk yang
+                tidak memberikan respons yang baik kepada, atau tidak tahan dengan,
+                <i>tumour necrosis factor (TNF) blockers</i>.
+              </p>
+            </div>
+          </text>
+        </section>
+        <section id="a2f089b4-fef4-497e-81bd-251cd9c7571f">
+          <title value="Bagaimana XELJANZ berfungsi" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029896" />
+            </coding>
+            <text value="How XELJANZ works" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>XELJANZ mengandungi bahan aktif tofacitinib yang menyekat protein
+                yang dipanggil JAK. Ia menyekat JAK1 dan JAK3 secara selektif,
+                seterusnya menghalang pengaktifan dan mengurangkan aktiviti beberapa
+                isyarat keradangan yang dipanggil sitokin. Isyarat keradangan ini adalah
+                penting dalam pengaktifan, fungsi dan pertambahan sel darah putih dalam
+                badan kita. Dengan menyekat isyarat ini, ia dapat membantu mengawal
+                respons imun di dalam badan kita yang terlibat dengan penyakit
+                <i>rheumatoid arthritis</i> dan <i>psoriatic arthritis</i>. Dengan
+                menghalang keradangan yang berlebihan, XELJANZ membantu mengurangkan
+                simptom-simptom seperti kesakitan dan bengkak pada sendi anda dan boleh
+                menambah baik prestasi anda dalam tugasan harian.
+              </p>
+            </div>
+          </text>
+        </section>
+        <section id="958ed385-b409-41d8-a868-fa5ec1fbaba4">
+          <title value="Sebelum menggunakan XELJANZ" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029905" />
+            </coding>
+            <text value="Before you use XELJANZ" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <ul>
+                <li>
+                  <p><i><u>Bila tidak boleh menggunakan</u></i></p>
+                </li>
+              </ul>
+              <p>Jangan ambil XELJANZ sekiranya:</p>
+              <ul>
+                <li>
+                  <p>Anda alah kepada tofacitinib citrate atau sebarang bahan
+                    kandungan lain dalam ubat ini</p>
+                </li>
+                <li>
+                  <p>Anda menghidap jangkitan teruk yang aktif seperti batuk kering
+                    atau pneumonia</p>
+                </li>
+                <li>
+                  <p>Anda menghidap penyakit hati yang teruk</p>
+                </li>
+                <li>
+                  <p>Jika anda hamil atau menyusukan anak</p>
+                </li>
+              </ul>
+              <p><i>Kehamilan dan menyusukan anak</i></p>
+              <p>Sekiranya anda hamil, mungkin hamil atau merancang untuk hamil, sila
+                dapatkan nasihat doktor anda sebelum mengambil ubat ini. Adalah tidak
+                diketahui sama ada XELJANZ boleh membahayakan bayi dalam kandungan.
+                XELJANZ tidak boleh digunakan semasa kehamilan melainkan jika
+                benar-benar diperlukan. Beritahu doktor anda dengan segera jika anda
+                hamil semasa mengambil XELJANZ. Jika anda seorang wanita yang berpotensi
+                untuk melahirkan anak, anda harus menggunakan perancang kehamilan yang
+                efektif semasa rawatan XELJANZ dan sekurang-kurangnya 4 minggu selepas
+                dos terakhir.</p>
+              <p>Adalah tidak diketahui sama ada XELJANZ boleh meresap ke dalam susu
+                badan. Jika anda menyusukan anak, anda harus berbincang dengan doktor
+                anda sama ada anda mahu mengambil XELJANZ atau menyusukan anak. Anda
+                tidak boleh melakukan kedua-duanya. Penyusuan tidak digalakkan semasa
+                rawatan dan sekurang-kurangnya 18 jam selepas dos terakhir XELJANZ.</p>
+              <ul>
+                <li>
+                  <p><i><u>Sebelum mula menggunakan XELJANZ</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Sila berbincang dengan doktor atau ahli farmasi anda tentang perkara
+                berikut sebelum mengambil XELJANZ</p>
+              
+              <ul>
+                <li>
+                  <p>Jika anda berpendapat anda menghidap jangkitan atau mengalami
+                    simptom-simptom jangkitan seperti demam, berpeluh, seram sejuk, sakit
+                    otot, batuk, sesak nafas, penghasilan kahak baharu atau perubahan
+                    terhadap kahak anda, penurunan berat badan, kulit yang hangat, kemerahan
+                    atau sakit atau terdapat luka-luka pada badan anda, sukar menelan atau
+                    sakit semasa menelan, cirit-birit atau sakit perut, rasa pedih apabila
+                    anda kencing atau kencing lebih kerap daripada biasa, berasa sangat
+                    letih</p>
+                </li>
+                <li>
+                  <p>Jika anda sedang dirawat untuk sesuatu jangkitan</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap banyak jangkitan atau menghidap jangkitan
+                    yang berulang-ulang</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap batuk kering atau telah merapati seseorang
+                    yang menghidap batuk kering. Doktor anda akan melakukan ujian batuk
+                    kering terhadap anda sebelum memulakan rawatan XELJANZ</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap sebarang penyakit yang meningkatkan
+                    kemungkinan anda mendapat jangkitan (contohnya kencing manis, HIV/AIDS
+                    atau sistem imun lemah)</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap atau pernah menghidap hepatitis B atau
+                    hepatitis C (virus yang menjejaskan hati). Virus ini boleh menjadi aktif
+                    semasa anda mengambil XELJANZ. Doktor anda mungkin melakukan ujian darah
+                    untuk hepatitis sebelum anda memulakan rawatan dengan XELJANZ dan semasa
+                    anda sedang mengambil XELJANZ</p>
+                </li>
+                <li>
+                  <p>Jika anda pernah menghidap sebarang jenis kanser sebelum ini.
+                    XELJANZ boleh menjejaskan sistem imun dan meningkatkan risiko anda
+                    kepada kanser-kanser tertentu. <i>Lymphoma</i> dan kanser lain telah
+                    dilaporkan pada pesakit-pesakit yang dirawat dengan XELJANZ</p>
+                </li>
+                <li>
+                  <p>Jika anda mengalami tekanan darah yang meningkat, paras
+                    kolesterol yang meningkat, kencing manis; faktor-faktor tersebut perlu
+                    dipantau ketika menerima XELJANZ</p>
+                </li>
+                <li>
+                  <p>Jika anda pernah mengalami keradangan usus besar
+                    (<i>diverticulitis</i>) atau ulser dalam perut atau usus anda</p>
+                </li>
+                <li>
+                  <p>Jika anda pernah mengalami penyempitan perut atau usus yang
+                    teruk</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap penyakit buah pinggang yang teruk</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap penyakit hati</p>
+                </li>
+                <li>
+                  <p>Jika anda merancang untuk mendapatkan pemvaksinan, sila beritahu
+                    doktor anda. Vaksin hidup tidak boleh diberikan semasa mengambil
+                    XELJANZ. Pemvaksinan hendaklah dilakukan 4 minggu sebelum memulakan
+                    XELJANZ.</p>
+                </li>
+                <li>
+                  <p>Jika anda mempunyai sejarah pelbagai alahan</p>
+                </li>
+              </ul>
+              
+              <p><i>Ujian pemantauan yang dilakukan sebelum dan semasa rawatan
+                  XELJANZ:</i></p>
+              <p>Doktor anda harus melakukan ujian darah sebelum anda mula mengambil
+                XELJANZ untuk menentukan kiraan sel darah putih anda (neutrofil atau
+                limfosit), kiraan sel darah merah (hemoglobin) dan tahap lipid
+                (kolesterol). Ujian darah ini hendaklah diulang dalam masa 4 hingga 8
+                minggu selepas anda mula mengambil XELJANZ (untuk neutrofil, hemoglobin
+                dan lipid) dan kemudian diulang setiap 3 bulan selepas itu (untuk
+                limfosit, neutrofil dan hemoglobin).</p>
+              <p>Sekiranya kiraan sel darah putih (neutrofil atau limfosit) atau
+                kiraan sel darah merah anda terlalu rendah, atau keputusan ujian hati
+                anda terlalu tinggi, doktor anda mungkin menghentikan atau mengubah dos
+                XELJANZ anda dan/atau rawatan lain bagi suatu tempoh masa sehingga
+                bacaan ini kembali normal. Jika tahap lipid (kolesterol) anda meningkat,
+                doktor anda perlu merawat tahap kolesterol anda secara berasingan
+                sehingga ia dapat dikawal dengan baik.</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Jika mengambil ubat-ubat lain</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Sila beritahu doktor atau ahli farmasi anda jika anda mengambil,
+                baru-baru ini telah mengambil atau mungkin mengambil sebarang ubat lain.
+                Sesetengah ubat tidak boleh diambil dengan XELJANZ. Jika diambil dengan
+                XELJANZ, ia boleh menyebabkan tahap XELJANZ yang tidak sesuai di dalam
+                badan anda, dan dos XELJANZ perlu dilaraskan. Anda harus memberitahu
+                doktor anda sekiranya anda menggunakan ubat-ubat (diambil melalui mulut)
+                yang mengandungi sebarang bahan aktif berikut:</p>
+              
+              <ul>
+                <li>
+                  <p>antibiotik seperti rifampin, digunakan untuk merawat jangkitan
+                    bakteria</p>
+                </li>
+                <li>
+                  <p>fluconazole dan ketoconazole, digunakan untuk merawat jangkitan
+                    kulat</p>
+                </li>
+              </ul>
+              
+              <p>XELJANZ tidak disyorkan untuk digunakan dengan rawatan biologik untuk
+                RA, PsA dan UC bersama ubat-ubat yang melemahkan sistem imun anda
+                (contohnya, azathioprine, tacrolimus atau cyclosporine). Pengambilan
+                XELJANZ dengan ubat-ubat ini boleh meningkatkan risiko anda terhadap
+                jangkitan.</p>
+              
+            </div>
+          </text>
+        </section>
+        <section id="7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">
+          <title value="Cara menggunakan XELJANZ" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029910" />
+            </coding>
+            <text value="How to use XELJANZ" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <ul>
+                <li>
+                  <p><i><u>Berapa banyak harus digunakan</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Ambil ubat ini mengikut arahan doktor anda dengan teliti. Sila rujuk
+                kepada doktor atau ahli farmasi anda jika anda tidak pasti. Dos yang
+                disyorkan ialah 5 mg dua kali sehari untuk <i>rheumatoid arthritis</i>
+                dan <i>psoriatic arthritis</i>. Dos yang disyorkan ialah 10 mg dua
+                kali sehari untuk <i>ulcerative colitis</i> tetapi dos penyelenggaraan
+                ialah 5 mg sahaja. Doktor anda mungkin mengurangkan dos jika anda
+                menghidap penyakit buah pinggang atau hati. Sekiranya anda sedang
+                menjalani dialisis, dos seharusnya diberikan selepas sesi dialisis pada
+                hari-hari dialisis. Anda tidak boleh meningkatkan atau mengurangkan dos
+                anda sendiri.</p>
+              <p><i><u>Bila perlu digunakan</u></i></p>
+              <p>XELJANZ adalah untuk kegunaan oral. Ambil tablet anda pada masa yang
+                sama setiap hari (satu tablet pada waktu pagi dan satu tablet pada waktu
+                malam). Anda boleh mengambil XELJANZ dengan atau tanpa makanan.</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Berapa lama perlu digunakan</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Teruskan penggunaan XELJANZ untuk tempoh masa yang ditetapkan oleh
+                doktor anda. Anda tidak boleh berhenti mengambil XELJANZ tanpa
+                berbincang dengan doktor anda. Jika anda mempunyai sebarang soalan
+                lanjut mengenai penggunaan ubat ini, sila rujuk kepada doktor atau ahli
+                farmasi anda.</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Jika terlupa menggunakan</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Rujuk kepada doktor atau ahli farmasi anda tentang apa yang perlu
+                dilakukan jika anda terlupa mengambil ubat ini. Ambil dos yang terlepas
+                sebaik sahaja anda teringat. Walau bagaimanapun, sekiranya sudah hampir
+                masa untuk dos seterusnya (dalam selang masa 6 jam), abaikan dos yang
+                terlepas dan tunggu untuk mengambil dos seterusnya pada masa biasa.
+                Jangan ambil 2 tablet untuk menggantikan dos yang terlepas.</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Jika mengguna berlebihan (terlebih dos)</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Hubungi doktor atau ahli farmasi anda dengan segera atau pergi ke
+                Jabatan Kecemasan hospital terdekat. Anda akan dipantau untuk mengesan
+                tanda-tanda dan simptom tindak balas advers ubat.</p>
+            </div>
+          </text>
+        </section>
+        <section id="eb80ccf5-f971-4361-b25c-b8d86c457a00">
+          <title value="Semasa menggunakan XELJANZ" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029913" />
+            </coding>
+            <text value="While you are using XELJANZ" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <ul>
+                <li>
+                  <p><i><u>Perkara yang perlu dilakukan</u></i></p>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <p>Ambil ubat anda mengikut arahan doktor.</p>
+                </li>
+                <li>
+                  <p>Beritahu doktor anda dengan segera jika anda menjadi
+                    hamil</p>
+                </li>
+                <li>
+                  <p>Beritahu doktor anda dengan segera jika anda ingin menyusukan
+                    anak</p>
+                </li>
+                <li>
+                  <p>Maklumkan kepada semua doktor dan ahli farmasi yang merawat anda
+                    bahawa anda sedang menggunakan XELJANZ, atau jika anda ingin mengambil
+                    sebarang ubat lain.</p>
+                </li>
+                <li>
+                  <p>Ambil semua ujian darah anda secara tetap dan tepat pada
+                    masanya.</p>
+                </li>
+                <li>
+                  <p>Jika anda mengalami tindak balas alahan seperti dada ketat, bunyi
+                    nafas yang berdehit, pening yang teruk atau rasa pitam, bengkak pada
+                    bibir, lidah atau tekak, kegatalan atau ruam kulit semasa mengambil
+                    XELJANZ atau sebaik sahaja selepas mengambil XELJANZ, sila beritahu
+                    doktor anda dengan segera</p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap sebarang jenis jangkitan atau jika anda
+                    mengalami sebarang simptom jangkitan (seperti dihuraikan di atas), sila
+                    beritahu doktor anda dengan segera, terutamanya jika anda berumur 65
+                    tahun ke atas, menghidap kencing manis dan sedang mengambil ubat yang
+                    boleh mengurangkan daya ketahanan badan anda, contohnya
+                    kortikosteroid.</p>
+                </li>
+                <li>
+                  <p>Jika anda mengalami lemah otot, mengalami sesak nafas yang
+                    bertambah teruk, atau kulit anda menjadi kuning, atau jika anda loya
+                    atau muntah, beritahu doktor anda dengan segera.</p>
+                </li>
+                <li>
+                  <p>Jika anda mengalami <i>thrombosis/deep vein thrombosis</i>
+                    (darah beku dalam saluran darah iaitu vena atau arteri) yang dicirikan
+                    oleh kejang dan sakit pada kaki atau bahagian badan yang lain), atau
+                    <i>pulmonary embolism</i> iaitu penyumbatan arteri dalam paru-paru
+                    oleh sesuatu bahan yang dibawa dari bahagian badan yang lain melalui
+                    aliran darah, sila jumpa doktor anda dengan segera. Doktor anda mungkin
+                    akan menghentikan ubat ini.
+                  </p>
+                </li>
+                <li>
+                  <p>Jika anda mengalami sebarang simptom ulser dalam perut atau usus
+                    anda atau simptom-simptom keradangan usus besar
+                    (<i>diverticulitis</i>) seperti demam, sakit pada bahagian abdomen,
+                    darah dalam najis dan perubahan yang tidak dapat dijelaskan dalam rutin
+                    pembuangan air besar, sila beritahu doktor anda. Orang yang mengambil
+                    XELJANZ jarang mengalami perut atau usus berlubang. Walau bagaimanapun,
+                    ini berlaku paling kerap pada orang yang pernah menghidap
+                    <i>diverticulitis</i> dan mereka yang mengambil ubat-ubat antiradang
+                    bukan steroid (NSAID), kortikosteroid atau methotrexate.
+                  </p>
+                </li>
+                <li>
+                  <p>Jika anda menghidap sebarang jenis kanser, beritahu doktor anda.
+                    Sila berbincang dengan doktor anda jika anda tidak berasa lebih baik
+                    atau jika anda berasa lebih teruk apabila mengambil XELJANZ.</p>
+                </li>
+                <li>
+                  <p>Jika luka kulit baharu muncul semasa atau selepas terapi atau
+                    jika luka yang sedia ada berubah rupa, beritahu doktor anda.</p>
+                </li>
+                <li>
+                  <p>Sila simpan risalah ini. Anda mungkin perlu membacanya lagi.
+                    Sekiranya anda mempunyai soalan lanjut, sila tanya doktor atau ahli
+                    farmasi anda.</p>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <p><i><u>Perkara yang tidak boleh dilakukan</u></i></p>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <p>Jangan berhenti menggunakan XELJANZ kecuali diarahkan oleh doktor
+                    anda.</p>
+                </li>
+                <li>
+                  <p>Jangan ambil sebarang ubat baharu tanpa berbincang dengan doktor
+                    anda.</p>
+                </li>
+                <li>
+                  <p>Ubat ini telah dipreskripsikan untuk anda sahaja. Jangan
+                    berikannya kepada orang lain, walaupun mereka mempunyai tanda-tanda
+                    penyakit yang sama. Ia mungkin membahayakan mereka.</p>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <p><i><u>Perkara yang perlu diberi perhatian</u></i></p>
+                  <p><i>Memandu dan menggunakan jentera</i></p>
+                  <p>Tiada kajian rasmi telah dijalankan untuk mengkaji kesan XELJANZ
+                    terhadap keupayaan untuk memandu dan menggunakan jentera.</p>
+                </li>
+              </ul>
+            </div>
+          </text>
+        </section>
+        <section id="2531776f-f478-40bc-a19d-6970524b8793">
+          <title value="Kesan-kesan sampingan" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Side Effects" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>Seperti ubat-ubatan lain, XELJANZ boleh menyebabkan kesan sampingan,
+                walaupun bukan semua orang mengalaminya.</p>
+              <p>Jangkitan yang paling biasa berlaku ialah:</p>
+              <ul>
+                <li><p><i>pneumonia</i> (jangkitan paru-paru)</p></li>
+                <li><p><i>cellulitis</i> (jangkitan bakteria pada kulit)</p></li>
+                <li><p><i>herpes zoster</i> (sejenis jangkitan virus)</p></li>
+                <li><p>jangkitan saluran pernafasan atas</p></li>
+                <li><p><i>nasopharyngitis</i></p></li>
+                <li><p>jangkitan saluran kencing</p></li>
+              </ul>
+              <p><b>Kesan-kesan sampingan lain</b> yang telah diperhatikan
+                dengan XELJANZ disenaraikan di bawah:</p>
+              <p>Cirit-birit, sakit kepala, tekanan darah tinggi
+                (<i>hypertension)</i>, kiraan sel darah merah yang rendah
+                <i>(anemia</i>), keradangan usus besar (<i>diverticulitis</i>),
+                dehidrasi, masalah sukar tidur, deria rasa yang tidak normal pada kulit
+                (<i>paresthesia</i>), sesak nafas atau kesukaran bernafas, batuk,
+                kongesi sinus, sakit perut (mungkin berlaku disebabkan keradangan
+                lapisan dalam perut), muntah, loya, ketidakhadaman, pengumpulan lemak
+                dalam sel hati, ruam, kulit merah dan gatal, sakit sendi, keradangan
+                tendon, bengkak sendi, sakit otot, demam, kelesuan (keletihan), bengkak
+                tangan dan kaki.
+              </p>
+              <p>Kanser paru-paru, payudara, <i>peptic ulcer</i>, kolorektal, sel
+                renal, prostat, sistem limfatik, melanosit (sel yang menyebabkan
+                pigmen).</p>
+              <p>Kiraan sel darah putih yang rendah, peningkatan enzim hati,
+                peningkatan kolesterol, peningkatan kreatinin serum.</p>
+              <p>Tindak balas <i>hypersensitivity</i> ubat, seperti bengkak di bawah
+                kulit dan geligata, telah diperhatikan pada pesakit selepas aktiviti
+                pemasaran.</p>
+              <p>Anda boleh melaporkan sebarang kesan sampingan atau kesan advers ubat
+                kepada Pusat Pemantauan Kesan Advers Ubat Kebangsaan melalui laman web
+                <u>npra.gov.my</u> <i>[Consumers🡪Reporting Side Effects to Medicines
+                  (ConSERF) or Vaccines (AEFI)].</i>
+              </p>
+              
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Cara penyimpanan dan pelupusan XELJANZ" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Storage and Disposal of XELJANZ" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <ul>
+                <li>
+                  <p><i><u>Penyimpanan</u></i></p>
+                </li>
+              </ul>
+              
+              <p>Jauhkan XELJANZ daripada penglihatan dan jangkauan kanak-kanak.</p>
+              <p>Simpan XELJANZ pada suhu bawah 30°C.</p>
+              <p>Jangan gunakan XELJANZ selepas tarikh tamat tempoh yang dinyatakan
+                pada karton, botol atau blister.</p>
+              <p>Simpan XELJANZ dalam bungkusan asalnya untuk melindungi daripada
+                kelembapan. Jangan gantikan bungkusan.</p>
+              <p>Jangan gunakan ubat ini jika anda menyedari bahawa tablet menunjukkan
+                tanda-tanda kemerosotan yang ketara (sebagai contoh, pecah atau berubah
+                warna).</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Pelupusan</u></i></p>
+                  <p>Ubat-ubatan tidak harus dilupuskan melalui air buangan atau sisa isi
+                    rumah. Sila rujuk kepada ahli farmasi anda mengenai cara untuk
+                    melupuskan ubat yang tidak diperlukan lagi kerana sebarang produk yang
+                    tidak digunakan atau bahan sisa hendaklah dilupuskan mengikut peraturan
+                    tempatan. Langkah-langkah ini dapat membantu melindungi alam
+                    sekitar.</p>
+                </li>
+              </ul>
+              
+              
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Maklumat lanjut" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Product Description" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <ul>
+                <li>
+                  <p><i><u>Rupa dan warna produk</u></i></p>
+                </li>
+              </ul>
+              
+              <p><i>Tablet bersalut filem:</i></p>
+              <p>Tablet bersalut filem XELJANZ 5 mg adalah tablet bersalut filem
+                pelepasan segera berbentuk bulat dan berwarna putih yang dicetak lekuk
+                dengan 'Pfizer' pada satu permukaan dan 'JKI 5' pada permukaan
+                sebelahnya.</p>
+              <p>Bungkusan dalam kerajang / blister kerajang mengandungi 14 atau 56
+                tablet bersalut filem.</p>
+              <p>Sesetengah kekuatan produk atau saiz pek mungkin tidak dipasarkan di
+                negara anda.</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Bahan-bahan kandungan</u></i></p>
+                </li>
+                <li>
+                  <p>Bahan aktif</p>
+                </li>
+              </ul>
+              
+              <p>Tofacitinib</p>
+              <p>Tablet untuk pemberian oral mengandungi tofacitinib dengan kekuatan
+                dos 5 mg.</p>
+              
+              <ul>
+                <li>
+                  <p>Bahan tidak aktif</p>
+                </li>
+              </ul>
+              
+              <p>Teras Tablet:</p>
+              <p>Microcrystalline cellulose, lactose monohydrate, croscarmellose
+                sodium, magnesium stearate</p>
+              <p>Salutan filem untuk tablet 5 mg: Opadry® II White (33G28523)
+                mengandungi HPMC 2910/Hypromellose 6cP, titanium dioxide, lactose
+                monohydrate, macrogol, triacetin (glycerol triacetate)</p>
+              
+              <ul>
+                <li>
+                  <p><i><u>Nombor MAL:</u></i></p>
+                </li>
+              </ul>
+              
+              <p>XELJANZ FILM-COATED</p>
+              <p>TABLETS 5 MG –</p>
+              <p>MAL14075067AZ</p>
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Pengilang" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Manufacturer" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+
+              <p>Pfizer Manufacturing</p>
+<p>Deutschland</p>
+<p>GmbH</p>
+<p>Betriebsstätte Freiburg</p>
+<p>Mooswaldallee 1</p>
+<p>79090 Freiburg</p>
+<p>Jerman</p>
+              
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Pemegang Pendaftaran Produk" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Product Registration Holder:" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>Pfizer (Malaysia) Sdn. Bhd.</p>
+              <p>Level 10 &amp; 11,</p>
+              <p>Wisma Averis, Tower 2,</p>
+              <p>Avenue 5, Bangsar South,</p>
+              <p>No. 8 Jalan Kerinchi,</p>
+              <p>59200 Kuala Lumpur, Malaysia.</p>
+              
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Tarikh Kemaskini RiMUP" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Date of Revision" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>17/02/2023</p>
+              
+            </div>
+          </text>
+        </section>
+        <section id="">
+          <title value="Nombor Siri" />
+          <code>
+            <coding>
+              <system value="https://www.npra.gov.my/" />
+              <code value="200000029914" />
+            </coding>
+            <text value="Serial Number" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>NPRA (R1/3) 09022021/022</p>
+              <p>NPRA (R1/AI2) 18102022/012</p>
+              <p><b>PLD-XELJANZ-0223</b></p>
+            </div>
+          </text>
+        </section>
+      </Composition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/tofacitinib5mg" />
+    <resource>
+      <Ingredient>
+        <id value="tofacitinib5mg" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="87LA6FU830" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072072" />
+            <display value="Active" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="87LA6FU830" />
+                <display value="TOFACITINIB" />
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="5" />
+              <unit value="mg" />
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+                <code value="ACTIB" />
+              </coding>
+              <text value="active ingredient - basis of strength" />
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="Ingredient/ingredientMICROCRYSTALLINECELLULOSE" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientMICROCRYSTALLINECELLULOSE" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="OP1R32D61U" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="OP1R32D61U" />
+                <display value="MICROCRYSTALLINE CELLULOSE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientlactosemonohydrate" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientlactosemonohydrate" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="EWQ57Q8I5X" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="EWQ57Q8I5X" />
+                <display value="lactose monohydrate" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientcroscarmellosesodium" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientcroscarmellosesodium" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="M28OL1HH48" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="M28OL1HH48" />
+                <display value="croscarmellose sodium" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientmagnesiumstearate" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientmagnesiumstearate" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="70097M6I30" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="70097M6I30" />
+                <display value="magnesium stearate" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientopadryii" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientopadryii" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="UM45RMS9QT" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="UM45RMS9QT" />
+                <display value="Opadry® II White (33G28523) containing HPMC 2910/Hypromellose 6cP" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientTITANIUMDIOXIDE" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientTITANIUMDIOXIDE" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="15FIX9V2JP" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="15FIX9V2JP" />
+                <display value="TITANIUM DIOXIDE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredientmacrogol" />
+    <resource>
+      <Ingredient>
+        <id value="ingredientmacrogol" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="3WJQ0SDW1A" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid1mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="3WJQ0SDW1A" />
+                <display value="macrogol" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/ingredienttriacetin" />
+    <resource>
+      <Ingredient>
+        <id value="ingredienttriacetin" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="XHX3C3X673" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="XHX3C3X673" />
+                <display value="triacetin (glycerol triacetate)" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="SubstanceDefinition/substancetofacitinib" />
+    <resource>
+      <SubstanceDefinition>
+        <id value="substancetofacitinib" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+          <value value="87LA6FU830" />
+        </identifier>
+        <version value="1" />
+        <status>
+          <coding>
+            <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+            <code value="1" />
+            <display value="Validated (UNII)" />
+          </coding>
+        </status>
+        <molecularWeight>
+          <type>
+            <text value="exact" />
+          </type>
+          <amount>
+            <value value="312.37" />
+          </amount>
+        </molecularWeight>
+        <structure>
+          <molecularFormula value="C16H20N6O" />
+        </structure>
+        <name>
+          <name
+            value="1-PIPERIDINEPROPANENITRILE, 4-METHYL-3-(METHYL-7H-PYRROLO(2,3-D)PYRIMIDIN-4-YLAMINO)-.BETA.-OXO-, (3R,4R)-" />
+          <type>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+              <code value="x" />
+              <display value="Chemical Name" />
+            </coding>
+          </type>
+        </name>
+      </SubstanceDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="ManufacturedItemDefinition/mid5mg" />
+    <resource>
+      <ManufacturedItemDefinition>
+        <id value="mid5mg" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://www.npra.gov.my/" />
+          <value value="99b900c6-4776-4cde-8125-4f6de8e98b98" />
+        </identifier>
+        <status value="active" />
+        <manufacturedDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi/" />
+            <code value="100000073665" />
+            <display value="Film-coated tablet" />
+          </coding>
+        </manufacturedDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002152" />
+            <display value="Tablet" />
+          </coding>
+        </unitOfPresentation>
+        <manufacturer>
+          <reference value="Organization/orgpfizergermany" />
+        </manufacturer>
+      </ManufacturedItemDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="AdministrableProductDefinition/ap5mg" />
+    <resource>
+      <AdministrableProductDefinition>
+        <id value="ap5mg" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.who-umc.org/phpid" />
+          <value value="identifier" />
+        </identifier>
+        <status value="active" />
+        <formOf>
+          <reference value="MedicinalProductDefinition/mp5mg" />
+        </formOf>
+        <administrableDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000073665" />
+            <display value="Film-coated tablet" />
+          </coding>
+        </administrableDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002152" />
+            <display value="Tablet" />
+          </coding>
+        </unitOfPresentation>
+        <producedFrom>
+          <reference value="ManufacturedItemDefinition/mid5mg" />
+        </producedFrom>
+        <routeOfAdministration>
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073619" />
+              <display value="Oral use" />
+            </coding>
+          </code>
+          <targetSpecies>
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi" />
+                <code value="100000109093" />
+                <display value="Human" />
+              </coding>
+            </code>
+          </targetSpecies>
+        </routeOfAdministration>
+      </AdministrableProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="RegulatedAuthorization/authorization5mg" />
+    <resource>
+      <RegulatedAuthorization>
+        <id value="authorization5mg" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+        </identifier>
+        <subject>
+          <reference value="MedicinalProductDefinition/mp5mg" />
+        </subject>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000061" />
+            <display value="Marketing Authorisation" />
+          </coding>
+        </type>
+        <region>
+          <coding>
+            <system value="urn:iso:std:iso:3166" />
+            <code value="MY" />
+            <display value="Malaysia" />
+          </coding>
+        </region>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2023-02-17T00:00:00Z" />
+        <holder>
+          <reference value="Organization/orgpfizermalysia" />
+        </holder>
+      </RegulatedAuthorization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Organization/orgpfizermalysia" />
+    <resource>
+      <Organization>
+        <id value="orgpfizermalysia" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="ORG-100000789" />
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000034" />
+            <display value="Marketing authorisation holder" />
+          </coding>
+          <text value="Marketing authorisation holder" />
+        </type>
+        <name value="Pfizer (Malaysia) Sdn. Bhd." />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="Pfizer (Malaysia) Sdn. Bhd.
+            Level 10 &amp; 11,
+            Wisma Averis, Tower 2,
+            Avenue 5, Bangsar South,
+            No. 8 Jalan Kerinchi,
+            59200 Kuala Lumpur, Malaysia.
+            " />
+            <line value="Avenue 5, Bangsar South" />
+            <city value="Kuala Lumpur" />
+            <country value="MY" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Organization/orgpfizergermany" />
+    <resource>
+      <Organization>
+        <id value="orgpfizergermany" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="ORG-100012030" />
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000033" />
+            <display value="Manufacturer" />
+          </coding>
+          <text value="Manufacturer" />
+        </type>
+        <name value="Pfizer Manufacturing Deutschland" />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="Pfizer Manufacturing Deutschland
+            GmbH
+            Betriebsstätte Freiburg
+            Mooswaldallee 1
+            79090 Freiburg
+            Germany" />
+            <line value="Betriebsstätte Freiburg" />
+            <city value="Freiburg" />
+            <country value="DE" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>  
+   <entry>
+    <fullUrl value="PackagedProductDefinition/ppd5mgblister14" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppd5mgblister" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+        </identifier>
+        <name value="Package in foil/foil blister containing 14 film-coated tablets" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp5mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2023-02-17T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="5" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgpfizergermany" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073496" />
+              <display value="Blister" />
+            </coding>
+          </type>
+          <quantity value="14" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppd5mgblister56" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppd5mgblister56" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+        </identifier>
+        <name value="Package in foil/foil blister containing 56 film-coated tablets" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp5mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2023-02-17T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="5" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgpfizergermany" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073496" />
+              <display value="Blister" />
+            </coding>
+          </type>
+          <quantity value="56" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>  
+  <entry>
+    <fullUrl value="MedicinalProductDefinition/mp5mg" />
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="mp5mg" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.npra.gov.my/" />
+          <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type" />
+            <code value="MedicinalProduct" />
+            <display value="Medicinal Product" />
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain" />
+            <code value="Human" />
+            <display value="Human use" />
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="active" />
+          </coding>
+        </status>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072084" />
+            <display value="Medicinal product subject to medical prescription" />
+          </coding>
+        </legalStatusOfSupply>
+        <name>
+          <productName value="XELJANZ® FILM-COATED TABLETS, Tofacitinib citrate (5 mg)" />
+          <part>
+            <part value="XELJANZ" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000002" />
+              </coding>
+              <text value="Invented name part" />
+            </type>
+          </part>
+          <part>
+            <part value="Tofacitinib citrate" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000003" />
+              </coding>
+              <text value="Scientific name part" />
+            </type>
+          </part>
+          <part>
+            <part value="5 mg" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000004" />
+              </coding>
+              <text value="Strength part" />
+            </type>
+          </part>
+          <part>
+            <part value="Film-coated tablet" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000005" />
+              </coding>
+              <text value="Pharmaceutical dose form part" />
+            </type>
+          </part>
+          <usage>
+            <country>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="MY" />
+                <display value="Malaysia" />
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="MY" />
+                <display value="Malaysia" />
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="urn:ietf:bcp:47" />
+                <code value="ms" />
+                <display value="Malaysian" />
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>  
+</Bundle>
