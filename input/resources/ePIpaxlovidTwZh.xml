@@ -1752,7 +1752,7 @@
         </status>
         <statusDate value="2024-01-31 Time: 00:00:00Z"/>
         <containedItemQuantity>
-          <value value="150/100"/>
+          <value value="150"/>
           <unit value="毫克"/>
         </containedItemQuantity>
         <packaging>
