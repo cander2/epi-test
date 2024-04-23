@@ -207,15 +207,15 @@
                 <ul>
                   <li>
                     <p><b>Anaemia: </b>Being short of breath, feeling very tired, pale skin, or fast
-                      heartbeat – these may be signs of a low red blood cell count</p>
+                      heartbeat – these may be signs of a low red blood cell count.</p>
                   </li>
                   <li>
                     <p><b>Neutropenia: </b>Infection, developing chills or shivering, or fever –
-                      these may be signs of a low white blood cell count</p>
+                      these may be signs of a low white blood cell count.</p>
                   </li>
                   <li>
                     <p><b>Thrombocytopenia: </b>Bruising or bleeding for longer than usual if you
-                      hurt yourself – these may be signs of a low blood platelet count</p>
+                      hurt yourself – these may be signs of a low blood platelet count.</p>
                   </li>
                 </ul>
                 <p>You will have regular blood tests during treatment with Talzenna to check your
@@ -638,11 +638,9 @@
             <text>
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
-                <ul>
-                  <li>
-                    <p>The active substance is talazoparib. Talzenna hard capsules come in different
-                      strengths.</p>
-                  </li>
+                <p>The active substance is talazoparib. Talzenna hard capsules come in different
+                  strengths.</p>
+                <ul>                  
                   <li class="mg-01">Talzenna 0.1 mg hard capsules: each capsule contains talazoparib tosylate equivalent to 0.1 mg talazoparib.</li>
                   <li class="mg-025">
                     <p>Talzenna 0.25 mg hard capsules: each capsule contains talazoparib tosylate
@@ -901,10 +899,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientMICROCRYSTALLINECELLULOSE" />
+    <fullUrl value="Ingredient/ingredientsmcc" />
     <resource>
       <Ingredient>
-        <id value="ingredientMICROCRYSTALLINECELLULOSE" />
+        <id value="ingredientsmcc" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -912,7 +910,7 @@
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="OP1R32D61U" />
+          <value value="B357P1G1IF" />
         </identifier>
         <status value="active" />
         <for>
@@ -937,8 +935,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="OP1R32D61U" />
-                <display value="MICROCRYSTALLINE CELLULOSE" />
+                <code value="B357P1G1IF" />
+                <display value="silicified microcrystalline cellulose (microcrystalline cellulose and silicone dioxide)" />
               </coding>
             </concept>
           </code>
@@ -961,6 +959,9 @@
           <value value="ETJ7Z6XBU4" />
         </identifier>
         <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid01mg" />
+        </for>
         <for>
           <reference value="ManufacturedItemDefinition/mid1mg" />
         </for>
@@ -1989,71 +1990,6 @@
     </resource>
   </entry>
    <entry>
-    <fullUrl value="PackagedProductDefinition/ppd025mgblister30" />
-    <resource>
-      <PackagedProductDefinition>
-        <id value="ppd025mgblister30" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
-        </identifier>
-        <name value="Talzenna 0.25 mg perforated unit dose blister packs of 30 hard capsules" />
-        <type>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000155527" />
-            <display value="Chemical Medicinal Product" />
-          </coding>
-        </type>
-        <packageFor>
-          <reference value="MedicinalProductDefinition/mp025mg" />
-        </packageFor>
-        <status>
-          <coding>
-            <system value="http://hl7.org/fhir/publication-status" />
-            <code value="active" />
-            <display value="Active" />
-          </coding>
-        </status>
-        <statusDate value="2024-04-11T00:00:00Z" />
-        <containedItemQuantity>
-          <value value="0.25" />
-          <system value="http://unitsofmeasure.org" />
-          <code value="mg" />
-        </containedItemQuantity>
-        <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
-        </manufacturer>
-        <packaging>
-          <identifier>
-            <system value="https://spor.ema.europa.eu/pmswi" />
-            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
-          </identifier>
-          <type>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073496" />
-              <display value="Blister" />
-            </coding>
-          </type>
-          <quantity value="30" />
-          <material>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="200000003222" />
-              <display value="PolyVinyl Chloride" />
-            </coding>
-          </material>
-        </packaging>
-      </PackagedProductDefinition>
-    </resource>
-  </entry>
-  <entry>
     <fullUrl value="PackagedProductDefinition/ppd025mgblister30" />
     <resource>
       <PackagedProductDefinition>
