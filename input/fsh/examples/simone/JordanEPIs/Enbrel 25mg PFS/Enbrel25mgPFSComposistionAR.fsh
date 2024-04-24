@@ -20,7 +20,7 @@ Usage: #inline
 * language = #en
 
 
-* contained
+* contained[0]
   * resourceType = "Binary"
   * id = "Picture4"
   * contentType = #image/jpeg
@@ -30,7 +30,7 @@ Usage: #inline
   * valueReference
     * reference = "#Picture4"
 
-* contained
+* contained[1]
   * resourceType = "Binary"
   * id = "Figure3"
   * contentType = #image/jpeg
@@ -40,7 +40,7 @@ Usage: #inline
   * valueReference
     * reference = "#Figure3"
 
-* contained
+* contained[2]
   * resourceType = "Binary"
   * id = "Image2"
   * contentType = #image/jpeg
@@ -50,7 +50,7 @@ Usage: #inline
   * valueReference
     * reference = "#Image2"
 
-* contained
+* contained[3]
   * resourceType = "Binary"
   * id = "Diagram1"
   * contentType = #image/jpeg
