@@ -32,7 +32,7 @@ Usage: #inline
   * valueReference
     * reference = "#Picture4"
 
-* contained[+]
+* contained
   * resourceType = "Binary"
   * id = "Figure3"
   * contentType = #image/jpeg
@@ -42,7 +42,7 @@ Usage: #inline
   * valueReference
     * reference = "#Figure3"
 
-* contained[+]
+* contained
   * resourceType = "Binary"
   * id = "Image2"
   * contentType = #image/jpeg
@@ -52,7 +52,7 @@ Usage: #inline
   * valueReference
     * reference = "#Image2"
 
-* contained[+]
+* contained
   * resourceType = "Binary"
   * id = "Diagram1"
   * contentType = #image/jpeg
