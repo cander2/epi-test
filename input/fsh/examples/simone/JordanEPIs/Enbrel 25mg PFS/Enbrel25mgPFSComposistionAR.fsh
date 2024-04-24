@@ -17,7 +17,6 @@ Usage: #inline
 * author = Reference(Enbrel25mgPFSOrgAR) //Organization
 
 * title = "Jordanian Enbrel 25mg PFS AR"
-* attester.time =  "2023-06-20T13:28:17Z"
 * language = #en
 
 
