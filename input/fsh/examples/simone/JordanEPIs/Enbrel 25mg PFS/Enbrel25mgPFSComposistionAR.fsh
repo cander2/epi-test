@@ -19,7 +19,7 @@ Usage: #inline
 * title = "Jordanian Enbrel 25mg PFS AR"
 * language = #en
 
-* contained[1]
+* contained[0]
   * resourceType = "Binary"
   * id = "Diagram1"
   * contentType = #image/jpeg
@@ -30,7 +30,7 @@ Usage: #inline
     * reference = "#Diagram1"
 
 
-* contained[2]
+* contained[1]
   * resourceType = "Binary"
   * id = "Image2"
   * contentType = #image/jpeg
@@ -40,7 +40,7 @@ Usage: #inline
   * valueReference
     * reference = "#Image2"
 
-* contained[3]
+* contained[2]
   * resourceType = "Binary"
   * id = "Figure3"
   * contentType = #image/jpeg
@@ -50,7 +50,7 @@ Usage: #inline
   * valueReference
     * reference = "#Figure3"
 
-* contained[4]
+* contained[3]
   * resourceType = "Binary"
   * id = "Picture4"
   * contentType = #image/jpeg
