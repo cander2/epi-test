@@ -1,1 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="Enbrel25mgPFSBundleAR"/>
+  <meta>
+    <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi"/>
+  </meta>
+  <language value="en"/>
+  <identifier>
+    <system value="https://www.jfda.jo"/>
+    <value value="placeholder"/>
+  </identifier>
+  <type value="document"/>
+  <timestamp value="2023-06-20T13:28:17Z"/>
+  <entry>
+    <fullUrl value="Composition/Enbrel25mgPFSComposistionAR"/>
+    <resource>
+      <Composition>
+        <id value="Enbrel25mgPFSComposistionAR"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi"/>
+        </meta>
+        <language value="en"/>
+        <text>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><a name="Composition_Enbrel25mgPFSComposistionAR"> </a><p><b>Generated Narrative: Composition</b><a name="Enbrel25mgPFSComposistionAR"> </a><a name="hcEnbrel25mgPFSComposistionAR"> </a></p><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Resource Composition &quot;Enbrel25mgPFSComposistionAR&quot;  (Language &quot;en&quot;) </p><p style="margin-bottom: 0px">Profile: <a href="https://build.fhir.org/ig/HL7/emedicinal-product-info/StructureDefinition-Composition-uv-epi.html">Composition (ePI)</a></p></div><p><b>identifier</b>: <code>https://www.jfda.jo</code>/placeholder</p><p><b>status</b>: final</p><p><b>type</b>: Package Leaflet <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (#100000155538)</span></p><p><b>date</b>: 2023-06-20 13:28:17+0000</p><p><b>author</b>: See on this page: Organization/Enbrel25mgPFSOrgAR</p><p><b>title</b>: Jordanian Enbrel 25mg PFS AR</p><h3>Attesters</h3><table class="grid"><tr><td style="display: none">-</td><td><b>Mode</b></td><td><b>Time</b></td></tr><tr><td style="display: none">*</td><td>Official <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://hl7.org/fhir/R5/codesystem-composition-attestation-mode.html">Composition Attestation Mode</a>#official)</span></td><td>2023-06-20 13:28:17+0000</td></tr></table><hr/><blockquote><p><b>Generated Narrative: Binary #Diagram1</b><a name="Diagram1"> </a><a name="hcDiagram1"> </a></p><p><b>contentType</b>: image/jpeg</p><p><b>data</b>: (base64 data - 16236 bytes)</p></blockquote></div>
+        </text>
+        <contained>
+          <Binary>
+            <id value="Diagram1"/>
+            <contentType value="image/jpeg"/>
+            <data value="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"/>
+          </Binary>
+        </contained>
+        <extension url="http://www.jordan.gov.jo/fhir/extension/ValidationReference">
+          <valueReference>
+            <reference value="#Diagram1"/>
+          </valueReference>
+        </extension>
+        <identifier>
+          <system value="https://www.jfda.jo"/>
+          <value value="placeholder"/>
+        </identifier>
+        <status value="final"/>
+        <type>
+          <coding>
+            <system value="https://www.jfda.jo/"/>
+            <code value="100000155538"/>
+          </coding>
+          <text value="Package Leaflet"/>
+        </type>
+        <subject>
+          <reference value="MedicinalProductDefinition/Enbrel25mgPFSMedicinalProductAR"/>
+        </subject>
+        <date value="2023-06-20T13:28:17Z"/>
+        <author>
+          <reference value="Organization/Enbrel25mgPFSOrgAR"/>
+        </author>
+        <title value="Jordanian Enbrel 25mg PFS AR"/>
+        <attester>
+          <mode>
+            <coding>
+              <system value="http://hl7.org/fhir/composition-attestation-mode"/>
+              <code value="official"/>
+            </coding>
+          </mode>
+          <time value="2023-06-20T13:28:17Z"/>
+        </attester>
+        <section>
+          <title value="النشرة الداخلية: معلومات للمريض"/>
+          <code>
+            <coding>
+              <system value="https://www.jfda.jo/"/>
+              <code value="100000155538"/>
+            </coding>
+            <text value="B. PACKAGE LEAFLET"/>
+          </code>
+          <text>
+            <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p><b>®إنبريل</b></p><p>إتانيرسيبت</p><p>محلول 25 مجم للحقن معبأ في محقنة مسبقة التعبئة</p><p>السوق المرجعية :الاتحاد الأوروبي</p><p><b>نشرة العبوة</b></p></div>
+          </text>
+          <section>
+            <title value="النشرة الداخلية: معلومات للمريض"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="Package leaflet: Information for the patient"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p><b>نشرة العبوة: معلومات للمستخدم</b></p><p><b>محلول إنبريل 25 مجم للحقن معبأ في محقنة مسبقة التعبئة</b></p><p>إتانيرسيبت</p><table><tbody><tr><p><b>اقرأ هذه النشرة بالكامل بعناية قبل البدء في استخدام هذا الدواء لأنها تحتوي على معلومات تهمك.</b></p><ul><li>احتفظ بهذه النشرة. فقد تحتاج إلى قراءتها مجددًا.</li><li>إذا كان لديك أي أسئلة أخرى، فيُرجى استشارة الطبيب أو الصيدلي أو الممرضة.</li><li>هذا الدواء تم وصفه لك أو لطفلك الذي ترعاه. لا تنصح الآخرين بتناوله. فقد يسبب لهم ضررًا، حتى إذا كانوا يعانون من نفس علامات المرض التي تعاني منها أو التي يعاني منها الطفل الذي تقوم برعايته.</li><li>إذا ظهرت عليك أي آثار جانبية، فتحدث إلى الطبيب أو الصيدلي. يشمل هذا أي آثار جانبية محتملة وغير مدرجة في هذه النشرة. انظر القسم 4.</li></ul></tr></tbody></table></div>
+            </text>
+          </section>
+          <section>
+            <title value="محتوى  هذه النشرة"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="What is in this leaflet"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>يتم تنظيم المعلومات الواردة في هذه النشرة في الأقسام الـ7 التالية:</p><ol><li><b>ما هو إنبريل وفيم يستخدم</b></li><li><b>ما ينبغي عليك معرفته قبل استخدام إنبريل</b></li><li><b>طريقة استخدام إنبريل</b></li><li><b>الآثار الجانبية المحتملة</b></li><li><b>كيفية تخزين إنبريل</b></li><li><b>محتويات العبوة ومعلومات أخرى</b></li><li><b>تعليمات تحضير وإعطاء حقنة من إنبريل (انظر الجانب الخلفي من النشرة)</b></li></ol></div>
+            </text>
+          </section>
+          <section>
+            <title value="1. ما هو إنبريل وفيم يستخدم "/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="1. What x is and what it is used for"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>إن إنبريل هو دواء يتم تصنيعه من نوعين من البروتينات البشرية. وهو يوقف نشاط بروتين آخر في الجسم يسبب الالتهاب. ويعمل إنبريل على تقليل الالتهاب المرتبط ببعض الأمراض.</p><p>بالنسبة للبالغين (من سن 18 سنة فأعلى)، فإنه يمكن استخدام إنبريل لعلاج <b>التهاب المفاصل الروماتويدي</b> المتوسط أو الحاد و<b>التهاب المفاصل الصدفي</b> ، والالتهاب الفقري المفصلي اللاصق الحاد و يشمل <b>التهاب الفقار المقسط </b>(التهاب الفقرات التصلبي) و<b>الصدفية</b> المتوسطة أو الحادة - وفي كل حالة يُستخدم عادةً عندما لا تعمل أنواع العلاج الأخرى واسعة الاستخدام جيدًا بالقدر الكافي أو عندما لا تكون ملائمة لك.</p><p>بالنسبة لالتهاب المفاصل الروماتويدي، فإن إنبريل يستخدم عادة بالتزامن مع دواء يسمى ميثوتريكسات، على الرغم من أنه يمكن أن يستخدم بمفرده أيضًا إذا كان العلاج بميثوتريكسات ليس ملائمًا لك. وبغض النظر عن استخدامه بمفرده أو بالتزامن مع ميثوتريكسات، فإن إنبريل يمكن أن يبطئ من معدلات حدوث الأضرار التي تحدث لمفاصلك بسبب الالتهاب الروماتيزمي للمفاصل ويحسن من قدرتك على تنفيذ الأنشطة اليومية.</p><p>وبالنسبة لالتهاب المفاصل الصدفي مع تأثر عدة مفاصل، فإن إنبريل يمكن أن يحسن قدرتك على تنفيذ الأنشطة اليومية المعتادة. وبالنسبة للمرضى الذين يعانون من ألم أو انتفاخ في عدة مفاصل بشكل متماثل (على سبيل المثال، في اليد والمعصم والقدم)، فإن إنبريل يمكنه أن يبطئ الأضرار الهيكلية على تلك المفاصل والتي تحدث بسبب المرض.</p><p>ويمكن وصف إنبريل أيضًا لعلاج الأمراض التالية للأطفال والمراهقين:</p><ul><li>للأنواع التالية من مرض التهاب المفاصل اليفعي مجهول السبب عندما لا يعمل العلاج بالميثوتريكسات جيدًا بالقدر الكافي أو لا يكون مناسبًا لها:<ul><li>التهاب المفاصل المتعددة (سواء كان عامل الروماتويد إيجابيًا أو سلبيًا) والتهاب المفاصل القليلة الممتد في المرضى من سن سنتين</li><li>التهاب المفاصل الصدفي في المرضى من سن 12 عامًا</li></ul></li><li>التهاب المفاصل المتعلق بالتهاب الارتكاز في المرضى من سن 12 سنة عندما لا تعمل أنواع العلاج الأخرى واسعة الاستخدام جيدًا بالقدر الكافي أو عندما لا تكون ملائمة لهم.</li><li>الصدفية الشديدة للمرضى من سن 6 سنوات والذين لم يستجيبوا جيدابالقدرالكافي (أو الذين ليس لديهم القدرة على تناول) للمعالجات الضوئية أو العلاجات المنهجية الأخرى.</li></ul></div>
+            </text>
+          </section>
+          <section>
+            <title value="2. ما ينبغي عليك معرفته قبل استخدام إنبريل "/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="2. What you need to know before you take x"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p><b>يُحظر استخدام إنبريل</b></p><ul><li>إذا كنت، أو كان الطفل الذي تقوم برعايته يعاني من حساسية تجاه إيتانيرسيبت أو أي مكونات أخرى لإنبريل المدرجة في قسم 6. إذا حدث لك أو لطفلك تفاعلات حساسية مثل ضيق الصدر، التنفس بصفير، الدوخة أو الطفح الجلدي، فلا تحقن أي كميات أخرى من إنبريل، واتصل بطبيبك في الحال.</li><li>إذا كنت أو كان الطفل يعاني من، أو من المحتمل أن يعاني من عدوى خطيرة في الدم تسمى إنتان الدم. وإذا لم تكن متأكدًا، رجاء الرجوع إلى طبيبك.</li><li>إذا كنت أو كان الطفل يعاني من عدوى من أي نوع. وإذا لم تكن متأكدًا، رجاء الرجوع الى طبيبك.</li></ul><p><b>تحذيرات واحتياطات</b></p><p>تحدث مع طبيبك قبل استخدام إنبريل</p><ul><li><b>تفاعلات الحساسية</b>: إذا حدث لك أو لطفلك تفاعلات حساسية مثل ضيق الصدر، التنفس بصفير، الدوخة أو الطفح الجلدي، فلا تحقن أي كميات أخرى من إنبريل، و إرجع إلى طبيبك في الحال.</li><li><b>حالات العدوى/الجراحة</b>: إذا حدث لك أو لطفلك عدوى جديدة، أو إذا كنت أو طفلك مقدمًا على جراحة كبيرة، فقد يرغب طبيبك في مراقبة العلاج بإنبريل.</li><li><b>حالات العدوى/مرض السكر:</b> أخبر طبيبك إذا كان لك أو لطفلك تاريخ من الإصابة بعدوى متكررة أو كنتما تعانيان من مرض السكر أو الحالات الأخرى التي تزيد من احتمالات حدوث العدوى.</li><li><b>حالات العدوى/المراقبة: </b>أخبر طبيبك عن أي سفر حديث خارج أوربا. وإذا حدث لك أو للطفل أعراض عدوى مثل الحمى أو القشعريرة (رعشة) أو السعال، أخبر طبيبك في الحال. يمكن أن يقرر طبيبك مراقبتك أو مراقبة طفلك لتحديد وجود حالات عدوى بعد أن توقف أنت أو طفلك استخدام إنبريل.</li><li><b>مرض السل: </b>حيث أنه تم الإبلاغ عن حالات حدوث لمرض السل للمرضى الذين تم علاجهم بإنبريل، فإن طبيبك سوف يفحص علامات وأعراض السل قبل بدء العلاج بإنبريل. ويمكن أن يتضمن ذلك إعطاء الطبيب التاريخ الطبي بالكامل، الأشعة السينية على الصدر واختبار تيوبركلين (السل). ومن المهم جدًا أن تخبر طبيبك إذا كان قد سبق أن أصبت (أو طفلك) بالسل، أو كنت (أو طفلك) قريبًا من شخص كان يعاني من مرض السل. وإذا ظهرت أعراض مرض السل (مثل الكحة المستمرة، فقد الوزن، الكسل، الحمى الخفيفة)، أو أي عدوى أخرى أثناء أو بعد العلاج، أخبر طبيبك في الحال.</li><li><b>الالتهاب الكبدي الوبائي </b><b>B</b><b>: </b>أخبر طبيبك إذا كنت أنت أو الطفل تعانيان من أو عانيتما سابقًا من الالتهاب الكبدي الوبائي B. ينبغي أن يقوم طبيبك بالفحص للبحث عن وجود عدوى الالتهاب الكبدي الوبائي B قبل أن تبدأ أنت أو الطفل العلاج بإنبريل. قد ينتج عن العلاج بإنبريل إعادة تنشيط الالتهاب الكبدي الوبائي B في المرضى الذين أصابهم فيروس الالتهاب الكبدي الوبائي B سابقًا. إذا حدث ذلك يجب عليك التوقف عن استخدام إنبريل.</li><li><b>الالتهاب الكبدي الوبائي </b><b>C</b><b>:</b> أخبر طبيبك إذا كنت أنت (أو طفلك) تعانيان من الالتهاب الكبدي الفيروسي C. إن طبيبك يمكن أن يرغب في مراقبة العلاج بإنبريل في حالة تفاقم العدوى.</li><li><b>اضطرابات في الدم:</b> اطلب المشورة الطبية في الحال إذا كنت تعاني أنت أو الطفل من أي علامات أو أعراض مثل الحمى المستمرة أو وجود احتقان في الحلق أو التكدم أو النزيف أو الشحوب. وتلك الأعراض يمكن أن تشير إلى وجود اضطرابات في الدم تهدد الحياة، ويمكن أن يتطلب ذلك إيقاف العلاج بإنبريل.</li><li><b>اضطرابات الجهاز العصبي والعين:</b> أخبر طبيبك إذا كنت أنت أو كان طفلك يعاني من التصلب المتعدد، التهاب العصب البصري (التهاب أعصاب العين) أو التهاب النخاع الشوكي المستعرض (التهاب الحبل الشوكي). سوف يحدد طبيبك إذا كان إنبريل علاجًا ملائمًا أم لا.</li><li><b>فشل القلب الاحتقاني:</b> أخبر طبيبك إذا كنت أنت أو طفلك قد سبق أن عانيتما من القصور الاحتقاني للقلب، وذلك بسبب أن إنبريل يحتاج لأن يستخدم بحرص في تلك الظروف.</li></ul><p><b>السرطان: </b>أخبر طبيبك إذا كنت تعاني من أو سبق أن عانيت من أورام لمفاوية (نوع من أنواع سرطان الدم) أو أي نوع آخر من أنواع السرطان قبل إعطائك إنبريل.وقد يكون المرضى الذين يعانون من التهاب المفاصل الروماتويدي الحاد منذ فترة طويلة، معرضين لنسبة خطر أعلى من المتوسطة لحدوث الأورام اللمفية لهم.وقد يتعرض الأطفال والبالغون الذين يتناولون إنبريل لاحتمالات أكبر لظهور الأورام اللمفية أو نوع آخر من أنواع السرطان. هناك بعض الأطفال والمرضى المراهقين الذين تم إعطاؤهم إنبريل أو أدوية أخرى تعمل بنفس طريقة إنبريل قد ظهر عندهم سرطان، بما في ذلك الأنواع غير المعتادة، والتي نتج عنها الوفاة في بعض الأحيان. وهناك بعض المرضى الذين تم إعطاؤهم إنبريل قد ظهر عندهم سرطان الجلد. أخبر طبيبك إذا كنت أنت أو الطفل قد ظهر لديكما أي تغير في شكل الجلد أو أشكال نمو على الجلد.</p><ul><li><b>الجديري المائي:</b> أخبر طبيبك إذا كنت أنت أو الطفل قد تعرضتما للجديري المائي عند استخدام إنبريل. سوف يحدد طبيبك إذا ما كان هناك حاجة لعلاج وقائي للجديري المائي أم لا.</li><li><b>اللاتكس: </b>غطاء الإبرة مصنوع من اللاتكس (المطاط الطبيعي الجاف). اتصل بطبيبك قبل استخدام إنبريل إذا كان من سيتعامل مع غطاء الإبرة أو من سيتم إعطاء إنبريل له، شخصًا معروفًا بإصابته أو باحتمال إصابته بفرط التحسس (الحساسية) للاتكس.</li><li><b>الإسراف في الكحوليات</b>: يجب عدم استخدام إنبريل لعلاج الالتهاب الكبدي المرتبط بإدمان الكحول. برجاء إخبار طبيبك إذا كنت أو طفلك الذي تعتني به قد سبق لك أو له إدمان الكحول.</li><li><b>ورم ويغنر الحبيبي</b>: لا ينصح باستخدام إنبريل لعلاج ورم ويغنر الحبيبي، وهو مرض التهابي نادر. وإذا كنت أنت أو طفلك تعانيان من ورم ويغنر الحبيبي، تحدث إلى طبيبك.</li><li><b>الأدوية المضادة لمرض السكر</b>: أخبر طبيبك إذا كنت أنت أو الطفل تعانيان من مرض السكر أو تتناولان أدوية لعلاج مرض السكر. ويمكن لطبيبك أن يقرر إذا كنت أنت أو طفلك تحتاجان لكمية أقل من الأدوية المضادة لمرض السكر بينما يتم تناول إنبريل.</li></ul><p><b>الأطفال والمراهقون</b></p><ul><li><b>التحصينات:</b> إذا أمكن، يجب أن يتم إعطاء الأطفال كل التطعيمات في مواعيدها قبل استخدام إنبريل. وهناك بعض التطعيمات، مثل تطعيم شلل الأطفال عن طريق الفم، التي يجب عدم إعطائها أثناء استخدام إنبريل. برجاء مراجعة طبيبك قبل أن يتم إعطاؤك أو إعطاء طفلك أي تطعيمات.</li></ul><p>ينبغي عدم استخدام إنبريل عادةً في الأطفال المصابين بالتهاب المفاصل المتعددة أو التهاب المفاصل القليلة الموسع تحت عمر سنتين، أو في الأطفال المصابين بالتهاب المفاصل المتعلق بالتهاب الارتكاز أو التهاب المفاصل الصدفي تحت سن 12 عامًا، أو في الأطفال المصابين بالصدفية تحت سن 6 أعوام.</p><p><b>الأدوية الأخرى وإنبريل</b></p><p>أخبر طبيبك أو الصيدلي إذا كان طفلك يتناول أو قد تناول حديثًا أو قد يتناول أي أدوية أخرى (بما في ذلك أناكينرا، أباتاسيبت أو سلفاسالازين)، حتى تلك الأدوية التي لم يصفها الطبيب. يجب ألا تستخدم أنت أو طفلك إنبريل مع أدوية تحتوي على المواد النشطة أناكينرا أو أباتاسيبت.</p><p><b>الحمل والرضاعة</b></p><p>ينبغي عدم استخدام إنبريل أثناء الحمل إلا إذا كانت هناك ضرورة واضحة لذلك. ينبغي أن تستشيري طبيبك إذا أصبحتِ حاملاً أو تعتقدين بأنك قد تكونين حاملًا أو تخططين للحمل.</p><p>إذا تلقيتِ إنبريل أثناء الحمل، فقد يكون هناك خطر أكبر على طفلك في الإصابة بعدوى. وبالإضافة لذلك فقد وجدت إحدى الدراسات المزيد من العيوب الولادية عند تلقي الأم لإنبريل أثناء الحمل، مقارنة بالأمهات الذين لم يتلقين إنبريل أو أدوية أخرى مماثلة (مضادات عامل نخر الورم) ولكن لم يتم الإبلاغ عن نوع معين من العيوب الولادية. ووجدت دراسة أخرى أنه لم يكن هناك خطر مرتفع لحدوث عيوب ولادية عند تلقي الأم لإنبريل أثناء الحمل. سيساعدكِ طبيبكِ في تقرير ما إذا كانت فوائد العلاج تفوق الخطر المحتمل على طفلكِ أم لا. من المهم أن تخبر أطباء الطفل وأخصائيي الرعاية الصحية الآخرين عن استخدام إنبريل أثناء الحمل قبل أن يتلقى الطفل أي لقاح (للمزيد من المعلومات انظر القسم 2 "اللقاحات").</p><p>يجب ألا تقوم السيدات اللاتي يستخدمن إنبريل بالإرضاع، حيث أن إنبريل يمر إلى لبن الثدي البشري.</p><p><b>القيادة واستخدام الآلات</b></p><p>لا يتوقع أن يؤثر استخدام إنبريل على القدرة على القيادة أو استخدام الآلات.</p><p><b>يحتوي إنبريل على الصوديوم</b></p><p>يحتوي هذا الدواء على أقل من 1 مليمول من الصوديوم (23 مجم) لكل وحدة جرعة، أي أنه "خالٍ من الصوديوم" بشكل أساسي.</p></div>
+            </text>
+          </section>
+          <section>
+            <title value="3. طريقة استخدام إنبريل"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="3. How to take x"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>استخدم هذا الدواء دائمًا كما أخبرك طبيبك بالضبط. راجع الطبيب أو الصيدلي إذا لم تكن متأكدًا.</p><p>إذا شعرت أن تأثير إنبريل قوي جدًا أو ضعيف جدًا، فتحدث إلى الطبيب أو الصيدلي.</p><p>تتوفر المحقنة مسبقة التعبئة بتركيزات جرعات 25 مجم و50 مجم.</p><p><b>الجرعة التي يتم إعطاؤها للمرضى البالغين (من سن 18 سنة أو أكثر)</b></p><p><u>الالتهاب الروماتيزمي للمفاصل، التهاب المفاصل الصدفي و الالتهاب الفقري المفصلي اللاصق و يشمل التهاب العمود الفقري اللاصق (التهاب الفقرات التصلبي)</u></p><p>إن الجرعة المعتادة هي 25 مجم يتم إعطاؤها مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا في صورة حقنة تحت الجلد. وعلى أي حال، فإن طبيبك يمكن أن يحدد نظامًا بديلًا لعدد مرات حقن إنبريل.</p><p><u>الصدفية القشرية</u></p><p>إن الجرعة المعتادة هي 25 مجم يتم إعطاؤها مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا.</p><p>وبدلًا من ذلك، يمكن إعطاء 50 مجم مرتين أسبوعيًا لمدة تصل إلى 12 أسبوعًا، مع إتباع ذلك بجرعة 25 مجم مرتين أسبوعيًا أو 50 مجم مرة واحدة أسبوعيًا.</p><p>سيحدد طبيبك الفترة التي يجب خلالها أن تتناول إنبريل وما إذا كانت هناك حاجة لإعادة العلاج على أساس استجابتك. وإذا لم يكن لإنبريل تأثير على حالتك بعد 12 أسبوعًا، فإن طبيبك يمكن أن يخبرك أن تتوقف عن تناول هذا الدواء.</p><p><b>استعمال الأطفال والمراهقين للدواء</b></p><p>إن الجرعة الملائمة وعدد مرات إعطاء الجرعة للطفل أو المراهق سوف تعتمد على وزن الجسم والمرض. سيقوم طبيبك بتحديد الجرعة الصحيحة للطفل وسيصف التركيز المناسب من إنبريل (25 مجم أو 50 مجم).</p><p>بالنسبة لالتهاب المفاصل المتعددة أو التهاب المفاصل القليلة الممتد في المرضى من عمر سنتين أو التهاب المفاصل المتعلق بالتهاب الارتكاز أو التهاب المفاصل الصدفي في المرضى من عمر 12 سنة، فإن الجرعة المعتادة هي 0.4 مجم من إنبريل لكل كجم من وزن الجسم (حتى 25 مجم بحد أقصى) مرتين أسبوعيًا أو 0.8 مجم من إنبريل لكل كجم من وزن الجسم (حتى 50 مجم بحد أقصى) مرة واحدة أسبوعيًا.</p><p>أما بالنسبة للصدفية في المرضى من عمر 6 سنوات، فإن الجرعة المعتادة هي 0.8 مجم من إنبريل لكل كجم من وزن الجسم (حتى 50 مجم بحد أقصى)، ويجب أن يتم إعطاؤها مرة واحدة أسبوعيًا. وإذا لم يكن لإنبريل تأثير على حالة الطفل بعد 12 أسبوعًا، فإن طبيبك قد يخبرك بإيقاف استخدام هذا الدواء.</p><p>سوف يمدك الطبيب بالمعلومات التفصيلية لتحضير وقياس الجرعة الملائمة.</p><p><b>طريقة ومسار التناول</b></p><p>يتم إعطاء إنبريل بالحقن تحت الجلد (تحت الجلد).</p><p>يُمكن تناول إنبريل مع أو بدون طعام أو شراب.</p><p><b>توجد تعليمات مفصلة عن كيفية حقن إنبريل في القسم 7، "تعليمات تحضير وإعطاء حقنة من إنبريل". </b>لا تخلط محلول إنبريل مع أي دواء آخر.</p><p>لمساعدتك على التذكر، من المفيد كتابة اليوم (الأيام) الذي يتم فيه تناول إنبريل أسبوعيًا في مفكرة يومية.</p><p><b>إذا أخذت جرعة من إنبريل أكبر مما ينبغي</b></p><p>إذا استخدمت كمية من إنبريل أكبر مما ينبغي (إما بحقن كمية كبيرة مرة واحدة أو باستخدامه عدد مرات أكبر)، تحدث إلى الطبيب أو الصيدلي في الحال. احتفظ معك بعلبة الدواء الخارجية دائما، حتى إن كانت فارغة.</p><p><b>في حالة نسيانك أخذ حقنة من إنبريل</b></p><p>إذا نسيت تناول جرعة واحدة، يجب عليك أخذ حقنة في أسرع وقت بمجرد تذكرك، مالم يكن موعد الجرعة التالية وفقًاً لجدول التناول في اليوم التالي؛ وفي تلك الحالة يجب عليك تخطي الجرعة الفائتة. بعد ذلك استمر في الحقن بالدواء وفقاً لجدول التناول المعتاد لليوم (الأيام). إذا لم تتذكر حتى اليوم الذي تكون فيه الحقنة الثانية مستحقة التناول، لا تأخذ جرعة مزدوجة (جرعتين في نفس اليوم) لتعويض الجرعة الفائتة.</p><p><b>في حالة التوقف عن تناول إنبريل</b></p><p>يمكن أن تعود الأعراض عند إيقاف العلاج.</p><p>إذا كانت لديك أي أسئلة أخرى حول استخدام هذا الدواء، فيمكنك سؤال طبيبك أو الصيدلي.</p></div>
+            </text>
+          </section>
+          <section>
+            <title value="4. الآثار الجانبية المحتملة"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="4. Possible side effects"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>مثل جميع الأدوية، يمكن أن يتسبب هذا الدواء في حدوث آثار جانبية، ومع ذلك فهي لا تحدث مع الجميع.</p><p><b>أعراض الحساسية</b></p><p>إذا حدث أي مما يلي، لا تحقن كميات أخرى من إنبريل. أخبر طبيبك في الحال أو اذهب إلى قسم (جناح) الإصابات في أقرب مستشفى.</p><ul><li>مشكلة في البلع أو التنفس</li><li>انتفاخ في الوجه، الحلق، الأيدي أو القدم</li><li>الشعور بالعصبية أو القلق، شعور بالنبض،الاحمرار المفاجئ للجلد و/أو الإحساس بالدفء</li><li>وجود طفح جلدي حاد، حكة أو حمى قراصية (بقع بارزة من جلد أحمر أو باهت والذي غالبًا ما يؤدي للحكة)</li></ul><p>إن تفاعلات الحساسية الخطيرة تكون نادرة. وعلى الرغم من ذلك، يمكن أن توضح أي من الأعراض المذكورة أعلاه وجود تفاعل حساسية تجاه إنبريل، ولذلك يجب أن تبحث عن رعاية طبية فورية.</p><p><b>الآثار الجانبية الخطيرة</b></p><p>إذا لاحظت أيًا مما يلي، فيمكن أن تحتاج أنت أو الطفل لرعاية طبية عاجلة.</p><ul><li>علامات<b> العداوى الخطيرة</b>، على سبيل المثال ارتفاع درجة الحرارة التي يمكن أن يصاحبها السعال أو قصر النفس أو القشعريرة أو الضعف أو منطقة ساخنة أو حمراء أو لينة أو مؤلمة على الجلد أو المفاصل</li><li>علامات <b>اضطرابات بالدم</b>، على سبيل المثال النزف أو التكدم أو الشحوب</li><li>علامات <b>اضطرابات الأعصاب</b>، على سبيل المثال الخدر أو التنميل أو تغيرات في الرؤية أو ألم بالعين أو بدء وجود ضعف في أحد الذراعين أو القدمين</li><li>علامات <b>فشل القلب أو تفاقم فشل القلب</b>، على سبيل المثال الإرهاق أو قصر النفس مع ممارسة أي نشاط أو انتفاخ الكاحل أو الإحساس بالامتلاء في الرقبة أو البطن أو قصر النفس أو السعال في الليل أو ازرقاق لون الأظافر أو الشفاه</li><li><b>علامات السرطانات: </b>قد تؤثر السرطانات على أي جزء في الجسم بما في ذلك الجلد والدم، وستعتمد العلامات المحتملة على نوع وموقع السرطان. قد تتضمن هذه العلامات فقدان الوزن، الحمى، التورم (مع الألم أو بدونه)، السعال الدائم، وجود كتل أو أجزاء نامية على الجلد</li><li>علامات <b>تفاعلات المناعة الذاتية</b> (حيث تتكون أجسام مضادة قد تضر بالأنسجة السليمة في الجسم) مثل الألم أو الحكة أو الضعف أو التنفس بشكل غير طبيعي أو التفكير أو الشعور أو الرؤية غير الطبيعيين</li><li>علامات الذئبة الحمراء أو متلازمة شبيهة بالذئبة الحمراء مثل تغيرات الوزن، الطفح الجلدي الدائم، الحمى، ألم المفاصل أو العضلات، أو الإرهاق</li><li>علامات <b>التهاب الأوعية الدموية</b> مثل الألم أو الحمى أو احمرار الجلد أو دفئه أو الحكة.</li></ul><p>هناك أعراض جانبية نادرة أو غير شائعة، ولكن هناك حالات خطيرة (وقد يكون بعضها مميتًا في حالات نادرة). وإذا حدثت تلك العلامات، أخبر طبيبك في الحال، أو قم بزيارة قسم الإصابات في أقرب مستشفى.</p><p>تتضمن الآثار الجانبية المعروفة لإنبريل ما يلي في مجموعات مرتبة تنازليًا حسب التكرار:</p><ul><li><b>شائع جدًا </b>(قد يؤثر على أكثر من شخص واحد بين كل 10 أشخاص):</li></ul><p>العدوى (والتي تتضمن البرد، التهاب الجيوب الأنفية، الالتهاب الشعبي، عداوى الجهاز البولي وعداوى الجلد)؛ تفاعلات في موضع الحقن (والتي تتضمن النزف، التكدم، الاحمرار، الحكة، الألم، والانتفاخ (لا تحدث هذه بنفس المعدل بعد الشهر الأول من العلاج) ، وهناك بعض المرضى قد حدث عندهم تفاعل عند موضع الحقن الذي استُخدِم مؤخرًا)؛ والصداع.</p><ul><li><b>شائع </b>(قد يؤثر على شخص واحد بين كل 10 أشخاص):</li></ul><p>تفاعلات الحساسية؛ الحمى؛ الطفح الجلدي؛ الحكة؛ أجسام مضادة موجهة ضد النسيج السليم (تكوين أجسام مضادة ذاتية).</p><ul><li><b>غير شائع </b>(قد يؤثر على شخص واحد بين كل 100 شخص):</li></ul><p>العداوى الخطيرة (تتضمن الالتهاب الرئوي والعداوى الجلدية العميقة وعداوى المفاصل وعداوى الدم والعداوى في مواضع مختلفة)؛ تفاقم حالة فشل القلب الاحتقاني، انخفاض عدد خلايا الدم الحمراء، انخفاض عدد خلايا الدم البيضاء، انخفاض عدد العَدِلات (نوع من خلايا الدم البيضاء)، انخفاض عدد الصفيحات الدموية في الدم؛ سرطان الجلد (باستثناء الميلانوما)؛ التورم الموضعي في الجلد (الوذمة الوعائية)؛ الحُمى القراصية (بقع بارزة من جلد أحمر أو شاحب والتي غالبًا ما تؤدي للحكة)؛ التهاب العين؛ الصدفية (جديدة أو متفاقمة)؛ التهاب الأوعية الدموية الذي يؤثر على أعضاء عديدة؛ ارتفاع نتائج اختبارات الدم لفحص وظائف الكبد (في المرضى الذين يتلقون أيضًا علاجًا بميثوتريكسات، كان معدل تكرار ارتفاع نتائج اختبارات الدم لفحص وظائف الكبد شائعًا)؛ تقلصات وألم في البطن، أو إسهال، أو خسارة الوزن أو دم في البراز (علامات مشكلات الأمعاء).</p><ul><li><b>نادر </b>(قد يؤثر على شخص واحد بين كل 1000 شخص):</li></ul><p>تفاعلات حساسية خطيرة (تتضمن تورمًا موضعيًا حادًا في الجلد وأزيزًا)؛ الليمفومة (نوع من سرطان الدم)؛ اللوكيميا (سرطان يؤثر على الدم ونخاع العظم)؛ الميلانوما (نوع من سرطان الجلد)، انخفاض العدد المجمع للصفيحات الدموية، وعدد خلايا الدم الحمراء والبيضاء؛ واضطرابات الجهاز العصبي (مع ضعف عضلي حاد وعلامات وأعراض تشبه الخاصة بالتصلب المتعدد أو التهاب أعصاب العين أو الحبل الشوكي)؛ السل؛ وبدء حالة جديدة من الفشل الاحتقاني للقلب؛ النوبات؛ الذئبة الحمراء أو المتلازمة الشبيهة بالذئبة الحمراء (يمكن أن تتضمن الأعراض طفحًا جلديًا دائمًا، الحمى، ألم المفاصل، والتعب)، طفح جلدي والذي يمكن أن يؤدي إلى تقرح وتقشر حاد في الجلد؛ تفاعلات حزازية (طفح جلدي أرجواني مائل إلى الأحمر مثير للحكة و/أو خطوط خيطية الشكل بيضاء ورمادية على الأغشية المخاطية)؛ التهاب الكبد الذي يتسبب فيه الجهاز المناعي الخاص بالجسم نفسه (التهاب الكبد نتيجة اضطراب مناعة ذاتي، لدى المرضى الذين يتلقون أيضًا العلاج بميثوتريكسات، معدل التكرار غير شائع)؛ اضطراب مناعي والذي يمكن أن يؤثر على الرئة، والجلد والعقد الليمفاوية (الساركويد)؛ التهاب أو تندب بالرئتين (لدى المرضى الذين يتلقون أيضًا العلاج بميثوتريكسات، معدل تكرار الإصابة بالتهاب أو تندب بالرئتين غير شائع).</p><ul><li><b>نادر جدًا </b>(قد يؤثر على شخص واحد بين كل 10000 شخص):</li></ul><p>فشل نخاع العظم وعدم قدرته على إنتاج خلايا الدم المهمة.</p><ul><li><b>غير معروف </b>(لا يمكن تقدير معدل التكرار من خلال البيانات المتاحة):</li></ul><p>سرطان خلايا ميركل (نوع من سرطان الجلد)؛ ساركوما كابوسي (نوع من السرطانات النادرة مرتبط بعدوى فيروس الهربس البشري 8. وتظهر ساركوما كابوسي بشكل أكثر شيوعًا في صورة آفات أرجوانية اللون على الجلد)؛ التنشيط المتزايد لخلايا الدم البيضاء المرتبطة بالالتهاب (متلازمة تنشيط البلاعم)؛ عودة الالتهاب الكبدي الوبائي B (التهاب كبدي)؛ تفاقم حالة معروفة بالتهاب الجلد والعضلات (التهاب وضعف في العضلات يصاحبه طفح جلدي).</p><p><b>آثار جانبية إضافية بين الأطفال والمراهقين</b></p><p>تكون الآثار الجانبية التي شوهدت لدى الأطفال والمراهقين ومعدلات تكرارها مشابهة لتلك التي تم وصفها بالأعلى.</p><p><b>الإبلاغ عن الآثار الجانبية</b></p><p>إذا ظهرت عليك أي آثار جانبية، فتحدث إلى الطبيب أو الصيدلي. يشمل هذا أي آثار جانبية محتملة وغير مدرجة في هذه النشرة. بإبلاغك عن الآثار الجانبية، يمكنك المساعدة في توفير المزيد من المعلومات حول مأمونية هذا الدواء.</p></div>
+            </text>
+          </section>
+          <section>
+            <title value="5. كيفية تخزين إنبريل"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="5. How to store x"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>احفظ هذا الدواء بعيدًا عن مرأى ومتناول الأطفال.</p><p>لا تستخدم هذا الدواء بعد انتهاء تاريخ الصلاحية المكتوب على العبوة والمحقنة مسبقة التعبئة بعد "EXP". يشير تاريخ انتهاء الصلاحية إلى آخر يوم من ذلك الشهر.</p><p>يُحفظ في المُبرِّد (الثلاجة) (في درجة حرارة من 2 - 8درجات مئوية). يجب عدم تجميده.</p><p>تُحفظ المحاقن مسبقة التعبئة في العبوة الخارجية لحمايتها من الضوء.</p><p>بعد أخذ محقنة من المُبرِّد، <b>انتظر حوالي 15-30 دقيقة للسماح لمحلول إنبريل الموجود في المحقنة بالوصول إلى درجة حرارة الغرفة</b>. لا تقم بالتدفئة بأي طريقة أخرى.يُنصح بالاستخدام المباشر عندها.</p><p>افحص المحلول الموجود بالمحقنة. ينبغي أن يكون المحلول صافيًا أو يميل إلى التعكر قليلًا أو شفافًا إلى لون أصفر باهت أو بني باهت وقد يحتوي على جسيمات صغيرة من البروتين بيضاء أو تكاد تكون شفافة. هذا الشكل طبيعي بالنسبة إلى إنبريل. لا تستخدم المحلول إذا كان لونه متغيرًا أو معكرًا أو إذا لوحظ وجود جسيمات غير التي تم وصفها أعلاه. إذا كنت قلقًا بشأن شكل المحلول، فاتصل بالصيدلي الخاص بك للمساعدة.</p><p>يجب عدم التخلص من أي أدوية عبر مياه الصرف أو مع المخلفات المنزلية. اسأل الصيدلي عن كيفية التخلص من الأدوية التي لم تعد تستخدمها. تساعد هذه التدابير على حماية البيئة.</p></div>
+            </text>
+          </section>
+          <section>
+            <title value="6. محتويات العبوة ومعلومات أخرى"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="6. Contents of the pack and other information"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p><b>مكونات إنبريل</b></p><p><u>محلول إنبريل </u><u>25</u><u> مجم للحقن المعبأ في محقنة مسبقة التعبئة</u></p><p>المادة الفعالة في إنبريل هي إتانيرسيبت. تحتوي كل محقنة مسبقة التعبئة على 0.5 مل من المحلول، مما يوفر 25 مجم من إتانيرسيبت.</p><p>المكونات الأخرى هي السكروز، كلوريد الصوديوم، هيدروكلوريد ل- الأرجنين، ثنائي هيدرات فوسفات الصوديوم أحادي القاعدة، وثنائي هيدرات فوسفات الصوديوم ثنائي القاعدة، والماء من أجل الحقن.</p><p><b>شكل إنبريل ومحتويات العبوة</b></p><p>يتوفر إنبريل في صورة محقنة مسبقة التعبئة تحتوي على محلول صافٍ أو عديم اللون إلى لون أصفر باهت أو بني باهت يتم حقنه (محلول للحقن). تحتوي كل عبوة على 4 أو 8 أو 12 أو 24 محقنة مسبقة التعبئة و4 أو 8 أو 12 أو 24 مسحة كحولية.</p><p>قد لا يتم طرح جميع أحجام العبوات، التركيزات ، الأشكال الصيدلية في الأسواق</p><p><b>مالك حق التسويق</b></p><p>شركة فايزر الأوروبية MA EEIG</p><p>17 شارع بولفار دي لا بلين</p><p>1050 بروكسل<br/>بلجيكا</p><p><b>تم التصنيع والتعبئة واجازة ال</b><b>ت</b><b>شغيلات بواسطة</b></p><p>شركة فايزر بلجيكا للتصنيع NV ،</p><p>12 ريجكس فيج، 2870 بورس، بلجيكا</p><p><b>تمت المراجعة الأخيرة لهذه النشرة في </b><b>مايو 2021</b></p></div>
+            </text>
+          </section>
+          <section>
+            <title value="7. تعليمات تحضير وإعطاء حقنة من إنبريل"/>
+            <code>
+              <coding>
+                <system value="https://www.jfda.jo/"/>
+                <code value="100000155538"/>
+              </coding>
+              <text value="7. Instructions for preparing and giving an injection of x"/>
+            </code>
+            <text>
+              <status value="additional"/><div xmlns="http://www.w3.org/1999/xhtml" dir="rtl"><p>يُقسَم هذا القسم إلى الأقسام الفرعية التالية:</p><p><b>مقدمة</b></p><p><b>الخطوة 1: التجهيز للحقن</b></p><p><b>الخطوة 2: اختيار موضع الحقن</b></p><p><b>الخطوة 3: حقن محلول إنبريل</b></p><p><b>الخطوة 4: التخلص من المستلزمات</b></p><p><b>مقدمة</b></p><p>تفسر التعليمات التالية كيفية تحضير وحقن إنبريل. برجاء قراءة التعليمات بحرص وإتباعها خطوة بخطوة. سيقوم طبيبك أو مساعده بإعطائك تعليمات تخص أساليب الحقن الذاتي أو إعطاء حقنة لطفل. لا تحاول القيام بالحقن حتى تتأكد من إدراكك لكيفية تحضير واعطاء الحقنة بشكل مناسب.</p><p>لا ينبغي خلط محلول إنبريل بأي دواء آخر قبل الاستخدام.</p><p><b>الخطوة 1: التجهيز للحقن</b></p><ol><li>اختر سطح عمل نظيفًا وجيد الإضاءة ومستويًا.</li><li>أخرِج عبوة إنبريل التي تحتوي على المحاقن مسبقة التعبئة من المبرد ثم ضعها على سطح العمل المستوي. بدءًا من إحدى الزوايا العلوية، اسحب الغطاء الورقي من أعلى وجانبي الصينية. أخرِج إحدى المحاقن مسبقة التعبئة وإحدى المسحات الكحولية وضعهما على سطح العمل. لا ترج محقنة إنبريل مسبقة التعبئة. أعِد طي الغطاء الورقي على الصينية ثم ضع العبوة التي تحتوي على أي محاقن مسبقة ا‑لتعبئة متبقية في المبرِّد مرة أخرى. رجاءً انظر القسم 5 للاطلاع على التعليمات الخاصة بكيفية تخزين إنبريل. إذا كانت لديك أي أسئلة تتعلق بالتخزين فاتصل بطبيبك أو الممرضة أو الصيدلي لمزيدٍ من التعليمات.</li><li><b>ينبغي عليك الانتظار حوالي 15 إلى 30 دقيقة للسماح لمحلول إنبريل الموجود في المحقنة بالوصول إلى درجة حرارة الغرفة.</b><b>لا</b> تنزع غطاء الإبرة أثناء تركك المحقنة لتصل إلى درجة حرارة الغرفة. انتظار المحلول حتي يبلغ درجة حرارة الغرفة قد يجعل عملية الحقن أكثر راحة لك. لا تقم بتدفئة إنبريل بأي طريقة أخرى (على سبيل المثال، لا تقم بتدفئته في الميكروويف أو في ماء ساخن).</li><li>قم بتجميع المستلزمات الإضافية التي ستحتاجها للحقن. تتضمن هذه المستلزمات المسحة الكحولية الموجودة بعبوة إنبريل وقطعة قطنية أو ضمادة.</li><li>اغسل يديك بالماء الدافئ والصابون.</li><li>افحص المحلول الموجود بالمحقنة. ينبغي أن يكون المحلول صافيًا أو يميل إلى التعكر قليلًا، شفافًا إلى لون أصفر باهت أو بني باهت وقد يحتوي على جسيمات صغيرة من البروتين بيضاء أو تكاد تكون شفافة. هذا الشكل طبيعي بالنسبة إلى إنبريل. لا تستخدم المحلول إذا كان لونه متغيرًا أو معكرًا أو إذا لوحظ وجود جسيمات غير التي تم وصفها أعلاه. إذا كنت قلقًا بشأن شكل المحلول، فاتصل بالصيدلي الخاص بك للمساعدة.</li></ol><p><b>الخطوة 2: اختيار موضع الحقن</b></p><ol><li>تتضمن مواقع الحقن الثلاث الموصى بها لحقن إنبريل باستخدام محقنة مسبقة التعبئة: (1) الجزء الأمامي الأوسط من الفخذ؛ (2) البطن، فيما عدا مساحة 5 سنتيمتر مباشرة حول السرة؛ و (3) المساحة الخارجية من الجزء العلوي من الذراع (انظر الشكل 1). وإذا كنت تحقن نفسك، فإنك لا يجب أن تستخدم المساحة الخارجية من الجزء العلوي من الذراع.</li><p style="text-align:center"><u>شكل 1</u></p><p style="text-align:center"><img src="#Diagram1" alt="Diagram1"/></p><li>ينبغي استخدام موضع مختلف لكل حقنة جديدة. وينبغي إعطاء كل حقنة على مسافة 3سم على الأقل من الموضع القديم. لا تحقن في مناطق يكون فيها الجلد رقيقًا أو مكدومًا أو أحمر أو متيبسًا. تجنب المناطق ذات الجروح أو التي فيها تمددات (قد يساعدك أن تحتفظ بملاحظات تخص موضع الحقنة السابقة).</li><li>إذا كنت تعاني أو يعاني الطفل من الصدفية، فإنك يجب ألا تجرب أن تحقن مباشرة في أي بقع مرتفعة، سميكة، حمراء أو ذات قشور (" التهابات الصدفية على الجلد").</li></ol><p><b>الخطوة 3: حقن محلول إنبريل</b></p><ol><li>امسح الموضع المراد حقن إنبريل فيه بمسحة كحول باستخدام حركة دائرية. <b>لا</b> تلمس تلك المساحة مرةً أخرى قبل الحقن.</li><li>التقط المحقنة مسبقة التعبئة من على سطح العمل المستوي. انزع غطاء الإبرة عن طريق سحبه تمامًا بقوة من على المحقنة (انظر شكل 2). <b>كن حريصا ألا تثني أو تلف الغطاء أثناء الإزالة لتجنب إتلاف الإبرة.</b></li><p>عند نزع غطاء الإبرة، قد توجد قطرة سائل على طرف الإبرة؛ هذا أمرٌ طبيعي. لا تلمس الإبرة أو تتركها تلمس أي سطح. لا تلمس أو تدفع المكبس. فقد يتسبب هذا في تسرب السائل.</p><p style="text-align:center"><u>شكل 2</u></p><p style="text-align:center"><img src="#Image2" alt="Image2"/></p><li>عند جفاف المساحة المنظفة من الجلد، اضغط عليها وامسكها بثبات بيد واحدة. احمل المحقنة مثل القلم الرصاص.</li><li>بحركة سريعة وقصيرة، ادفع الإبرة بالكامل إلى الجلد بزاوية تقع ما بين 45 درجة مئوية و90 درجة مئوية (انظر الشكل 3). ومع الخبرة، ستجد الزاوية التي تكون أكثر راحة لك أو للطفل. كن حريصا بحيث لا تدفع الإبرة إلى الجلد ببطء شديد، أو بقوة كبيرة.</li><p style="text-align:center"><u>شكل 3</u></p><p style="text-align:center"><img src="#Figure3" alt="Figure3"/></p><li>عند إدخال الإبرة بالكامل إلى الجلد، اترك الجلد الذي تُمسك به. وبيدك الحرة، احمل المحقنة بالقرب من قاعدته لتثبيته. بعد ذلك ادفع المكبس لحقن كل المحلول بمعدل <b>بطيء</b> وثابت (انظر الشكل 4).</li><p style="text-align:center"><u>شكل 4</u></p><p style="text-align:center"><img src="#Picture4" alt="Picture4"/></p><li>عندما تكون المحقنة فارغة، أزل الإبرة من الجلد مع الحرص على الاحتفاظ بها بنفس الزاوية التي أُدخِلت بها. قد يظهر القليل من الدم في موضع الحقن. يمكنك الضغط بقطعة قطن أو ضمادة على موضع الحقن لمدة 10 ثوانٍ. لا تمسح موضع الحقن. إذا اقتضت الحاجة، يمكنك تغطية موضع الحقن بضمادة.</li></ol><p><b>الخطوة 4: التخلص من المستلزمات</b></p><ul><li>إن المحقنة مسبقة التعبئة مخصصة للاستخدام مرة واحدة فقط. ينبغي عدم إعادة استخدام المحقنة والإبر <b>أبدًا</b>. لا تُعِد تركيب الإبرة في المحقنة <b>أبدًا</b>. تخلص من الإبرة والمحقنة وفقًا لتعليمات طبيبك أو الممرضة أو الصيدلي.</li></ul><p><b>إذا كانت لديك أي أسئلة، برجاء التحدث لطبيبك الممرضة أو الصيدلي الخبير بدواء إنبريل.</b></p><table border="1" cellpadding="1" cellspacing="1" style="width:500px"><tbody><tr><td><p style="text-align:center"><b>إن هذا دواء</b></p><ul><li>إن الدواء منتج يؤثر على صحتك واستهلاكه خلافًا للتعليمات يعرضك للخطر.</li><li>اتبع بدقة وصفة الطبيب وطريقة الاستعمال المنصوص عليها وتعليمات الصيدلي الذي صرف لك الدواء.</li><li>الطبيب والصيدلي خبيران في الأدوية وفوائدها ومخاطرها.</li><li>لا تقطع مدة العلاج المحددة لك من تلقاء نفسك.</li><li>لا تكرر صرف نفس الدواء دون استشارة طبيبك.</li></ul><p style="text-align:center"><b>احتفظ بجميع الأدوية بعيدًا عن متناول ومرأى الأطفال</b></p><p><b>مجلس وزراء الصحة العرب</b></p><p><b>اتحاد الصيادلة العرب</b></p></td></tr></tbody></table></div>
+            </text>
+          </section>
+        </section>
+      </Composition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Organization/Enbrel25mgPFSOrgAR"/>
+    <resource>
+      <Organization>
+        <id value="Enbrel25mgPFSOrgAR"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi"/>
+        </meta>
+        <text>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><a name="Organization_Enbrel25mgPFSOrgAR"> </a><p><b>Generated Narrative: Organization</b><a name="Enbrel25mgPFSOrgAR"> </a><a name="hcEnbrel25mgPFSOrgAR"> </a></p><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Resource Organization &quot;Enbrel25mgPFSOrgAR&quot; </p><p style="margin-bottom: 0px">Profile: <a href="https://build.fhir.org/ig/HL7/emedicinal-product-info/StructureDefinition-Organization-uv-epi.html">Organization (ePI)</a></p></div><p><b>identifier</b>: <code>https://spor.ema.europa.eu/omswi</code>/ORG-100008368 (use: official)</p><p><b>active</b>: true</p><p><b>type</b>: Marketing authorisation holder <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (rmswi#220000000034)</span></p><p><b>name</b>: Pfizer Europe MA EEIG</p><h3>Contacts</h3><table class="grid"><tr><td style="display: none">-</td><td><b>Address</b></td></tr><tr><td style="display: none">*</td><td>Boulevard de la Plaine 17, 1050 Bruxelles, Belgium(work)</td></tr></table></div>
+        </text>
+        <identifier>
+          <use value="official"/>
+          <system value="https://spor.ema.europa.eu/omswi"/>
+          <value value="ORG-100008368"/>
+        </identifier>
+        <active value="true"/>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000034"/>
+            <display value="Marketing authorisation holder"/>
+          </coding>
+          <text value="Marketing authorisation holder"/>
+        </type>
+        <name value="Pfizer Europe MA EEIG"/>
+        <contact>
+          <address>
+            <use value="work"/>
+            <type value="physical"/>
+            <text value="Boulevard de la Plaine 17, 1050 Bruxelles, Belgium"/>
+            <line value="Boulevard de la Plaine 17, 1050 Bruxelles"/>
+            <city value="Bruxelles"/>
+            <country value="Belgium"/>
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="MedicinalProductDefinition/Enbrel25mgPFSMedicinalProductAR"/>
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="Enbrel25mgPFSMedicinalProductAR"/>
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi"/>
+        </meta>
+        <text>
+          <status value="generated"/><div xmlns="http://www.w3.org/1999/xhtml"><a name="MedicinalProductDefinition_Enbrel25mgPFSMedicinalProductAR"> </a><p><b>Generated Narrative: MedicinalProductDefinition</b><a name="Enbrel25mgPFSMedicinalProductAR"> </a><a name="hcEnbrel25mgPFSMedicinalProductAR"> </a></p><div style="display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%"><p style="margin-bottom: 0px">Resource MedicinalProductDefinition &quot;Enbrel25mgPFSMedicinalProductAR&quot; </p><p style="margin-bottom: 0px">Profile: <a href="https://build.fhir.org/ig/HL7/emedicinal-product-info/StructureDefinition-MedicinalProductDefinition-uv-epi.html">MedicinalProductDefinition (ePI)</a></p></div><p><b>identifier</b>: <code>https://jfda.jo</code>/placeholder</p><p><b>type</b>: Medicinal Product <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://hl7.org/fhir/R5/codesystem-medicinal-product-type.html">Medicinal Product Type</a>#MedicinalProduct)</span></p><p><b>domain</b>: Human use <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://hl7.org/fhir/R5/codesystem-medicinal-product-domain.html">Medicinal Product Domain</a>#Human)</span></p><p><b>status</b>: active <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://hl7.org/fhir/R5/codesystem-publication-status.html">PublicationStatus</a>#active)</span></p><p><b>legalStatusOfSupply</b>: Medicinal product subject to medical prescription <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (rmswi#100000072084)</span></p><blockquote><p><b>name</b></p><p><b>productName</b>: Enbrel 25mg PFS</p><p><b>type</b>: Full name <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (220000000000#220000000001)</span></p><blockquote><p><b>part</b></p><p><b>part</b>: Enbrel</p><p><b>type</b>: Invented name part <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (220000000000#220000000002)</span></p></blockquote><blockquote><p><b>part</b></p><p><b>part</b>: Etanercept</p><p><b>type</b>: Scientific name part <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (220000000000#220000000003)</span></p></blockquote><blockquote><p><b>part</b></p><p><b>part</b>: 25 mg</p><p><b>type</b>: Strength part <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (220000000000#220000000004)</span></p></blockquote><blockquote><p><b>part</b></p><p><b>part</b>: solution for injection in pre-filled syringe</p><p><b>type</b>: Pharmaceutical dose form part <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (220000000000#220000000005)</span></p></blockquote><h3>Usages</h3><table class="grid"><tr><td style="display: none">-</td><td><b>Country</b></td><td><b>Jurisdiction</b></td><td><b>Language</b></td></tr><tr><td style="display: none">*</td><td>Jordan <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.3.0/CodeSystem-ISO3166Part1.html">ISO 3166-1 Codes for the representation of names of countries and their subdivisions — Part 1: Country code</a>#JO)</span></td><td>Jordan <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.3.0/CodeSystem-ISO3166Part1.html">ISO 3166-1 Codes for the representation of names of countries and their subdivisions — Part 1: Country code</a>#JO)</span></td><td>English <span style="background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki"> (<a href="http://terminology.hl7.org/5.3.0/CodeSystem-v3-ietf3066.html">Tags for the Identification of Languages</a>#en)</span></td></tr></table></blockquote></div>
+        </text>
+        <identifier>
+          <system value="https://jfda.jo"/>
+          <value value="placeholder"/>
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type"/>
+            <code value="MedicinalProduct"/>
+            <display value="Medicinal Product"/>
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain"/>
+            <code value="Human"/>
+            <display value="Human use"/>
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active"/>
+            <display value="active"/>
+          </coding>
+        </status>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="100000072084"/>
+            <display value="Medicinal product subject to medical prescription"/>
+          </coding>
+        </legalStatusOfSupply>
+        <name>
+          <productName value="Enbrel 25mg PFS"/>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/lists/220000000000"/>
+              <code value="220000000001"/>
+            </coding>
+            <text value="Full name"/>
+          </type>
+          <part>
+            <part value="Enbrel"/>
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000"/>
+                <code value="220000000002"/>
+              </coding>
+              <text value="Invented name part"/>
+            </type>
+          </part>
+          <part>
+            <part value="Etanercept"/>
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000"/>
+                <code value="220000000003"/>
+              </coding>
+              <text value="Scientific name part"/>
+            </type>
+          </part>
+          <part>
+            <part value="25 mg"/>
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000"/>
+                <code value="220000000004"/>
+              </coding>
+              <text value="Strength part"/>
+            </type>
+          </part>
+          <part>
+            <part value="solution for injection in pre-filled syringe"/>
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000"/>
+                <code value="220000000005"/>
+              </coding>
+              <text value="Pharmaceutical dose form part"/>
+            </type>
+          </part>
+          <usage>
+            <country>
+              <coding>
+                <system value="urn:iso:std:iso:3166"/>
+                <code value="JO"/>
+                <display value="Jordan"/>
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="urn:iso:std:iso:3166"/>
+                <code value="JO"/>
+                <display value="Jordan"/>
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="urn:ietf:bcp:47"/>
+                <code value="en"/>
+                <display value="English"/>
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>
+</Bundle>
