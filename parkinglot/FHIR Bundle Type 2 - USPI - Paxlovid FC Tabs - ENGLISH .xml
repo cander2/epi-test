@@ -92,7 +92,7 @@
           <Binary xmlns="http://hl7.org/fhir">
             <id value="image10"/>
             <contentType value="image/png"/>
-            <data value="data:image/png;base64,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"/>
+            <data value="data:image/png;base64,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"/>
           </Binary>
         </contained>
         <extension url="http://hl7.org/fhir">
@@ -2576,7 +2576,7 @@
                         <p>
                         <img src="#image3"
                         alt="Figure 3"
-                        style="width:10.78937in;height:1.78937in"/> 
+                        style="width:10.78937in;height:5.78937in"/> 
                         </p>
                         <body>
                           <table styleCode="Noautorules" width="100%">
@@ -2858,7 +2858,7 @@
                         <p>
                         <img src="#image4"
                         alt="Figure 4"
-                        style="width:5.78937in;height:1.78937in"/>
+                        style="width:2.78937in;height:1.78937in"/>
                         </p>
                         <p>LAB-1523-1.0</p>
                         </div>
@@ -2877,479 +2877,285 @@
                       <status value="generated"/>
                       <div xmlns="http://www.w3.org/1999/xhtml">
                       
-                        <text>
-                          <table>
-                             <tbody>
-                                <tr>
-                                   <td>
-                                      <paragraph>
-                                         <b>PATIENT INFORMATION</b>
-                                         <br/>
-                                         <b>PAXLOVID (pax-LO-vid)</b>
-                                         <br/>
-                                         <b>(nirmatrelvir tablets; ritonavir tablets)</b>
-                                         <br/>
-                                         <b>co-packaged for oral use</b>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td>
-                                      <paragraph>
-                                         <b>What is the most important information I should know about PAXLOVID? </b>
-                                      </paragraph>
-                                      <paragraph>PAXLOVID can interact with other medicines causing severe or life-threatening side effects or death. It is important to know the medicines that should not be taken with PAXLOVID. </paragraph>
-                                      <paragraph>
-                                         <b>Do not take PAXLOVID if: </b>
-                                      </paragraph>
-                                      <list>
-                                         <item>
-                                            <caption>•</caption>you are taking any of the following medicines:</item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td>
-                                      <list>
-                                         <item>
-                                            <caption>o</caption>alfuzosin</item>
-                                         <item>
-                                            <caption>o</caption>amiodarone</item>
-                                         <item>
-                                            <caption>o</caption>apalutamide</item>
-                                         <item>
-                                            <caption>o</caption>carbamazepine</item>
-                                         <item>
-                                            <caption>o</caption>colchicine</item>
-                                         <item>
-                                            <caption>o</caption>dihydroergotamine</item>
-                                         <item>
-                                            <caption>o</caption>dronedarone</item>
-                                         <item>
-                                            <caption>o</caption>eletriptan</item>
-                                         <item>
-                                            <caption>o</caption>eplerenone</item>
-                                         <item>
-                                            <caption>o</caption>ergotamine</item>
-                                         <item>
-                                            <caption>o</caption>finerenone</item>
-                                         <item>
-                                            <caption>o</caption>flecainide</item>
-                                         <item>
-                                            <caption>o</caption>flibanserin</item>
-                                      </list>
-                                   </td>
-                                   <td>
-                                      <list>
-                                         <item>
-                                            <caption>o</caption>ivabradine </item>
-                                         <item>
-                                            <caption>o</caption>lomitapide</item>
-                                         <item>
-                                            <caption>o</caption>lovastatin</item>
-                                         <item>
-                                            <caption>o</caption>lumacaftor/ivacaftor</item>
-                                         <item>
-                                            <caption>o</caption>lurasidone</item>
-                                         <item>
-                                            <caption>o</caption>methylergonovine</item>
-                                         <item>
-                                            <caption>o</caption>midazolam (oral)</item>
-                                         <item>
-                                            <caption>o</caption>naloxegol</item>
-                                         <item>
-                                            <caption>o</caption>phenobarbital</item>
-                                         <item>
-                                            <caption>o</caption>phenytoin</item>
-                                         <item>
-                                            <caption>o</caption>pimozide</item>
-                                         <item>
-                                            <caption>o</caption>primidone</item>
-                                         <item>
-                                            <caption>o</caption>propafenone</item>
-                                      </list>
-                                   </td>
-                                   <td>
-                                      <list>
-                                         <item>
-                                            <caption>o</caption>quinidine </item>
-                                         <item>
-                                            <caption>o</caption>ranolazine</item>
-                                         <item>
-                                            <caption>o</caption>rifampin </item>
-                                         <item>
-                                            <caption>o</caption>rifapentine</item>
-                                         <item>
-                                            <caption>o</caption>St. John’s Wort (<content styleCode="italics">hypericum perforatum</content>)</item>
-                                         <item>
-                                            <caption>o</caption>sildenafil (Revatio<sup>®</sup>) for pulmonary arterial hypertension</item>
-                                         <item>
-                                            <caption>o</caption>silodosin</item>
-                                         <item>
-                                            <caption>o</caption>simvastatin</item>
-                                         <item>
-                                            <caption>o</caption>tolvaptan</item>
-                                         <item>
-                                            <caption>o</caption>triazolam</item>
-                                         <item>
-                                            <caption>o</caption>ubrogepant</item>
-                                         <item>
-                                            <caption>o</caption>voclosporin</item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td>
-                                      <paragraph>These are not the only medicines that may cause serious or life-threatening side effects if taken with PAXLOVID. PAXLOVID may increase or decrease the levels of multiple other medicines. It is very important to tell your healthcare provider about all of the medicines you are taking because additional laboratory tests or changes in the dose of your other medicines may be necessary during treatment with PAXLOVID. Your healthcare provider may also tell you about specific symptoms to watch out for that may indicate that you need to stop or decrease the dose of some of your other medicines.</paragraph>
-                                      <list>
-                                         <item>
-                                            <caption>•</caption>you are allergic to nirmatrelvir, ritonavir, or any of the ingredients in PAXLOVID. See the end of this leaflet for a complete list of ingredients in PAXLOVID. See <b>“<linkHtml href="#possiblesideeffects">What are the possible side effects of PAXLOVID?</linkHtml>”</b> for signs and symptoms of allergic reactions.</item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td>
-                                      <paragraph>
-                                         <b>What is PAXLOVID?</b>
-                                         <br/>PAXLOVID is a prescription medicine used to treat mild-to-moderate coronavirus disease 2019 (COVID-19) in adults who are at high risk for progression to severe COVID-19, including hospitalization or death. </paragraph>
-                                      <paragraph>PAXLOVID is not approved for use as pre-exposure or post-exposure treatment for prevention of COVID-19.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td>
-                                      <paragraph>
-                                         <b>Before taking PAXLOVID, tell your healthcare provider about all of your medical conditions, including if you:</b>
-                                      </paragraph>
-                                      <list>
-                                         <item>
-                                            <caption>•</caption>have kidney problems. You may need a different dose of PAXLOVID.</item>
-                                         <item>
-                                            <caption>•</caption>have liver problems, including hepatitis. </item>
-                                         <item>
-                                            <caption>•</caption>have Human Immunodeficiency Virus 1 (HIV-1) infection. PAXLOVID may lead to some HIV-1 medicines not working as well in the future.</item>
-                                         <item>
-                                            <caption>•</caption>are pregnant or plan to become pregnant. It is not known if PAXLOVID can harm your unborn baby. Tell your healthcare provider right away if you are or if you become pregnant.</item>
-                                         <item>
-                                            <caption>•</caption>are breastfeeding or plan to breastfeed. It is not known if PAXLOVID can pass into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with PAXLOVID.</item>
-                                      </list>
-                                      <paragraph>
-                                         <b>Tell your healthcare provider about all the medicines you take,</b> including prescription and over-the-counter medicines, vitamins, and herbal supplements.</paragraph>
-                                      <list>
-                                         <item>
-                                            <caption>•</caption>Your healthcare provider can tell you if it is safe to take PAXLOVID with other medicines.</item>
-                                         <item>
-                                            <caption>•</caption>You can ask your healthcare provider or pharmacist for a list of medicines that interact with PAXLOVID. </item>
-                                         <item>
-                                            <caption>•</caption>Do not start taking a new medicine without telling your healthcare provider. </item>
-                                      </list>
-                                      <paragraph>
-                                         <b>Tell your healthcare provider if you are taking combined birth control (hormonal contraceptive).</b> PAXLOVID may affect how your hormonal contraceptives work. Females who are able to become pregnant should use another effective alternative form of contraception or an additional barrier method of contraception during treatment with PAXLOVID. Talk to your healthcare provider if you have any questions about contraceptive methods that might be right for you.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">How should I take PAXLOVID?</content>
-                                      </paragraph>
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>Take PAXLOVID exactly as your healthcare provider tells you to take it. </item>
-                                         <item>
-                                            <caption>•</caption>
-                                            <content styleCode="bold">PAXLOVID consists of 2 medicines: nirmatrelvir tablets and ritonavir tablets. The 2 medicines are taken together 2 times each day for 5 days. </content>
-                                            <list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>Nirmatrelvir is an oval, pink tablet.</item>
-                                               <item>
-                                                  <caption>o</caption>Ritonavir is a white or off-white tablet.</item>
-                                            </list>
-                                         </item>
-                                         <item>
-                                            <caption>•</caption>PAXLOVID is available in 2 Dose Packs (see <content styleCode="bold">Figures A and B</content> below). Your healthcare provider will prescribe the PAXLOVID Dose Pack that is right for you.</item>
-                                         <item>
-                                            <caption>•</caption>
-                                            <content styleCode="bold">If you have kidney disease, your healthcare provider may prescribe a lower dose (see Figure B). Talk to your healthcare provider to make sure you receive the correct Dose Pack.</content>
-                                         </item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <paragraph>
-                                         <content styleCode="bold">Figure A</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <paragraph>
-                                         <content styleCode="bold">If you are prescribed PAXLOVID 300 mg; 100 mg Dose Pack: each dose contains 3 tablets</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id338975075" referencedObject="cf2a0a0a-efce-485b-956a-957d4c1940fd"/>
-                                      </content>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <paragraph>
-                                         <content styleCode="bold">How to take PAXLOVID 300 mg; 100 mg Dose Pack</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="right" colspan="4" rowspan="2" styleCode="Lrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id1953592444" referencedObject="ID_71ae2f84-639f-4089-a4db-c3ddd5605b2c"/>
-                                      </content>
-                                   </td>
-                                   <td align="center" colspan="2" styleCode="Rrule " valign="middle">
-                                      <paragraph>Take the 2 pink nirmatrelvir tablets and<br/>1 white to off-white ritonavir tablet together<br/>2 times a day (in morning and at bedtime).</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="2" styleCode="Rrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id141857755" referencedObject="bb9fc663-6831-401b-b2d0-51b16d8a80eb"/>
-                                      </content>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">Figure B</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">If you are prescribed PAXLOVID 150 mg; 100 mg Dose Pack: each dose contains 2 tablets</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id-1343163442" referencedObject="ID_96dd7e3d-39a5-4bc6-8812-32ff0c475b38"/>
-                                      </content>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <paragraph>
-                                         <content styleCode="bold">How to take PAXLOVID 150 mg; 100 mg Dose Pack</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="right" colspan="3" rowspan="2" styleCode="Lrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id663206312" referencedObject="ID_9d1ecc93-f819-483e-914a-b78966531564"/>
-                                      </content>
-                                   </td>
-                                   <td align="center" colspan="3" styleCode="Rrule " valign="middle">
-                                      <paragraph>Take the 1 pink nirmatrelvir tablet and <br/>1 white to off-white ritonavir tablet together <br/>2 times a day (in morning and at bedtime).</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td align="center" colspan="3" styleCode="Rrule Botrule " valign="middle">
-                                      <content styleCode="bold">
-                                         <renderMultiMedia ID="id529459020" referencedObject="d8cc91f1-9dbd-48f8-875a-be6412571d55"/>
-                                      </content>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="middle">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>Do not remove your PAXLOVID tablets from the blister card before you are ready to take your dose.<list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>Take your first dose of PAXLOVID in the morning or at bedtime, depending on when you pick up your prescription, or as your healthcare provider tells you to.</item>
-                                               <item>
-                                                  <caption>o</caption>
-                                                  <content styleCode="bold">Take all tablets from your blister card at the same time as one dose.</content>
-                                               </item>
-                                            </list>
-                                         </item>
-                                         <item>
-                                            <caption>•</caption>Swallow the tablets whole. Do not chew, break, or crush the tablets.</item>
-                                         <item>
-                                            <caption>•</caption>Take PAXLOVID with or without food. </item>
-                                         <item>
-                                            <caption>•</caption>Do not stop taking PAXLOVID without talking to your healthcare provider, even if you feel better.</item>
-                                         <item>
-                                            <caption>•</caption>If you miss a dose of PAXLOVID within 8 hours of the time it is usually taken, take it as soon as you remember. If you miss a dose by more than 8 hours, skip the missed dose and take the next dose at your regular time. Do not take 2 doses of PAXLOVID at the same time. </item>
-                                         <item>
-                                            <caption>•</caption>If you take too much PAXLOVID, call your healthcare provider or go to the nearest hospital emergency room right away.</item>
-                                         <item>
-                                            <caption>•</caption>If you are taking a ritonavir- or cobicistat-containing medicine to treat hepatitis C or HIV-1 infection, you should continue to take your medicine as prescribed by your healthcare provider.</item>
-                                      </list>
-                                      <paragraph>Talk to your healthcare provider if you do not feel better or if you feel worse after 5 days.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule " valign="top">
-                                      <paragraph ID="possiblesideeffects">
-                                         <content styleCode="bold">What are the possible side effects of PAXLOVID?</content>
-                                      </paragraph>
-                                      <paragraph>
-                                         <content styleCode="bold">PAXLOVID may cause serious side effects, including:</content>
-                                      </paragraph>
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>
-                                            <content styleCode="bold">Allergic reactions, including severe allergic reactions (anaphylaxis) have</content> happened during treatment with PAXLOVID. Stop taking PAXLOVID and get medical help right away if you get any of the following symptoms of an allergic reaction:</item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="2" styleCode="Lrule " valign="top">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption> </caption>
-                                            <list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>skin rash, hives, blisters or peeling skin</item>
-                                               <item>
-                                                  <caption>o</caption>painful sores or ulcers in the mouth, nose, throat or genital area</item>
-                                               <item>
-                                                  <caption>o</caption>swelling of the mouth, lips, tongue or face</item>
-                                            </list>
-                                         </item>
-                                      </list>
-                                   </td>
-                                   <td colspan="4" styleCode="Rrule " valign="top">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption> </caption>
-                                            <list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>trouble swallowing or breathing</item>
-                                               <item>
-                                                  <caption>o</caption>throat tightness</item>
-                                               <item>
-                                                  <caption>o</caption>hoarseness</item>
-                                            </list>
-                                         </item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule " valign="top">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>
-                                            <content styleCode="bold">Liver problems</content>. Tell your healthcare provider right away if you get any of the following signs and symptoms of liver problems during treatment with PAXLOVID:</item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="2" styleCode="Lrule " valign="top">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption> </caption>
-                                            <list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>loss of appetite</item>
-                                               <item>
-                                                  <caption>o</caption>yellowing of your skin and the white of eyes</item>
-                                               <item>
-                                                  <caption>o</caption>dark-colored urine</item>
-                                            </list>
-                                         </item>
-                                      </list>
-                                   </td>
-                                   <td colspan="4" styleCode="Rrule " valign="top">
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption> </caption>
-                                            <list listType="unordered">
-                                               <item>
-                                                  <caption>o</caption>pale colored stools</item>
-                                               <item>
-                                                  <caption>o</caption>itchy skin</item>
-                                               <item>
-                                                  <caption>o</caption>stomach-area (abdominal) pain</item>
-                                            </list>
-                                         </item>
-                                      </list>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">The most common side effects of PAXLOVID include:</content> altered sense of taste and diarrhea.</paragraph>
-                                      <paragraph>Other possible side effects include:</paragraph>
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>headache</item>
-                                         <item>
-                                            <caption>•</caption>vomiting</item>
-                                         <item>
-                                            <caption>•</caption>abdominal pain</item>
-                                         <item>
-                                            <caption>•</caption>nausea</item>
-                                         <item>
-                                            <caption>•</caption>high blood pressure</item>
-                                         <item>
-                                            <caption>•</caption>feeling generally unwell</item>
-                                      </list>
-                                      <paragraph>These are not all of the possible side effects of PAXLOVID. For more information, ask your healthcare provider or pharmacist.</paragraph>
-                                      <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">How should I store PAXLOVID? </content>
-                                      </paragraph>
-                                      <list listType="unordered">
-                                         <item>
-                                            <caption>•</caption>Store PAXLOVID at room temperature between 68°F to 77°F (20°C to 25°C).</item>
-                                      </list>
-                                      <paragraph>
-                                         <content styleCode="bold">Keep PAXLOVID and all medicines out of the reach of children.</content>
-                                      </paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">General information about the safe and effective use of PAXLOVID.</content>
-                                         <br/>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use PAXLOVID for a condition for which it was not prescribed. Do not give PAXLOVID to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for more information about PAXLOVID that is written for health professionals.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Lrule Botrule " valign="top">
-                                      <paragraph>
-                                         <content styleCode="bold">What are the ingredients in PAXLOVID?</content>
-                                         <br/>
-                                         <content styleCode="bold">Active ingredient:</content> nirmatrelvir and ritonavir<br/>
-                                         <content styleCode="bold">Nirmatrelvir inactive ingredients:</content> colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, and sodium stearyl fumarate. Film-coating contains: hydroxy propyl methylcellulose, iron oxide red, polyethylene glycol, and titanium dioxide.<br/>
-                                         <content styleCode="bold">Ritonavir inactive ingredients:</content> anhydrous dibasic calcium phosphate, colloidal silicon dioxide, copovidone, sodium stearyl fumarate, and sorbitan monolaurate. The film coating may contain: colloidal anhydrous silica, colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, polyethylene glycol, polysorbate 80, talc, and titanium dioxide.</paragraph>
-                                   </td>
-                                </tr>
-                                <tr>
-                                   <td colspan="6" styleCode="Rrule Botrule Lrule Toprule " valign="top">
-                                      <renderMultiMedia ID="id4105" referencedObject="ID_210a828d-131c-4688-91bc-712c155d1e30"/>
-                                      <br/>
-                                      <br/>
-                                      <paragraph>LAB-1524-1.0<br/>For more information, go to <linkHtml href="http://www.pfizer.com">www.pfizer.com</linkHtml> or call 1-800-438-1985.</paragraph>
-                                   </td>
-                                </tr>
-                             </tbody>
-                          </table>
-                          <paragraph>This Patient Information has been approved by the U.S. Food and Drug Administration.</paragraph>
-                          <paragraph>Issued: 05/2023</paragraph>
-                       </text>
-                      </div>
-                      </text>
-                      </section>
+              <p style="text-align:center"><b>PATIENT INFORMATION</b></p>
+              <p style="text-align:center"><b>PAXLOVID (pax-LO-vid)</b></p>
+              <p style="text-align:center"><b>(nirmatrelvir tablets; ritonavir tablets)</b></p>
+              <p style="text-align:center"><b>co-packaged for oral use</b></p>
+              <h3>What is the most important information I should know about PAXLOVID? </h3>
+              <p>PAXLOVID can interact with other medicines causing severe or life-threatening side effects or death. It is important to know the medicines that should not be taken with PAXLOVID.</p>
+              <p><b>Do not take PAXLOVID if:</b></p>
+              <p>• you are taking any of the following medicines:</p>
+              <head>
+                <title>Product Names</title>
+            </head>
+            <body>
+                <table>
+                    <tr>
+                        <td>o alfuzosin</td>
+                        <td>o amiodarone</td>
+                        <td>o apalutamide</td>
+                    </tr>
+                    <tr>
+                        <td>o carbamazepine</td>
+                        <td>o colchicine</td>
+                        <td>o dihydroergotamine</td>
+                    </tr>
+                    <tr>
+                        <td>o dronedarone</td>
+                        <td>o eletriptan</td>
+                        <td>o eplerenone</td>
+                    </tr>
+                    <tr>
+                        <td>o ergotamine</td>
+                        <td>o finerenone</td>
+                        <td>o flecainide</td>
+                    </tr>
+                    <tr>
+                        <td>o flibanserin</td>
+                        <td>o ivabradine</td>
+                        <td>o lomitapide</td>
+                    </tr>
+                    <tr>
+                        <td>o lovastatin</td>
+                        <td>o lumacaftor/ivacaftor</td>
+                        <td>o lurasidone</td>
+                    </tr>
+                    <tr>
+                        <td>o methylergonovine</td>
+                        <td>o midazolam (oral)</td>
+                        <td>o naloxegol</td>
+                    </tr>
+                    <tr>
+                        <td>o phenobarbital</td>
+                        <td>o phenytoin</td>
+                        <td>o pimozide</td>
+                    </tr>
+                    <tr>
+                        <td>o primidone</td>
+                        <td>o propafenone</td>
+                        <td>o quinidine</td>
+                    </tr>
+                    <tr>
+                        <td>o ranolazine</td>
+                        <td>o rifampin</td>
+                        <td>o rifapentine</td>
+                    </tr>
+                    <tr>
+                        <td>o St. John’s Wort (hypericum perforatum)</td>
+                        <td>o sildenafil (Revatio®) for pulmonary arterial hypertension</td>
+                        <td>o silodosin</td>
+                    </tr>
+                    <tr>
+                        <td>o simvastatin</td>
+                        <td>o tolvaptan</td>
+                        <td>o triazolam</td>
+                    </tr>
+                    <tr>
+                        <td>o ubrogepant</td>
+                        <td>o voclosporin</td>
+                        <td></td>
+                    </tr>
+                </table>
+            </body>
+            <p>These are not the only medicines that may cause serious or life-threatening side effects if taken with PAXLOVID. PAXLOVID may increase or decrease the levels of multiple other medicines. It is very important to tell your healthcare provider about all of the medicines you are taking because additional laboratory tests or changes in the dose of your other medicines may be necessary during treatment with PAXLOVID. Your healthcare provider may also tell you about specific symptoms to watch out for that may indicate that you need to stop or decrease the dose of some of your other medicines.</p>
+            <p>•	you are allergic to nirmatrelvir, ritonavir, or any of the ingredients in PAXLOVID. See the end of this leaflet for a complete list of ingredients in PAXLOVID. See <b>“What are the possible side effects of PAXLOVID?”</b>for signs and symptoms of allergic reactions.</p>
+
+            <h3>What is PAXLOVID? </h3>
+            <p>PAXLOVID is a prescription medicine used to treat mild-to-moderate coronavirus disease 2019 (COVID 19) in adults who are at high risk for progression to severe COVID-19, including hospitalization or death. </p>
+            <p>PAXLOVID is not approved for use as pre-exposure or post-exposure treatment for prevention of COVID 19.</p>
+            <p><b>Before taking PAXLOVID, tell your healthcare provider about all of your medical conditions, including if you:</b></p>
+            <ul>
+              <li>have kidney problems. You may need a different dose of PAXLOVID.</li>
+              <li>have liver problems, including hepatitis.</li>
+              <li>have Human Immunodeficiency Virus 1 (HIV-1) infection. PAXLOVID may lead to some HIV-1 medicines not working as well in the future.</li>
+              <li>are pregnant or plan to become pregnant. It is not known if PAXLOVID can harm your unborn baby. Tell your healthcare provider right away if you are or if you become pregnant.</li>
+              <li>are breastfeeding or plan to breastfeed. It is not known if PAXLOVID can pass into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with PAXLOVID.</li>
+            </ul>
+            <p><b>Tell your healthcare provider about all the medicines you take,</b>including prescription and over the counter medicines, vitamins, and herbal supplements.</p>
+            <ul>
+              <li>Your healthcare provider can tell you if it is safe to take PAXLOVID with other medicines.</li>
+              <li>You can ask your healthcare provider or pharmacist for a list of medicines that interact with PAXLOVID. </li>
+              <li>Do not start taking a new medicine without telling your healthcare provider. </li>
+            </ul> 
+            <p><b>Tell your healthcare provider if you are taking combined birth control (hormonal contraceptive).</b>PAXLOVID may affect how your hormonal contraceptives work. Females who are able to become pregnant should use another effective alternative form of contraception or an additional barrier method of contraception during treatment with PAXLOVID. Talk to your healthcare provider if you have any questions about contraceptive methods that might be right for you.</p>
+
+            <h3>How should I take PAXLOVID?</h3>
+            <ul>
+              <li>Take PAXLOVID exactly as your healthcare provider tells you to take it. </li>
+              <li><b>PAXLOVID consists of 2 medicines: nirmatrelvir tablets and ritonavir tablets. The 2 medicines are taken together 2 times each day for 5 days.</b></li>
+              <ul>
+                <li>Nirmatrelvir is an oval, pink tablet.</li>
+                <li>Ritonavir is a white or off-white tablet.</li>
+              </ul>
+              <li>PAXLOVID is available in 2 Dose Packs (see <b>Figures A and B</b>below). Your healthcare provider will prescribe the PAXLOVID Dose Pack that is right for you.</li>
+              <li><b>If you have kidney disease, your healthcare provider may prescribe a lower dose (see Figure B). Talk to your healthcare provider to make sure you receive the correct Dose Pack.</b></li>
+            </ul>
+
+              <body>
+               <table>
+                   <tr>
+                     <td><p><b>Figure A</b></p></td></tr>
+                   <tr>
+                     <td><p><b>If you are prescribed PAXLOVID 300 mg; 100 mg Dose Pack: each dose contains 3 tablets</b></p></td></tr>
+                   <tr>
+                     <td><p>
+                        <img src="#image5"
+                        alt="Figure 5"
+                        style="width:6.78937in;height:3.78937in"/>
+                        </p>
+                     </td></tr>
+                   <tr>
+                     <td><p><b>How to take PAXLOVID 300 mg; 100 mg Dose Pack</b></p></td></tr>
+                   <tr>
+                       <td><p>
+                        <img src="#image6"
+                        alt="Figure 6"
+                        style="width:6.78937in;height:3.78937in"/>
+                        </p>
+                       </td>
+                       <td><p>Take the 2 pink nirmatrelvir tablets and
+                        1 white to off-white ritonavir tablet together
+                        2 times a day (in morning and at bedtime).</p>
+                        <p>
+                           <img src="#image7"
+                           alt="Figure 7"
+                           style="width:4.78937in;height:1.78937in"/>
+                        </p>
+                        </td>
+                   </tr>
+               </table>
+           </body>
+
+
+           <body>
+            <table>
+                <tr>
+                  <td><p><b>Figure B</b></p></td></tr>
+                <tr>
+                  <td><p><b>If you are prescribed PAXLOVID 150 mg; 100 mg Dose Pack: each dose contains 2 tablets</b></p></td></tr>
+                <tr>
+                  <td><p>
+                     <img src="#image8"
+                     alt="Figure 8"
+                     style="width:6.78937in;height:3.78937in"/>
+                     </p>
+                  </td></tr>
+                <tr>
+                  <td><p><b>How to take PAXLOVID 150 mg; 100 mg Dose Pack</b></p></td></tr>
+                <tr>
+                    <td><p>
+                     <img src="#image9"
+                     alt="Figure 9"
+                     style="width:6.78937in;height:3.78937in"/>
+                     </p>
+                    </td>
+                    <td><p>Take the 1 pink nirmatrelvir tablet and 
+                     1 white to off-white ritonavir tablet together 
+                     2 times a day (in morning and at bedtime).</p>
+                     <p>
+                        <img src="#image10"
+                        alt="Figure 10"
+                        style="width:4.78937in;height:1.78937in"/>
+                     </p>
+                     </td>
+                </tr>
+            </table>
+         </body>
+
+              <ul>
+                <li>Do not remove your PAXLOVID tablets from the blister card before you are ready to take your dose.</li>
+                <ul>
+                  <li>Take your first dose of PAXLOVID in the morning or at bedtime, depending on when you pick up your prescription, or as your healthcare provider tells you to.</li>
+                  <li><b>Take all tablets from your blister card at the same time as one dose.</b></li>
+               </ul>
+                <li>Swallow the tablets whole. Do not chew, break, or crush the tablets</li>
+                <li>Take PAXLOVID with or without food.</li>
+                <li>Do not stop taking PAXLOVID without talking to your healthcare provider, even if you feel better.</li>
+                <li>If you miss a dose of PAXLOVID within 8 hours of the time it is usually taken, take it as soon as you remember. If you miss a dose by more than 8 hours, skip the missed dose and take the next dose at your regular time. Do not take 2 doses of PAXLOVID at the same time.</li>
+                <li>If you take too much PAXLOVID, call your healthcare provider or go to the nearest hospital emergency room right away.</li>
+                <li>If you are taking a ritonavir- or cobicistat-containing medicine to treat hepatitis C or HIV-1 infection, you should continue to take your medicine as prescribed by your healthcare provider.</li>
+              </ul>
+                <p>Talk to your healthcare provider if you do not feel better or if you feel worse after 5 days.</p>
+
+         
+                <h3>What are the possible side effects of PAXLOVID?</h3>
+             <p><b>PAXLOVID may cause serious side effects, including:</b></p>
+             <p><b>•	Allergic reactions, including severe allergic reactions (anaphylaxis) have</b>happened during treatment with PAXLOVID. Stop taking PAXLOVID and get medical help right away if you get any of the following symptoms of an allergic reaction:</p>
+             <table>
+              <tr>
+              </tr>
+              <tr>
+                  <td>o skin rash, hives, blisters or peeling skin</td>
+                  <td>o	trouble swallowing or breathing</td>
+              </tr>
+              <tr>
+                  <td>o	painful sores or ulcers in the mouth, nose, throat or genital area</td>
+                  <td>o	throat tightness</td>
+              </tr>
+              <tr>
+                  <td>o	swelling of the mouth, lips, tongue or face</td>
+                  <td>o	hoarseness</td>
+              </tr>
+          </table>
+          <p><b>•	Liver problems.</b>Tell your healthcare provider right away if you get any of the following signs and symptoms of liver problems during treatment with PAXLOVID:</p>
+          <table>
+            <tr>
+            </tr>
+            <tr>
+                <td>o	loss of appetite</td>
+                <td>o	pale colored stools</td>
+            </tr>
+            <tr>
+                <td>o	yellowing of your skin and the white of eyes </td>
+                <td>o	itchy skin</td>
+            </tr>
+            <tr>
+                <td>o	dark-colored urine</td>
+                <td>o	stomach-area (abdominal) pain</td>
+            </tr>
+        </table>
+        <p><b>The most common side effects of PAXLOVID include:</b>altered sense of taste and diarrhea.</p>
+        <p>Other possible side effects include:</p>
+        <ul>
+          <li>headache</li>
+          <li>vomiting</li>
+          <li>abdominal pain</li>
+          <li>nausea</li>
+          <li>high blood pressure</li>
+          <li>feeling generally unwell</li>
+        </ul>
+        <p>These are not all of the possible side effects of PAXLOVID. For more information, ask your healthcare provider or pharmacist</p>
+        <p>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1 800 FDA 1088.</p>
+
+        <h3>How should I store PAXLOVID?</h3>
+        <ul>
+          <li>Store PAXLOVID at room temperature between 68°F to 77°F (20°C to 25°C).</li>
+        </ul>
+        <p><b>Keep PAXLOVID and all medicines out of the reach of children.</b></p>
+
+        <h3>General information about the safe and effective use of PAXLOVID.</h3>
+        <p>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use PAXLOVID for a condition for which it was not prescribed. Do not give PAXLOVID to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for more information about PAXLOVID that is written for health professionals.</p>
+
+        <h3>What are the ingredients in PAXLOVID?</h3>
+        <p><b>Active ingredient:</b>nirmatrelvir and ritonavir</p>
+        <p><b>Nirmatrelvir inactive ingredients:</b>colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, microcrystalline cellulose, and sodium stearyl fumarate. Film coating contains: hydroxy propyl methylcellulose, iron oxide red, polyethylene glycol, and titanium dioxide.</p>
+        <p><b>Ritonavir inactive ingredients: </b>anhydrous dibasic calcium phosphate, colloidal silicon dioxide, copovidone, sodium stearyl fumarate, and sorbitan monolaurate. The film coating may contain: colloidal anhydrous silica, colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, polyethylene glycol, polysorbate 80, talc, and titanium dioxide.</p>
+         <p>
+         <img src="#image4"
+         alt="Figure 4"
+         style="width:2.78937in;height:1.78937in"/>
+         </p>
+        <p>LAB-1524-1.0</p>
+        <p>For more information, go to www.pfizer.com or call 1-800-438-1985.</p>
+         <table>
+         <tr>
+             <td>This Patient Information has been approved by the U.S. Food and Drug Administration.</td>
+             <td>Issued: 05/2023</td>
+         </tr>
+        </table>
+          </div>
+         </text>
+         </section>
         </section>
       </Composition>
     </resource>
