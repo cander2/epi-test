@@ -1,0 +1,2640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Bundle xmlns="http://hl7.org/fhir">
+  <id value="bundlepackageleaflet-ZotonFasTab-15-30" />
+  <meta>
+    <versionId value="ZT 24_0"/>
+    <lastUpdated value="2024-02-12T00:00:00Z" />
+    <profile
+      value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
+  </meta>
+  <language value="en" />
+  <identifier>
+    <system value="https://www.mhra.gov.uk/" />
+    <value value="c8f3c1e8-9fcc-4c88-a061-00233bd0d5e5" />
+  </identifier>
+  <type value="document" />
+  <timestamp value="2024-02-12T00:00:00Z" />
+
+  <entry>
+    <fullUrl value="urn:uuid:9fec52fb-80ab-4e5d-9585-0c1e07ed37d7"/>
+    <resource>
+      <Composition>
+        <id value="9fec52fb-80ab-4e5d-9585-0c1e07ed37d7"/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
+        </meta>
+        <language value="en"/>
+        <version value="ZT 24_0"/>
+        <identifier>
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="2e09d164-8424-4e43-822a-7b19964ae4c7" />
+        </identifier>
+        <status value="final" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+            <code value="200000029894" />
+          </coding>
+          <text value="PACKAGE LEAFLET" />
+        </type>
+        <subject>
+          <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+        </subject>
+        <subject>
+          <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+        </subject>
+        <date value="2024-02-12T00:00:00Z" />
+        <author>
+          <reference value="urn:uuid:ff0a35d2-edcf-496a-91c8-ffce68401383" />
+        </author>
+        <title centered="true" value="Zoton FasTab* 15 mg and 30 mg oro-dispersible tablets" />
+        <section>
+          <title centered="true" value="Package leaflet: Information for the user" />
+
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029894" />
+            </coding>
+            <text value="Package leaflet: Information for the patient" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p style="text-align: center;" class="mg-015">
+              <b>Zoton FasTab<sup>*</sup> 15 mg oro-dispersible tablets</b>
+              </p>
+              <p style="text-align: center;" class="mg-030">
+                <b>Zoton FasTab<sup>*</sup> 30 mg oro-dispersible tablets</b>
+              </p>
+              <p style="text-align: center;">Lansoprazole</p>
+              <p>
+                <b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b>
+              </p>
+              <ul>
+                <li>Keep this leaflet. You may need to read it again.</li>
+                <li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
+                <li>This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</li>
+                <li>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>.</li>
+              </ul>
+            </div>
+          </text>
+          <section>
+            <title value="What is in this leaflet" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu" />
+                <code value="100000155538" />
+              </coding>
+              <text value="What is in this leaflet" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <ol>
+                    <li><a href="#14971d6c-1a7f-497f-944f-236ea0546f3e">What Zoton is and what it is used for</a></li>
+                    <li><a href="#397d72e3-49e1-4ef3-aa2e-f856ab5049de">What you need to know before you take Zoton</a></li>
+                    <li><a href="#0c155a65-fbf0-4f0b-8158-12ffb8982882">How to take Zoton</a></li>
+                    <li><a href="#4bd69071-76fe-4e16-acc2-e1ab006e4463">Possible side effects</a></li>
+                    <li><a href="#7fca5448-63c8-4469-9cf0-871d294c9e9b">How to store Zoton </a></li>
+                    <li><a href="#fc22b4f1-f0e4-4619-8d8b-6eef83548213">Contents of the pack and other information</a></li>
+                </ol>
+              </div>
+            </text>
+          </section>
+        </section>
+
+        <section id="14971d6c-1a7f-497f-944f-236ea0546f3e">
+          <title value="1. What Zoton is and what it is used for" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000029895" />
+            </coding>
+            <text value="1. What X is and what it is used for" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b>1.	What Zoton is and what it is used for </b></p>
+              <p>The active ingredient in Zoton is lansoprazole, which is a proton pump inhibitor. Proton pump inhibitors reduce the amount of acid that your stomach makes.</p>
+              <p>Your doctor may prescribe Zoton for the following indications:</p>
+                <ul>
+                <li><span class="treatmentduodenalulcer">Treatment of duodenal</span><span class="treatmentstomachulcer"> and stomach </span>ulcer</li>
+                <li class="Treatmentinflammationoesophagus">Treatment of inflammation in your oesophagus (reflux oesophagitis)</li>
+                <li class="Preventionrefluxoesophagitis">Prevention of reflux oesophagitis</li>
+                <li class="Treatmentheartburnandacidregurgitation">Treatment of heartburn and acid regurgitation</li>
+                <li class="TreatmentHpyloriwithantibiotictherapy">Treatment of infections caused by the bacteria Helicobacter pylori when given in combination with antibiotic therapy</li>
+                <li><span class="TreatmentpreventionduodenalulcerNSAID">Treatment or prevention of duodenal</span><span class="Treatment prevention stomach ulcer NSAID">or stomach ulcer in patients requiring continued non-steroidal anti-inflammatory drugs (NSAID) treatment (NSAID treatment is used against pain or inflammation)</span></li>
+                <li class="TreatmentZollinger-Ellisonsyndrome">Treatment of Zollinger-Ellison syndrome</li>
+                </ul>              
+              <p>Your doctor may have prescribed Zoton for another indication or with a dose different from that which is written in this information leaflet. Please take your medicine in consultation with your doctor.</p>
+              <p>You must talk to a doctor if you do not feel better or if you feel worse after 14 days.</p>
+            </div>
+          </text>
+        </section>
+
+        <section id="397d72e3-49e1-4ef3-aa2e-f856ab5049de">
+          <title value="2. What you need to know before you take Zoton" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029896" />
+            </coding>
+            <text value="2. What you need to know before you take X" />
+          </code>
+          <section>
+            <title cssClass="doNotTakeZoton" value="Do not take Zoton" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029897" />
+              </coding>
+              <text value="Do not &amp;lt;take&amp;gt;; &amp;lt;use&amp;gt; X" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Do not take Zoton:</b></p>
+                <ul>
+                <li>if you are allergic to lansoprazole or any of the other ingredients of this medicine (listed in <a href="#fc22b4f1-f0e4-4619-8d8b-6eef83548213">section 6</a>).</li>
+                </ul>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Warnings and precautions" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029898" />
+              </coding>
+              <text value="Warnings and precautions" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Warnings and precautions</b></p> 
+                <p class="liverdisease">Please tell your doctor if you have serious liver disease. The doctor may have to adjust your dosage.</p>
+                <p>Your doctor may perform or have performed an additional investigation called an endoscopy in order to diagnose your condition and/or exclude malignant disease.</p>
+                <p>If severe or persistent diarrhoea occurs during the treatment with Zoton contact your doctor immediately, as Zoton has been associated with a small increase in infectious diarrhoea.</p>
+                <p class="TreatmentHpyloriwithantibiotictherapy">If your doctor has given you Zoton in addition to other medicines intended for the treatment of <i>Helicobacter pylori</i> infection (antibiotics) or together with anti-inflammatory medicines to treat your pain or rheumatic disease: please also read the package leaflets of these medicines carefully.</p>
+                <p>If you take Zoton for more than three months it is possible that the levels of magnesium in your blood may fall. Low levels of magnesium can be seen as fatigue, involuntary muscle contractions, disorientation, convulsions, dizziness, increased heart rate. If you get any of these symptoms, please tell your doctor promptly. Low levels of magnesium can also lead to a reduction in potassium or calcium levels in the blood. Your doctor may decide to perform regular blood tests to monitor your levels of magnesium.</p>
+                <p>Taking a proton pump inhibitor like Zoton, especially over a period of more than one year, may slightly increase your risk of fracture in the hip, wrist or spine. Tell your doctor if you have osteoporosis (reduced bone density) or if your doctor has told you that you are at risk of getting osteoporosis (for example, if you are taking steroids).</p>
+                <p class="Osteoporosis">This medicine may affect the way that your body absorbs vitamin B12, particularly if you need to take it for a long time. Please contact your doctor if you notice any of the following symptoms, which could indicate low levels of vitamin B12:</p>
+                <ul class="VitaminB12">
+                  <li>Extreme tiredness or lack of energy</li>
+                  <li>Pins and needles</li>
+                  <li>Sore or red tongue, mouth ulcers</li>
+                  <li>Muscle weakness</li>
+                  <li>Disturbed vision</li>
+                  <li>Problems with memory, confusion, depression</li>
+                </ul>
+                <p>If you take Zoton on a long-term basis (longer than 1 year) your doctor will probably keep you under regular surveillance. You should report any new and exceptional symptoms and circumstances whenever you see your doctor.</p>
+                <p>Talk to your doctor before taking Zoton:</p>
+                <ul>
+                  <li class="ChromograninA">if you are due to have a specific blood test (Chromogranin A).</li>
+                  <li>if you have ever had a skin reaction after treatment with a medicine similar to Zoton that reduces stomach acid.</li>
+                </ul> 
+                <p>Serious skin reactions including Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in association with lansoprazole treatment. Stop using Zoton and seek medical attention immediately if you notice any of the symptoms described in <a href="#4bd69071-76fe-4e16-acc2-e1ab006e4463">section 4</a>.</p>
+                <p>If you get a rash on your skin, especially in areas exposed to the sun tell your doctor as soon as you can, as you may need to stop your treatment with Zoton. Remember to also mention any other ill-effects like pain in your joints.</p>
+                <p>When taking lansoprazole, inflammation in your kidney may occur. Signs and symptoms may include decreased volume of urine or blood in your urine and/or hypersensitivity reactions such as fever, rash, and joint stiffness. You should report such signs to the treating physician.</p>
+              </div>
+            </text>
+          </section>
+          
+          <section>
+            <title value="Other medicines and Zoton" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029900" />
+              </coding>
+              <text value="Other medicines and X" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Other medicines and Zoton</b></p>
+                <p>Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.</p>
+                <p>	In particular tell your doctor or pharmacist if you are taking medicines containing any of the following active substances as Zoton may affect the way these medicines work:</p>
+                <ul>
+                  <li class="protease inhibitor">HIV protease inhibitors such as <span class="atazanavir">atazanavir</span> and <span class="atazanavir">nelfinavir</span> (used to treat HIV)</li> 
+                  <li class="methotrexate">methotrexate (used to treat autoimmune disease and cancer) </li> 
+                  <li><span class="ketoconazole">ketoconazole</span>,  <span class="itraconazole">itraconazole</span>, <span class="rifampicin">rifampicin (used to treat infections)</span></li> 
+                  <li class="digoxin">digoxin (used to treat heart problems)</li> 
+                  <li class="warfarin">warfarin (used to treat blood clots)</li> 
+                  <li class="theophylline">theophylline (used to treat asthma)</li> 
+                  <li class="tacrolimus">tacrolimus (used to prevent transplant rejection)</li> 
+                  <li class="fluvoxamine">fluvoxamine (used to treat depression and other psychiatric diseases)</li>
+                  <li class="antacids">antacids (used to treat heartburn or acid regurgitation)</li>
+                  <li class="sucralfate">sucralfate (used for healing ulcers)</li>
+                  <li class="StJohnswort">St John’s wort (Hypericum perforatum) (used to treat mild depression)</li>
+                </ul>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Zoton with food and drink" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029901" />
+              </coding>
+              <text
+                value="X with &amp;lt;food&amp;gt; &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; &amp;lt;drink&amp;gt; &amp;lt;and&amp;gt; &amp;lt;alcohol&amp;gt;" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Zoton with food and drink</b></p>
+                <p>For the best results from your medicines you should take Zoton at least 30 minutes before food.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Pregnancy, breast-feeding and fertility" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029902" />
+              </coding>
+              <text
+                value="Pregnancy &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; breast-feeding &amp;lt;and fertility&amp;gt;" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+              <p class="Female"><b>Pregnancy, breast-feeding and fertility</b></p>
+              <p>If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.</p>
+              </div>
+            </text>
+          </section>
+          
+          <section>
+            <title value="Driving and using machines" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029903" />
+              </coding>
+              <text value="Driving and using machines" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Driving and using machines</b></p>
+                <p>Side effects such as dizziness, vertigo, tiredness and visual disturbances sometimes occur in patients taking Zoton. If you experience side effects like these you should take caution as your ability to react may be decreased.</p>
+                <p>You alone are responsible to decide if you are in a fit condition to drive a motor vehicle or perform other tasks that demand increased concentration. Because of their effects or undesirable effects, one of the factors that can reduce your ability to do these things safely is your use of medicines.</p>
+                <p>Descriptions of these effects can be found in other sections.</p>
+                <p>Read all the information in this leaflet for guidance.</p>
+                <p>Discuss with your doctor or pharmacist if you are unsure about anything.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Zoton contains lactose" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029904" />
+              </coding>
+              <text value="X contains {name the excipient(s)}" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p class="Lactose"><b>Zoton contains lactose</b></p>
+                <p class="Lactose">If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor or pharmacist before taking this medicine.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Zoton contains aspartame" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029904" />
+              </coding>
+              <text value="X contains {name the excipient(s)}" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p class="Aspartame"><b>Zoton contains aspartame</b></p>
+                <p> <span class="Aspartame"><span class="mg-015">Each Zoton 15 mg tablet contains 4.5 mg aspartame.</span></span></p>
+                <p> <span class="Aspartame"><span class="mg-030">Each Zoton 30 mg tablet contains 9.0 mg aspartame.</span></span></p>
+                <p class="Aspartame">Aspartame is a source of phenylalanine. Phenylalanine may be harmful if you have phenylketonuria (PKU), a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.</p>
+              </div>
+            </text>
+          </section>
+        </section>
+
+        <section id="0c155a65-fbf0-4f0b-8158-12ffb8982882">
+          <title value="3. How to take Zoton" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029905" />
+            </coding>
+            <text value="3. How to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b>3.	How to take Zoton</b></p>
+              <p>Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
+              <p>Place the tablet on your tongue and suck gently. The tablet rapidly dissolves in the mouth, releasing microgranules which you should swallow without chewing. You can also swallow the tablet whole with a glass of water.</p>
+              <p>Your doctor might instruct you to take the tablet with a syringe, in case you have serious difficulties with swallowing.</p>
+              <p>The following instructions should be followed if administered via syringe:</p>
+              <p>It is important that the appropriateness of the selected syringe is carefully tested.</p>
+              <ul>
+                <li>Remove the plunger of the syringe (<span class="mg-015">at least 5 mL syringe for the 15 mg tablet</span> and <span class="mg-030">10 mL syringe for the 30 mg tablet</span>)</li>
+                <li>Put the tablet into the barrel</li>
+                <li>Put the plunger back onto the syringe</li>
+                <li class="mg-015">For the 15 mg tablet: Draw 4 mL tap water into the syringe</li>
+                <li class="mg-015">For the 30 mg tablet: Draw 10 mL tap water into the syringe</li>
+                <li>Invert the syringe and draw an additional 1 mL of air into it</li>
+                <li>Shake the syringe gently for 10-20 seconds until the tablet is dispersed</li>
+                <li>The contents can be emptied directly into the mouth</li>
+                <li>Refill the syringe with 2-5 mL of tap water to flush the remnants out of the syringe into the mouth</li>
+              </ul>
+              <p>If you are taking Zoton once a day, try to take it at the same time each day. You may get best results if you take Zoton first thing in the morning.</p>
+              <p>If you are taking Zoton twice a day, you should have the first dose in the morning and the second dose in the evening.</p>
+              <p>The packaging has been printed with the days of the week to help you keep track of the medicines you have already taken.</p>
+              <p>The dose of Zoton depends on your condition. The usual doses of Zoton for adults are given below. Your doctor will sometimes prescribe you a different dose and will tell you how long your treatment will last.</p>
+              <p class="Treatment heartburn and acid regurgitation"><b>Treatment of heartburn and acid regurgitation</b>: one 15 mg or 30 mg oro-dispersible tablet every day for 4 weeks. If your symptoms are not relieved within 4 weeks, please contact your doctor.</p>
+              <p class="treatment duodenal ulcer"><b>Treatment of duodenal ulcer:</b>one 30 mg oro-dispersible tablet every day for 2 weeks.</p>
+              <p class="treatment stomach ulcer"><b>Treatment of stomach ulcer: </b>one 30 mg oro-dispersible tablet every day for 4 weeks.</p>
+              <p class="Treatment inflammation oesophagus"><b>Treatment of inflammation in your oesophagus (reflux oesophagitis): </b>one 30 mg oro-dispersible tablet every day for 4 weeks.</p>
+              <p class="Prevention reflux oesophagitis"><b>Long-term prevention of reflux oesophagitis: </b>one 15 mg oro-dispersible tablet every day, your doctor may adjust your dose to one 30 mg oro-dispersible tablet every day.</p>
+              <p class="Treatment H pylori with antibiotic therapy"><b>Treatment of infection of Helicobacter pylori: </b>The usual dose is one 30 mg oro-dispersible tablet in combination with two different antibiotics in the morning and one 30 mg oro-dispersible tablet in combination with two different antibiotics in the evening. Treatment will usually be every day for 7 days.</p>
+              <p class="Treatment H pylori with antibiotic therapy">	The recommended combinations of antibiotics are:</p>
+              <ul class="Treatment H pylori with antibiotic therapy">
+                <li>30 mg Zoton together with 250-500 mg clarithromycin and 1000 mg amoxicillin.</li>
+                <li>30 mg Zoton together with 250 mg clarithromycin and 400-500 mg metronidazole.</li>
+              </ul>
+              <p class="Treatment H pylori with antibiotic therapy">	If you are being treated for infection because you have an ulcer, it is unlikely that your ulcer will return if the infection is successfully treated. To give your medicine the best chance of working, take it at the right time and <b>do not miss a dose.</b></p>
+              <p><span class="Treatment prevention duodenal ulcer NSAID"><span class="Treatment prevention stomach ulcer NSAID"><b>Treatment of duodenal or stomach ulcer in patients requiring continued NSAID treatment:</b>one 30 mg oro-dispersible tablet every day for 4 weeks.</span></span></p>
+              <p><span class="Treatment prevention duodenal ulcer NSAID"><span class="Treatment prevention stomach ulcer NSAID"><b>Prevention of duodenal or stomach ulcer in patients requiring continued NSAID treatment:</b>one 15 mg oro-dispersible tablet every day, your doctor may adjust your dose to one 30 mg oro-dispersible tablet every day.</span></span></p>
+              <p class="Treatment Zollinger-Ellison syndrome"><b>Zollinger-Ellison syndrome: </b>The usual dose is two 30 mg oro-dispersible tablets every day to start with, then depending on how you respond to Zoton the dose that your doctor decides is best for you.</p>
+            </div>
+          </text>
+    
+          <section>
+            <title value="Use in children"/>
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029906" />
+              </coding>
+              <text value="Use in children &amp;lt;and adolescents&amp;gt;" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p class="Children"><b>Use in children</b></p>
+                <p class="Children">Zoton should not be given to children.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="If you take more Zoton than you should" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029907" />
+              </coding>
+              <text value="If you &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; more X than you should"/>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>If you take more Zoton than you should </b></p>
+                <p>If you take more Zoton than you have been told to, seek medical advice quickly.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="If you forget to take Zoton" />
+            <code>
+              <coding>
+                <system value="https://www.mhra.gov.uk/" />
+                <code value="200000029908" />
+              </coding>
+              <text value="If you forget to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>If you forget to take Zoton</b></p>
+                <p>If you forget to take a dose, take it as soon as you remember unless it is nearly time for your next dose. If this happens skip the missed dose and take the remaining oro-dispersible tablets as normal. Do not take a double dose to make up for a forgotten oro-dispersible tablet.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="If you stop taking Zoton" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029909" />
+              </coding>
+              <text value="If you stop &amp;lt;taking&amp;gt; &amp;lt;using&amp;gt; X" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>If you stop taking Zoton</b></p>
+                <p>Do not stop treatment early because your symptoms have got better. Your condition may not have been fully healed and may reoccur if you do not finish your course of treatment.</p>
+                <p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist.</p>
+               </div>
+            </text>
+          </section>
+         </section>
+
+        <section id="4bd69071-76fe-4e16-acc2-e1ab006e4463">
+          <title value="4. Possible side effects" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029910" />
+            </coding>
+            <text value="4. Possible side effects" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p><b>4.	Possible side effects</b></p>
+              <p>	Like all medicines, this medicine can cause side effects, although not everybody gets them. If you think you may have any of the following serious side effects, stop taking this medicine and contact your doctor or go to your nearest hospital emergency room immediately.</p>
+              <ul>
+                <li>Very rarely Zoton may cause severe hypersensitivity (allergic) reactions. Symptoms of a hypersensitivity reaction may include fever, rash, swollen face, swollen lymph nodes, swollen tongue or pharynx, difficulty to swallow, hives, difficulty to breath and sometimes a fall in blood pressure.</li>
+                <li>Very rarely, severe skin reactions that may be life threatening have been reported with Zoton. Symptoms include reddish patches on the trunk, the patches are target-like macules or circular, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms [Stevens-Johnsons Syndrome (SJS), Toxic Epidermal Necrolysis (TEN)].</li>
+                <li>Widespread rash, high body temperature and enlarged lymph nodes [Drug Reaction with Eosinophilia and Systemic Systems (DRESS, frequency not known)].</li>
+                <li>If you take Zoton for more than three months it is possible that the levels of magnesium in your blood may fall. Low levels of magnesium can be seen as fatigue, involuntary muscle contractions, disorientation, convulsions, dizziness, increased heart rate. If you get any of these symptoms, please tell your doctor promptly. Low levels of magnesium can also lead to a reduction in potassium or calcium levels in the blood. Your doctor may decide to perform regular blood tests to monitor your levels of magnesium.</li>
+                <li>Very rarely Zoton may cause a reduction in the number of white blood cells (agranulocytosis) and your resistance to infection may be decreased or coexisting abnormal reductions in the number of red and white blood cells, as well as platelets (pancytopenia). If you experience an infection with symptoms such as fever and serious deterioration of your general condition, or fever with local infection symptoms such as sore throat/pharynx/mouth or urinary problems, or experience tiredness, pale skin with unexplained bruising or bleeding for longer than normal, you should see your doctor immediately. A blood test will be taken to check possible reduction of blood cells.</li>
+                <li>Rarely Zoton may cause inflammation of the pancreas (pancreatitis) and its symptoms include sudden intense pains in the middle of the upper abdomen that may radiate to the back, which may lead to nausea and vomiting.</li>
+                <li>If severe or persistent diarrhoea occurs during the treatment with Zoton contact your doctor immediately, as Zoton has been associated with a small increase in infectious diarrhoea.</li>
+              </ul>
+              <p><b>Other possible side effects:</b></p>
+              <p><b>Common:</b>may affect up to 1 in 10 people:</p>
+              <ul>
+                <li>headache, dizziness</li>
+                <li>constipation, stomach pains, feeling or being sick, wind, dry or sore mouth or throat</li>
+                <li>skin rash, itching</li>
+                <li>changes in liver function test values</li>
+                <li>tiredness</li>
+                <li>benign polyps in the stomach</li>
+              </ul>
+              <p><b>Uncommon:</b>may affect up to 1 in 100 people:</p>
+              <ul>
+                <li>depression </li>
+                <li>joint or muscle pain</li>
+                <li>fluid retention or swelling</li>
+                <li>changes in blood cell counts</li>
+                <li>risk of hip, wrist and spine fracture</li>
+              </ul>
+              <p><b>Rare:</b>may affect up to 1 in 1000 people:</p>
+              <ul>
+                <li>fever</li>
+                <li>restlessness, drowsiness, confusion, hallucinations, insomnia, visual disturbances, vertigo </li>
+                <li>a change in the way things taste, loss of appetite, inflammation of your tongue (glossitis)</li>
+                <li>skin reactions such as burning or pricking feeling under the skin, bruising, reddening and excessive sweating</li>
+                <li>sensitivity to light</li>
+                <li>hair loss</li>
+                <li>feelings of ants creeping over the skin (paraesthesia), trembling</li>
+                <li>anaemia (paleness)</li>
+                <li>inflammation of the kidneys (tubulointerstitial nephritis), possible symptoms include changes in amount of urine, blood in urine</li>
+                <li>inflammation of the liver (may be seen as yellow skin or eyes)</li>
+                <li>breast swelling in males, impotence</li>
+                <li>candidiasis (fungal infection, may affect  esophagus mucosa)</li>
+              </ul>
+              <p><b>Very rare:</b>may affect up to 1 in 10000 people:</p>
+              <ul>
+                <li>inflammation of your mouth (stomatitis)</li>
+                <li>bowel inflammation (colitis)</li>
+                <li>increase in test values such as  cholesterol and triglyceride levels</li>
+                <li>low levels of sodium in the blood, symptoms include nausea and vomiting, headache, drowsiness and fatigue, confusion, muscle weakness or spasms, irritability, seizures, coma. Your doctor may decide to perform regular blood tests to monitor your levels of sodium.</li>
+              </ul>
+              <p><b>Not known:</b>frequency cannot be estimated from the available data:</p>
+              <ul>
+                <li>skin related forms of lupus or lupus rash</li>
+                <li>rash, possibly with pain in the joints</li>
+                <li>visual hallucinations</li>
+              </ul>
+             </div>
+          </text>
+
+          <section>
+            <title value="Reporting of side effects" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029912" />
+              </coding>
+              <text value="Reporting of side effects" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Reporting of side effects</b></p>
+                <p>If you get any side effects talk to your doctor or pharmacist. This
+                  includes any possible side effects not listed in this leaflet. You can also report
+                  side effects directly via the Yellow Card Scheme at <a
+                    href="https://www.mhra.gov.uk/yellowcard">www.mhra.gov.uk/yellowcard</a> or
+                  search for MHRA Yellow Card in the Google Play or Apple App Store. By reporting
+                  side effects you can help provide more information on the safety of this medicine.</p>
+              </div>
+            </text>
+          </section>
+        </section>
+
+        <section id="7fca5448-63c8-4469-9cf0-871d294c9e9b">
+          <title value="5. How to store Zoton" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029913" />
+            </coding>
+            <text value="5. How to store X" />
+          </code>
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>Keep this medicine out of the sight and reach of children.</p>
+              <p>Do not use this medicine after the expiry date which is stated on the blister and carton. The expiry date refers to the last day of that month.</p>
+              <p>Do not store above 25<sup>°</sup>C. Keep your medicine in the packaging that it came in to help protect it from moisture.</p>
+              <p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>
+            </div>
+          </text>
+        </section>
+
+        <section id="fc22b4f1-f0e4-4619-8d8b-6eef83548213">
+          <title value="6. Contents of the pack and other information" />
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+              <code value="200000029914" />
+            </coding>
+            <text value="6. Contents of the pack and other information" />
+          </code>
+         
+          <section>
+            <title value="What Zoton contains" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029915	" />
+              </coding>
+              <text value="What X contains" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>What Zoton contains</b></p>
+                <ul>
+                  <li>The active substance is lansoprazole</li>
+                  <li>The other ingredients are lactose monohydrate, microcrystalline cellulose, heavy magnesium carbonate, low-substituted hydroxypropylcellulose, hydroxypropylcellulose, hypromellose, titanium dioxide, talc, mannitol, methacrylic acid – ethyl acrylate copolymer (1:1) dispersion 30 percent, polyacrylate dispersion 30 percent, macrogol 8000, glycerol monostearate, polysorbate 80, triethyl citrate, citric acid anhydrous, crospovidone, magnesium stearate, aspartame (E951) (see <a href="#397d72e3-49e1-4ef3-aa2e-f856ab5049de">section 2</a> “Zoton contains aspartame”), strawberry flavour and iron oxide red (E172) and yellow (E172).</li>
+                </ul>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="What Zoton looks like and contents of the pack" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029916" />
+              </coding>
+              <text value="What X looks like and contents of the pack" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>What Zoton looks like and contents of the pack</b></p>
+                <p>Zoton FasTab 15 mg and 30 mg are white to yellowish white oro-dispersible tablets speckled with orange to dark brown gastro-resistant microgranules. Zoton FasTab 15 mg have “15” imprinted on one side of the tablets and Zoton FasTab 30 mg have “30” imprinted on one side of the tablets. Each Zoton FasTab oro-dispersible tablet is strawberry flavoured.</p>
+                <p>Zoton FasTab 15 mg and 30 mg are available in packs of 28 tablets.</p>
+              </div>
+            </text>
+          </section>
+
+          <section>
+            <title value="Marketing Authorization Holder and Manufacturer" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                <code value="200000029917" />
+              </coding>
+              <text value="Marketing Authorization Holder and Manufacturer" />
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <b>Marketing Authorisation Holder and Manufacturer</b>
+                <p>The marketing authorisation holder is:</p>
+                <p>Pfizer Limited</p>
+                <p>Ramsgate Road</p>
+                <p>Sandwich</p>
+                <p>Kent</p>
+                <p>CT13 9NJ</p>
+                <p>United Kingdom</p>
+
+                <p>The manufacturer is:</p>
+                <p>Pfizer Ireland Pharmaceuticals</p>
+                <p>Little Connell</p>
+                <p>Newbridge</p>
+                <p>County Kildare</p>
+                <p>Ireland</p>
+                <p>Or</p>
+                <p>Pfizer Manufacturing Deutschland GmbH,</p>
+                <p>Betriebsstätte, Freiburg</p>
+                <p>Mooswaldallee 1</p>
+                <p>79090 Freiburg</p>
+                <p>Germany</p>
+              </div>
+            </text>
+          </section>
+
+                <section>
+                  <title value="This medicine is authorised in the Member States of the European Economic Area and in the United Kingdom (Northern Ireland) under the following names:" />
+                  <code>
+                    <coding>
+                      <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                      <code value="200000029918" />
+                    </coding>
+                    <text value="This medicine is authorised in the Member States of the European Economic Area &amp;lt;and in the United Kingdom (Northern Ireland)&amp;gt; under the following names:" />
+                  </code>
+                  <text>
+                    <status value="generated" />
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    <b>This medicine is authorised in the Member States of the European Economic Area and in the United Kingdom (Northern Ireland) under the following names:</b>
+                    <ul>
+                      <li>Ireland:		ZOTON, ZOTON FASTAB</li>
+                      <li>Italy:		ZOTON</li>
+                      <li>Norway:		LANZO MELT</li>
+                      <li>Sweden:		LANZO</li>
+                      <li>United Kingdom (Northern Ireland): ZOTON, ZOTON FASTAB</li>
+                    </ul>
+                    </div>
+                  </text>
+                </section>
+
+                <section>
+                  <title value="This leaflet was last revised in" />
+                  <code>
+                    <coding>
+                      <system value="https://spor.ema.europa.eu/rmswi/#/lists/200000029659/terms" />
+                      <code value="200000029919" />
+                    </coding>
+                    <text value="This leaflet was last revised in &amp;lt;{MM/YYYY}&amp;gt; &amp;lt;{month YYYY}&amp;gt;." />
+                  </code>
+                  <text>
+                    <status value="generated" />
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    <b>	This leaflet was last revised in 10/2023.</b>
+                    <p>[Takeda logo]</p>
+                    <p><sup>*</sup> Trademark of, and under licence agreement with, Takeda Pharmaceutical Company Limited, Japan.</p>
+                    <p>[Pfizer logo]</p>
+                    <p>	Ref: ZT 24_0</p>
+                    </div>
+                  </text>
+                </section>  
+              </section>
+       </Composition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:4f47de82-2d38-419b-bb74-e0b0583eed6a" />
+    <resource>
+      <Ingredient>
+        <id value="4f47de82-2d38-419b-bb74-e0b0583eed6a" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="0K5C5T2QPG" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072072" />
+            <display value="Active" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="0K5C5T2QPG" />
+                <display value="LANSOPRAZOLE" />
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="15" />
+              <unit value="mg" />
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+                <code value="ACTIB" />
+              </coding>
+              <text value="active ingredient - basis of strength" />
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:1b0a42b4-1533-4463-b988-108ca2dab537" />
+    <resource>
+      <Ingredient>
+        <id value="1b0a42b4-1533-4463-b988-108ca2dab537" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="0K5C5T2QPG" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072072" />
+            <display value="Active" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="0K5C5T2QPG" />
+                <display value="LANSOPRAZOLE" />
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="30" />
+              <unit value="mg" />
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+                <code value="ACTIB" />
+              </coding>
+              <text value="active ingredient - basis of strength" />
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:b50c3001-5c21-40b0-8717-e856b6ad8e55" />
+    <resource>
+      <Ingredient>
+        <id value="b50c3001-5c21-40b0-8717-e856b6ad8e55" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="EWQ57Q8I5X" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="EWQ57Q8I5X" />
+                <display value="LACTOSE MONOHYDRATE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:6d72dc58-93c8-4780-a0e6-47f9fd643026" />
+    <resource>
+      <Ingredient>
+        <id value="6d72dc58-93c8-4780-a0e6-47f9fd643026" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="OP1R32D61U" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="OP1R32D61U" />
+                <display value="MICROCRYSTALLINE CELLULOSE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:ca547168-6a0f-4472-9bc0-861e70a8b9bf" />
+    <resource>
+      <Ingredient>
+        <id value="ca547168-6a0f-4472-9bc0-861e70a8b9bf" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="0E53J927NA" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="0E53J927NA" />
+                <display value="HEAVY MAGNESIUM CARBONATE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:5d4537f4-f2f7-46a2-a65b-b434420bfd36" />
+    <resource>
+      <Ingredient>
+        <id value="5d4537f4-f2f7-46a2-a65b-b434420bfd36" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="9XZ8H6N6OH" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="9XZ8H6N6OH" />
+                <display value="HYDROXYPROPYL CELLULOSE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:84550316-c854-477c-82e6-7c2b5c393619" />
+    <resource>
+      <Ingredient>
+        <id value="84550316-c854-477c-82e6-7c2b5c393619" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="3NXW29V3WO" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="3NXW29V3WO" />
+                <display value="HYPROMELLOSE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:36d9f48d-b876-42de-af4e-45b65ecaf045" />
+    <resource>
+      <Ingredient>
+        <id value="36d9f48d-b876-42de-af4e-45b65ecaf045" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="15FIX9V2JP" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="15FIX9V2JP" />
+                <display value="TITANIUM DIOXIDE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:46c4a23d-ad51-4df6-8fba-e54dfa4f2f52" />
+    <resource>
+      <Ingredient>
+        <id value="46c4a23d-ad51-4df6-8fba-e54dfa4f2f52" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="7SEV7J4R1U" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="7SEV7J4R1U" />
+                <display value="TALC" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:5948d277-1198-4fbc-bead-41cf57e94984" />
+    <resource>
+      <Ingredient>
+        <id value="5948d277-1198-4fbc-bead-41cf57e94984" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="3OWL53L36A" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="3OWL53L36A" />
+                <display value="MANNITOL" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:ff8a146f-c3ea-4941-a589-19b9c1bfa0a6" />
+    <resource>
+      <Ingredient>
+        <id value="ff8a146f-c3ea-4941-a589-19b9c1bfa0a6" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="NX76LV5T8J" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="NX76LV5T8J" />
+                <display value="METHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER (1:1) DISPERSION 30 PERCENT" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:f3191efe-7369-4b17-bede-cccdcc257957" />
+    <resource>
+      <Ingredient>
+        <id value="f3191efe-7369-4b17-bede-cccdcc257957" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="FS2D4T67EA" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="FS2D4T67EA" />
+                <display value="POLYACRYLATE DISPERSION 30 PERCENT" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:c288021e-52c4-4421-b267-d8427165009c" />
+    <resource>
+      <Ingredient>
+        <id value="c288021e-52c4-4421-b267-d8427165009c" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="Q662QK8M3B" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="Q662QK8M3B" />
+                <display value="MACROGOL 8000" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:dc004642-d9a1-40c6-af73-4ca687b27093" />
+    <resource>
+      <Ingredient>
+        <id value="dc004642-d9a1-40c6-af73-4ca687b27093" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="230OU9XXE4" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="230OU9XXE4" />
+                <display value="GLYCERYL MONOSTEARATE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:98cecf4e-2edd-4a43-8038-c2366379eaa7" />
+    <resource>
+      <Ingredient>
+        <id value="98cecf4e-2edd-4a43-8038-c2366379eaa7" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="6OZP39ZG8H" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="6OZP39ZG8H" />
+                <display value="POLYSORBATE 80" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:e47a8df6-358d-4587-9118-8b5bdfc5ea82" />
+    <resource>
+      <Ingredient>
+        <id value="e47a8df6-358d-4587-9118-8b5bdfc5ea82" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="8Z96QXD6UM" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="8Z96QXD6UM" />
+                <display value="TRIETHYL CITRATE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:cc6bca4e-604b-4869-bb8c-5f49403aed66" />
+    <resource>
+      <Ingredient>
+        <id value="cc6bca4e-604b-4869-bb8c-5f49403aed66" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="XF417D3PSL" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="XF417D3PSL" />
+                <display value="ANHYDROUS CITRIC ACID" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:497851c6-e660-481a-b28c-30c0c6b96295" />
+    <resource>
+      <Ingredient>
+        <id value="497851c6-e660-481a-b28c-30c0c6b96295" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="2S7830E561" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290"/>
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527"/>
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta"/>
+                <code value="2S7830E561" />
+                <display value="CROSPOVIDONE"/>
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:5bf35782-514b-445a-971d-34834b4af211"/>
+    <resource>
+      <Ingredient>
+        <id value="5bf35782-514b-445a-971d-34834b4af211"/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="70097M6I30" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="70097M6I30" />
+                <display value="MAGNESIUM STEARATE" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:5787b2c0-f56c-41cd-9c70-689cbc60973b" />
+    <resource>
+      <Ingredient>
+        <id value="5787b2c0-f56c-41cd-9c70-689cbc60973b" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="Z0H242BBR1" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="Z0H242BBR1" />
+                <display value="ASPARTAME" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:577b9806-e614-4da7-9725-69d9fb50af78" />
+    <resource>
+      <Ingredient>
+        <id value="577b9806-e614-4da7-9725-69d9fb50af78" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="1K09F3G675" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="1K09F3G675" />
+                <display value="IRON OXIDE RED" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:cd549c1e-a07a-423c-880d-da59f275b5a9" />
+    <resource>
+      <Ingredient>
+        <id value="cd549c1e-a07a-423c-880d-da59f275b5a9" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="EX438O2MRT" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </for>
+        <for>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="EX438O2MRT" />
+                <display value="IRON OXIDE YELLOW" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:441c4446-9983-4beb-9a0b-b28340c6a8d9" />
+    <resource>
+      <SubstanceDefinition>
+        <id value="441c4446-9983-4beb-9a0b-b28340c6a8d9" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+          <value value="0K5C5T2QPG" />
+        </identifier>
+        <version value="1" />
+        <status>
+          <coding>
+            <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+            <code value="1" />
+            <display value="Validated (UNII)" />
+          </coding>
+        </status>
+        <molecularWeight>
+          <type>
+            <text value="exact" />
+          </type>
+          <amount>
+            <value value="369.36" />
+          </amount>
+        </molecularWeight>
+        <structure>
+          <molecularFormula value="C16H14F3N3O2S" />
+        </structure>
+        <name>
+          <name
+            value="1H-BENZIMIDAZOLE, 2-(((3-METHYL-4-(2,2,2-TRIFLUOROETHOXY)-2-PYRIDINYL)METHYL)SULFINYL)-" />
+          <type>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+              <code value="x" />
+              <display value="Chemical Name" />
+            </coding>
+          </type>
+        </name>
+      </SubstanceDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290"/>
+    <resource>
+      <ManufacturedItemDefinition>
+        <id value="d5dc780c-db19-48f8-b264-62799035d290 "/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="be863d9d-240a-4cfd-9043-c32102729cd8"/>
+        </identifier>
+        <status value="active"/>
+        <manufacturedDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi/"/>
+            <code value="100000073666"/>
+            <display value="Orodispersible tablet"/>
+          </coding>
+        </manufacturedDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="200000002152"/>
+            <display value="Tablet"/>
+          </coding>
+        </unitOfPresentation>
+        <manufacturer>
+          <reference value="urn:uuid:d684694e-8b50-4160-adc1-bfa088e639a0"/>
+          <reference value="urn:uuid:e9da692f-172b-4c85-873f-dd9b7fdaaba7"/>
+        </manufacturer>
+      </ManufacturedItemDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527"/>
+    <resource>
+      <ManufacturedItemDefinition>
+        <id value="6c85e71e-0d3b-4921-bf11-14896efba527"/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="84823d82-744d-407e-b0cf-e4c3e4c54fac"/>
+        </identifier>
+        <status value="active"/>
+        <manufacturedDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi/"/>
+            <code value="100000073666"/>
+            <display value="Orodispersible tablet"/>
+          </coding>
+        </manufacturedDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="200000002152"/>
+            <display value="Tablet"/>
+          </coding>
+        </unitOfPresentation>
+        <manufacturer>
+          <reference value="urn:uuid:d684694e-8b50-4160-adc1-bfa088e639a0"/>
+          <reference value="urn:uuid:e9da692f-172b-4c85-873f-dd9b7fdaaba7"/>
+        </manufacturer>
+      </ManufacturedItemDefinition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:f796d811-4516-4138-b91b-0dc377f00ee7" />
+    <resource>
+      <AdministrableProductDefinition>
+        <id value="f796d811-4516-4138-b91b-0dc377f00ee7" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.who-umc.org/phpid" />
+          <value value="identifier" />
+        </identifier>
+        <status value="active" />
+        <formOf>
+          <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+        </formOf>
+        <administrableDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000073666" />
+            <display value="Orodispersible tablet" />
+          </coding>
+        </administrableDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002152" />
+            <display value="Tablet" />
+          </coding>
+        </unitOfPresentation>
+        <producedFrom>
+          <reference value="urn:uuid:d5dc780c-db19-48f8-b264-62799035d290" />
+        </producedFrom>
+        <routeOfAdministration>
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073619" />
+              <display value="Oral use" />
+            </coding>
+          </code>
+          <targetSpecies>
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi" />
+                <code value="100000109093" />
+                <display value="Human" />
+              </coding>
+            </code>
+          </targetSpecies>
+        </routeOfAdministration>
+      </AdministrableProductDefinition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:595fa285-2fb9-4d25-a66c-d3834e528caa" />
+    <resource>
+      <AdministrableProductDefinition>
+        <id value="595fa285-2fb9-4d25-a66c-d3834e528caa" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.who-umc.org/phpid" />
+          <value value="identifier" />
+        </identifier>
+        <status value="active" />
+        <formOf>
+          <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+        </formOf>
+        <administrableDoseForm>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000073666" />
+            <display value="Orodispersible tablet" />
+          </coding>
+        </administrableDoseForm>
+        <unitOfPresentation>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="200000002152" />
+            <display value="Tablet" />
+          </coding>
+        </unitOfPresentation>
+        <producedFrom>
+          <reference value="urn:uuid:6c85e71e-0d3b-4921-bf11-14896efba527" />
+        </producedFrom>
+        <routeOfAdministration>
+          <code>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073619" />
+              <display value="Oral use" />
+            </coding>
+          </code>
+          <targetSpecies>
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/rmswi" />
+                <code value="100000109093" />
+                <display value="Human" />
+              </coding>
+            </code>
+          </targetSpecies>
+        </routeOfAdministration>
+      </AdministrableProductDefinition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:4dc5077c-e84f-483a-a0d6-66f145e83dfc"/>
+    <resource>
+      <RegulatedAuthorization>
+        <id value="4dc5077c-e84f-483a-a0d6-66f145e83dfc"/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official"/>
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="1ba785f7-7139-4252-9914-a01df16c168e"/>
+        </identifier>
+        <subject>
+          <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab"/>
+        </subject>
+        <subject>
+          <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88"/>
+        </subject>
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="220000000061" />
+            <display value="Marketing Authorisation" />
+          </coding>
+        </type>
+        <region>
+          <coding>
+            <system value="urn:iso:std:iso:3166" />
+            <code value="GBR" />
+            <display value="United Kingdom" />
+          </coding>
+        </region>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-02-12T00:00:00Z" />
+        <holder>
+          <reference value="urn:uuid:ff0a35d2-edcf-496a-91c8-ffce68401383"/>
+        </holder>
+      </RegulatedAuthorization>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:ff0a35d2-edcf-496a-91c8-ffce68401383" />
+    <resource>
+      <Organization>
+        <id value="ff0a35d2-edcf-496a-91c8-ffce68401383" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="ORG-100000101" />
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000034" />
+            <display value="Marketing authorisation holder" />
+          </coding>
+          <text value="Marketing authorisation holder" />
+        </type>
+        <name value="Pfizer Limited" />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="Pfizer Limited Ramsgate Road, Sandwich, Kent, CT13 9NJ, United Kingdom" />
+            <line value="Ramsgate Road" />
+            <city value="Sandwich" />
+            <country value="UK" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:d684694e-8b50-4160-adc1-bfa088e639a0" />
+    <resource>
+      <Organization>
+        <id value="d684694e-8b50-4160-adc1-bfa088e639a0" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="ORG-100001392" />
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000033" />
+            <display value="Manufacturer" />
+          </coding>
+          <text value="Manufacturer" />
+        </type>
+        <name value="Pfizer Ireland Pharmaceuticals" />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="Pfizer Ireland Pharmaceuticals, Little Connell, Newbridge, Co. Kildare, W12 HX57, Ireland"/>
+            <line value="Little Connell, Newbdrige" />
+            <city value="County Kildare" />
+            <country value="IE" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="urn:uuid:e9da692f-172b-4c85-873f-dd9b7fdaaba7" />
+    <resource>
+      <Organization>
+        <id value="e9da692f-172b-4c85-873f-dd9b7fdaaba7" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/omswi" />
+          <value value="ORG-100004089" />
+        </identifier>
+        <active value="true" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="220000000033" />
+            <display value="Manufacturer" />
+          </coding>
+          <text value="Manufacturer" />
+        </type>
+        <name value="	Pfizer Manufacturing Deutschland GmbH" />
+        <contact>
+          <address>
+            <use value="work" />
+            <type value="physical" />
+            <text value="Pfizer Manufacturing Deutschland GmbH, Betriebsstätte, Freiburg, Mooswaldallee 1, 	79090 Freiburg, Germany"/>
+            <line value="Betriebsstätte, Freiburg, Mooswaldallee 1" />
+            <city value="Freiburg" />
+            <country value="DE" />
+          </address>
+        </contact>
+      </Organization>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:36092436-0324-40c0-b787-4ccf4c48dc84" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="36092436-0324-40c0-b787-4ccf4c48dc84" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="6f6ac8d7-4ded-48d8-928b-7042eea96ea8" />
+        </identifier>
+        <name value="	Zoton FasTab* 15 mg oro-dispersible tablets blister packs of 28" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi"/>
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product"/>
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab"/>
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status"/>
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-02-12T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="15" />
+          <system value="http://unitsofmeasure.org"/>
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="urn:uuid:d684694e-8b50-4160-adc1-bfa088e639a0"/>
+          <reference value="urn:uuid:e9da692f-172b-4c85-873f-dd9b7fdaaba7"/>
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://www.mhra.gov.uk/"/>
+            <value value="461a9586-83e4-4dbe-baa8-5261c076b032" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073496" />
+              <display value="Blister" />
+            </coding>
+          </type>
+          <quantity value="28" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003200" />
+              <display value="Aluminium" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+   <entry>
+    <fullUrl value="urn:uuid:5b674281-e51c-4fd9-bcf7-8e090437bb16"/>
+    <resource>
+      <PackagedProductDefinition>
+        <id value="5b674281-e51c-4fd9-bcf7-8e090437bb16"/>
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi"/>
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="4e1f132e-a143-4a4b-91e1-644f2dd7605a" />
+        </identifier>
+        <name value="	Zoton FasTab 30 mg oro-dispersible tablets blister packs of 28 " />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-02-12T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="30" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="urn:uuid:d684694e-8b50-4160-adc1-bfa088e639a0"/>
+          <reference value="urn:uuid:e9da692f-172b-4c85-873f-dd9b7fdaaba7"/>
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://www.mhra.gov.uk/"/>
+            <value value="c1353e02-2a6a-4de1-a0cf-3ede7b86326a" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073496" />
+              <display value="Blister" />
+            </coding>
+          </type>
+          <quantity value="28" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003200" />
+              <display value="Aluminium" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="311c2251-1234-4935-9200-c932c84c05ab" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.mhra.gov.uk/" />
+          <value value="9a433742-5044-4404-88c1-3058ad4e6913" />
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type" />
+            <code value="MedicinalProduct" />
+            <display value="Medicinal Product" />
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain" />
+            <code value="Human" />
+            <display value="Human use" />
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="active" />
+          </coding>
+        </status>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072084" />
+            <display value="Medicinal product subject to medical prescription" />
+          </coding>
+        </legalStatusOfSupply>
+        <name>
+          <productName value="Zoton FasTab* 15 mg oro-dispersible tablets" />
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/lists/220000000000" />
+              <code value="220000000001" />
+            </coding>
+            <text value="Full name" />
+          </type>
+          <part>
+            <part value="Zoton FasTab" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000002" />
+              </coding>
+              <text value="Invented name part" />
+            </type>
+          </part>
+          <part>
+            <part value="Lansoprazole" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000003" />
+              </coding>
+              <text value="Scientific name part" />
+            </type>
+          </part>
+          <part>
+            <part value="15 mg" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000004" />
+              </coding>
+              <text value="Strength part" />
+            </type>
+          </part>
+          <part>
+            <part value="Tablets, oro-dispersible" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000005" />
+              </coding>
+              <text value="Pharmaceutical dose form part" />
+            </type>
+          </part>
+          <usage>
+            <country>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="urn:ietf:bcp:47" />
+                <code value="en" />
+                <display value="English" />
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+    <resource>
+      <MedicinalProductDefinition>
+        <id value="f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <system value="https://www.mhra.gov.uk/" />
+          <value value="9a433742-5044-4404-88c1-3058ad4e6913" />
+        </identifier>
+        <type>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-type" />
+            <code value="MedicinalProduct" />
+            <display value="Medicinal Product" />
+          </coding>
+        </type>
+        <domain>
+          <coding>
+            <system value="http://hl7.org/fhir/medicinal-product-domain" />
+            <code value="Human" />
+            <display value="Human use" />
+          </coding>
+        </domain>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="active" />
+          </coding>
+        </status>
+        <legalStatusOfSupply>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072084" />
+            <display value="Medicinal product subject to medical prescription" />
+          </coding>
+        </legalStatusOfSupply>
+        <name>
+          <productName value="Zoton FasTab* 30 mg oro-dispersible tablets" />
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/lists/220000000000" />
+              <code value="220000000001" />
+            </coding>
+            <text value="Full name" />
+          </type>
+          <part>
+            <part value="Zoton FasTab" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000002" />
+              </coding>
+              <text value="Invented name part" />
+            </type>
+          </part>
+          <part>
+            <part value="	Lansoprazole" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000003" />
+              </coding>
+              <text value="Scientific name part" />
+            </type>
+          </part>
+          <part>
+            <part value="30 mg" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000004" />
+              </coding>
+              <text value="Strength part" />
+            </type>
+          </part>
+          <part>
+            <part value="Tablets, oro-dispersible" />
+            <type>
+              <coding>
+                <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                <code value="220000000005" />
+              </coding>
+              <text value="Pharmaceutical dose form part" />
+            </type>
+          </part>
+          <usage>
+            <country>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </country>
+            <jurisdiction>
+              <coding>
+                <system value="urn:iso:std:iso:3166" />
+                <code value="GBR" />
+                <display value="United Kingdom" />
+              </coding>
+            </jurisdiction>
+            <language>
+              <coding>
+                <system value="urn:ietf:bcp:47" />
+                <code value="en" />
+                <display value="English" />
+              </coding>
+            </language>
+          </usage>
+        </name>
+      </MedicinalProductDefinition>
+    </resource>
+  </entry>
+
+  <entry>
+    <fullUrl value="urn:uuid:8367e9a0-648d-4dca-91c3-bccabc126591" />
+    <resource>
+      <ClinicalUseDefinition>
+        <id value="8367e9a0-648d-4dca-91c3-bccabc126591" />
+        <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/STU1/StructureDefinition-ClinicalUseDefinition-indication-uv-epi"/>
+	</meta>
+        <identifier>
+	<system value="https://www.mhra.gov.uk/"/>
+    	<value value="35357bd2-854d-4975-a45f-9215570570fc"/>
+  	</identifier>
+  	<type value="indication"/>
+  	<subject>
+          <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+        </subject>
+        <subject>
+          <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+        </subject>
+  	<indication>
+	<diseaseSymptomProcedure>
+      	<concept>
+        <coding>
+          <system value="http://terminology.hl7.org/CodeSystem/mdr"/>
+          <code value="10013836"/>
+          <display value="Duodenal ulcer"/>
+        </coding>
+      	</concept>
+    	</diseaseSymptomProcedure>
+  	</indication>
+	  </ClinicalUseDefinition>
+  </resource>
+</entry>
+
+<entry>
+  <fullUrl value="urn:uuid:acb78340-fc14-4f21-bd61-dcfc7130fb79" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="acb78340-fc14-4f21-bd61-dcfc7130fb79" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/STU1/StructureDefinition-ClinicalUseDefinition-contraindication-uv-epi"/>
+</meta>
+      <identifier>
+    <system value="https://www.mhra.gov.uk/"/>
+    <value value="30c22ba5-d017-4404-81b8-63e8542ed296"/>
+  </identifier>
+  <type value="contraindication"/>
+  <subject>
+        <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+      </subject>
+      <subject>
+        <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+      </subject>
+  <contraindication>
+<diseaseSymptomProcedure>
+      <concept>
+      <coding>
+        <system value="http://terminology.hl7.org/CodeSystem/mdr"/>
+        <code value="10001738"/>
+        <display value="Allergy"/>
+      </coding>
+      </concept>
+    </diseaseSymptomProcedure>
+  </contraindication>
+</ClinicalUseDefinition>
+    </resource>
+</entry>
+
+<entry>
+  <fullUrl value="urn:uuid:9101aa32-9bb0-4e04-b543-de895744a715" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="9101aa32-9bb0-4e04-b543-de895744a715" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/STU1/StructureDefinition-ClinicalUseDefinition-warning-uv-epi"/>
+</meta>
+      <identifier>
+    <system value="https://www.mhra.gov.uk/"/>
+    <value value="da3422e4-3277-4799-a895-c2d642b5881e"/>
+  </identifier>
+  <type value="warning"/>
+  <subject>
+        <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+      </subject>
+      <subject>
+        <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+      </subject>
+  <warning>
+<description value="If severe or persistent diarrhoea occurs during the treatment with Zoton contact your doctor immediately, as Zoton has been associated with a small increase in infectious diarrhoea."/>
+  </warning>
+</ClinicalUseDefinition>
+</resource>
+</entry>
+
+<entry>
+  <fullUrl value="urn:uuid:e6699e80-cb6d-4ae4-90f8-51fafad00a7a" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="e6699e80-cb6d-4ae4-90f8-51fafad00a7a" />
+      <meta>
+        <profile
+          value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+      <identifier>
+        <use value="official" />
+        <system value="https://www.mhra.gov.uk/" />
+        <value value="e07103dd-2e35-4e52-b0dc-b533f6c89cca" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+      </subject>
+      <subject>
+        <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="YL5FZ2Y5U1" />
+              <display value="METHOTREXATE" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+
+<fullUrl value="urn:uuid:d3352807-9d8c-4850-a6e0-dad317babb31" />
+<resource>
+  <ClinicalUseDefinition>
+    <id value="d3352807-9d8c-4850-a6e0-dad317babb31" />
+    <meta>
+      <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/STU1/StructureDefinition-ClinicalUseDefinition-undesirableEffect-uv-epi.html"/>
+</meta>
+    <identifier>
+<system value="https://www.mhra.gov.uk/"/>
+  <value value="40cd683c-19d5-42a3-bb95-775e972f2eb2"/>
+</identifier>
+<type value="undesirable-effect"/>
+<subject>
+      <reference value="urn:uuid:311c2251-1234-4935-9200-c932c84c05ab" />
+    </subject>
+    <subject>
+      <reference value="urn:uuid:f9c9ec9b-441d-424e-b6b9-05198ae28c88" />
+    </subject>
+<undesirableEffect>
+  <symptomConditionEffect>
+    <concept>
+    <coding>
+      <system value="https://bioportal.bioontology.org/"/>
+      <code value="251348006"/>
+      <display value="Skin reaction"/>
+    </coding>
+    </concept>
+  </symptomConditionEffect>
+<frequencyOfOccurrence>
+    <coding>
+    <system value="https://www.drugs.com/medical-answers/how-often-side-effects-occur-ranging-very-common-3576518/#:~:text=Common%3A%20affecting%20between%201%20in,in%2010%2C000%20people%20(%3C%200.01%25)"/>
+    <code value="Very rare"/>
+    <display value="Very rare"/>
+  </coding>
+</frequencyOfOccurrence>
+</undesirableEffect>
+</ClinicalUseDefinition>
+</resource>
+</Bundle>
