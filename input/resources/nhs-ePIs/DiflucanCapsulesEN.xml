@@ -53,7 +53,7 @@
         </author>
         <title value="DIFLUCAN® (fluconazole) 50 mg  hard capsules" />
         <section>
-          <title centered="true" value="Package leaflet: Information for the patient" />
+          <title value="Package leaflet: Information for the patient" />
           <code>
             <coding>
               <system value="https://www.mhra.gov.uk/" />
@@ -92,345 +92,367 @@
             </text>
           </section>
         </section>
-        <section id="5a34d358-e830-4308-8d86-cb1dc8b1ee8c">
-          <title value="1. What Talzenna is and what it is used for" />
+        <section id="222b8604-bc0b-ef11-9f8a-000d3aa845fb">
+          <title value="1. What X is and what it is used for" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029895" />
+              <display value="1. What X is and what it is used for" />
             </coding>
-            <text value="1. What X is and what it is used for" />
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
-
-            </div>
+            <div xmlns="http://www.w3.org/1999/xhtml"></div>
           </text>
         </section>
-        <section id="a2f089b4-fef4-497e-81bd-251cd9c7571f">
-          <title value="2. What you need to know before you take Talzenna" />
+        <section id="292b8604-bc0b-ef11-9f8a-000d3aa845fb">
+          <title value="2. What you need to know before you &#60;take&#62; &#60;use&#62; X" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029896" />
+              <display value="2. What you need to know before you &lt;take&gt; &lt;use&gt; X" />
             </coding>
-            <text value="2. What you need to know before you take X" />
           </code>
-          <section>
-            <title cssClass="doNotTakeTanzenna" value="Do not take Talzenna" />
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+          </text>
+          <section id="2f2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Do not &#60;take&#62; &#60;use&#62; X" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029897" />
+                <display value="Do not &lt;take&gt; &lt;use&gt; X" />
               </coding>
-              <text value="Do not &amp;lt;take&amp;gt;; &amp;lt;use&amp;gt; X" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
+          <section id="372b8604-bc0b-ef11-9f8a-000d3aa845fb">
             <title value="Warnings and precautions" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029898" />
+                <display value="Warnings and precautions" />
               </coding>
-              <text value="Warnings and precautions" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title cssClass="Under18" value="Children and adolescents" />
+          <section id="4b2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Children &#60;and adolescents&#62;" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029899" />
+                <display value="Children &lt;and adolescents&gt;" />
               </coding>
-              <text value="Children and adolescents" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml" class="Under18">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="Other medicines and Talzenna" />
+          <section id="532b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Other medicines and X" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029900" />
+                <display value="Other medicines and X" />
               </coding>
-              <text value="Other medicines and Talzenna" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="Talzenna with food and drink" />
+          <section id="5c2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="X with &#60;food&#62; &#60;and&#62; &#60;,&#62; &#60;drink&#62; &#60;and&#62; &#60;alcohol&#62;" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029901" />
+                <display value="X with &lt;food&gt; &lt;and&gt; &lt;,&gt; &lt;drink&gt; &lt;and&gt; &lt;alcohol&gt;" />
               </coding>
-              <text
-                value="X with &amp;lt;food&amp;gt; &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; &amp;lt;drink&amp;gt; &amp;lt;and&amp;gt; &amp;lt;alcohol&amp;gt;" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="Pregnancy" />
+          <section id="cf7169ad-c90b-ef11-9f8a-000d3a2c6368">
+            <title value="Blank subsection 1" />
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            </text>
+          </section>
+          <section id="632b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Pregnancy &#60;and&#62; &#60;,&#62; breast-feeding &#60;and fertility&#62;" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029902" />
+                <display value="Pregnancy &lt;and&gt; &lt;,&gt; breast-feeding &lt;and fertility&gt;" />
               </coding>
-              <text
-                value="Pregnancy &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; breast-feeding &amp;lt;and fertility&amp;gt;" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title cssClass="breastFeeding" value="Breast-feeding" />
-            <code>
-              <coding>
-                <system value="https://www.mhra.gov.uk/" />
-                <code value="200000029902" />
-              </coding>
-              <text value="Breast-feeding" />
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
-            </text>
-          </section>
-          <section>
-            <title cssClass="Male" value="Fertility" />
-            <code>
-              <coding>
-                <system value="https://www.mhra.gov.uk/" />
-                <code value="200000029902" />
-              </coding>
-              <text value="Fertility" />
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-            </div>
-            </text>
-          </section>
-          <section>
+          <section id="6d2b8604-bc0b-ef11-9f8a-000d3aa845fb">
             <title value="Driving and using machines" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029903" />
+                <display value="Driving and using machines" />
               </coding>
-              <text value="Driving and using machines" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-        </section>
-        <section id="958ed385-b409-41d8-a868-fa5ec1fbaba4">
-          <title value="3. How to take Talzenna" />
+          <section id="752b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="X contains {name the excipient(s)}" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029904" />
+                <display value="X contains {name the excipient(s)}" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            </text>
+          </section>
+          <section id="0dc5b6d5-c90b-ef11-9f8a-000d3a2c6368">
+            <title value="Blank subsection 2" />
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml"><p>This is blank subsection 2 added by the user</p></div>
+            </text>
+          </section>
+        </section>                
+        <section id="872b8604-bc0b-ef11-9f8a-000d3aa845fb">
+          <title value="3. How to &#60;take&#62; &#60;use&#62; X" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029905" />
+              <display value="3. How to &lt;take&gt; &lt;use&gt; X" />
             </coding>
-            <text value="3. How to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
-
-            </div>
+            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
           </text>
-          <section>
-            <title value="If you take more Talzenna than you should" />
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Use in children &#60;and adolescents&#62;" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029906" />
+                <display value="Use in children &lt;and adolescents&gt;" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            </text>
+          </section>
+          <section id="982b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="If you &#60;take&#62; &#60;use&#62; more X than you should" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029907" />
+                <display value="If you &lt;take&gt; &lt;use&gt; more X than you should" />
               </coding>
-              <text value="If you &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; more X than you should" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="If you forget to take Talzenna" />
+          <section id="a32b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="If you stop &#60;taking&#62; &#60;using&#62; X" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
-                <code value="200000029908" />
-              </coding>
-              <text value="If you forget to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
-            </text>
-          </section>
-          <section>
-            <title value="If you stop taking Talzenna" />
-            <code>
-              <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029909" />
+                <display value="If you stop &lt;taking&gt; &lt;using&gt; X" />
               </coding>
-              <text value="If you stop &amp;lt;taking&amp;gt; &amp;lt;using&amp;gt; X" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
         </section>
-        <section id="7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">
+        <section id="ad2b8604-bc0b-ef11-9f8a-000d3aa845fb">
           <title value="4. Possible side effects" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029910" />
+              <display value="4. Possible side effects" />
             </coding>
-            <text value="4. Possible side effects" />
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
-
-            </div>
+            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
           </text>
-          <section>
+          <section id="bf2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Additional side effects in children &#60;and adolescents&#62;" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029911" />
+                <display value="Additional side effects in children &lt;and adolescents&gt;" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            </text>
+          </section>
+          <section id="ca2b8604-bc0b-ef11-9f8a-000d3aa845fb">
             <title value="Reporting of side effects" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029912" />
+                <display value="Reporting of side effects" />
               </coding>
-              <text value="Reporting of side effects" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
         </section>
-        <section id="eb80ccf5-f971-4361-b25c-b8d86c457a00">
-          <title value="5. How to store Talzenna" />
+        <section id="d22b8604-bc0b-ef11-9f8a-000d3aa845fb">
+          <title value="5. How to store X" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029913" />
+              <display value="5. How to store X" />
             </coding>
-            <text value="5. How to store X" />
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">
-
-            </div>
+            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
           </text>
-        </section>
-        <section id="2531776f-f478-40bc-a19d-6970524b8793">
+        </section>    
+        <section id="dc2b8604-bc0b-ef11-9f8a-000d3aa845fb">
           <title value="6. Contents of the pack and other information" />
           <code>
             <coding>
-              <system value="https://www.mhra.gov.uk/" />
+              <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029914" />
+              <display value="6. Contents of the pack and other information" />
             </coding>
-            <text value="6. Contents of the pack and other information" />
           </code>
-          <section>
-            <title value="What Talzenna contains" />
+          <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+          </text>
+          <section id="e62b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="What X contains" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
-                <code value="200000029915	" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029915" />
+                <display value="What X contains" />
               </coding>
-              <text value="What X contains" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="What Talzenna looks like and contents of the pack" />
+          <section id="ef2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="What X looks like and contents of the pack" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029916" />
+                <display value="What X looks like and contents of the pack" />
               </coding>
-              <text value="What X looks like and contents of the pack" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
             </text>
           </section>
-          <section>
-            <title value="Marketing Authorization Holder and Manufacturer" />
+          <section id="f72b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Marketing Authorisation Holder and Manufacturer" />
             <code>
               <coding>
-                <system value="https://www.mhra.gov.uk/" />
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029917" />
+                <display value="Marketing Authorisation Holder and Manufacturer" />
               </coding>
-              <text value="Marketing Authorization Holder and Manufacturer" />
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">
-
-              </div>
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            </text>
+          </section>
+          <section id="fe2b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="This leaflet was last revised in &#60;{MM/YYYY}&#62;&#60;{month YYYY}&#62;." />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029919" />
+                <display value="This leaflet was last revised in &lt;{MM/YYYY}&gt;&lt;{month YYYY}&gt;." />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            </text>
+          </section>
+          <section id="062c8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Other sources of information" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029920" />
+                <display value="Other sources of information" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            </text>
+          </section>                  
+          <section id="112c8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="The following information is intended for healthcare professionals only:" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029921" />
+                <display value="The following information is intended for healthcare professionals only:" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml"></div>
             </text>
           </section>
         </section>
@@ -438,10 +460,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/xx" />
+    <fullUrl value="Ingredient/FLUCONAZOLE" />
     <resource>
       <Ingredient>
-        <id value="xx" />
+        <id value="FLUCONAZOLE" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -449,11 +471,11 @@
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="xx" />
+          <value value="8VZV102JFY" />
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <role>
           <coding>
@@ -468,14 +490,14 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="xx" />
-                <display value="xx" />
+                <code value="8VZV102JFY" />
+                <display value="FLUCONAZOLE" />
               </coding>
             </concept>
           </code>
           <strength>
             <presentationQuantity>
-              <value value="xx" />
+              <value value="50" />
               <unit value="mg" />
             </presentationQuantity>
             <basis>
@@ -490,12 +512,11 @@
       </Ingredient>
     </resource>
   </entry>
-
   <entry>
-    <fullUrl value="Ingredient/ingredientsmcc" />
+    <fullUrl value="Ingredient/FLUCONAZOLE" />
     <resource>
       <Ingredient>
-        <id value="ingredientsmcc" />
+        <id value="FLUCONAZOLE" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -503,17 +524,67 @@
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="B357P1G1IF" />
+          <value value="8VZV102JFY" />
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072072" />
+            <display value="Active" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="8VZV102JFY" />
+                <display value="FLUCONAZOLE" />
+              </coding>
+            </concept>
+          </code>
+          <strength>
+            <presentationQuantity>
+              <value value="200" />
+              <unit value="mg" />
+            </presentationQuantity>
+            <basis>
+              <coding>
+                <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+                <code value="ACTIB" />
+              </coding>
+              <text value="active ingredient - basis of strength" />
+            </basis>
+          </strength>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/lactosemonohydrate" />
+    <resource>
+      <Ingredient>
+        <id value="lactosemonohydrate" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="EWQ57Q8I5X" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -528,8 +599,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="B357P1G1IF" />
-                <display value="silicified microcrystalline cellulose (microcrystalline cellulose and silicone dioxide)" />
+                <code value="EWQ57Q8I5X" />
+                <display value="lactose monohydrate" />
               </coding>
             </concept>
           </code>
@@ -538,10 +609,53 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientSILICONDIOXIDE" />
+    <fullUrl value="Ingredient/maizestarch" />
     <resource>
       <Ingredient>
-        <id value="ingredientSILICONDIOXIDE" />
+        <id value="maizestarch" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="O8232NY3SJ" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="O8232NY3SJ" />
+                <display value="maize starch" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/colloidalsilicaanhydrous" />
+    <resource>
+      <Ingredient>
+        <id value="colloidalsilicaanhydrous" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -553,13 +667,10 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -574,8 +685,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="15FIX9V2JP" />
-                <display value="SILICON DIOXIDE" />
+                <code value="ETJ7Z6XBU4" />
+                <display value="colloidal silica anhydrous" />
               </coding>
             </concept>
           </code>
@@ -584,29 +695,22 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientHYPROMELLOSE" />
+    <fullUrl value="Ingredient/magnesiumstearate" />
     <resource>
       <Ingredient>
-        <id value="ingredientHYPROMELLOSE" />
+        <id value="magnesiumstearate" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
         </meta>
-
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="3NXW29V3WO" />
+          <value value="70097M6I30" />
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -621,8 +725,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="3NXW29V3WO" />
-                <display value="HYPROMELLOSE" />
+                <code value="70097M6I30" />
+                <display value="magnesium stearate" />
               </coding>
             </concept>
           </code>
@@ -631,26 +735,25 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientFERRICOXIDEYELLOW" />
+    <fullUrl value="Ingredient/sodiumlaurilsulfate" />
     <resource>
       <Ingredient>
-        <id value="ingredientFERRICOXIDEYELLOW" />
+        <id value="sodiumlaurilsulfate" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
         </meta>
-
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="EX438O2MRT" />
+          <value value="368GB5141J" />
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -665,8 +768,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="EX438O2MRT" />
-                <display value="YELLOW IRON OXIDE (E172)" />
+                <code value="368GB5141J" />
+                <display value="sodium laurilsulfate" />
               </coding>
             </concept>
           </code>
@@ -675,15 +778,57 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientTITANIUMDIOXIDE" />
+    <fullUrl value="Ingredient/gelatin" />
     <resource>
       <Ingredient>
-        <id value="ingredientTITANIUMDIOXIDE" />
+        <id value="gelatin" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
         </meta>
-
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="2G86QN327L" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="2G86QN327L" />
+                <display value="gelatin (E441)" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/TITANIUMDIOXIDE" />
+    <resource>
+      <Ingredient>
+        <id value="TITANIUMDIOXIDE" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
@@ -691,13 +836,10 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -722,10 +864,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientFERRICOXIDERED" />
+    <fullUrl value="Ingredient/patentblueV" />
     <resource>
       <Ingredient>
-        <id value="ingredientFERRICOXIDERED" />
+        <id value="patentblueV" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -733,11 +875,11 @@
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="1K09F3G675" />
+          <value value="8QE473DV1Z" />
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <role>
           <coding>
@@ -752,8 +894,8 @@
             <concept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="1K09F3G675" />
-                <display value="FERRIC OXIDE RED" />
+                <code value="8QE473DV1Z" />
+                <display value="patent blue V (E131)" />
               </coding>
             </concept>
           </code>
@@ -762,10 +904,91 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientSHELLAC" />
+    <fullUrl value="Ingredient/erythrosine" />
     <resource>
       <Ingredient>
-        <id value="ingredientSHELLAC" />
+        <id value="erythrosine" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="PN2ZH5LOQY" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="PN2ZH5LOQY" />
+                <display value="erythrosine (E127)" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/indigocarmine" />
+    <resource>
+      <Ingredient>
+        <id value="indigocarmine" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="D3741U8K7L" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="D3741U8K7L" />
+                <display value="indigo carmine (E132)" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/SHELLAC" />
+    <resource>
+      <Ingredient>
+        <id value="SHELLAC" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -777,13 +1000,10 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -808,98 +1028,6 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientPROPYLENEGLYCOL" />
-    <resource>
-      <Ingredient>
-        <id value="ingredientPROPYLENEGLYCOL" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="6DC9Q167V3" />
-        </identifier>
-        <status value="active" />
-        <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
-        </for>
-        <role>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000072082" />
-            <display value="Excipient" />
-          </coding>
-        </role>
-        <allergenicIndicator value="false" />
-        <substance>
-          <code>
-            <concept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="6DC9Q167V3" />
-                <display value="PROPYLENE GLYCOL (E1520)" />
-              </coding>
-            </concept>
-          </code>
-        </substance>
-      </Ingredient>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="Ingredient/ingredientAMMONIUMHYDROXIDE" />
-    <resource>
-      <Ingredient>
-        <id value="ingredientAMMONIUMHYDROXIDE" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="5138Q19F1X" />
-        </identifier>
-        <status value="active" />
-        <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
-        </for>
-        <role>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000072082" />
-            <display value="Excipient" />
-          </coding>
-        </role>
-        <allergenicIndicator value="false" />
-        <substance>
-          <code>
-            <concept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="5138Q19F1X" />
-                <display value="AMMONIUM HYDROXIDE (E527)" />
-              </coding>
-            </concept>
-          </code>
-        </substance>
-      </Ingredient>
-    </resource>
-  </entry>
-  <entry>
     <fullUrl value="Ingredient/ingredientBLACKIRONOXIDE" />
     <resource>
       <Ingredient>
@@ -915,13 +1043,10 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -946,10 +1071,315 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientPotassiumhydroxide" />
+    <fullUrl value="Ingredient/NButylalcohol" />
     <resource>
       <Ingredient>
-        <id value="ingredientPotassiumhydroxide" />
+        <id value="NButylalcohol" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="8PJ61P6TS3" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="8PJ61P6TS3" />
+                <display value="N-Butyl alcohol" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/dehydratedalcohol" />
+    <resource>
+      <Ingredient>
+        <id value="dehydratedalcohol" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="3K9958V90M" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="3K9958V90M" />
+                <display value="dehydrated alcohol" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/purifiedwater" />
+    <resource>
+      <Ingredient>
+        <id value="purifiedwater" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="059QF0KO0R" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="059QF0KO0R" />
+                <display value="purified water" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/propyleneglycol" />
+    <resource>
+      <Ingredient>
+        <id value="propyleneglycol" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="6DC9Q167V3" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="6DC9Q167V3" />
+                <display value="propylene glycol (E1520)" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/industrialmethylatedspirit" />
+    <resource>
+      <Ingredient>
+        <id value="industrialmethylatedspirit" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="3K9958V90M" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="3K9958V90M" />
+                <display value="industrial methylated spirit" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/isopropylalcohol" />
+    <resource>
+      <Ingredient>
+        <id value="isopropylalcohol" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="ND2M416302" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="ND2M416302" />
+                <display value="isopropyl alcohol" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="Ingredient/strongammoniasolution" />
+    <resource>
+      <Ingredient>
+        <id value="strongammoniasolution" />
+        <meta>
+          <profile
+            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+          <value value="5138Q19F1X" />
+        </identifier>
+        <status value="active" />
+        <for>
+          <reference value="ManufacturedItemDefinition/mid50mg" />
+        </for>
+        <for>
+          <reference value="ManufacturedItemDefinition/mid200mg" />
+        </for>
+        <role>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000072082" />
+            <display value="Excipient" />
+          </coding>
+        </role>
+        <allergenicIndicator value="false" />
+        <substance>
+          <code>
+            <concept>
+              <coding>
+                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+                <code value="5138Q19F1X" />
+                <display value="strong ammonia solution" />
+              </coding>
+            </concept>
+          </code>
+        </substance>
+      </Ingredient>
+    </resource>
+  </entry>
+
+
+
+
+  <entry>
+    <fullUrl value="Ingredient/potassiumhydroxide" />
+    <resource>
+      <Ingredient>
+        <id value="potassiumhydroxide" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -961,13 +1391,10 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </for>
         <for>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </for>
-        <for>
-          <reference value="ManufacturedItemDefinition/mid025mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -983,7 +1410,7 @@
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
                 <code value="WZH3C48M4T" />
-                <display value="POTASSIUM HYDROXIDE (E525)" />
+                <display value="potassium hydroxide (E525)" />
               </coding>
             </concept>
           </code>
@@ -992,10 +1419,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="SubstanceDefinition/substancetalazoparib" />
+    <fullUrl value="SubstanceDefinition/FLUCONAZOLE" />
     <resource>
       <SubstanceDefinition>
-        <id value="substancetalazoparib" />
+        <id value="FLUCONAZOLE" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
@@ -1003,7 +1430,7 @@
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
-          <value value="9QHX048FRV" />
+          <value value="8VZV102JFY" />
         </identifier>
         <version value="1" />
         <status>
@@ -1018,19 +1445,21 @@
             <text value="exact" />
           </type>
           <amount>
-            <value value="380.35" />
+            <value value="306.27" />
           </amount>
         </molecularWeight>
         <structure>
-          <molecularFormula value="C19H14F2N6O" />
+          <molecularFormula value="C13H12F2N6O" />
         </structure>
         <name>
           <name
-            value="(8S,9R)-5-fluoro-8-(4-fluorophenyl)-9-(1-methyl-1H-1,2,4-triazol-5-yl)-2,7,8,9-tetrahydro-3H-pyrido[4,3,2-de]phthalazin-3-one" />
+            value="1H-1,2,4-TRIAZOLE-1-ETHANOL, 1-(2,4-DIFLUOROPHENYL)-1-(1H-1,2,4-TRIAZOL-1-YLMETHYL)-
+            2,4-DIFLUORO-1',1'-BIS(1H-1,2,4-TRIAZOL-1-YLMETHYL)BENZYL ALCOHOL
+            ALKANAZOLE" />
           <type>
             <coding>
               <system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
-              <code value="x" />
+              <code value="8VZV102JFY" />
               <display value="Chemical Name" />
             </coding>
           </type>
@@ -1039,10 +1468,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ManufacturedItemDefinition/mid01mg" />
+    <fullUrl value="ManufacturedItemDefinition/mid50mg" />
     <resource>
       <ManufacturedItemDefinition>
-        <id value="mid01mg" />
+        <id value="mid50mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
@@ -1068,51 +1497,16 @@
           </coding>
         </unitOfPresentation>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
       </ManufacturedItemDefinition>
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ManufacturedItemDefinition/mid025mg" />
+    <fullUrl value="ManufacturedItemDefinition/mid200mg" />
     <resource>
       <ManufacturedItemDefinition>
-        <id value="mid025mg" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://www.mhra.gov.uk/" />
-          <value value="99b900c6-4776-4cde-8125-4f6de8e98b98" />
-        </identifier>
-        <status value="active" />
-        <manufacturedDoseForm>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi/" />
-            <code value="100000073375" />
-            <display value="Capsule, hard" />
-          </coding>
-        </manufacturedDoseForm>
-        <unitOfPresentation>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="200000002113" />
-            <display value="Capsule" />
-          </coding>
-        </unitOfPresentation>
-        <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
-        </manufacturer>
-      </ManufacturedItemDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ManufacturedItemDefinition/mid1mg" />
-    <resource>
-      <ManufacturedItemDefinition>
-        <id value="mid1mg" />
+        <id value="mid200mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
@@ -1138,16 +1532,16 @@
           </coding>
         </unitOfPresentation>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
       </ManufacturedItemDefinition>
     </resource>
   </entry>
   <entry>
-    <fullUrl value="AdministrableProductDefinition/ap01mg" />
+    <fullUrl value="AdministrableProductDefinition/ap50mg" />
     <resource>
       <AdministrableProductDefinition>
-        <id value="ap01mg" />
+        <id value="ap50mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
@@ -1158,7 +1552,7 @@
         </identifier>
         <status value="active" />
         <formOf>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </formOf>
         <administrableDoseForm>
           <coding>
@@ -1175,7 +1569,7 @@
           </coding>
         </unitOfPresentation>
         <producedFrom>
-          <reference value="ManufacturedItemDefinition/mid01mg" />
+          <reference value="ManufacturedItemDefinition/mid50mg" />
         </producedFrom>
         <routeOfAdministration>
           <code>
@@ -1199,10 +1593,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="AdministrableProductDefinition/ap025mg" />
+    <fullUrl value="AdministrableProductDefinition/ap200mg" />
     <resource>
       <AdministrableProductDefinition>
-        <id value="ap025mg" />
+        <id value="ap200mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
@@ -1213,7 +1607,7 @@
         </identifier>
         <status value="active" />
         <formOf>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </formOf>
         <administrableDoseForm>
           <coding>
@@ -1254,65 +1648,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="AdministrableProductDefinition/ap1mg" />
-    <resource>
-      <AdministrableProductDefinition>
-        <id value="ap1mg" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
-        </meta>
-        <identifier>
-          <system value="https://www.who-umc.org/phpid" />
-          <value value="identifier" />
-        </identifier>
-        <status value="active" />
-        <formOf>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </formOf>
-        <administrableDoseForm>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000073375" />
-            <display value="Capsule, hard" />
-          </coding>
-        </administrableDoseForm>
-        <unitOfPresentation>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="200000002113" />
-            <display value="Capsule" />
-          </coding>
-        </unitOfPresentation>
-        <producedFrom>
-          <reference value="ManufacturedItemDefinition/mid1mg" />
-        </producedFrom>
-        <routeOfAdministration>
-          <code>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073619" />
-              <display value="Oral use" />
-            </coding>
-          </code>
-          <targetSpecies>
-            <code>
-              <coding>
-                <system value="https://spor.ema.europa.eu/rmswi" />
-                <code value="100000109093" />
-                <display value="Human" />
-              </coding>
-            </code>
-          </targetSpecies>
-        </routeOfAdministration>
-      </AdministrableProductDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="RegulatedAuthorization/authorization01mg" />
+    <fullUrl value="RegulatedAuthorization/authorization50mg" />
     <resource>
       <RegulatedAuthorization>
-        <id value="authorization01mg" />
+        <id value="authorization50mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
@@ -1323,7 +1662,7 @@
           <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
         </identifier>
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <type>
           <coding>
@@ -1354,10 +1693,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="RegulatedAuthorization/authorization025mg" />
+    <fullUrl value="RegulatedAuthorization/authorization200mg" />
     <resource>
       <RegulatedAuthorization>
-        <id value="authorization025mg" />
+        <id value="authorization200mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
@@ -1368,52 +1707,7 @@
           <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
         </identifier>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
-        </subject>
-        <type>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="220000000061" />
-            <display value="Marketing Authorisation" />
-          </coding>
-        </type>
-        <region>
-          <coding>
-            <system value="urn:iso:std:iso:3166" />
-            <code value="GBR" />
-            <display value="United Kingdom" />
-          </coding>
-        </region>
-        <status>
-          <coding>
-            <system value="http://hl7.org/fhir/publication-status" />
-            <code value="active" />
-            <display value="Active" />
-          </coding>
-        </status>
-        <statusDate value="2024-04-11T00:00:00Z" />
-        <holder>
-          <reference value="Organization/orgpfizerukltd" />
-        </holder>
-      </RegulatedAuthorization>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="RegulatedAuthorization/authorization1mg" />
-    <resource>
-      <RegulatedAuthorization>
-        <id value="authorization1mg" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="5321fb02-cd43-4c7e-bba5-b1d628815a54" />
-        </identifier>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <type>
           <coding>
@@ -1481,10 +1775,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Organization/orgpfizerukltd" />
+    <fullUrl value="Organization/orgFarevaAmboise" />
     <resource>
       <Organization>
-        <id value="orgexcellagmbh" />
+        <id value="orgFarevaAmboise" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
@@ -1503,25 +1797,25 @@
           </coding>
           <text value="Manufacturer" />
         </type>
-        <name value="Excella GmbH &amp; Co. KG" />
+        <name value="Fareva Amboise" />
         <contact>
           <address>
             <use value="work" />
             <type value="physical" />
-            <text value="Excella GmbH &amp; Co. KG, Nürnberger Strasse 12, 90537 Feucht, Germany" />
-            <line value="Nürnberger Strasse 12" />
-            <city value="Feucht" />
-            <country value="DE" />
+            <text value="Fareva Amboise, Zone Industrielle, 29 route des Industries, 37530 Pocé-sur-Cisse, France" />
+            <line value="29 route des Industries" />
+            <city value="Pocé-sur-Cisse" />
+            <country value="FR" />
           </address>
         </contact>
       </Organization>
     </resource>
   </entry>
   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd01mgbottle30" />
+    <fullUrl value="PackagedProductDefinition/ppdblister1" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd01mgbottle30" />
+        <id value="ppdblister1" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
@@ -1531,7 +1825,7 @@
           <system value="https://spor.ema.europa.eu/pmswi" />
           <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Talzenna 0.1 mg plastic bottle of 30 hard capsules" />
+        <name value="Diflucan 50 mg hard capsules, blister pack with 1 hard capsule" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1540,7 +1834,7 @@
           </coding>
         </type>
         <packageFor>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </packageFor>
         <status>
           <coding>
@@ -1551,12 +1845,720 @@
         </status>
         <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
-          <value value="0.1" />
+          <value value="50" />
           <system value="http://unitsofmeasure.org" />
           <code value="mg" />
         </containedItemQuantity>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="1" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister2" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister2" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 1 hard capsule" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="2" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister3" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister3" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 3 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="3" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister4" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister4" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 4 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="4" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister6" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister6" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 6 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="6" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister7" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister7" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 7 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="7" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister10" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister10" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 10 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="10" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister12" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister12" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 12 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="12" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister14" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister14" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 14 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="14" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister20" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister20" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 20 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="20" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister28" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister28" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 28 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="28" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister30" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister30" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 30 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
         <packaging>
           <identifier>
@@ -1582,21 +2584,20 @@
       </PackagedProductDefinition>
     </resource>
   </entry>
-   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd025mgblister30" />
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister42" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd025mgblister30" />
+        <id value="ppdblister42" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
         </meta>
         <identifier>
           <use value="official" />
           <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Talzenna 0.25 mg perforated unit dose blister packs of 30 hard capsules" />
+        <name value="Diflucan 50 mg hard capsules, blister pack with 42 hard capsules" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1605,7 +2606,7 @@
           </coding>
         </type>
         <packageFor>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </packageFor>
         <status>
           <coding>
@@ -1616,12 +2617,12 @@
         </status>
         <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
-          <value value="0.25" />
+          <value value="50" />
           <system value="http://unitsofmeasure.org" />
           <code value="mg" />
         </containedItemQuantity>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
         <packaging>
           <identifier>
@@ -1631,11 +2632,11 @@
           <type>
             <coding>
               <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073496" />
-              <display value="Blister" />
+              <code value="100000073497" />
+              <display value="Bottle" />
             </coding>
           </type>
-          <quantity value="30" />
+          <quantity value="42" />
           <material>
             <coding>
               <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1648,20 +2649,19 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd025mgblister60" />
+    <fullUrl value="PackagedProductDefinition/ppdblister50" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd025mgblister60" />
+        <id value="ppdblister50" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
         </meta>
         <identifier>
           <use value="official" />
           <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="9aec5a08-17f6-44f0-bd7b-c75fcff62628" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Talzenna 0.25 mg perforated unit dose blister packs 60 hard capsules" />
+        <name value="Diflucan 50 mg hard capsules, blister pack with 50 hard capsules" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1670,7 +2670,7 @@
           </coding>
         </type>
         <packageFor>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </packageFor>
         <status>
           <coding>
@@ -1681,12 +2681,12 @@
         </status>
         <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
-          <value value="0.25" />
+          <value value="50" />
           <system value="http://unitsofmeasure.org" />
           <code value="mg" />
         </containedItemQuantity>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
         <packaging>
           <identifier>
@@ -1696,8 +2696,72 @@
           <type>
             <coding>
               <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073496" />
-              <display value="Blister" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="50" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister60" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister60" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 60 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
             </coding>
           </type>
           <quantity value="60" />
@@ -1713,85 +2777,19 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd025mgblister90" />
+    <fullUrl value="PackagedProductDefinition/ppdblister100" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd025mgblister90" />
+        <id value="ppdblister100" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="11967e26-c2d5-46aa-a51f-21a0f9c7bfd0" />
-        </identifier>
-        <name value="Talzenna 0.25 mg perforated unit dose blister packs of 90 hard capsules" />
-        <type>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000155527" />
-            <display value="Chemical Medicinal Product" />
-          </coding>
-        </type>
-        <packageFor>
-          <reference value="MedicinalProductDefinition/mp025mg" />
-        </packageFor>
-        <status>
-          <coding>
-            <system value="http://hl7.org/fhir/publication-status" />
-            <code value="active" />
-            <display value="Active" />
-          </coding>
-        </status>
-        <statusDate value="2024-04-11T00:00:00Z" />
-        <containedItemQuantity>
-          <value value="0.25" />
-          <system value="http://unitsofmeasure.org" />
-          <code value="mg" />
-        </containedItemQuantity>
-        <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
-        </manufacturer>
-        <packaging>
-          <identifier>
-            <system value="https://spor.ema.europa.eu/pmswi" />
-            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
-          </identifier>
-          <type>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073496" />
-              <display value="Blister" />
-            </coding>
-          </type>
-          <quantity value="90" />
-          <material>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="200000003222" />
-              <display value="PolyVinyl Chloride" />
-            </coding>
-          </material>
-        </packaging>
-      </PackagedProductDefinition>
-    </resource>
-  </entry>  
-  <entry>
-    <fullUrl value="PackagedProductDefinition/ppd025mgbottle30" />
-    <resource>
-      <PackagedProductDefinition>
-        <id value="ppd025mgbottle30" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
         </meta>
         <identifier>
           <use value="official" />
           <system value="https://spor.ema.europa.eu/pmswi" />
           <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Talzenna 0.25 mg plastic bottle of 30 hard capsules" />
+        <name value="Diflucan 50 mg hard capsules, blister pack with 100 hard capsules" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1800,7 +2798,7 @@
           </coding>
         </type>
         <packageFor>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </packageFor>
         <status>
           <coding>
@@ -1811,12 +2809,844 @@
         </status>
         <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
-          <value value="0.25" />
+          <value value="50" />
           <system value="http://unitsofmeasure.org" />
           <code value="mg" />
         </containedItemQuantity>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="100" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/ppdblister500" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="ppdblister500" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 50 mg hard capsules, blister pack with 500 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp50mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="50" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="500" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister1" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister1" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 1 hard capsule" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="1" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister2" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister2" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 2 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="2" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister3" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister3" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 3 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="3" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister4" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister4" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 4 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="4" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister6" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister6" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 6 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="6" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister7" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister7" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 7 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="7" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister10" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister10" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 10 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="10" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister12" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister12" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 12 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="12" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister14" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister14" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 14 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="14" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister20" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister20" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 20 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="20" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister28" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister28" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 28 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="28" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister30" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister30" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 30 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
         <packaging>
           <identifier>
@@ -1843,20 +3673,19 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd1mgblister30" />
+    <fullUrl value="PackagedProductDefinition/200ppdblister42" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd1mgblister30" />
+        <id value="200ppdblister42" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
         </meta>
         <identifier>
           <use value="official" />
           <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="bcbdb341-2b7b-4fc5-b2c8-3762eba00670" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Talzenna 1 mg perforated unit dose blister packs of 30 hard capsules" />
+        <name value="Diflucan 200 mg hard capsules, blister pack with 42 hard capsules" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1865,7 +3694,7 @@
           </coding>
         </type>
         <packageFor>
-          <reference value="MedicinalProductDefinition/mp1mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </packageFor>
         <status>
           <coding>
@@ -1876,77 +3705,12 @@
         </status>
         <statusDate value="2024-04-11T00:00:00Z" />
         <containedItemQuantity>
-          <value value="1" />
+          <value value="200" />
           <system value="http://unitsofmeasure.org" />
           <code value="mg" />
         </containedItemQuantity>
         <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
-        </manufacturer>
-        <packaging>
-          <identifier>
-            <system value="https://spor.ema.europa.eu/pmswi" />
-            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
-          </identifier>
-          <type>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="100000073496" />
-              <display value="Blister" />
-            </coding>
-          </type>
-          <quantity value="30" />
-          <material>
-            <coding>
-              <system value="https://spor.ema.europa.eu/rmswi" />
-              <code value="200000003222" />
-              <display value="PolyVinyl Chloride" />
-            </coding>
-          </material>
-        </packaging>
-      </PackagedProductDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="PackagedProductDefinition/ppd1mgbottle30" />
-    <resource>
-      <PackagedProductDefinition>
-        <id value="ppd1mgbottle30" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://spor.ema.europa.eu/pmswi" />
-          <value value="4ef88adf-91dc-4a21-855c-f511134ced68" />
-        </identifier>
-        <name value="Talzenna 1 mg plastic bottle of 30 hard capsules" />
-        <type>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000155527" />
-            <display value="Chemical Medicinal Product" />
-          </coding>
-        </type>
-        <packageFor>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </packageFor>
-        <status>
-          <coding>
-            <system value="http://hl7.org/fhir/publication-status" />
-            <code value="active" />
-            <display value="Active" />
-          </coding>
-        </status>
-        <statusDate value="2024-04-11T00:00:00Z" />
-        <containedItemQuantity>
-          <value value="1" />
-          <system value="http://unitsofmeasure.org" />
-          <code value="mg" />
-        </containedItemQuantity>
-        <manufacturer>
-          <reference value="Organization/orgexcellagmbh" />
+          <reference value="Organization/orgFarevaAmboise" />
         </manufacturer>
         <packaging>
           <identifier>
@@ -1960,7 +3724,7 @@
               <display value="Bottle" />
             </coding>
           </type>
-          <quantity value="30" />
+          <quantity value="42" />
           <material>
             <coding>
               <system value="https://spor.ema.europa.eu/rmswi" />
@@ -1973,10 +3737,266 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="MedicinalProductDefinition/mp01mg" />
+    <fullUrl value="PackagedProductDefinition/200ppdblister50" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister50" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 50 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="50" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister60" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister60" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 60 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="60" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister100" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister100" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 100 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="100" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="PackagedProductDefinition/200ppdblister500" />
+    <resource>
+      <PackagedProductDefinition>
+        <id value="200ppdblister500" />
+        <meta>
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+        </meta>
+        <identifier>
+          <use value="official" />
+          <system value="https://spor.ema.europa.eu/pmswi" />
+          <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
+        </identifier>
+        <name value="Diflucan 200 mg hard capsules, blister pack with 500 hard capsules" />
+        <type>
+          <coding>
+            <system value="https://spor.ema.europa.eu/rmswi" />
+            <code value="100000155527" />
+            <display value="Chemical Medicinal Product" />
+          </coding>
+        </type>
+        <packageFor>
+          <reference value="MedicinalProductDefinition/mp200mg" />
+        </packageFor>
+        <status>
+          <coding>
+            <system value="http://hl7.org/fhir/publication-status" />
+            <code value="active" />
+            <display value="Active" />
+          </coding>
+        </status>
+        <statusDate value="2024-04-11T00:00:00Z" />
+        <containedItemQuantity>
+          <value value="200" />
+          <system value="http://unitsofmeasure.org" />
+          <code value="mg" />
+        </containedItemQuantity>
+        <manufacturer>
+          <reference value="Organization/orgFarevaAmboise" />
+        </manufacturer>
+        <packaging>
+          <identifier>
+            <system value="https://spor.ema.europa.eu/pmswi" />
+            <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+          </identifier>
+          <type>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="100000073497" />
+              <display value="Bottle" />
+            </coding>
+          </type>
+          <quantity value="500" />
+          <material>
+            <coding>
+              <system value="https://spor.ema.europa.eu/rmswi" />
+              <code value="200000003222" />
+              <display value="PolyVinyl Chloride" />
+            </coding>
+          </material>
+        </packaging>
+      </PackagedProductDefinition>
+    </resource>
+  </entry>
+  <entry>
+    <fullUrl value="MedicinalProductDefinition/mp50mg" />
     <resource>
       <MedicinalProductDefinition>
-        <id value="mp01mg" />
+        <id value="mp50mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
@@ -2014,7 +4034,7 @@
           </coding>
         </legalStatusOfSupply>
         <name>
-          <productName value="Talzenna® (talazoparib) 0.1 mg hard capsules" />
+          <productName value="Diflucan® (fluconazole) 50 mg  hard capsules" />
           <type>
             <coding>
               <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2023,7 +4043,7 @@
             <text value="Full name" />
           </type>
           <part>
-            <part value="Talzenna" />
+            <part value="Diflucan" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2033,7 +4053,7 @@
             </type>
           </part>
           <part>
-            <part value="talazoparib" />
+            <part value="fluconazole" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2043,7 +4063,7 @@
             </type>
           </part>
           <part>
-            <part value="0.1 mg" />
+            <part value="50 mg" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2090,10 +4110,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="MedicinalProductDefinition/mp025mg" />
+    <fullUrl value="MedicinalProductDefinition/mp200mg" />
     <resource>
       <MedicinalProductDefinition>
-        <id value="mp025mg" />
+        <id value="mp200mg" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
@@ -2131,7 +4151,7 @@
           </coding>
         </legalStatusOfSupply>
         <name>
-          <productName value="Talzenna® (talazoparib) 0.25 mg hard capsules" />
+          <productName value="Diflucan® (fluconazole) 50 mg  hard capsules" />
           <type>
             <coding>
               <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2140,7 +4160,7 @@
             <text value="Full name" />
           </type>
           <part>
-            <part value="Talzenna" />
+            <part value="Diflucan" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2150,7 +4170,7 @@
             </type>
           </part>
           <part>
-            <part value="talazoparib" />
+            <part value="fluconazole" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2160,7 +4180,7 @@
             </type>
           </part>
           <part>
-            <part value="0.25 mg" />
+            <part value="200 mg" />
             <type>
               <coding>
                 <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -2206,124 +4226,7 @@
       </MedicinalProductDefinition>
     </resource>
   </entry>
-  <entry>
-    <fullUrl value="MedicinalProductDefinition/mp1mg" />
-    <resource>
-      <MedicinalProductDefinition>
-        <id value="mp1mg" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
-        </meta>
 
-        <identifier>
-          <system value="https://www.mhra.gov.uk/" />
-          <value value="4471bb15-7f52-4fcd-b615-8674ce6eb91e" />
-        </identifier>
-        <type>
-          <coding>
-            <system value="http://hl7.org/fhir/medicinal-product-type" />
-            <code value="MedicinalProduct" />
-            <display value="Medicinal Product" />
-          </coding>
-        </type>
-        <domain>
-          <coding>
-            <system value="http://hl7.org/fhir/medicinal-product-domain" />
-            <code value="Human" />
-            <display value="Human use" />
-          </coding>
-        </domain>
-        <status>
-          <coding>
-            <system value="http://hl7.org/fhir/publication-status" />
-            <code value="active" />
-            <display value="active" />
-          </coding>
-        </status>
-        <legalStatusOfSupply>
-          <coding>
-            <system value="https://spor.ema.europa.eu/rmswi" />
-            <code value="100000072084" />
-            <display value="Medicinal product subject to medical prescription" />
-          </coding>
-        </legalStatusOfSupply>
-        <name>
-          <productName value="Talzenna® (talazoparib) 1 mg hard capsules" />
-          <type>
-            <coding>
-              <system value="https://spor.ema.europa.eu/lists/220000000000" />
-              <code value="220000000001" />
-            </coding>
-            <text value="Full name" />
-          </type>
-          <part>
-            <part value="Talzenna" />
-            <type>
-              <coding>
-                <system value="https://spor.ema.europa.eu/lists/220000000000" />
-                <code value="220000000002" />
-              </coding>
-              <text value="Invented name part" />
-            </type>
-          </part>
-          <part>
-            <part value="talazoparib" />
-            <type>
-              <coding>
-                <system value="https://spor.ema.europa.eu/lists/220000000000" />
-                <code value="220000000003" />
-              </coding>
-              <text value="Scientific name part" />
-            </type>
-          </part>
-          <part>
-            <part value="1 mg" />
-            <type>
-              <coding>
-                <system value="https://spor.ema.europa.eu/lists/220000000000" />
-                <code value="220000000004" />
-              </coding>
-              <text value="Strength part" />
-            </type>
-          </part>
-          <part>
-            <part value="Capsule, hard" />
-            <type>
-              <coding>
-                <system value="https://spor.ema.europa.eu/lists/220000000000" />
-                <code value="220000000005" />
-              </coding>
-              <text value="Pharmaceutical dose form part" />
-            </type>
-          </part>
-          <usage>
-            <country>
-              <coding>
-                <system value="urn:iso:std:iso:3166" />
-                <code value="GBR" />
-                <display value="United Kingdom" />
-              </coding>
-            </country>
-            <jurisdiction>
-              <coding>
-                <system value="urn:iso:std:iso:3166" />
-                <code value="GBR" />
-                <display value="United Kingdom" />
-              </coding>
-            </jurisdiction>
-            <language>
-              <coding>
-                <system value="urn:ietf:bcp:47" />
-                <code value="en" />
-                <display value="English" />
-              </coding>
-            </language>
-          </usage>
-        </name>
-      </MedicinalProductDefinition>
-    </resource>
-  </entry>
   <entry>
     <fullUrl value="ClinicalUseDefinition/interactionAmiodarone" />
     <resource>
@@ -2341,10 +4244,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2379,10 +4282,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2417,10 +4320,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2455,10 +4358,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2493,10 +4396,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2531,10 +4434,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2569,10 +4472,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2607,10 +4510,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2645,10 +4548,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2683,10 +4586,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2721,10 +4624,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2759,10 +4662,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2797,10 +4700,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2835,10 +4738,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2873,10 +4776,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2911,10 +4814,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2949,10 +4852,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -2987,10 +4890,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3025,10 +4928,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3063,10 +4966,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3101,10 +5004,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3139,10 +5042,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3177,10 +5080,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3215,10 +5118,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3253,10 +5156,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
@@ -3291,10 +5194,10 @@
         </identifier>
         <type value="interaction" />
         <subject>
-          <reference value="MedicinalProductDefinition/mp01mg" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/mp025mg" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <subject>
           <reference value="MedicinalProductDefinition/mp1mg" />
