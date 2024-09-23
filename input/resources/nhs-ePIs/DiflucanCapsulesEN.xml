@@ -62,7 +62,16 @@
           <text>
             <status value="generated" />
             <div xmlns="http://www.w3.org/1999/xhtml">
-
+                  <p style="text-align: center;"><b>Diflucan® 50 mg hard capsules</b></p>
+                  <p style="text-align: center;"><b>Diflucan® 200 mg hard capsules</b></p>
+                  <p style="text-align: center;">fluconazole</p>              
+                  <p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
+                  <ul>
+                      <li>Keep this leaflet. You may need to read it again.</li>
+                      <li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
+                      <li>This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.</li>
+                      <li>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.</li>
+                  </ul>              
             </div>
           </text>
           <section>
@@ -944,7 +953,7 @@
             <display value="Excipient" />
           </coding>
         </role>
-        <allergenicIndicator value="false" />
+        <allergenicIndicator value="True" />
         <substance>
           <code>
             <concept>
@@ -4502,7 +4511,7 @@
           </coding>
         </legalStatusOfSupply>
         <name>
-          <productName value="Diflucan® (fluconazole) 50 mg  hard capsules" />
+          <productName value="Diflucan® (fluconazole) 200 mg  hard capsules" />
           <type>
             <coding>
               <system value="https://spor.ema.europa.eu/lists/220000000000" />
@@ -4578,41 +4587,6 @@
     </resource>
   </entry>
 
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionRifampicin" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="36fdf79a-1b9c-11ee-be56-0242ac120003" />
-        <meta>
-          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-  
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="VJT6J7R4TR" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="VJT6J7R4TR" />
-                <display value="Rifampicin" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
   <entry>
     <fullUrl value="ClinicalUseDefinition/interactionRifampicin" />
     <resource>
