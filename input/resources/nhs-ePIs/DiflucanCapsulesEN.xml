@@ -4579,19 +4579,18 @@
   </entry>
 
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionAmiodarone" />
+    <fullUrl value="ClinicalUseDefinition/interactionRifampicin" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="36fdf79a-1b9c-11ee-be56-0242ac120002" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120003" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
-
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="N3RQ532IUT" />
+          <value value="VJT6J7R4TR" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4600,14 +4599,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="N3RQ532IUT" />
-                <display value="Amiodarone" />
+                <code value="VJT6J7R4TR" />
+                <display value="Rifampicin" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4616,18 +4614,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactioncarvedilol" />
+    <fullUrl value="ClinicalUseDefinition/interactionRifampicin" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="81a382e7-8e11-4097-a3fb-362de8c9377e" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120003" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="0K47UL67F2" />
+          <value value="VJT6J7R4TR" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4636,14 +4634,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="0K47UL67F2" />
-                <display value="carvedilol" />
+                <code value="VJT6J7R4TR" />
+                <display value="Rifampicin" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4652,18 +4649,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactiondronedarone" />
+    <fullUrl value="ClinicalUseDefinition/interactionAbrocitinib" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="3a099eb4-fc14-41c3-bc14-8e5a4b5c51e9" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120005" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="JQZ1L091Y2" />
+          <value value="73SM5SF3OR" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4672,14 +4669,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="JQZ1L091Y2" />
-                <display value="dronedarone" />
+                <code value="73SM5SF3OR" />
+                <display value="Abrocitinib" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4688,18 +4684,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionpropafenone" />
+    <fullUrl value="ClinicalUseDefinition/interactionAbrocitinib" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="341721cd-5b7e-4b97-895e-e489b1310f9b" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120005" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="68IQX3T69U" />
+          <value value="73SM5SF3OR" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4708,14 +4704,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="68IQX3T69U" />
-                <display value="propafenone" />
+                <code value="73SM5SF3OR" />
+                <display value="Abrocitinib" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4724,18 +4719,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionquinidine" />
+    <fullUrl value="ClinicalUseDefinition/interactionAbrocitinib" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="c15dd79b-e98e-4f1b-8a05-50f12b0c19d7" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120005" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="ITX08688JL" />
+          <value value="73SM5SF3OR" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4744,14 +4739,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="ITX08688JL" />
-                <display value="quinidine" />
+                <code value="73SM5SF3OR" />
+                <display value="Abrocitinib" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4760,18 +4754,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionranolazine" />
+    <fullUrl value="ClinicalUseDefinition/interactionAlfentanil" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="5a54b656-5e2c-4be0-b93f-7d540cb64711" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120006" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="A6IEZ5M406" />
+          <value value="1N74HM2BS7" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4780,14 +4774,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="A6IEZ5M406" />
-                <display value="ranolazine" />
+                <code value="1N74HM2BS7" />
+                <display value="Alfentanil" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4796,18 +4789,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionverapamil" />
+    <fullUrl value="ClinicalUseDefinition/interactionFentanyl" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="4907c33b-e1ae-40a7-9e7c-242653c92e60" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120007" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="CJ0O37KU29" />
+          <value value="UF599785JZ" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4816,14 +4809,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="CJ0O37KU29" />
-                <display value="verapamil" />
+                <code value="UF599785JZ" />
+                <display value="Fentanyl" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4832,18 +4824,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionClarithromycin" />
+    <fullUrl value="ClinicalUseDefinition/interactionAmitriptyline" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="05a52022-c29a-4883-873b-c4cfaf05a696" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120008" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="H1250JIK0A" />
+          <value value="1806D8D52K" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4852,14 +4844,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="H1250JIK0A" />
-                <display value="Clarithromycin" />
+                <code value="1806D8D52K" />
+                <display value="Amitriptyline" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4868,18 +4859,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionerythromycin" />
+    <fullUrl value="ClinicalUseDefinition/interactionNortriptyline" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="e0b859d1-beac-494d-b7d9-fe793efbbd96" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120009" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="63937KV33D" />
+          <value value="BL03SY4LXB" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4888,14 +4879,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="63937KV33D" />
-                <display value="erythromycin" />
+                <code value="BL03SY4LXB" />
+                <display value="Nortriptyline" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4904,18 +4894,18 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionItraconazole" />
+    <fullUrl value="ClinicalUseDefinition/interactionAmphotericinB" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="e09c86b1-b802-4c2e-b8eb-6b49192fadfe" />
+        <id value="36fdf79a-1b9c-11ee-be56-0242ac120010" />
         <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+          <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
         </meta>
+  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="304NUG5GF4" />
+          <value value="7XU7A7DROE" />
         </identifier>
         <type value="interaction" />
         <subject>
@@ -4924,14 +4914,13 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-
         <interaction>
           <interactant>
             <itemCodeableConcept>
               <coding>
                 <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="304NUG5GF4" />
-                <display value="Itraconazole" />
+                <code value="7XU7A7DROE" />
+                <display value="Amphotericin B" />
               </coding>
             </itemCodeableConcept>
           </interactant>
@@ -4940,579 +4929,1265 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionketoconazole" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="b31a89e6-abda-40eb-ba77-5ec9357b62e7" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="R9400W927I" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+  <fullUrl value="ClinicalUseDefinition/interactionAmphotericinB" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120010" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="R9400W927I" />
-                <display value="ketoconazole" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionCobicistat" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="f0914110-749f-4afa-982a-627eacb5720b" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="LW2E03M5PG" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="7XU7A7DROE" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="7XU7A7DROE" />
+              <display value="Amphotericin B" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionVoriconazole" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120011" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="LW2E03M5PG" />
-                <display value="Cobicistat" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactiondarunavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="b40984a8-0a6b-43d0-911a-ff5b927fb4ca" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="YO603Y8113" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="JFU09I87TR" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="JFU09I87TR" />
+              <display value="Voriconazole" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionCarbamazepine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120012" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="YO603Y8113" />
-                <display value="darunavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionindinavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="8d54b4fd-1b9f-4114-991a-0a08e1dc2d98" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="5W6YA9PKKH" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="33CM23913M" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="33CM23913M" />
+              <display value="Carbamazepine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionPhenytoin" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120013" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="5W6YA9PKKH" />
-                <display value="indinavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionlopinavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="3e52afa2-3310-4e52-9d61-7bfcfd97a25f" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="2494G1JF75" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="6158TKW0C5" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="6158TKW0C5" />
+              <display value="Phenytoin" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionNifedipine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120014" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="2494G1JF75" />
-                <display value="lopinavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionritonavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="9654bfac-8458-4172-b74f-680a95036cff" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="O3J8G9O825" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="I9ZF7L6G2L" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="I9ZF7L6G2L" />
+              <display value="Nifedipine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionIsradipine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120015" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="O3J8G9O825" />
-                <display value="ritonavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionsaquinavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="374f27ff-35f8-4e01-8fa5-53aafc8b48d6" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="L3JE09KZ2F" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="YO1UK1S598" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="YO1UK1S598" />
+              <display value="Isradipine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionAmlodipine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120016" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="L3JE09KZ2F" />
-                <display value="saquinavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactiontelaprevir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="e416132b-4b3c-4aee-860f-604fa409ddc1" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="655M5O3W0U" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="1J444QC288" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="1J444QC288" />
+              <display value="Amlodipine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionVerapamil" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120017" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="655M5O3W0U" />
-                <display value="telaprevir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactiontipranavir" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="f05bbecb-ba90-4d52-ae05-b13502954530" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="ZZT404XD09" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="CJ0O37KU29" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="CJ0O37KU29" />
+              <display value="Verapamil" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionFelodipine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120018" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="ZZT404XD09" />
-                <display value="tipranavir" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionCiclosporin" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="f35aa761-20e7-4e66-9ac6-2c4ab3d42507" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="83HN0GTJ6D" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="OL961R6O2C" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="OL961R6O2C" />
+              <display value="Felodipine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionLosartan" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120019" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="83HN0GTJ6D" />
-                <display value="Ciclosporin" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionLapatinib" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="5c6da0df-7747-490c-8ae4-93d8883b059b" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="0VUA21238F" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="SBH6M1F1KL" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="SBH6M1F1KL" />
+              <display value="Losartan" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionOlaparib" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120020" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="0VUA21238F" />
-                <display value="Lapatinib" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionCurcumin" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="36fe191e-1b9c-11ee-be56-0242ac120002" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="IT942ZTH98" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="04C8P191KY" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="04C8P191KY" />
+              <display value="Olaparib" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionCiclosporin" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120021" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="IT942ZTH98" />
-                <display value="Curcumin" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionCarbamazepine" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="c579a16e-deaf-47b7-a9ba-19b0f2396e0f" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="33CM23913M" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="83HN0GTJ6D" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="83HN0GTJ6D" />
+              <display value="Ciclosporin" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionEverolimus" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120022" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="33CM23913M" />
-                <display value="Carbamazepine" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionphenytoin" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="323b0573-7a65-4747-a2d4-0077092b1845" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="6158TKW0C5" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="9HW64Q8G6G" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="9HW64Q8G6G" />
+              <display value="Everolimus" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionSirolimus" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120023" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="6158TKW0C5" />
-                <display value="phenytoin" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionHypericumperforatum" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="e66ad89e-0f85-48f0-833f-dbf95ea270af" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="UFH8805FKA" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="W36ZG6FT64" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="W36ZG6FT64" />
+              <display value="Sirolimus" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionTacrolimus" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120024" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="UFH8805FKA" />
-                <display value="St. John’s wort (Hypericum perforatum)" shortValue="StJohnsWort" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
-  <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionturmericroot" />
-    <resource>
-      <ClinicalUseDefinition>
-        <id value="976b30de-f1a2-4d9c-9351-c4087206cbf1" />
-        <meta>
-          <profile
-            value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-        <identifier>
-          <use value="official" />
-          <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-          <value value="856YO1Z64F" />
-        </identifier>
-        <type value="interaction" />
-        <subject>
-          <reference value="MedicinalProductDefinition/mp50mg" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp200mg" />
-        </subject>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="WM0HAQ4WNM" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="WM0HAQ4WNM" />
+              <display value="Tacrolimus" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionCyclophosphamide" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120025" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
 
-        <interaction>
-          <interactant>
-            <itemCodeableConcept>
-              <coding>
-                <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
-                <code value="856YO1Z64F" />
-                <display value="turmeric root" shortValue="turmericRoot" />
-              </coding>
-            </itemCodeableConcept>
-          </interactant>
-        </interaction>
-      </ClinicalUseDefinition>
-    </resource>
-  </entry>
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="8N3DW7272P" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="8N3DW7272P" />
+              <display value="Cyclophosphamide" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionHalofantrine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120026" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="1XU9V742N3" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="1XU9V742N3" />
+              <display value="Halofantrine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionMethadone" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120027" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="UC6VBE7V1Z" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="UC6VBE7V1Z" />
+              <display value="Methadone" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionCelecoxib" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120028" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="JCX84Q7J1L" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="JCX84Q7J1L" />
+              <display value="Celecoxib" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionFlurbiprofen" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120029" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="3MLP604O3T" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="3MLP604O3T" />
+              <display value="Flurbiprofen" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionNaproxen" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120030" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="57Y76R9ATQ" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="57Y76R9ATQ" />
+              <display value="Naproxen" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionIbuprofen" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120031" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="WK2XYI10QM" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="WK2XYI10QM" />
+              <display value="Ibuprofen" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionLornoxicam" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120032" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="0K3JL6A2BK" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="0K3JL6A2BK" />
+              <display value="Lornoxicam" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionMeloxicam" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120033" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="VG2QF83CGL" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="VG2QF83CGL" />
+              <display value="Meloxicam" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionPrednisone" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120034" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="9PHQ9Y1OLM" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="9PHQ9Y1OLM" />
+              <display value="Prednisone" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionZidovudine" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120035" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="4B9XT59T7S" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="4B9XT59T7S" />
+              <display value="Zidovudine" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionSaquinavir" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120036" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="4Q93A1I0B3" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="4Q93A1I0B3" />
+              <display value="Saquinavir" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionTheophylline" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120037" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="0D3Q044KCA" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="0D3Q044KCA" />
+              <display value="Theophylline" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionTofacitinib" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120038" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="2T8Q726O95" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="2T8Q726O95" />
+              <display value="Tofacitinib" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionTolvaptan" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120039" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="7LJ087RS6F" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="7LJ087RS6F" />
+              <display value="Tolvaptan" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionVitaminA" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120040" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="81G40H8B0T" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="81G40H8B0T" />
+              <display value="Vitamin A" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionIvacaftor" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120041" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="6S8X8F7Q5Q" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="6S8X8F7Q5Q" />
+              <display value="Ivacaftor" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionAmiodarone" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120042" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="N3RQ7A1DVY" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="N3RQ7A1DVY" />
+              <display value="Amiodarone" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionHydrochlorothiazide" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120043" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="0J48LPH2TH" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="0J48LPH2TH" />
+              <display value="Hydrochlorothiazide" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionIbrutinib" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120044" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="1X70OSD4VX" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="1X70OSD4VX" />
+              <display value="Ibrutinib" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/interactionLurasidone" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="36fdf79a-1b9c-11ee-be56-0242ac120045" />
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
+      </meta>
+
+      <identifier>
+        <use value="official" />
+        <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+        <value value="7MNE9M8287" />
+      </identifier>
+      <type value="interaction" />
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <interaction>
+        <interactant>
+          <itemCodeableConcept>
+            <coding>
+              <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+              <code value="7MNE9M8287" />
+              <display value="Lurasidone" />
+            </coding>
+          </itemCodeableConcept>
+        </interactant>
+      </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+
+  
 </Bundle>
