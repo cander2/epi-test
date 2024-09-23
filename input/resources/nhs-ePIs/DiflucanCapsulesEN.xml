@@ -39,13 +39,10 @@
           <text value="Package Leaflet" />
         </type>
         <subject>
-          <reference value="MedicinalProductDefinition/xx" />
+          <reference value="MedicinalProductDefinition/mp50mg" />
         </subject>
         <subject>
-          <reference value="MedicinalProductDefinition/xx" />
-        </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/xx" />
+          <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
         <date value="2024-04-11T00:00:00Z" />
         <author>
@@ -93,7 +90,7 @@
           </section>
         </section>
         <section id="222b8604-bc0b-ef11-9f8a-000d3aa845fb">
-          <title value="1. What X is and what it is used for" />
+          <title value="1. What Diflucan is and what it is used for" />
           <code>
             <coding>
               <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -103,11 +100,43 @@
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml"></div>
+            <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>Diflucan is one of a group of medicines called “antifungals”. The active substance is fluconazole.</p>
+        <p>Diflucan is used to treat infections caused by fungi and may also be used to stop you from getting a candidal infection. The most common cause of fungal infections is a yeast called Candida.</p>
+        <h4>Adults</h4>
+        <p>You might be given this medicine by your doctor to treat the following types of fungal infections:</p>
+        <ul>
+          <li>Cryptococcal meningitis – a fungal infection in the brain</li>
+          <li>Coccidioidomycosis – a disease of the bronchopulmonary system</li>
+          <li>Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
+          <li>Mucosal thrush - infection affecting the lining of the mouth, throat and denture sore mouth</li>
+          <li>Genital thrush – infection of the vagina or penis</li>
+          <li>Skin infections - e.g. athlete's foot, ringworm, jock itch, nail infection</li>
+        </ul>
+        <p>You might also be given Diflucan to:</p>
+        <ul>
+          <li>stop cryptococcal meningitis from coming back</li>
+          <li>stop mucosal thrush from coming back</li>
+          <li>reduce recurrence of vaginal thrush</li>
+          <li>stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
+        </ul>
+        <h4>Children and adolescents (0 to 17 years old)</h4>
+        <p>You might be given this medicine by your doctor to treat the following types of fungal infections:</p>
+        <ul>
+          <li>Mucosal thrush - infection affecting the lining of the mouth, throat</li>
+          <li>Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
+          <li>Cryptococcal meningitis – a fungal infection in the brain</li>
+        </ul>
+        <p>You might also be given Diflucan to:</p>
+        <ul>
+          <li>stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
+          <li>stop cryptococcal meningitis from coming back</li>
+        </ul>
+            </div>
           </text>
         </section>
         <section id="292b8604-bc0b-ef11-9f8a-000d3aa845fb">
-          <title value="2. What you need to know before you &#60;take&#62; &#60;use&#62; X" />
+          <title value="2. What you need to know before you take Diflucan" />
           <code>
             <coding>
               <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -117,10 +146,10 @@
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            <div xmlns="http://www.w3.org/1999/xhtml" />
           </text>
           <section id="2f2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Do not &#60;take&#62; &#60;use&#62; X" />
+            <title value="Do not take Diflucan" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -130,7 +159,16 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <ul>
+                  <li>if you are allergic to fluconazole, to other medicines you have taken to treat fungal infections or to any of the other ingredients of this medicine (listed in section 6). The symptoms may include itching, reddening of the skin or difficulty in breathing</li>
+                  <li>if you are taking astemizole, terfenadine (antihistamine medicines for allergies)</li>
+                  <li>if you are taking cisapride (used for stomach upsets)</li>
+                  <li>if you are taking pimozide (used for treating mental illness)</li>
+                  <li>if you are taking quinidine (used for treating heart arrhythmia)</li>
+                  <li>if you are taking erythromycin (an antibiotic for treating infections)</li>
+                </ul>
+              </div>
             </text>
           </section>
           <section id="372b8604-bc0b-ef11-9f8a-000d3aa845fb">
@@ -144,25 +182,23 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
-            </text>
-          </section>
-          <section id="4b2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Children &#60;and adolescents&#62;" />
-            <code>
-              <coding>
-                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029899" />
-                <display value="Children &lt;and adolescents&gt;" />
-              </coding>
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Talk to your doctor or pharmacist before taking Diflucan</p>
+                <ul>
+                  <li>if you have liver or kidney problems</li>
+                  <li>if you suffer from heart disease, including heart rhythm problems</li>
+                  <li>if you have abnormal levels of potassium, calcium or magnesium in your blood</li>
+                  <li>if you develop severe skin reactions (itching, reddening of the skin or difficulty in breathing)</li>
+                  <li>if you develop signs of ‘adrenal insufficiency’ where the adrenal glands do not produce adequate amounts of certain steroid hormones such as cortisol (chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss, abdominal pain)</li>
+                  <li>if you have ever developed a severe skin rash or skin peeling, blistering and/or mouth sores after taking fluconazole</li>
+                </ul>
+                <p>Serious skin reactions including drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in association with fluconazole treatment. Stop taking Diflucan and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.</p>
+                <p>Talk to your doctor or pharmacist if the fungal infection does not improve, as alternative antifungal therapy may be needed.</p>
+              </div>
             </text>
           </section>
           <section id="532b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Other medicines and X" />
+            <title value="Other medicines and Diflucan" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -172,11 +208,46 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.</p>
+                <p>Tell your doctor immediately if you are taking astemizole, terfenadine (an antihistamine for treating allergies) or cisapride (used for stomach upsets) or pimozide (used for treating mental illness) or quinidine (used for treating heart arrhythmia) or erythromycin (an antibiotic for treating infections) as these should not be taken with Diflucan (see section: “Do not take Diflucan if you”).</p>
+                <p>There are some medicines that may interact with Diflucan. Make sure your doctor knows if you are taking any of the following medicines as a dose adjustment or monitoring may be required to check that the medicines are still having the desired effect:</p>
+                <ul>
+                  <li>rifampicin or rifabutin (antibiotics for infections)</li>
+                  <li>abrocitinib (used to treat atopic dermatitis, also known as atopic eczema)</li>
+                  <li>alfentanil, fentanyl (used as anaesthetic)</li>
+                  <li>amitriptyline, nortriptyline (used as anti-depressant)</li>
+                  <li>amphotericin B, voriconazole (anti-fungal)</li>
+                  <li>medicines that thin the blood to prevent blood clots (warfarin or similar medicines)</li>
+                  <li>benzodiazepines (midazolam, triazolam or similar medicines) used to help you sleep or for anxiety</li>
+                  <li>carbamazepine, phenytoin (used for treating fits)</li>
+                  <li>nifedipine, isradipine, amlodipine, verapamil, felodipine and losartan (for hypertension- high blood pressure)</li>
+                  <li>olaparib (used for treating ovarian cancer)</li>
+                  <li>ciclosporin, everolimus, sirolimus or tacrolimus (to prevent transplant rejection)</li>
+                  <li>cyclophosphamide, vinca alkaloids (vincristine, vinblastine or similar medicines) used for treating cancer</li>
+                  <li>halofantrine (used for treating malaria)</li>
+                  <li>statins (atorvastatin, simvastatin and fluvastatin or similar medicines) used for reducing high cholesterol levels</li>
+                  <li>methadone (used for pain)</li>
+                  <li>celecoxib, flurbiprofen, naproxen, ibuprofen, lornoxicam, meloxicam, diclofenac (Non-Steroidal Anti Inflammatory Drugs (NSAID))</li>
+                  <li>oral contraceptives</li>
+                  <li>prednisone (steroid)</li>
+                  <li>zidovudine, also known as AZT; saquinavir (used in HIV-infected patients)</li>
+                  <li>medicines for diabetes such as chlorpropamide, glibenclamide, glipizide or tolbutamide</li>
+                  <li>theophylline (used to control asthma)</li>
+                  <li>tofacitinib (used for treating rheumatoid arthritis)</li>
+                  <li>tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline</li>
+                  <li>vitamin A (nutritional supplement)</li>
+                  <li>ivacaftor (alone or combined with other drugs used for treating cystic fibrosis)</li>
+                  <li>amiodarone (used for treating uneven heartbeats ‘arrhythmias’)</li>
+                  <li>hydrochlorothiazide (a diuretic)</li>
+                  <li>ibrutinib (used for treating blood cancer)</li>
+                  <li>lurasidone (used to treat schizophrenia)</li>
+                </ul>
+              </div>
             </text>
           </section>
           <section id="5c2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="X with &#60;food&#62; &#60;and&#62; &#60;,&#62; &#60;drink&#62; &#60;and&#62; &#60;alcohol&#62;" />
+            <title value="Diflucan with food and drink" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -186,18 +257,13 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
-            </text>
-          </section>
-          <section id="cf7169ad-c90b-ef11-9f8a-000d3a2c6368">
-            <title value="Blank subsection 1" />
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml"></div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>You can take your medicine with or without a meal.</p>
+              </div>
             </text>
           </section>
           <section id="632b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Pregnancy &#60;and&#62; &#60;,&#62; breast-feeding &#60;and fertility&#62;" />
+            <title value="Pregnanc, breast-feeding and fertility" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -207,7 +273,16 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.</p>
+                <p>If you are planning to become pregnant, it is recommended to wait a week after a single dose of fluconazole before becoming pregnant. For longer courses of treatment with fluconazole, talk to your doctor on the need for appropriate contraception during treatment which should continue for one week after the last dose.</p>
+                <p>You should not take Diflucan if you are pregnant, think you may be pregnant, are trying to become pregnant, unless your doctor has told you so. If you become pregnant while taking this medicine or within 1 week of the most recent dose, contact your doctor.</p>
+                <p>Fluconazole taken during the first or second trimester of pregnancy may increase the risk of miscarriage. Fluconazole taken during the first trimester may increase the risk of a baby being born with birth defects affecting the heart, bones and/or muscles.</p>
+                <p>There have been reports of babies born with birth defects affecting the skull, ears, and bones of the thigh and elbow in women treated for three months or more with high doses (400-800 mg daily) of fluconazole for coccidioidomycosis. The link between fluconazole and these cases is not clear.</p>
+                <p>You can continue breast-feeding after taking a single dose of 150 mg Diflucan. You should not breast-feed if you are taking a repeated dose of Diflucan.</p>
+                <h4>Driving and using machines</h4>
+                <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
+              </div>
             </text>
           </section>
           <section id="6d2b8604-bc0b-ef11-9f8a-000d3aa845fb">
@@ -221,11 +296,16 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
+                <h4>Diflucan contains lactose (milk sugar) and sodium (salt)</h4>
+                <p>This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</p>
+                <p>Diflucan capsules contain less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.</p>
+              </div>
             </text>
           </section>
           <section id="752b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="X contains {name the excipient(s)}" />
+            <title value="Diflucan contains lactose (milk sugar) and sodium (salt)" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -235,70 +315,232 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
-            </text>
-          </section>
-          <section id="0dc5b6d5-c90b-ef11-9f8a-000d3a2c6368">
-            <title value="Blank subsection 2" />
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml"><p>This is blank subsection 2 added by the user</p></div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</p>
+                <p>Diflucan capsules contain less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.</p>
+              </div>
             </text>
           </section>
         </section>                
         <section id="872b8604-bc0b-ef11-9f8a-000d3aa845fb">
-          <title value="3. How to &#60;take&#62; &#60;use&#62; X" />
+          <title value="3. How to take Diflucan" />
           <code>
             <coding>
               <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029905" />
-              <display value="3. How to &lt;take&gt; &lt;use&gt; X" />
+              <display value="3.	How to take Diflucan" />
             </coding>
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>Always take your medicine exactly as your doctor has told you. You should check with your doctor or pharmacist if you are not sure.</p>
+              <p>Swallow the capsule whole with a glass of water. It is best to take your capsules at the same time each day.</p>
+              <p>The recommended doses of this medicine for different infections are below:</p>
+            </div>
           </text>
           <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Use in children &#60;and adolescents&#62;" />
+            <title value="Use in Adults" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="temporary" />
+                <display value="Use in Adults" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <table>
+                  <tr>
+                    <th>Condition</th>
+                    <th>Dose</th>
+                  </tr>
+                  <tr>
+                    <td>To treat cryptococcal meningitis</td>
+                    <td>400 mg on the first day then 200 mg to 400 mg once daily for 6 to 8 weeks or longer if needed. Sometimes doses are increased up to 800 mg</td>
+                  </tr>
+                  <tr>
+                    <td>To stop cryptococcal meningitis from coming back</td>
+                    <td>200 mg once daily until you are told to stop</td>
+                  </tr>
+                  <tr>
+                    <td>To treat coccidioidomycosis</td>
+                    <td>200 mg to 400 mg once daily from 11 months for up to 24 months or longer if needed. Sometimes doses are increased up to 800 mg</td>
+                  </tr>
+                  <tr>
+                    <td>To treat internal fungal infections caused by Candida</td>
+                    <td>800 mg on the first day then 400 mg once daily until you are told to stop</td>
+                  </tr>
+                  <tr>
+                    <td>To treat mucosal infections affecting the lining of mouth, throat and denture sore mouth</td>
+                    <td>200 mg to 400 mg on the first day then 100 mg to 200 mg once daily until you are told to stop</td>
+                  </tr>
+                  <tr>
+                    <td>To treat mucosal thrush – dose depends on where the infection is located</td>
+                    <td>50 mg to 400 mg once daily for 7 to 30 days until you are told to stop</td>
+                  </tr>
+                  <tr>
+                    <td>To stop mucosal infections affecting the lining of mouth, throat from coming back</td>
+                    <td>100 mg to 200 mg once daily, or 200 mg 3 times a week, while you are at risk of getting an infection</td>
+                  </tr>
+                  <tr>
+                    <td>To treat genital thrush</td>
+                    <td>150 mg as a single dose</td>
+                  </tr>
+                  <tr>
+                    <td>To reduce recurrence of vaginal thrush</td>
+                    <td>150 mg every third day for a total of 3 doses (day 1, 4 and 7) and then once a week for 6 months while you are at risk of getting an infection</td>
+                  </tr>
+                  <tr>
+                    <td>To treat fungal skin and nail infections</td>
+                    <td>Depending on the site of the infection 50 mg once daily, 150 mg once weekly, 300 to 400 mg once weekly for 1 to 4 weeks (Athlete’s foot may be up to 6 weeks, for nail infection treatment until infected nail is replaced)</td>
+                  </tr>
+                  <tr>
+                    <td>To stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</td>
+                    <td>200 mg to 400 mg once daily while you are at risk of getting an infection</td>
+                  </tr>
+                </table>
+              </div>
+            </text>
+          </section>
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Adolescents from 12 to 17 years old" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="temporary" />
+                <display value="Adolescents from 12 to 17 years old" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Follow the dose prescribed by your doctor (either adults or children posology).</p>
+              </div>
+            </text>
+          </section>
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Children to 11 years old" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
                 <code value="200000029906" />
-                <display value="Use in children &lt;and adolescents&gt;" />
+                <display value="Children to 11 years old" />
               </coding>
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>The maximum dose for children is 400 mg daily.</p>
+  <p>The dose will be based on the child’s weight in kilograms.</p>
+  <table>
+    <tr>
+      <th>Condition</th>
+      <th>Daily dose</th>
+    </tr>
+    <tr>
+      <td>Mucosal thrush and throat infections caused by Candida – dose and duration depends on the severity of the infection and on where the infection is located</td>
+      <td>3 mg per kg of body weight once daily (6 mg per kg of body weight might be given on the first day)</td>
+    </tr>
+    <tr>
+      <td>Cryptococcal meningitis or internal fungal infections caused by Candida</td>
+      <td>6 mg to 12 mg per kg of body weight once daily</td>
+    </tr>
+    <tr>
+      <td>To stop cryptococcal meningitis from coming back</td>
+      <td>6 mg per kg of body weight once daily</td>
+    </tr>
+    <tr>
+      <td>To stop children from getting an infection caused by Candida (if their immune system is not working properly)</td>
+      <td>3 mg to 12 mg per kg of body weight once daily</td>
+    </tr>
+  </table>
+              </div>
             </text>
           </section>
-          <section id="982b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="If you &#60;take&#62; &#60;use&#62; more X than you should" />
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Use in children 0 to 4 weeks of age" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029907" />
-                <display value="If you &lt;take&gt; &lt;use&gt; more X than you should" />
+                <code value="200000029906" />
+                <display value="Use in children 0 to 4 weeks of age" />
               </coding>
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Use in children of 3 to 4 weeks of age:</p>
+  <p>The same dose as above but given once every 2 days. The maximum dose is 12 mg per kg of body weight every 48 hours.</p>
+  <p>Use in children less than 2 weeks old:</p>
+  <p>The same dose as above but given once every 3 days. The maximum dose is 12 mg per kg of body weight every 72 hours.</p>
+              </div>
             </text>
           </section>
-          <section id="a32b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="If you stop &#60;taking&#62; &#60;using&#62; X" />
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Elderly" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029909" />
+                <code value="200000029906" />
+                <display value="Elderly" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>The usual adult dose should be given unless you have kidney problems.</p>
+              </div>
+            </text>
+          </section>
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="Patients with kidney problems" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029906" />
+                <display value="Patients with kidney problems" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Your doctor may change your dose, depending on your kidney function.</p>
+              </div>
+            </text>
+          </section>
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="If you take more Diflucan than you should" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029906" />
+                <display value="If you take more Diflucan than you should" />
+              </coding>
+            </code>
+            <text>
+              <status value="generated" />
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Taking too many capsules at once may make you unwell. Contact your doctor or your nearest hospital casualty department at once. The symptoms of a possible overdose may include hearing, seeing, feeling and thinking things that are not real (hallucination and paranoid behaviour). Symptomatic treatment (with supportive measures and gastric lavage if necessary) may be adequate.</p>
+              </div>
+            </text>
+          </section>
+          <section id="912b8604-bc0b-ef11-9f8a-000d3aa845fb">
+            <title value="If you forget to take Diflucan" />
+            <code>
+              <coding>
+                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
+                <code value="200000029906" />
                 <display value="If you stop &lt;taking&gt; &lt;using&gt; X" />
               </coding>
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Do not take a double dose to make up for a forgotten dose. If you forget to take a dose, take it as soon as you remember. If it is almost time for your next dose, do not take the dose that you missed.</p>
+                <p>If you have any further questions on the use of this medicine, ask your doctor or pharmacist.</p>
+              </div>
             </text>
           </section>
         </section>
@@ -313,22 +555,69 @@
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Like all medicines, this medicine can cause side effects, although not everybody gets them.</p>
+                <p>Stop taking Diflucan and seek medical attention immediately if you notice any of the following symptoms:</p>
+                <ul>
+                  <li>widespread rash, high body temperature and enlarged lymph nodes (DRESS syndrome or drug hypersensitivity syndrome)</li>
+                </ul>
+                <p>A few people develop allergic reactions although serious allergic reactions are rare. If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. If you get any of the following symptoms, tell your doctor immediately.</p>
+                <ul>
+                  <li>sudden wheezing, difficulty in breathing or tightness in the chest</li>
+                  <li>swelling of eyelids, face or lips</li>
+                  <li>itching all over the body, reddening of the skin or itchy red spots</li>
+                  <li>skin rash</li>
+                  <li>severe skin reactions such as a rash that causes blistering (this can affect the mouth and tongue)</li>
+                </ul>
+                <p>Diflucan may affect your liver. The signs of liver problems include:</p>
+                <ul>
+                  <li>tiredness</li>
+                  <li>loss of appetite</li>
+                  <li>vomiting</li>
+                  <li>yellowing of your skin or the whites of your eyes (jaundice)</li>
+                </ul>
+                <p>If any of these happen, stop taking Diflucan and tell your doctor immediately.</p>
+                <p><b>Other side effects:</b></p>
+                <p>Additionally, if any of the following side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.</p>
+                <p><b>Common side effects (may affect up to 1 in 10 people) are:</b></p>
+                <ul>
+                  <li>headache</li>
+                  <li>stomach discomfort, diarrhoea, feeling sick, vomiting</li>
+                  <li>increases in blood tests of liver function</li>
+                  <li>rash</li>
+                </ul>
+                <p><b>Uncommon side effects (may affect up to 1 in 100 people) are:</b></p>
+                <ul>
+                  <li>reduction in red blood cells which can make skin pale and cause weakness or breathlessness</li>
+                  <li>decreased appetite</li>
+                  <li>inability to sleep, feeling drowsy</li>
+                  <li>fit, dizziness, sensation of spinning, tingling, pricking or numbness, changes in sense of taste</li>
+                  <li>constipation, difficult digestion, wind, dry mouth</li>
+                  <li>muscle pain</li>
+                  <li>liver damage and yellowing of the skin and eyes (jaundice)</li>
+                  <li>wheals, blistering (hives), itching, increased sweating</li>
+                  <li>tiredness, general feeling of being unwell, fever</li>
+                </ul>
+                <p><b>Rare side effects (may affect up to 1 in 1,000 people) are:</b></p>
+                <ul>
+                  <li>lower than normal white blood cells that help defend against infections and blood cells that help to stop bleeding</li>
+                  <li>red or purple discoloration of the skin which may be caused by low platelet count, other blood cell changes</li>
+                  <li>blood chemistry changes (high blood levels of cholesterol, fats)</li>
+                  <li>low blood potassium</li>
+                  <li>shaking</li>
+                  <li>abnormal electrocardiogram (ECG), change in heart rate or rhythm</li>
+                  <li>liver failure</li>
+                  <li>allergic reactions (sometimes severe), including widespread blistering rash and skin peeling, severe skin reactions, swelling of the lips or face</li>
+                  <li>hair loss</li>
+                </ul>
+                <p>Frequency not known, but may occur (cannot be estimated from the available data):</p>
+                <ul>
+                  <li>hypersensitivity reaction with skin rash, fever, swollen glands, increase in a type of white blood cell (eosinophilia) and inflammation of internal organs (liver, lungs, heart, kidneys and large intestine) (Drug Reaction or rash with Eosinophilia and Systemic Symptoms (DRESS))</li>
+                </ul>
+              </div>              
+            </div>
           </text>
-          <section id="bf2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Additional side effects in children &#60;and adolescents&#62;" />
-            <code>
-              <coding>
-                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029911" />
-                <display value="Additional side effects in children &lt;and adolescents&gt;" />
-              </coding>
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
-            </text>
-          </section>
           <section id="ca2b8604-bc0b-ef11-9f8a-000d3aa845fb">
             <title value="Reporting of side effects" />
             <code>
@@ -340,7 +629,9 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via Yellow Card Scheme website: <a href="http://www.mhra.gov.uk/yellowcard">www.mhra.gov.uk/yellowcard</a> or search for MHRA Yellow Card in the Google Play or Apple App Store. By reporting side effects you can help provide more information on the safety of this medicine.</p>
+              </div>
             </text>
           </section>
         </section>
@@ -350,12 +641,19 @@
             <coding>
               <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
               <code value="200000029913" />
-              <display value="5. How to store X" />
+              <display value="5. How to store Diflucan" />
             </coding>
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <ul>
+                  <li>Keep this medicine out of the sight and reach of children.</li>
+                  <li>Do not use this medicine after the expiry date which is stated on the pack after EXP. The expiry date refers to the last day of the month.</li>
+                  <li>Store below 30°C.</li>
+                </ul>
+                <p>Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.</p>            
+            </div>
           </text>
         </section>    
         <section id="dc2b8604-bc0b-ef11-9f8a-000d3aa845fb">
@@ -369,10 +667,10 @@
           </code>
           <text>
             <status value="generated" />
-            <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+            <div xmlns="http://www.w3.org/1999/xhtml" />
           </text>
           <section id="e62b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="What X contains" />
+            <title value="What Diflucan contains" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -382,11 +680,24 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+  <ul>
+    <li>The active substance is fluconazole.</li>
+    <li>Each hard capsule contains 50 mg or 200 mg of fluconazole.</li>
+    <li>The other ingredients are:</li>
+  </ul>
+  <p><b>Capsule content:</b> lactose monohydrate, maize starch, colloidal silica anhydrous, magnesium stearate and sodium laurilsulfate (see section 2, Diflucan contains lactose (milk sugar) and sodium (salt)).</p>
+  <p>Capsule shell composition:</p>
+  <ul>
+    <li><b>50 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171) and patent blue V (E131)</li>
+    <li><b>200 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171), erythrosine (E127) and indigo carmine (E132)</li>
+  </ul>
+  <p><b>Printing ink:</b> shellac (glaze), black iron oxide (E172), N-Butyl alcohol, dehydrated alcohol, purified water, propylene glycol (E1520), industrial methylated spirit, isopropyl alcohol, strong ammonia solution, potassium hydroxide (E525).</p>
+              </div>
             </text>
           </section>
           <section id="ef2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="What X looks like and contents of the pack" />
+            <title value="What Diflucan looks like and contents of the pack" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -396,7 +707,13 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <ul>
+                  <li>Diflucan 50 mg hard capsules have a white body and a turquoise blue cap. They have “FLU 50” and “Pfizer” with black ink printed on them.</li>
+                  <li>Diflucan 200 mg hard capsules have a white body and a purple cap. They have “FLU 200” and “Pfizer” with black ink printed on them.</li>
+                </ul>
+                <p>Diflucan 50 mg and 200 mg come in packs of 1, 2, 3, 4, 6, 7, 10, 12, 14, 20, 28, 30, 42, 50, 60, 100 or 500 hard capsules. Not all pack sizes may be marketed.</p>
+              </div>
             </text>
           </section>
           <section id="f72b8604-bc0b-ef11-9f8a-000d3aa845fb">
@@ -410,11 +727,73 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml">
+                <p><b>Marketing Authorisation Holder</b></p>
+                <p>Pfizer Limited<br/>
+                   Ramsgate Road<br/>
+                   Sandwich<br/>
+                   Kent<br/>
+                   CT13 9NJ<br/>
+                   United Kingdom</p>
+                <p><b>Manufacturer</b></p>
+                <p>Fareva Amboise<br/>
+                   Zone Industrielle<br/>
+                   29 route des Industries<br/>
+                   37530 Pocé-sur-Cisse<br/>
+                   France</p>
+
+                    <p><b>This medicine is authorised in the Member States of the European Economic Area and in the United Kingdom (Northern Ireland) under the following names:</b></p>
+                    <table>
+                      <tr>
+                        <th>Country</th>
+                        <th>Names</th>
+                      </tr>
+                      <tr>
+                        <td>Austria</td>
+                        <td>Diflucan 50 mg Kapseln, Diflucan 200 mg Kapseln</td>
+                      </tr>
+                      <tr>
+                        <td>Belgium, Bulgaria, Denmark, Finland, Iceland, Ireland, Italy, Lithuania, Luxembourg, Norway, Portugal, Sweden, United Kingdom (Northern Ireland)</td>
+                        <td>Diflucan</td>
+                      </tr>
+                      <tr>
+                        <td>Cyprus, Greece</td>
+                        <td>Fungustatin</td>
+                      </tr>
+                      <tr>
+                        <td>Czech Republic, Germany, Netherlands, Slovakia</td>
+                        <td>Diflucan 50 mg, Diflucan 200 mg</td>
+                      </tr>
+                      <tr>
+                        <td>France</td>
+                        <td>Triflucan 50 mg gélule, Triflucan 200 mg gélule</td>
+                      </tr>
+                      <tr>
+                        <td>Germany</td>
+                        <td>Diflucan 50 mg, Diflucan 200 mg</td>
+                      </tr>
+                      <tr>
+                        <td>Hungary</td>
+                        <td>Diflucan 50 mg hard capsules, Diflucan 200 mg hard capsules</td>
+                      </tr>
+                      <tr>
+                        <td>Romania</td>
+                        <td>Diflucan 50 mg capsule</td>
+                      </tr>
+                      <tr>
+                        <td>Slovenia</td>
+                        <td>Diflucan 50 mg trde kapsule</td>
+                      </tr>
+                      <tr>
+                        <td>Spain</td>
+                        <td>Diflucan 50 mg cápsulas duras, Diflucan 200 mg cápsulas duras</td>
+                      </tr>
+                    </table>                  
+              </div>
             </text>
           </section>
           <section id="fe2b8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="This leaflet was last revised in &#60;{MM/YYYY}&#62;&#60;{month YYYY}&#62;." />
+            <title value="This leaflet was last revised in 02/2024" />
             <code>
               <coding>
                 <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
@@ -424,37 +803,9 @@
             </code>
             <text>
               <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml">&#160;</div>
+              <div xmlns="http://www.w3.org/1999/xhtml" />
             </text>
-          </section>
-          <section id="062c8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="Other sources of information" />
-            <code>
-              <coding>
-                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029920" />
-                <display value="Other sources of information" />
-              </coding>
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml"></div>
-            </text>
-          </section>                  
-          <section id="112c8604-bc0b-ef11-9f8a-000d3aa845fb">
-            <title value="The following information is intended for healthcare professionals only:" />
-            <code>
-              <coding>
-                <system value="https://spor.ema.europa.eu/v1/lists/200000029659/terms/" />
-                <code value="200000029921" />
-                <display value="The following information is intended for healthcare professionals only:" />
-              </coding>
-            </code>
-            <text>
-              <status value="generated" />
-              <div xmlns="http://www.w3.org/1999/xhtml"></div>
-            </text>
-          </section>
+          </section>            
         </section>
       </Composition>
     </resource>
@@ -528,7 +879,7 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="ManufacturedItemDefinition/mid50mg" />
+          <reference value="ManufacturedItemDefinition/mid200mg" />
         </for>
         <role>
           <coding>
@@ -1889,7 +2240,7 @@
           <system value="https://spor.ema.europa.eu/pmswi" />
           <value value="2f8c49a7-e592-43ae-b802-55557bd20470" />
         </identifier>
-        <name value="Diflucan 50 mg hard capsules, blister pack with 1 hard capsule" />
+        <name value="Diflucan 50 mg hard capsules, blister pack with 2 hard capsule" />
         <type>
           <coding>
             <system value="https://spor.ema.europa.eu/rmswi" />
@@ -4249,9 +4600,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4287,9 +4636,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4325,9 +4672,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4363,9 +4708,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4401,9 +4744,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4439,9 +4780,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4477,9 +4816,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4515,9 +4852,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4553,9 +4888,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4591,9 +4924,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4629,9 +4960,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4667,9 +4996,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4705,9 +5032,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4743,9 +5068,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4781,9 +5104,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4819,9 +5140,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4857,9 +5176,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4895,9 +5212,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4933,9 +5248,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -4971,9 +5284,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5009,9 +5320,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5047,9 +5356,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5085,9 +5392,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5123,9 +5428,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5161,9 +5464,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
@@ -5199,9 +5500,7 @@
         <subject>
           <reference value="MedicinalProductDefinition/mp200mg" />
         </subject>
-        <subject>
-          <reference value="MedicinalProductDefinition/mp1mg" />
-        </subject>
+
         <interaction>
           <interactant>
             <itemCodeableConcept>
