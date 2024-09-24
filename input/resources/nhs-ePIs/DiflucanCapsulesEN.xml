@@ -62,8 +62,8 @@
           <text>
             <status value="generated" />
             <div xmlns="http://www.w3.org/1999/xhtml">
-                  <p style="text-align: center;"><b>Diflucan® 50 mg hard capsules</b></p>
-                  <p style="text-align: center;"><b>Diflucan® 200 mg hard capsules</b></p>
+                  <p style="text-align: center;" class="mg-50"><b>Diflucan® 50 mg hard capsules</b></p>
+                  <p style="text-align: center;" class="mg-200"><b>Diflucan® 200 mg hard capsules</b></p>
                   <p style="text-align: center;">fluconazole</p>              
                   <p><b>Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.</b></p>
                   <ul>
@@ -112,34 +112,34 @@
             <div xmlns="http://www.w3.org/1999/xhtml">
         <p>Diflucan is one of a group of medicines called “antifungals”. The active substance is fluconazole.</p>
         <p>Diflucan is used to treat infections caused by fungi and may also be used to stop you from getting a candidal infection. The most common cause of fungal infections is a yeast called Candida.</p>
-        <h4>Adults</h4>
+        <b  class="adult">Adults</b>
         <p>You might be given this medicine by your doctor to treat the following types of fungal infections:</p>
         <ul>
-          <li>Cryptococcal meningitis – a fungal infection in the brain</li>
-          <li>Coccidioidomycosis – a disease of the bronchopulmonary system</li>
-          <li>Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
-          <li>Mucosal thrush - infection affecting the lining of the mouth, throat and denture sore mouth</li>
-          <li>Genital thrush – infection of the vagina or penis</li>
-          <li>Skin infections - e.g. athlete's foot, ringworm, jock itch, nail infection</li>
+          <li class="adult-treatcryptococcalmeningitis">Cryptococcal meningitis – a fungal infection in the brain</li>
+          <li class="adult-treatcoccidioidomycosis">Coccidioidomycosis – a disease of the bronchopulmonary system</li>
+          <li class="adult-treatcandidainfections">Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
+          <li class="adult-treatmucosalinfections">Mucosal thrush - infection affecting the lining of the mouth, throat and denture sore mouth</li>
+          <li class="adult-treatmucosalinfections">Genital thrush – infection of the vagina or penis</li>
+          <li class="adult-treatskininfections">Skin infections - e.g. athlete's foot, ringworm, jock itch, nail infection</li>
         </ul>
         <p>You might also be given Diflucan to:</p>
         <ul>
-          <li>stop cryptococcal meningitis from coming back</li>
-          <li>stop mucosal thrush from coming back</li>
-          <li>reduce recurrence of vaginal thrush</li>
-          <li>stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
+          <li class="Adult-stopcryptococcalmeningitis">stop cryptococcal meningitis from coming back</li>
+          <li class="Adult-stopmucosalinfection">stop mucosal thrush from coming back</li>
+          <li class="Adult-reducevaginalthrushrecurrence">reduce recurrence of vaginal thrush</li>
+          <li class="Adult-stopcandidainfection">stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
         </ul>
-        <h4>Children and adolescents (0 to 17 years old)</h4>
+        <b class="children0-17">Children and adolescents (0 to 17 years old)<b>
         <p>You might be given this medicine by your doctor to treat the following types of fungal infections:</p>
         <ul>
-          <li>Mucosal thrush - infection affecting the lining of the mouth, throat</li>
-          <li>Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
-          <li>Cryptococcal meningitis – a fungal infection in the brain</li>
+          <li class="children-mucosalinfection">Mucosal thrush - infection affecting the lining of the mouth, throat</li>
+          <li class="children-candidainfections">Infections caused by Candida and found in the blood stream, body organs (e.g. heart, lungs) or urinary tract</li>
+          <li class="children-meningitisinfections">Cryptococcal meningitis – a fungal infection in the brain</li>
         </ul>
         <p>You might also be given Diflucan to:</p>
         <ul>
-          <li>stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
-          <li>stop cryptococcal meningitis from coming back</li>
+          <li class="children-preventcandidainfection">stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
+          <li class="children-stopcryptococcalmeningitis">stop cryptococcal meningitis from coming back</li>
         </ul>
             </div>
           </text>
@@ -171,11 +171,11 @@
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <ul>
                   <li>if you are allergic to fluconazole, to other medicines you have taken to treat fungal infections or to any of the other ingredients of this medicine (listed in section 6). The symptoms may include itching, reddening of the skin or difficulty in breathing</li>
-                  <li>if you are taking astemizole, terfenadine (antihistamine medicines for allergies)</li>
-                  <li>if you are taking cisapride (used for stomach upsets)</li>
-                  <li>if you are taking pimozide (used for treating mental illness)</li>
-                  <li>if you are taking quinidine (used for treating heart arrhythmia)</li>
-                  <li>if you are taking erythromycin (an antibiotic for treating infections)</li>
+                  <li class="">if you are taking astemizole, terfenadine (antihistamine medicines for allergies)</li>
+                  <li class="contraindicationcisapride">if you are taking cisapride (used for stomach upsets)</li>
+                  <li class="contraindicationpimozide">if you are taking pimozide (used for treating mental illness)</li>
+                  <li class="contraindicationquinidine">if you are taking quinidine (used for treating heart arrhythmia)</li>
+                  <li class="contraindicationerythromycin">if you are taking erythromycin (an antibiotic for treating infections)</li>
                 </ul>
               </div>
             </text>
@@ -222,36 +222,36 @@
                 <p>Tell your doctor immediately if you are taking astemizole, terfenadine (an antihistamine for treating allergies) or cisapride (used for stomach upsets) or pimozide (used for treating mental illness) or quinidine (used for treating heart arrhythmia) or erythromycin (an antibiotic for treating infections) as these should not be taken with Diflucan (see section: “Do not take Diflucan if you”).</p>
                 <p>There are some medicines that may interact with Diflucan. Make sure your doctor knows if you are taking any of the following medicines as a dose adjustment or monitoring may be required to check that the medicines are still having the desired effect:</p>
                 <ul>
-                  <li>rifampicin or rifabutin (antibiotics for infections)</li>
-                  <li>abrocitinib (used to treat atopic dermatitis, also known as atopic eczema)</li>
-                  <li>alfentanil, fentanyl (used as anaesthetic)</li>
-                  <li>amitriptyline, nortriptyline (used as anti-depressant)</li>
-                  <li>amphotericin B, voriconazole (anti-fungal)</li>
-                  <li>medicines that thin the blood to prevent blood clots (warfarin or similar medicines)</li>
-                  <li>benzodiazepines (midazolam, triazolam or similar medicines) used to help you sleep or for anxiety</li>
-                  <li>carbamazepine, phenytoin (used for treating fits)</li>
-                  <li>nifedipine, isradipine, amlodipine, verapamil, felodipine and losartan (for hypertension- high blood pressure)</li>
-                  <li>olaparib (used for treating ovarian cancer)</li>
-                  <li>ciclosporin, everolimus, sirolimus or tacrolimus (to prevent transplant rejection)</li>
-                  <li>cyclophosphamide, vinca alkaloids (vincristine, vinblastine or similar medicines) used for treating cancer</li>
-                  <li>halofantrine (used for treating malaria)</li>
-                  <li>statins (atorvastatin, simvastatin and fluvastatin or similar medicines) used for reducing high cholesterol levels</li>
-                  <li>methadone (used for pain)</li>
-                  <li>celecoxib, flurbiprofen, naproxen, ibuprofen, lornoxicam, meloxicam, diclofenac (Non-Steroidal Anti Inflammatory Drugs (NSAID))</li>
-                  <li>oral contraceptives</li>
-                  <li>prednisone (steroid)</li>
-                  <li>zidovudine, also known as AZT; saquinavir (used in HIV-infected patients)</li>
-                  <li>medicines for diabetes such as chlorpropamide, glibenclamide, glipizide or tolbutamide</li>
-                  <li>theophylline (used to control asthma)</li>
-                  <li>tofacitinib (used for treating rheumatoid arthritis)</li>
-                  <li>tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline</li>
-                  <li>vitamin A (nutritional supplement)</li>
-                  <li>ivacaftor (alone or combined with other drugs used for treating cystic fibrosis)</li>
-                  <li>amiodarone (used for treating uneven heartbeats ‘arrhythmias’)</li>
-                  <li>hydrochlorothiazide (a diuretic)</li>
-                  <li>ibrutinib (used for treating blood cancer)</li>
-                  <li>lurasidone (used to treat schizophrenia)</li>
-                </ul>
+                  <li class="rifampicin_or_rifabutin">rifampicin or rifabutin (antibiotics for infections)</li>
+                  <li class="abrocitinib">abrocitinib (used to treat atopic dermatitis, also known as atopic eczema)</li>
+                  <li class="alfentanil_fentanyl">alfentanil, fentanyl (used as anaesthetic)</li>
+                  <li class="amitriptyline_nortriptyline">amitriptyline, nortriptyline (used as anti-depressant)</li>
+                  <li class="amphotericin_B_voriconazole">amphotericin B, voriconazole (anti-fungal)</li>
+                  <li class="warfarin_or_similar_medicines">medicines that thin the blood to prevent blood clots (warfarin or similar medicines)</li>
+                  <li class="midazolam_triazolam_or_similar_medicines">benzodiazepines (midazolam, triazolam or similar medicines) used to help you sleep or for anxiety</li>
+                  <li class="carbamazepine_phenytoin">carbamazepine, phenytoin (used for treating fits)</li>
+                  <li class="nifedipine_isradipine_amlodipine_verapamil_felodipine_and_losartan">nifedipine, isradipine, amlodipine, verapamil, felodipine and losartan (for hypertension- high blood pressure)</li>
+                  <li class="olaparib">olaparib (used for treating ovarian cancer)</li>
+                  <li class="ciclosporin_everolimus_sirolimus_or_tacrolimus">ciclosporin, everolimus, sirolimus or tacrolimus (to prevent transplant rejection)</li>
+                  <li class="cyclophosphamide_vinca_alkaloids_vincristine_vinblastine_or_similar_medicines">cyclophosphamide, vinca alkaloids (vincristine, vinblastine or similar medicines) used for treating cancer</li>
+                  <li class="halofantrine">halofantrine (used for treating malaria)</li>
+                  <li class="atorvastatin_simvastatin_and_fluvastatin_or_similar_medicines">statins (atorvastatin, simvastatin and fluvastatin or similar medicines) used for reducing high cholesterol levels</li>
+                  <li class="methadone">methadone (used for pain)</li>
+                  <li class="celecoxib_flurbiprofen_naproxen_ibuprofen_lornoxicam_meloxicam_diclofenac">celecoxib, flurbiprofen, naproxen, ibuprofen, lornoxicam, meloxicam, diclofenac (Non-Steroidal Anti Inflammatory Drugs (NSAID))</li>
+                  <li class="oral_contraceptives">oral contraceptives</li>
+                  <li class="prednisone">prednisone (steroid)</li>
+                  <li class="zidovudine_also_known_as_AZT_saquniavir">zidovudine, also known as AZT; saquinavir (used in HIV-infected patients)</li>
+                  <li class="chlorpropamide_glibenclamide_glipizide_or_tolbutamide">medicines for diabetes such as chlorpropamide, glibenclamide, glipizide or tolbutamide</li>
+                  <li class="theophylline">theophylline (used to control asthma)</li>
+                  <li class="tofacitinib">tofacitinib (used for treating rheumatoid arthritis)</li>
+                  <li class="tolvaptan">tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline</li>
+                  <li class="vitamin_A">vitamin A (nutritional supplement)</li>
+                  <li class="ivacaftor">ivacaftor (alone or combined with other drugs used for treating cystic fibrosis)</li>
+                  <li class="amiodarone">amiodarone (used for treating uneven heartbeats ‘arrhythmias’)</li>
+                  <li class="hydrochlorothiazide">hydrochlorothiazide (a diuretic)</li>
+                  <li class="ibrutinib">ibrutinib (used for treating blood cancer)</li>
+                  <li class="lurasidone">lurasidone (used to treat schizophrenia)</li>
+                </ul>              
               </div>
             </text>
           </section>
@@ -289,7 +289,7 @@
                 <p>Fluconazole taken during the first or second trimester of pregnancy may increase the risk of miscarriage. Fluconazole taken during the first trimester may increase the risk of a baby being born with birth defects affecting the heart, bones and/or muscles.</p>
                 <p>There have been reports of babies born with birth defects affecting the skull, ears, and bones of the thigh and elbow in women treated for three months or more with high doses (400-800 mg daily) of fluconazole for coccidioidomycosis. The link between fluconazole and these cases is not clear.</p>
                 <p>You can continue breast-feeding after taking a single dose of 150 mg Diflucan. You should not breast-feed if you are taking a repeated dose of Diflucan.</p>
-                <h4>Driving and using machines</h4>
+                <b>Driving and using machines<b>
                 <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
               </div>
             </text>
@@ -307,7 +307,7 @@
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
-                <h4>Diflucan contains lactose (milk sugar) and sodium (salt)</h4>
+                <b>Diflucan contains lactose (milk sugar) and sodium (salt)<b>
                 <p>This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</p>
                 <p>Diflucan capsules contain less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.</p>
               </div>
@@ -325,7 +325,7 @@
             <text>
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
-                <p>This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</p>
+                <p><span class="allergen-lactose">This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</span></p>
                 <p>Diflucan capsules contain less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.</p>
               </div>
             </text>
@@ -365,47 +365,47 @@
                     <th>Condition</th>
                     <th>Dose</th>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatcryptococcalmeningitis">
                     <td>To treat cryptococcal meningitis</td>
                     <td>400 mg on the first day then 200 mg to 400 mg once daily for 6 to 8 weeks or longer if needed. Sometimes doses are increased up to 800 mg</td>
                   </tr>
-                  <tr>
+                  <tr class="Adult-stopcryptococcalmeningitis">
                     <td>To stop cryptococcal meningitis from coming back</td>
                     <td>200 mg once daily until you are told to stop</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatcoccidioidomycosis">
                     <td>To treat coccidioidomycosis</td>
                     <td>200 mg to 400 mg once daily from 11 months for up to 24 months or longer if needed. Sometimes doses are increased up to 800 mg</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatcandidainfections">
                     <td>To treat internal fungal infections caused by Candida</td>
                     <td>800 mg on the first day then 400 mg once daily until you are told to stop</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatmucosalinfections">
                     <td>To treat mucosal infections affecting the lining of mouth, throat and denture sore mouth</td>
                     <td>200 mg to 400 mg on the first day then 100 mg to 200 mg once daily until you are told to stop</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatmucosalinfections">
                     <td>To treat mucosal thrush – dose depends on where the infection is located</td>
                     <td>50 mg to 400 mg once daily for 7 to 30 days until you are told to stop</td>
                   </tr>
-                  <tr>
+                  <tr class="Adult-stopmucosalinfection">
                     <td>To stop mucosal infections affecting the lining of mouth, throat from coming back</td>
                     <td>100 mg to 200 mg once daily, or 200 mg 3 times a week, while you are at risk of getting an infection</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatmucosalinfections">
                     <td>To treat genital thrush</td>
                     <td>150 mg as a single dose</td>
                   </tr>
-                  <tr>
+                  <tr class="Adult-reducevaginalthrushrecurrence">
                     <td>To reduce recurrence of vaginal thrush</td>
                     <td>150 mg every third day for a total of 3 doses (day 1, 4 and 7) and then once a week for 6 months while you are at risk of getting an infection</td>
                   </tr>
-                  <tr>
+                  <tr class="adult-treatskininfections">
                     <td>To treat fungal skin and nail infections</td>
                     <td>Depending on the site of the infection 50 mg once daily, 150 mg once weekly, 300 to 400 mg once weekly for 1 to 4 weeks (Athlete’s foot may be up to 6 weeks, for nail infection treatment until infected nail is replaced)</td>
                   </tr>
-                  <tr>
+                  <tr class="Adult-stopcandidainfection">
                     <td>To stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</td>
                     <td>200 mg to 400 mg once daily while you are at risk of getting an infection</td>
                   </tr>
@@ -448,19 +448,19 @@
       <th>Condition</th>
       <th>Daily dose</th>
     </tr>
-    <tr>
+    <tr class="children-mucosalinfection">
       <td>Mucosal thrush and throat infections caused by Candida – dose and duration depends on the severity of the infection and on where the infection is located</td>
       <td>3 mg per kg of body weight once daily (6 mg per kg of body weight might be given on the first day)</td>
     </tr>
-    <tr>
+    <tr class="children-meningitisinfections">
       <td>Cryptococcal meningitis or internal fungal infections caused by Candida</td>
       <td>6 mg to 12 mg per kg of body weight once daily</td>
     </tr>
-    <tr>
+    <tr class="children-stopcryptococcalmeningitis">
       <td>To stop cryptococcal meningitis from coming back</td>
       <td>6 mg per kg of body weight once daily</td>
     </tr>
-    <tr>
+    <tr class="children-preventcandidainfection">
       <td>To stop children from getting an infection caused by Candida (if their immune system is not working properly)</td>
       <td>3 mg to 12 mg per kg of body weight once daily</td>
     </tr>
@@ -698,8 +698,8 @@
   <p><b>Capsule content:</b> lactose monohydrate, maize starch, colloidal silica anhydrous, magnesium stearate and sodium laurilsulfate (see section 2, Diflucan contains lactose (milk sugar) and sodium (salt)).</p>
   <p>Capsule shell composition:</p>
   <ul>
-    <li><b>50 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171) and patent blue V (E131)</li>
-    <li><b>200 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171), erythrosine (E127) and indigo carmine (E132)</li>
+    <li class="mg-50"><b>50 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171) and patent blue V (E131)</li>
+    <li class="mg-200"><b>200 mg hard capsules:</b> gelatin (E441), titanium dioxide (E171), erythrosine (E127) and indigo carmine (E132)</li>
   </ul>
   <p><b>Printing ink:</b> shellac (glaze), black iron oxide (E172), N-Butyl alcohol, dehydrated alcohol, purified water, propylene glycol (E1520), industrial methylated spirit, isopropyl alcohol, strong ammonia solution, potassium hydroxide (E525).</p>
               </div>
@@ -718,8 +718,8 @@
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <ul>
-                  <li>Diflucan 50 mg hard capsules have a white body and a turquoise blue cap. They have “FLU 50” and “Pfizer” with black ink printed on them.</li>
-                  <li>Diflucan 200 mg hard capsules have a white body and a purple cap. They have “FLU 200” and “Pfizer” with black ink printed on them.</li>
+                  <li class="mg-50">Diflucan 50 mg hard capsules have a white body and a turquoise blue cap. They have “FLU 50” and “Pfizer” with black ink printed on them.</li>
+                  <li class="mg-200">Diflucan 200 mg hard capsules have a white body and a purple cap. They have “FLU 200” and “Pfizer” with black ink printed on them.</li>
                 </ul>
                 <p>Diflucan 50 mg and 200 mg come in packs of 1, 2, 3, 4, 6, 7, 10, 12, 14, 20, 28, 30, 42, 50, 60, 100 or 500 hard capsules. Not all pack sizes may be marketed.</p>
               </div>
