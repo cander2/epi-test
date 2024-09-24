@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Bundle xmlns="http://hl7.org/fhir">
-  <id value="bundlepackageleaflet-talzenna01-025-1" />
+  <id value="bundlepackageleaflet-diflucan-50-200" />
   <meta>
     <versionId value="1"/>
     <lastUpdated value="2024-02-01T00:00:00Z" />
@@ -87,11 +87,11 @@
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <ol>
-                  <li><a href="#5a34d358-e830-4308-8d86-cb1dc8b1ee8c">What Talzenna is and what it is used for</a></li>
-                  <li><a href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">What you need to know before you take Talzenna</a></li>
-                  <li><a href="#958ed385-b409-41d8-a868-fa5ec1fbaba4">How to take Talzenna</a></li>
+                  <li><a href="#5a34d358-e830-4308-8d86-cb1dc8b1ee8c">What Diflucan is and what it is used for</a></li>
+                  <li><a href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">What you need to know before you take Diflucan</a></li>
+                  <li><a href="#958ed385-b409-41d8-a868-fa5ec1fbaba4">How to take Diflucan</a></li>
                   <li><a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">Possible side effects</a></li>
-                  <li><a href="#eb80ccf5-f971-4361-b25c-b8d86c457a00">How to store Talzenna</a></li>
+                  <li><a href="#eb80ccf5-f971-4361-b25c-b8d86c457a00">How to store Diflucan</a></li>
                   <li><a href="#2531776f-f478-40bc-a19d-6970524b8793">Contents of the pack and other information</a></li>
                 </ol>
               </div>
