@@ -4586,7 +4586,6 @@
       </MedicinalProductDefinition>
     </resource>
   </entry>
-
   <entry>
     <fullUrl value="ClinicalUseDefinition/interactionRifampicin" />
     <resource>
@@ -4594,8 +4593,7 @@
         <id value="36fdf79a-1b9c-11ee-be56-0242ac120003" />
         <meta>
           <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
-        </meta>
-  
+        </meta>  
         <identifier>
           <use value="official" />
           <system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
@@ -6159,6 +6157,39 @@
           </itemCodeableConcept>
         </interactant>
       </interaction>
+    </ClinicalUseDefinition>
+  </resource>
+</entry>
+<entry>
+  <fullUrl value="ClinicalUseDefinition/mycosis" />
+  <resource>
+    <ClinicalUseDefinition>
+      <id value="mycosis"/>
+      <meta>
+        <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-indication-uv-epi"/>
+      </meta>
+      <identifier>
+        <system value="http://example.org/sid"/>
+        <value value="mycosis"/>
+      </identifier>
+      <type value="indication"/>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp50mg" />
+      </subject>
+      <subject>
+        <reference value="MedicinalProductDefinition/mp200mg" />
+      </subject>
+      <indication>
+        <diseaseSymptomProcedure>
+          <concept>
+            <coding>
+              <system value="http://terminology.hl7.org/CodeSystem/SNM3"/>
+              <code value="3218000" />
+              <display value="Mycosis" />
+            </coding>
+          </concept>
+        </diseaseSymptomProcedure>
+      </indication>
     </ClinicalUseDefinition>
   </resource>
 </entry>
