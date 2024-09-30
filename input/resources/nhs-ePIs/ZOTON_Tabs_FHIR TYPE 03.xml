@@ -352,19 +352,19 @@
               <p><b>3.	How to take Zoton</b></p>
               <p>Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.</p>
               <p>Place the tablet on your tongue and suck gently. The tablet rapidly dissolves in the mouth, releasing microgranules which you should swallow without chewing. You can also swallow the tablet whole with a glass of water.</p>
-              <p>Your doctor might instruct you to take the tablet with a syringe, in case you have serious difficulties with swallowing.</p>
-              <p>The following instructions should be followed if administered via syringe:</p>
-              <p>It is important that the appropriateness of the selected syringe is carefully tested.</p>
+              <p class="Difficultyswallowing">Your doctor might instruct you to take the tablet with a syringe, in case you have serious difficulties with swallowing.</p>
+              <p class="Difficultyswallowing">The following instructions should be followed if administered via syringe:</p>
+              <p class="Difficultyswallowing">It is important that the appropriateness of the selected syringe is carefully tested.</p>
               <ul>
-                <li>Remove the plunger of the syringe (<span class="mg-015">at least 5 mL syringe for the 15 mg tablet</span> and <span class="mg-030">10 mL syringe for the 30 mg tablet</span>)</li>
-                <li>Put the tablet into the barrel</li>
-                <li>Put the plunger back onto the syringe</li>
-                <li class="mg-015">For the 15 mg tablet: Draw 4 mL tap water into the syringe</li>
-                <li class="mg-015">For the 30 mg tablet: Draw 10 mL tap water into the syringe</li>
-                <li>Invert the syringe and draw an additional 1 mL of air into it</li>
-                <li>Shake the syringe gently for 10-20 seconds until the tablet is dispersed</li>
-                <li>The contents can be emptied directly into the mouth</li>
-                <li>Refill the syringe with 2-5 mL of tap water to flush the remnants out of the syringe into the mouth</li>
+                <li class="Difficultyswallowing">Remove the plunger of the syringe (<span class="mg-015">at least 5 mL syringe for the 15 mg tablet</span> and <span class="mg-030">10 mL syringe for the 30 mg tablet</span>)</li>
+                <li class="Difficultyswallowing">Put the tablet into the barrel</li>
+                <li class="Difficultyswallowing">Put the plunger back onto the syringe</li>
+                <li class="Difficultyswallowing"><span class="mg-015">For the 15 mg tablet: Draw 4 mL tap water into the syringe</span></li>
+                <li class="Difficultyswallowing"><span class="mg-015">For the 30 mg tablet: Draw 10 mL tap water into the syringe</span></li>
+                <li class="Difficultyswallowing">Invert the syringe and draw an additional 1 mL of air into it</li>
+                <li class="Difficultyswallowing">Shake the syringe gently for 10-20 seconds until the tablet is dispersed</li>
+                <li class="Difficultyswallowing">The contents can be emptied directly into the mouth</li>
+                <li class="Difficultyswallowing">Refill the syringe with 2-5 mL of tap water to flush the remnants out of the syringe into the mouth</li>
               </ul>
               <p>If you are taking Zoton once a day, try to take it at the same time each day. You may get best results if you take Zoton first thing in the morning.</p>
               <p>If you are taking Zoton twice a day, you should have the first dose in the morning and the second dose in the evening.</p>
