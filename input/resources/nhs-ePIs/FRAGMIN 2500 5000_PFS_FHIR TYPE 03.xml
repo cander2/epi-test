@@ -256,7 +256,7 @@
                 <li>if you are allergic (hypersensitive) to the active ingredient dalteparin sodium or a similar product or any of the other ingredients of this medicine (listed in <a href="#d2a6e812-7119-49ca-93a2-37bb3c548ce8">section 6</a>).</li>
                 <li class="ulcer">if you have an active stomach ulcer or ulcer of the duodenum (small intestine).</li>
                 <li class="brainhaemorrhage">if you have suffered from a brain haemorrhage (bleeding in your brain).</li>
-                <li><span class="pericardialeffusion"><span class="pleuraleffusion">if you have fluid mixed with blood that appears around heart and lungs.</span></span></li>
+                <li class="pericardialeffusionpleuraleffusion">if you have fluid mixed with blood that appears around heart and lungs.</li>
                 <li class="bleeding">if you suffer from any condition which may cause you to bleed more easily (e.g. haemophilia, liver failure). Ask your doctor if you are unsure</li>
                 <li class="septicendocarditis">if you have a condition called septic endocarditis (an infection and inflammation of the lining of the heart and heart valves). Your doctor will have told you if you have this.</li>
                 <li class="heparininducedthrombocytopenia">if you have had a condition called “heparin-induced thrombocytopenia” (a decrease in the number of clotting cells (platelets) in your blood caused by heparin, which may cause you to bruise and bleed more easily). Your doctor will have told you if you have this. 
@@ -355,7 +355,7 @@
                   <li class="Etacrynicacid">Etacrynic acid (a water retention tablet (diuretic)). </li>
                   <li class="dextrans">Solutions given to increase the blood volume (e.g. dextrans). </li>
                   <li class="cytostatics">Medicines known as cytostatics (used in cancer treatment). </li>
-                  <li class="TPAtissueplasminogenactivator">Thrombolytic medications for treating transmural heart attack (e.g. TPA-tissue plasminogen activator). 
+                  <li class="tpatissueplasminogenactivator">Thrombolytic medications for treating transmural heart attack (e.g. TPA-tissue plasminogen activator). 
                  </li>
                 </ul>
                 <p>Medicines that can <b>reduce</b> the effect of Fragmin include: </p>
@@ -367,13 +367,13 @@
                 </ul>
                 <p>Other medicines that may interfere with Fragmin include:</p>
                 <ul>
-                  <li class="intravenous nitroglycerine">Those used to treat angina (intravenous nitroglycerine).</li>
+                  <li class="intravenousnitroglycerine">Those used to treat angina (intravenous nitroglycerine).</li>
                   <li class="penicillin">Antibiotics such as high dose penicillin which are used to treat bacterial infections.</li>
                   <li class="quinine">Anti-malarials (e.g. quinine). </li>
                   <li class="tobacco">Tobacco smoking. </li>
                 </ul>
                 <p class="aspirin">Please note that if you are being treated with Fragmin for unstable coronary artery disease your doctor may adjust your dose of aspirin accordingly.</p>
-                <p class="lowmolecularweightheparins anti-thrombotics">Please tell your doctor or pharmacist if you are taking or have recently taken any other low molecular weight heparins or anti-thrombotics.</p>
+                <p class="lowmolecularweightheparinsanti-thrombotics">Please tell your doctor or pharmacist if you are taking or have recently taken any other low molecular weight heparins or anti-thrombotics.</p>
               </div>
             </text>
           </section>
