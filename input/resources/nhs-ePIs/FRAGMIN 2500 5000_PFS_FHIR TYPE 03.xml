@@ -962,9 +962,6 @@
         </identifier>
         <status value="active" />
         <for>
-          <reference value="urn:uuid:6ba6f3f2-ed7e-488e-9890-d3f00f4a4e1d" />
-        </for>
-        <for>
           <reference value="urn:uuid:2529be70-85d4-4fd8-939f-2b998374f5db" />
         </for>
         <role>
