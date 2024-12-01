@@ -847,7 +847,7 @@
         <identifier>
           <use value="official"/>
           <system value="https://www.mhra.gov.uk/"/>
-          <value value="affb1750-ad52-4ef4-a8d7-35602977ea17"/>
+          <value value="001267"/>
         </identifier>
         <subject>
           <reference value="urn:uuid:1ea89061-dc21-4e27-a888-30ac92d36d54"/>
