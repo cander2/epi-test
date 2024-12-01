@@ -846,8 +846,8 @@
         </meta>
         <identifier>
           <use value="official"/>
-          <system value="https://lmspiq.fda.gov.tw/web/"/>
-          <value value="001267"/>
+          <system value="https://www.mhra.gov.uk/"/>
+          <value value="affb1750-ad52-4ef4-a8d7-35602977ea17"/>
         </identifier>
         <subject>
           <reference value="urn:uuid:1ea89061-dc21-4e27-a888-30ac92d36d54"/>
@@ -1075,7 +1075,7 @@
               </item>
               <amount>
                 <value value="1"/>
-                <unit value="vial"/>
+                <unit value="Vial"/>
                 <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
                 <code value="100000073563"/>
               </amount>
@@ -1109,7 +1109,7 @@
               </item>
               <amount>
                 <value value="1"/>
-                <unit value="Pre-filled syringe/>
+                <unit value="Pre-filled syringe"/>
                 <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
                 <code value="100000073544"/>
               </amount>
@@ -1495,6 +1495,7 @@
               </coding>
             </concept>
           </code>
+          <strength>
             <presentationRatio>
               <numerator>
                 <value value="60"/>
@@ -1559,7 +1560,7 @@
             </concept>
           </code>
           <strength>
-            <presentationRatio>
+              <presentationRatio>
               <numerator>
                 <value value="60"/>
                 <unit value="microgram(s)"/>
