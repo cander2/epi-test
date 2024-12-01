@@ -846,8 +846,8 @@
         </meta>
         <identifier>
           <use value="official"/>
-          <system value="https://www.mhra.gov.uk/"/>
-          <value value="affb1750-ad52-4ef4-a8d7-35602977ea17"/>
+          <system value="https://lmspiq.fda.gov.tw/web/"/>
+          <value value="001267"/>
         </identifier>
         <subject>
           <reference value="urn:uuid:1ea89061-dc21-4e27-a888-30ac92d36d54"/>
@@ -873,7 +873,7 @@
             <display value="Valid"/>
           </coding>
         </status>
-        <statusDate value=" "/>
+        <statusDate value="113-10-08"/>
         <holder>
           <reference value="urn:uuid:8034cbe0-622b-4fe3-bbdf-0ed521bb06d0"/>
         </holder>
@@ -1024,7 +1024,7 @@
             </coding>
           </status>
           <dateRange>
-            <start value=""/>
+            <start value="113-10-08"/>
           </dateRange>
         </marketingStatus>
         <packaging>
@@ -1075,7 +1075,7 @@
               </item>
               <amount>
                 <value value="1"/>
-                <unit value="Vial"/>
+                <unit value="vial"/>
                 <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
                 <code value="100000073563"/>
               </amount>
@@ -1109,7 +1109,7 @@
               </item>
               <amount>
                 <value value="1"/>
-                <unit value="Pre-filled syringe"/>
+                <unit value="Pre-filled syringe/>
                 <system value="http://hl7.org/fhir/medicinal-product-package-type"/>
                 <code value="100000073544"/>
               </amount>
@@ -1208,7 +1208,7 @@
             </coding>
           </status>
           <dateRange>
-            <start value=""/>
+            <start value="113-10-08"/>
           </dateRange>
         </marketingStatus>
         <packaging>
@@ -1223,7 +1223,7 @@
               <display value="Box"/>
             </coding>
           </type>
-          <quantity value="5"/>
+          <quantity value="1"/>
           <material>
             <coding>
               <system value="http://hl7.org/fhir/package-material"/>
@@ -1495,11 +1495,22 @@
               </coding>
             </concept>
           </code>
-          <strength>
-            <presentationQuantity>
-              <value value="60"/>
-              <unit value="μg"/>
-            </presentationQuantity>
+            <presentationRatio>
+              <numerator>
+                <value value="60"/>
+                <unit value="microgram(s)"/>
+                <system
+                        value="https://spor.ema.europa.eu/v1/lists/100000110633"/>
+                <code value="100000110656"/>
+              </numerator>
+              <denominator>
+                <value value="1"/>
+                <unit value="Vial"/>
+                <system
+                        value="https://spor.ema.europa.eu/v1/lists/200000000014"/>
+                <code value="200000002158"/>
+              </denominator>
+            </presentationRatio>
             <basis>
               <coding>
                 <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass"/>
@@ -1548,10 +1559,22 @@
             </concept>
           </code>
           <strength>
-            <presentationQuantity>
-              <value value="60"/>
-              <unit value="μg"/>
-            </presentationQuantity>
+            <presentationRatio>
+              <numerator>
+                <value value="60"/>
+                <unit value="microgram(s)"/>
+                <system
+                        value="https://spor.ema.europa.eu/v1/lists/100000110633"/>
+                <code value="100000110656"/>
+              </numerator>
+              <denominator>
+                <value value="1"/>
+                <unit value="Vial"/>
+                <system
+                        value="https://spor.ema.europa.eu/v1/lists/200000000014"/>
+                <code value="200000002158"/>
+              </denominator>
+            </presentationRatio>
             <basis>
               <coding>
                 <system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass"/>
