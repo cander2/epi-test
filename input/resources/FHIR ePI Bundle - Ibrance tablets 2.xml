@@ -553,7 +553,7 @@
 					<display value="Non-Healthcare Business or Corporation" />
 				</coding>
 			</type>
-			<name value="Pfizer Laboratories Div Pfizer Inc" />
+			<name value="Pfizer Labs Division of Pfizer Inc" />
 			<telecom>
 				<system value="phone" />
 				<value value="1-800-438-1985" />

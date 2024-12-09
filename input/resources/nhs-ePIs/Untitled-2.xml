@@ -1,0 +1,117 @@
+
+<MedicationRequest xmlns="http://hl7.org/fhir">
+    <id value="medrx0302"/>
+    <contained>
+      <Medication> 
+        <id value="diflucan200"/> 
+        <code> 
+                <coding> 
+                    <system value="http://snomed.info/sct"/> 
+                    <code value="787611000001105"/> 
+                    <display value="Diflucan 200mg capsules (Pfizer Ltd) (product)"/> 
+                </coding> 
+        </code> 
+    </Medication> 
+    </contained> 
+    <status value="active"/> 
+    <intent value="order"/> 
+    <medication>      <!--    Linked to a RESOURCE Medication    -->
+        <reference> 
+           <reference value="#diflucan200"/> 
+        </reference> 
+    </medication>  
+    <subject>      <!--    Linked to the resource patient who needs the medication    -->
+        <reference value="Patient/pat1"/> 
+        <display value="Donald Duck"/>          
+    </subject> 
+    <reason> 
+      <concept> 
+        <coding> 
+            <system value="http://snomed.info/sct"/> 
+            <code value="11840006"/> 
+            <display value="Traveller's Diarrhea (disorder)"/> 
+        </coding> 
+      </concept> 
+    </reason> 
+   
+  <dosageInstruction> 
+    <sequence value="1"/> 
+    <text value="800 mg on the first day"/> 
+    <additionalInstruction> 
+        <coding> 
+            <system value="http://snomed.info/sct"/> 
+            <code value="311504000"/> 
+            <display value="With or after food"/> 
+        </coding> 
+    </additionalInstruction> 
+    <timing> 
+        <repeat> 
+            <frequency value="1"/> 
+            <period value="1"/> 
+            <periodUnit value="d"/> 
+        </repeat> 
+    </timing> 
+    <route> 
+        <coding> 
+            <system value="http://snomed.info/sct"/> 
+            <code value="26643006"/> 
+            <display value="Oral Route"/> 
+        </coding> 
+    </route> 
+    <method> 
+        <coding> 
+            <system value="http://snomed.info/sct"/> 
+            <code value="738995006"/> 
+            <display value="Swallow (administration method)"/> 
+        </coding> 
+    </method> 
+    <doseAndRate> 
+        <type> 
+            <coding> 
+                <system value="http://terminology.hl7.org/CodeSystem/dose-rate-type"/> 
+                <code value="ordered"/> 
+                <display value="Ordered"/> 
+            </coding> 
+        </type> 
+        <doseQuantity> 
+            <value value="4"/> 
+            <unit value="TAB"/> 
+            <system value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm"/> 
+            <code value="TAB"/> 
+        </doseQuantity> 
+    </doseAndRate> 
+  </dosageInstruction> 
+  <dosageInstruction> 
+    <sequence value="2"/> 
+    <text value="400 mg once daily until you are told to stop"/> 
+    <timing> 
+      <repeat> 
+        <frequency value="1"/> 
+        <period value="1"/> 
+        <periodUnit value="d"/> 
+    </repeat> 
+    </timing> 
+    <route> 
+        <coding> 
+            <system value="http://snomed.info/sct"/> 
+            <code value="26643006"/> 
+            <display value="Oral Route"/> 
+        </coding> 
+    </route> 
+    <doseAndRate> 
+        <type> 
+            <coding> 
+                <system value="http://terminology.hl7.org/CodeSystem/dose-rate-type"/> 
+                <code value="ordered"/> 
+                <display value="Ordered"/> 
+            </coding> 
+        </type> 
+        <doseQuantity> 
+            <value value="2"/> 
+            <unit value="TAB"/> 
+            <system value="http://terminology.hl7.org/CodeSystem/v3-orderableDrugForm"/> 
+            <code value="TAB"/> 
+        </doseQuantity> 
+    </doseAndRate> 
+  </dosageInstruction>  
+  </MedicationRequest> 

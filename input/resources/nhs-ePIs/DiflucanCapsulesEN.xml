@@ -129,7 +129,7 @@
           <li class="Adult-reducevaginalthrushrecurrence">reduce recurrence of vaginal thrush</li>
           <li class="Adult-stopcandidainfection">stop you from getting an infection caused by Candida (if your immune system is weak and not working properly)</li>
         </ul>
-        <b class="children0-17">Children and adolescents (0 to 17 years old)<b>
+        <p class="children0to17"><b>Children and adolescents (0 to 17 years old)</b></p>
         <p>You might be given this medicine by your doctor to treat the following types of fungal infections:</p>
         <ul>
           <li class="children-mucosalinfection">Mucosal thrush - infection affecting the lining of the mouth, throat</li>
@@ -171,7 +171,7 @@
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <ul>
                   <li>if you are allergic to fluconazole, to other medicines you have taken to treat fungal infections or to any of the other ingredients of this medicine (listed in section 6). The symptoms may include itching, reddening of the skin or difficulty in breathing</li>
-                  <li class="">if you are taking astemizole, terfenadine (antihistamine medicines for allergies)</li>
+                  <li class="contraindicationastemizoleterfenadine">if you are taking astemizole, terfenadine (antihistamine medicines for allergies)</li>
                   <li class="contraindicationcisapride">if you are taking cisapride (used for stomach upsets)</li>
                   <li class="contraindicationpimozide">if you are taking pimozide (used for treating mental illness)</li>
                   <li class="contraindicationquinidine">if you are taking quinidine (used for treating heart arrhythmia)</li>
@@ -289,7 +289,7 @@
                 <p>Fluconazole taken during the first or second trimester of pregnancy may increase the risk of miscarriage. Fluconazole taken during the first trimester may increase the risk of a baby being born with birth defects affecting the heart, bones and/or muscles.</p>
                 <p>There have been reports of babies born with birth defects affecting the skull, ears, and bones of the thigh and elbow in women treated for three months or more with high doses (400-800 mg daily) of fluconazole for coccidioidomycosis. The link between fluconazole and these cases is not clear.</p>
                 <p>You can continue breast-feeding after taking a single dose of 150 mg Diflucan. You should not breast-feed if you are taking a repeated dose of Diflucan.</p>
-                <b>Driving and using machines<b>
+                <p><b>Driving and using machines</b></p>
                 <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
               </div>
             </text>
@@ -307,7 +307,7 @@
               <status value="generated" />
               <div xmlns="http://www.w3.org/1999/xhtml">
                 <p>When driving vehicles or using machines, it should be taken into account that occasionally dizziness or fits may occur.</p>
-                <b>Diflucan contains lactose (milk sugar) and sodium (salt)<b>
+                <P><b>Diflucan contains lactose (milk sugar) and sodium (salt)<b></P>
                 <p>This medicine contains a small amount of lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, please contact your doctor before taking this medicine.</p>
                 <p>Diflucan capsules contain less than 1 mmol sodium (23 mg) per capsule, that is to say essentially ‘sodium-free’.</p>
               </div>

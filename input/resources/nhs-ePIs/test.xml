@@ -1,0 +1,37 @@
+<entry>
+  <fullUrl value="ClinicalUseDefinition/indication1" />
+  <resource>
+<ClinicalUseDefinition>
+  <id value="bac1d528-6430-4310-bde6-b8b3471ce35a"/>
+  <meta>
+    <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-indication-uv-epi"/>
+  </meta>
+  <identifier>
+    <system value="http://example.org/sid"/>
+    <value value="indication-example-1"/>
+  </identifier>
+  <type value="indication"/>
+  <subject>
+    <reference value="MedicinalProductDefinition/mp50mg" />
+  </subject>
+  <subject>
+    <reference value="MedicinalProductDefinition/mp200mg" />
+  </subject>
+  <indication>
+    <diseaseSymptomProcedure>
+      <concept>
+        <coding>
+          <system value="http://terminology.hl7.org/CodeSystem/SNM3"/>
+          <code value=""/>
+          <display value=""/>
+        </coding>
+      </concept>
+    </diseaseSymptomProcedure>
+  </indication>
+</ClinicalUseDefinition>
+</resource>
+</entry>
+
+
+
+

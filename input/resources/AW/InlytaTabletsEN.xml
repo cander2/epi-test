@@ -1,0 +1,3050 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+	<id value="bundle-InlytaTabletsEN" />
+	<meta>
+	<lastUpdated value="2022-03-04T00:00:00Z" />
+	<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
+	</meta>
+	<identifier>
+		<system value="https://leaflet.healthcare/sid/doc" />
+		<value value="L000InlytaTabletsEN" />
+	</identifier>
+	<type value="document" />
+	<timestamp value="2021-04-01T00:00:00.000Z" />
+	<entry>
+		<fullUrl value="Composition/composition-InlytaTabletsEN" />
+		<resource>
+			<Composition>
+				<id value="composition-InlytaTabletsEN" />
+				<meta>
+				<profile
+					value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
+				</meta>
+				<language value="en" />
+				<text>
+					<status value="generated" />
+					<div xmlns="http://www.w3.org/1999/xhtml">
+						<p>electronic Product Information (ePI) document</p>
+					</div>
+				</text>
+				<identifier>
+					<system value="https://leaflet.healthcare/sid/composition" />
+					<value value="C000composition-InlytaTabletsEN" />
+				</identifier>
+				<version value="1" />
+				<status value="final" />
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/v1/lists/100000155531/terms/" />
+						<code value="100000155538" />
+						<display value="Package Leaflet" />
+					</coding>
+					<text value="Package Leaflet" />
+				</type>
+				<date value="2021-04-01T00:00:00.000Z" />
+				<subject>
+					<reference value="MedicinalProductDefinition/inlyta-1mg" />
+				</subject>
+				<subject>
+					<reference value="MedicinalProductDefinition/inlyta-3mg" />
+				</subject>
+				<subject>
+					<reference value="MedicinalProductDefinition/inlyta-5mg" />
+				</subject>
+				<subject>
+					<reference value="MedicinalProductDefinition/inlyta-7mg" />
+				</subject>
+				<author>
+					<reference value="Organization/PfizerEuropeMAEEIG" />
+				</author>
+				<title value="Inlyta - 1mg, 5 mg Film coated tablets - EN" />
+				<section>
+					<title value="PACKAGE LEAFLET" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<h1 style="text-align: center;">Package leaflet: Information for the patient</h1>
+							<p style="text-align: center;"><strong>Inlyta 1 mg film-coated tablets</strong></p>
+							<p style="text-align: center;"><strong>Inlyta 3 mg film-coated tablets</strong></p>
+							<p style="text-align: center;"><strong>Inlyta 5 mg film-coated tablets</strong></p>
+							<p style="text-align: center;"><strong>Inlyta 7 mg film-coated tablets</strong></p>
+							<p style="text-align: center;">axitinib</p>
+							<p>Read all of this leaflet carefully before you start taking this medicine because it
+								contains important information for you.</p>
+							<ul>
+								<li>Keep this leaflet. You may need to read it again.</li>
+								<li>If you have any further questions, ask your doctor, pharmacist or nurse.</li>
+								<li>This medicine has been prescribed for you only. Do not pass it on to others. It may
+									harm them, even if their signs of illness are the same as yours.</li>
+								<li>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes
+									any possible side effects not listed in this leaflet. See section 4.</li>
+							</ul>
+							<h2>What is in this leaflet</h2>
+							<ol>
+								<li>What Inlyta is and what it is used for</li>
+								<li>What you need to know before you take Inlyta</li>
+								<li>How to take Inlyta</li>
+								<li>Possible side effects</li>
+								<li>How to store Inlyta</li>
+								<li>Contents of the pack and other information</li>
+							</ol>
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="1. What Inlyta is and what it is used for" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p>Inlyta is a medicine containing the active substance axitinib. Axitinib reduces the blood
+								supply to the tumour and slows down the growth of cancer.</p>
+							<p>Inlyta is indicated for the treatment of advanced kidney cancer (advanced renal cell
+								carcinoma) in adults, when one prior drug treatment for this disease has not worked.</p>
+							<p>If you have any questions about how this medicine works or why this medicine has been
+								prescribed for you, ask your doctor.</p>
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="2. What you need to know before you take Inlyta" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p><b>Do not take Inlyta:</b></p>
+							<p>If you are allergic to axitinib or any of the other ingredients of this medicine (listed
+								in section 6).</p>
+							<p>If you think you may be allergic, ask your doctor for advice.</p>
+							<p><b>Warnings and precautions</b></p>
+
+							<p><b>Talk to your doctor or nurse before taking Inlyta</b></p>
+
+							<ul>
+								<li><b>If you have high blood pressure.</b></li>
+							</ul>
+							<p>Inlyta can raise your blood pressure. It is important to check your blood pressure before
+								you take this medicine, and regularly while you are taking it. If you have high blood
+								pressure (hypertension) you may be treated with medicines to reduce the blood pressure.
+								Your doctor should make sure that your blood pressure is under control before starting
+								Inlyta treatment, and while on treatment with this medicine.</p>
+							<ul>
+								<li><b>If you have thyroid gland problems.</b></li>
+							</ul>
+							<p>Inlyta can cause thyroid gland problems. Tell your doctor if you get tired more easily,
+								generally feel colder than other people, or your voice deepens whilst taking this
+								medicine. Your thyroid function should be checked before you take Inlyta and regularly
+								while you are taking it. If your thyroid gland is not producing enough thyroid hormone
+								before, or while on treatment with this medicine, you should be treated with thyroid
+								hormone replacement.</p>
+
+							<ul>
+								<li><b>If you have had a recent problem with blood clots in your veins and arteries
+										(types of blood vessels), including stroke, heart attack, embolism, or
+										thrombosis.</b></li>
+							</ul>
+							<p>Get emergency help right away and call your doctor if you get symptoms such as chest pain
+								or pressure; pain in your arms, back, neck or jaw; shortness of breath; numbness or
+								weakness on one side of your body; trouble talking; headache; vision changes; or
+								dizziness while on treatment with this medicine.</p>
+
+							<ul>
+								<li><b>If you suffer from bleeding problems.</b></li>
+							</ul>
+							<p>Inlyta may increase your chance of bleeding. Tell your doctor if you have any bleeding,
+								coughing up of blood or bloody sputum while on treatment with this medicine.</p>
+
+							<ul>
+								<li><b>If you have or have had an aneurysm (enlargement and weakening of a blood vessel
+										wall) or a tear in a blood vessel wall.</b></li>
+							</ul>
+
+							<ul>
+								<li><b>If during treatment with this medicine you get severe stomach (abdominal) pain or
+										stomach pain that does not go away.</b></li>
+							</ul>
+							<p>Inlyta may increase the risk of developing a hole in the stomach or intestine or
+								formation of fistula (abnormal tube-like passage from one normal body cavity to another
+								body cavity or the skin).</p>
+							<p>Tell your doctor if you have severe abdominal pain while on treatment with this medicine.
+							</p>
+
+							<ul>
+								<li><b>If you are going to have an operation or if you have an unhealed wound.</b></li>
+							</ul>
+							<p>Your doctor should stop Inlyta at least 24 hours before your operation as it may affect
+								wound healing. Your treatment with this medicine should be restarted when the wound has
+								adequately healed.</p>
+
+							<ul>
+								<li><b>If during treatment with this medicine, you get symptoms such as headache,
+										confusion, seizures (fits), or changes in vision with or without high blood
+										pressure.</b></li>
+							</ul>
+							<p>Get emergency help right away and call your doctor. This could be a rare neurological
+								side effect named posterior reversible encephalopathy syndrome.</p>
+
+							<ul>
+								<li><b>If you have liver problems.</b></li>
+							</ul>
+							<p>Your doctor should do blood tests to check your liver function before and during
+								treatment with Inlyta.</p>
+
+							<ul>
+								<li><b>If during treatment with this medicine, you get symptoms such as excessive
+										tiredness, swelling of the abdomen, legs or ankles, shortness of breath, or
+										protruding neck veins.</b></li>
+							</ul>
+							<p>Inlyta may increase the risk of developing heart failure events. Your doctor should
+								monitor for signs or symptoms of heart failure events periodically throughout treatment
+								with axitinib.</p>
+
+							<p><b>Use in children and adolescents</b></p>
+							<p>Inlyta is not recommended for people aged under 18. This medicine has not been studied in
+								children and adolescents.</p>
+							<p><b>Other medicines and Inlyta</b></p>
+							<p>Some medicines may affect Inlyta, or be affected by it. Please tell your doctor,
+								pharmacist or nurse about all the medicines you have recently taken, are currently
+								taking, or plan to take, including medicines obtained without a prescription, vitamins,
+								and herbal medicines. The medicines listed in this leaflet may not be the only ones that
+								could interact with Inlyta.</p>
+
+							<p>The following medicines may increase the risk of side effects with Inlyta:</p>
+							<ul>
+								<li>ketoconazole or itraconazole, used to treat fungal infections;</li>
+								<li>clarithromycin, erythromycin or telithromycin, antibiotics used to treat bacterial
+									infections;</li>
+								<li>atazanavir, indinavir, nelfinavir, ritonavir or saquinavir, used to treat HIV
+									infections/AIDS;</li>
+								<li>nefazodone, used to treat depression.</li>
+							</ul>
+							<p>The following medicines may reduce the effectiveness of Inlyta:</p>
+
+							<ul>
+								<li>rifampicin, rifabutin or rifapentin, used to treat tuberculosis (TB);</li>
+								<li>dexamethasone, a steroid medicine prescribed for many different conditions,
+									including serious illnesses;</li>
+								<li>phenytoin, carbamazepine or phenobarbital, anti-epileptics used to stop seizures or
+									fits;</li>
+								<li>St. John’s wort<i> (Hypericum perforatum)</i>, a herbal product used to treat
+									depression.</li>
+
+							</ul>
+							<p>You <b>should not</b> take these medicines during your treatment with Inlyta. If you are
+								taking any of them, tell your doctor, pharmacist or nurse. Your doctor may change the
+								dose of these medicines, change the dose of Inlyta, or switch you to a different
+								medicine.</p>
+							<p>Inlyta may increase side effects associated with theophylline, used to treat asthma or
+								other lung diseases.</p>
+							<p><b>Inlyta with food and drink</b></p>
+							<p>Do not take this medicine with grapefruit or grapefruit juice, as it may increase the
+								chance of side effects.</p>
+
+							<p><b>Pregnancy and breast-feeding</b></p>
+							<ul>
+								<li>If you are pregnant or breast-feeding, think you may be pregnant or are planning to
+									have a baby, ask your doctor, pharmacist or nurse for advice before taking this
+									medicine.</li>
+								<li>Inlyta could harm an unborn baby or breast-fed baby.</li>
+								<li>Do not take this medicine during pregnancy. Talk to your doctor before taking it if
+									you are pregnant or might become pregnant.</li>
+								<li>Use a reliable method of contraception while you are taking Inlyta and up to 1 week
+									after the last dose of this medicine, to prevent pregnancy.</li>
+								<li>Do not breast-feed during treatment with Inlyta. If you are breast-feeding, your
+									doctor should discuss with you whether to discontinue breast-feeding or discontinue
+									Inlyta treatment.</li>
+							</ul>
+
+							<p><b>Driving and using machines</b></p>
+							<p>If you experience dizziness and/or feel tired while on treatment with Inlyta, take
+								special care when driving or using machines.</p>
+
+							<p><b>Inlyta contains lactose </b></p>
+							<p>If you have been told by your doctor that you have an intolerance to some sugars, contact
+								your doctor before taking this medicine.</p>
+
+							<p><b>Inlyta contains sodium</b></p>
+							<p>This medicine contains less than 1 mmol (23 mg) sodium per film-coated tablet, that is to
+								say essentially ‘sodium-free’.</p>
+
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="3. How to take Inlyta" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+
+							<p>Always take this medicine exactly as your doctor has told you. You should check with your
+								doctor, pharmacist or nurse if you are not sure.</p>
+
+							<p>The recommended dose is 5 mg twice a day. Your doctor may subsequently increase or
+								decrease your dose depending on how you tolerate treatment with Inlyta.</p>
+
+							<p>Swallow the tablets whole with water, with or without food. Take the Inlyta doses
+								approximately 12 hours apart.</p>
+							<p><b>If you take more Inlyta than you should</b></p>
+							<p>If you accidentally take too many tablets or a higher dose than you need, contact a
+								doctor for advice right away. If possible, show the doctor the pack, or this leaflet.
+								You may require medical attention.</p>
+							<p><b>If you forget to take Inlyta</b></p>
+							<p>Take your next dose at your regular time. Do not take a double dose to make up for the
+								forgotten tablets.</p>
+							<p><b>If you vomit while taking Inlyta</b></p>
+							<p>If you vomit, an additional dose should not be taken. The next prescribed dose should be
+								taken at the usual time.</p>
+
+							<p><b>If you stop taking Inlyta</b></p>
+							<p>If you are not able to take this medicine as your doctor prescribed or you feel you do
+								not need it anymore, contact your doctor right away.</p>
+
+							<p>If you have any further questions on the use of this medicine, ask your doctor,
+								pharmacist or nurse.</p>
+
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="4. Possible side effects" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p>Like all medicines, this medicine can cause side effects, although not everybody gets
+								them.</p>
+							<p><b>Some side effects could be serious. You must immediately contact your doctor if you
+									experience any of those following serious side effects (see also section 2 “What you
+									need to know before you take Inlyta”):</b></p>
+							<ul>
+								<li><b>Heart failure events.</b> Tell your doctor if you experience excessive tiredness,
+									swelling of the abdomen, legs, or ankles, shortness of breath, or protruding neck
+									veins.</li>
+								<li><b>Blood clots in your veins and arteries (types of blood vessels), including
+										stroke, heart attack, embolism, or thrombosis.</b> Get emergency help right away
+									and call your doctor if you get symptoms such as chest pain or pressure; pain in
+									your arms, back, neck or jaw; shortness of breath; numbness or weakness on one side
+									of your body; trouble talking; headache; vision changes: or dizziness.</li>
+								<li><b>Bleeding.</b> Tell your doctor right away if you have any of these symptoms or a
+									serious bleeding problem during treatment with Inlyta: black tarry stools, coughing
+									up of blood or bloody sputum, or change in your mental status.</li>
+								<li><b>Hole in the stomach or intestine or formation of fistula (abnormal tube-like
+										passage from one normal body cavity to another body cavity or the skin).</b>
+									Tell your doctor if you have severe abdominal pain.</li>
+								<li><b>Severe increase in blood pressure (hypertensive crisis).</b> Tell your doctor if
+									you have a very high blood pressure, severe headache, or severe chest pain.</li>
+								<li><b>Reversible swelling of the brain (posterior reversible encephalopathy
+										syndrome).</b> Get emergency help right away and call your doctor if you get
+									symptoms such as headache, confusion, seizures (fits), or changes in vision with or
+									without high blood pressure.</li>
+							</ul>
+							<p>Other side effects with Inlyta may include:</p>
+
+							<p><b>Very common: may affect more than 1 in 10 people</b></p>
+							<ul>
+								<li>High blood pressure, or increases in blood pressure</li>
+								<li>Diarrhoea, feeling or being sick (nausea or vomiting), stomach ache, indigestion,
+									soreness of the mouth, tongue or throat, constipation</li>
+								<li>Shortness of breath, cough, hoarseness</li>
+								<li>Lack of energy, feeling weak or tired</li>
+								<li>Under-active thyroid gland (may show in your blood tests)</li>
+								<li>Redness and swelling of the palms of the hands or soles of the feet (hand-foot
+									syndrome), skin rash, dryness of the skin</li>
+								<li>Joint pain, pain in hands or feet</li>
+								<li>Loss of appetite</li>
+								<li>Protein in the urine (may show in your urine tests)</li>
+								<li>Weight loss</li>
+								<li>Headache, taste disturbance or loss of taste</li>
+
+							</ul>
+							<p><b>Common: may affect up to 1 in 10 people</b></p>
+							<ul>
+								<li>Dehydration (loss of body fluids)</li>
+								<li>Kidney failure</li>
+								<li>Flatulence (wind), haemorrhoids, bleeding from gums, bleeding from the rectum, a
+									burning or stinging sensation in the mouth</li>
+								<li>Hyper-active thyroid gland (may show in your blood tests)</li>
+								<li>Sore throat or nose and throat irritation(vomiting)</li>
+								<li>Muscle pain</li>
+								<li>Nose bleeding</li>
+								<li>Skin itching, redness of the skin, hair loss</li>
+								<li>Ringing/sound in the ears (tinnitus)</li>
+								<li>Reduction in the number of red blood cells (may show in your blood tests)</li>
+								<li>Reduction in the number of blood platelets (cells that help blood to clot) (may show
+									in your blood tests)</li>
+								<li>Presence of red blood cells in the urine (may show in your urine tests)</li>
+								<li>Changes in the levels of different chemicals/enzymes in the blood (may show in your
+									blood tests)</li>
+								<li>Increase in the number of red blood cells (may show in your blood tests)</li>
+								<li>Swelling of the abdomen, legs, or ankles, protruding neck veins, excessive
+									tiredness, shortness of breath (signs of heart failure events)</li>
+								<li>Fistula (abnormal tube like passage from one normal body cavity to another body
+									cavity or the skin)</li>
+								<li>Dizziness</li>
+								<li>Inflammation of the gall bladder</li>
+
+							</ul>
+							<p><b>Uncommon: may affect up to 1 in 100 people</b></p>
+							<ul>
+								<li>Reduction in the number of white blood cells (may show in your blood tests)</li>
+
+							</ul>
+
+							<p><b>Not known: frequency cannot be estimated from the available data</b></p>
+							<ul>
+								<li>An enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall
+									(aneurysms and artery dissections).</li>
+
+							</ul>
+
+							<p><b>Reporting of side effects</b></p>
+							<p>If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any
+								possible side effects not listed in this leaflet. By reporting side effects you can help
+								provide more information on the safety of this medicine.</p>
+
+
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="5. How to store Inlyta" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p>Keep this medicine out of the sight and reach of children.</p>
+							<p>Do not use this medicine after the expiry date which is stated on the carton and on the
+								blister foil or bottle after “EXP”. The expiry date refers to the last day of the month.
+							</p>
+							<p>This medicine should be stored below 30°C.</p>
+							<p>Do not use any pack that is damaged or shows signs of tampering.</p>
+							<p>Do not throw away any medicines via wastewater or household waste. Ask your
+								pharmacist how to throw away medicines you no longer use. These measures will help
+								to protect the environment.</p>
+						</div>
+					</text>
+				</section>
+
+				<section>
+					<title value="6. Contents of the pack and other information" />
+					<text>
+						<status value="generated" />
+						<div xmlns="http://www.w3.org/1999/xhtml">
+							<p>Inlyta 1 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and
+								“1 XNB” on the other. Inlyta 1 mg is available in bottles of 180 tablets and blisters of
+								14 tablets. Each blister pack contains 28 tablets or 56 tablets.</p>
+							<p><strong>Inlyta 3 mg film-coated tablets</strong></p>
+							<p>Inlyta 3 mg film-coated tablets are red, round and debossed with “Pfizer” on one side and
+								“3 XNB” on the other. Inlyta 3 mg is available in bottles of 60 tablets and blisters of
+								14 tablets. Each blister pack contains 28 tablets or 56 tablets.</p>
+							<p><strong>Inlyta 5 mg film-coated tablets</strong></p>
+							<p>Inlyta 5 mg film-coated tablets are red, triangular and debossed with “Pfizer” on one
+								side and “5 XNB” on the other. Inlyta 5 mg is available in bottles of 60 tablets and
+								blisters of 14 tablets. Each blister pack contains 28 tablets or 56 tablets.</p>
+							<p><strong>Inlyta 7 mg film-coated tablets</strong></p>
+							<p>Inlyta 7 mg film-coated tablets are red, diamond shaped and debossed with “Pfizer” on one
+								side and “7 XNB” on the other. Inlyta 7 mg is available in bottles of 60 tablets and
+								blisters of 14 tablets. Each blister pack contains 28 tablets or 56 tablets.</p>
+							<p>Not all pack sizes may be marketed.</p>
+
+							<p><b>Marketing Authorisation Holder</b></p>
+							<p>Pfizer Europe MA EEIG</p>
+							<p>Boulevard de la Plaine 17</p>
+							<p>1050 Bruxelles</p>
+							<p>Belgium</p>
+							<p><b>Manufacturer </b></p>
+							<p>Pfizer Manufacturing Deutschland GmbH</p>
+							<p>Betriebsstätte Freiburg</p>
+							<p>Mooswaldallee 1</p>
+							<p>79090 Freiburg</p>
+							<p>Germany</p>
+							<p>For any information about this medicine, please contact the local representative of the
+								Marketing
+								Authorisation Holder:</p>
+							<table border="1">
+								<tr>
+									<td>
+										<p>Belgique/ België /Belgien</p>
+										<p>Pfizer SA/NV</p>
+										<p>Tél/Tel: +32 (0)2 554 62 11</p>
+									</td>
+									<td>
+										<p>Lietuva</p>
+										<p>Pfizer Luxembourg SARL filialas Lietuvoje</p>
+										<p>Tel. + 370 52 51 4000</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>България</p>
+										<p>Пфайзер Люксембург САРЛ, Клон България</p>
+										<p>Тел.: +359 2 970 4333</p>
+									</td>
+									<td>
+										<p>Luxembourg/Luxemburg</p>
+										<p>Pfizer S.A.</p>
+										<p>Tél/Tel: +32 (0)2 554 62 11</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Česká republika</p>
+										<p>Pfizer, spol. sr.o.</p>
+										<p>Tel: +420 283 004 111</p>
+									</td>
+									<td>
+										<p>Magyarország</p>
+										<p>Pfizer Kft.</p>
+										<p>Tel.: +36-1-488-37-00</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Danmark</p>
+										<p>Pfizer ApS</p>
+										<p>Tlf: +45 44 20 11 00</p>
+									</td>
+									<td>
+										<p>Malta</p>
+										<p>Vivian Corporation Ltd.</p>
+										<p>Tel: +356 21344610</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Deutschland</p>
+										<p>PFIZER PHARMA GmbH</p>
+										<p>Tel: +49 (0)30 550055 51000</p>
+									</td>
+									<td>
+										<p>Nederland</p>
+										<p>Pfizer BV</p>
+										<p>Tel: +31 (0)10 406 43 01</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Eesti</p>
+										<p>Pfizer Luxembourg SARL Eesti filiaal</p>
+										<p>Tel.: +372 666 7500</p>
+									</td>
+									<td>
+										<p>Norge</p>
+										<p>Pfizer AS</p>
+										<p>Tlf: +47 67 52 61 00</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Ελλάδα</p>
+										<p>Pfizer Ελλάς A.E.</p>
+										<p>Τλ: +30 210 6785 800</p>
+									</td>
+									<td>
+										<p>Österreich</p>
+										<p>Pfizer Corporation Austria Ges.m.b.H.</p>
+										<p>Tel: +43 (0)1 521 15-0</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>España</p>
+										<p>Pfizer S.L.</p>
+										<p>Tél: +34 91 490 99 00</p>
+									</td>
+									<td>
+										<p>Polska</p>
+										<p>Pfizer Polska Sp. z o.o.</p>
+										<p>Tel.:+48 22 335 61 00</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>France</p>
+										<p>Pfizer</p>
+										<p>Tél: +33 (0)1 58 07 34 40</p>
+									</td>
+									<td>
+										<p>Portugal</p>
+										<p>Laboratórios Pfizer, Lda.</p>
+										<p>Tel: +351 21 423 5500</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Hrvatska</p>
+										<p>Pfizer Croatia d.o.o.</p>
+										<p>Tel: + 385 1 3908 777</p>
+									</td>
+									<td>
+										<p>România</p>
+										<p>Pfizer Romania S.R.L.</p>
+										<p>Tel: +40 (0) 21 207 28 00</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Ísland</p>
+										<p>Icepharma hf.</p>
+										<p>Sími: +354 540 8000</p>
+									</td>
+									<td>
+										<p>Slovenská republika</p>
+										<p>Pfizer Luxembourg SARL, organizačná zložka</p>
+										<p>Tel.: + 421 2 3355 5500</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Ireland</p>
+										<p>Pfizer Healthcare Ireland</p>
+										<p>Tel: 1800 633 363 (toll free)<br />+44 (0)1304 616161</p>
+									</td>
+									<td>
+										<p>Slovenija</p>
+										<p>Pfizer Luxembourg SARL<br />Pfizer, podružnica za svetovanje s področja
+											farmacevtske dejavnosti,
+											Ljubljana</p>
+										<p>Tel.: + 386 (0)1 52 11 400</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Italia</p>
+										<p>Pfizer S.r.l.</p>
+										<p>Tel: +39 06 33 18 21</p>
+									</td>
+									<td>
+										<p>Suomi/Finland</p>
+										<p>Pfizer Oy</p>
+										<p>Puh./Tel: +358 (0)9 43 00 40</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Kύπρος</p>
+										<p>Pfizer Ελλάς Α.Ε. (Cyprus Branch)</p>
+										<p>Τηλ: +357 22 817690</p>
+									</td>
+									<td>
+										<p>Sverige</p>
+										<p>Pfizer AB</p>
+										<p>Tel: +46 (0)8 550 520 00</p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<p>Latvija</p>
+										<p>Pfizer Luxembourg SARL filiāle Latvijā</p>
+										<p>Tel.: + 371 670 35 775</p>
+									</td>
+									<td>
+										<p>United Kingdom (Northern Ireland)</p>
+										<p>Pfizer Limited</p>
+										<p>Tel: +44 (0) 1304 616161</p>
+									</td>
+								</tr>
+							</table>
+							<p><strong>This leaflet was last revised in</strong></p>
+							<p><strong>Other sources of information</strong></p>
+							<p>Detailed information on this medicine is available on the European Medicines Agency web
+								site:<br />
+								<a href="http://www.ema.europa.eu/">http://www.ema.europa.eu/</a>
+							</p>
+						</div>
+					</text>
+				</section>
+			</Composition>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="Organization/PfizerEuropeMAEEIG" />
+		<resource>
+			<Organization>
+				<id value="PfizerEuropeMAEEIG" />
+				<meta>
+				<profile
+					value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://spor.ema.europa.eu/omswi" />
+					<value value="ORG-100011459" />
+				</identifier>
+				<active value="true" />
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="220000000034" />
+						<display value="Marketing authorisation holder" />
+					</coding>
+					<text value="Marketing authorisation holder" />
+				</type>
+				<name value="Pfizer Europe MA EEIG" />
+				<contact>
+					<address>
+						<use value="work" />
+						<type value="physical" />
+						<text value="Pfizer Europe MA EEIG
+                        Boulevard de la Plaine 17
+                        1050 Bruxelles
+                        Belgium" />
+						<line value="Boulevard de la Plaine 17" />
+						<city value="Bruxelles" />
+						<country value="BE" />
+					</address>
+				</contact>
+			</Organization>
+		</resource>
+	</entry>
+	<entry>
+		<fullUrl value="Organization/pfizergermany" />
+		<resource>
+			<Organization>
+				<id value="pfizergermany" />
+				<meta>
+				<profile
+					value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://leaflet.healthcare/sid/organization" />
+					<value value="ORG-100004089" />
+				</identifier>
+				<active value="true" />
+				<type>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="220000000033" />
+						<display value="Manufacturer" />
+					</coding>
+				</type>
+				<name value="Pfizer Europe MA EEIG" />
+				<contact>
+					<address>
+						<use value="work" />
+						<type value="physical" />
+						<text value="Pfizer Manufacturing Deutschland GmbH
+						Betriebsstätte Freiburg
+						Mooswaldallee 1
+						79090 Freiburg
+						Germany" />
+						<line value="Mooswaldallee 1" />
+						<city value="Freiburg" />
+						<postalCode value="79090" />
+						<country value="Germany" />
+					</address>
+				</contact>
+			</Organization>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/axitinib1" />
+		<resource>
+			<Ingredient>
+				<id value="axitinib1" />
+				<identifier>
+					<use value="official" />
+					<system value="http://fdasis.nlm.nih.gov" />
+					<value value="C9LVQ0YUXG" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+						<code value="ACTIB" />
+						<display value="active ingredient - basis of strength" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+							<reference>
+								<reference value="SubstanceDefinition/axitinib" />
+							</reference>
+						</code>
+					<strength>
+						<presentationQuantity>
+							<system value="http://unitsofmeasure.org" />
+							<value value="1" />
+							<unit value="mg" />
+							<code value="mg" />
+						</presentationQuantity>
+					</strength>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/axitinib3" />
+		<resource>
+			<Ingredient>
+				<id value="axitinib3" />
+				<identifier>
+					<use value="official" />
+					<system value="http://fdasis.nlm.nih.gov" />
+					<value value="C9LVQ0YUXG" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+						<code value="ACTIB" />
+						<display value="active ingredient - basis of strength" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+							<reference>
+								<reference value="SubstanceDefinition/axitinib" />
+							</reference>
+						</code>
+					<strength>
+						<presentationQuantity>
+							<system value="http://unitsofmeasure.org" />
+							<value value="3" />
+							<unit value="mg" />
+							<code value="mg" />
+						</presentationQuantity>
+					</strength>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/axitinib5" />
+		<resource>
+			<Ingredient>
+				<id value="axitinib5" />
+				<identifier>
+					<use value="official" />
+					<system value="http://fdasis.nlm.nih.gov" />
+					<value value="C9LVQ0YUXG" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+						<code value="ACTIB" />
+						<display value="active ingredient - basis of strength" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+							<reference>
+								<reference value="SubstanceDefinition/axitinib" />
+							</reference>
+						</code>
+					<strength>
+						<presentationQuantity>
+							<system value="http://unitsofmeasure.org" />
+							<value value="5" />
+							<unit value="mg" />
+							<code value="mg" />
+						</presentationQuantity>
+					</strength>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/axitinib7" />
+		<resource>
+			<Ingredient>
+				<id value="axitinib7" />
+				<identifier>
+					<use value="official" />
+					<system value="http://fdasis.nlm.nih.gov" />
+					<value value="C9LVQ0YUXG" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="http://terminology.hl7.org/CodeSystem/v3-RoleClass" />
+						<code value="ACTIB" />
+						<display value="active ingredient - basis of strength" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+							<reference>
+								<reference value="SubstanceDefinition/axitinib" />
+							</reference>
+						</code>
+					<strength>
+						<presentationQuantity>
+							<system value="http://unitsofmeasure.org" />
+							<value value="7" />
+							<unit value="mg" />
+							<code value="mg" />
+						</presentationQuantity>
+					</strength>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/MICROCRYSTALLINECELLULOSE" />
+		<resource>
+			<Ingredient>
+				<id value="MICROCRYSTALLINECELLULOSE" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="OP1R32D61U" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="OP1R32D61U" />
+								<display value="MICROCRYSTALLINE CELLULOSE" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/LACTOSEMONOHYDRATE" />
+		<resource>
+			<Ingredient>
+				<id value="LACTOSEMONOHYDRATE" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="EWQ57Q8I5X" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="EWQ57Q8I5X" />
+								<display value="LACTOSE MONOHYDRATE" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/CROSCARMELLOSESODIUM" />
+		<resource>
+			<Ingredient>
+				<id value="CROSCARMELLOSESODIUM" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="M28OL1HH48" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="M28OL1HH48" />
+								<display value="CROSCARMELLOSE SODIUM" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/MAGNESIUMSTEARATE" />
+		<resource>
+			<Ingredient>
+				<id value="MAGNESIUMSTEARATE" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="70097M6I30" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="70097M6I30" />
+								<display value="MAGNESIUM STEARATE" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/HYPROMELLOSE2910" />
+		<resource>
+			<Ingredient>
+				<id value="HYPROMELLOSE2910" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="36SFW2JZ0W" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="36SFW2JZ0W" />
+								<display value="HYPROMELLOSE 2910 (15 mPa·s)" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/TITANIUMDIOXIDE" />
+		<resource>
+			<Ingredient>
+				<id value="TITANIUMDIOXIDE" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="15FIX9V2JP" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="15FIX9V2JP" />
+								<display value="TITANIUM DIOXIDE" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/TRIACETIN" />
+		<resource>
+			<Ingredient>
+				<id value="TRIACETIN" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="XHX3C3X673" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="XHX3C3X673" />
+								<display value="TRIACETIN" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="Ingredient/IRONOXIDERED" />
+		<resource>
+			<Ingredient>
+				<id value="IRONOXIDERED" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+					<value value="1K09F3G675" />
+				</identifier>
+				<status value="active" />
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta1mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta3mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta5mg" />
+				</for>
+				<for>
+					<reference value="ManufacturedItemDefinition/inlyta7mg" />
+				</for>
+				<role>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="100000072082" />
+						<display value="Excipient" />
+					</coding>
+				</role>
+				<allergenicIndicator value="false" />
+				<substance>
+					<code>
+						<concept>
+							<coding>
+								<system value="https://gsrs.ncats.nih.gov/ginas/app/beta" />
+								<code value="1K09F3G675" />
+								<display value="IRON OXIDE RED" />
+							</coding>
+						</concept>
+					</code>
+				</substance>
+			</Ingredient>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="SubstanceDefinition/axitinib" />
+		<resource>
+			<SubstanceDefinition>
+				<id value="axitinib" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+					<value value="C9LVQ0YUXG" />
+				</identifier>
+				<version value="1" />
+				<status>
+					<coding>
+						<system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+						<code value="1" />
+						<display value="Validated (UNII)" />
+					</coding>
+				</status>
+				<molecularWeight>
+					<type>
+						<text value="exact" />
+					</type>
+					<amount>
+						<value value="386.47" />
+					</amount>
+				</molecularWeight>
+				<structure>
+					<molecularFormula value="C22H18N4OS" />
+				</structure>
+				<name>
+					<name value="Axitinib" />
+					<type>
+						<coding>
+							<system value="https://gsrs.ncats.nih.gov/ginas/app/beta/" />
+							<code value="x" />
+							<display value="Chemical Name" />
+						</coding>
+					</type>
+				</name>
+			</SubstanceDefinition>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="ManufacturedItemDefinition/inlyta1mg" />
+		<resource>
+			<ManufacturedItemDefinition>
+				<id value="inlyta1mg" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="http://ema.europa.eu/fhir/epiDocument" />
+					<value value="inlyta-1mg-identifier" />
+				</identifier>
+				<status value="active" />
+				<manufacturedDoseForm>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi/" />
+						<code value="100000073646" />
+						<display value="Film-coated tablet" />
+					</coding>
+				</manufacturedDoseForm>
+				<unitOfPresentation>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="200000002120" />
+						<display value="Tablet" />
+					</coding>
+				</unitOfPresentation>
+				<manufacturer>
+					<reference value="Organization/pfizergermany" />
+				</manufacturer>
+			</ManufacturedItemDefinition>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="ManufacturedItemDefinition/inlyta3mg" />
+		<resource>
+			<ManufacturedItemDefinition>
+				<id value="inlyta3mg" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="http://ema.europa.eu/fhir/epiDocument" />
+					<value value="inlyta-3mg-identifier" />
+				</identifier>
+				<status value="active" />
+				<manufacturedDoseForm>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi/" />
+						<code value="100000073646" />
+						<display value="Film-coated tablet" />
+					</coding>
+				</manufacturedDoseForm>
+				<unitOfPresentation>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="200000002120" />
+						<display value="Tablet" />
+					</coding>
+				</unitOfPresentation>
+				<manufacturer>
+					<reference value="Organization/pfizergermany" />
+				</manufacturer>
+			</ManufacturedItemDefinition>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="ManufacturedItemDefinition/inlyta5mg" />
+		<resource>
+			<ManufacturedItemDefinition>
+				<id value="inlyta5mg" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="http://ema.europa.eu/fhir/epiDocument" />
+					<value value="inlyta-5mg-identifier" />
+				</identifier>
+				<status value="active" />
+				<manufacturedDoseForm>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi/" />
+						<code value="100000073646" />
+						<display value="Film-coated tablet" />
+					</coding>
+				</manufacturedDoseForm>
+				<unitOfPresentation>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="200000002120" />
+						<display value="Tablet" />
+					</coding>
+				</unitOfPresentation>
+				<manufacturer>
+					<reference value="Organization/pfizergermany" />
+				</manufacturer>
+			</ManufacturedItemDefinition>
+		</resource>
+	</entry>
+
+	<entry>
+		<fullUrl value="ManufacturedItemDefinition/inlyta7mg" />
+		<resource>
+			<ManufacturedItemDefinition>
+				<id value="inlyta7mg" />
+				<meta>
+					<profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
+				</meta>
+				<identifier>
+					<use value="official" />
+					<system value="http://ema.europa.eu/fhir/epiDocument" />
+					<value value="inlyta-7mg-identifier" />
+				</identifier>
+				<status value="active" />
+				<manufacturedDoseForm>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi/" />
+						<code value="100000073646" />
+						<display value="Film-coated tablet" />
+					</coding>
+				</manufacturedDoseForm>
+				<unitOfPresentation>
+					<coding>
+						<system value="https://spor.ema.europa.eu/rmswi" />
+						<code value="200000002120" />
+						<display value="Tablet" />
+					</coding>
+				</unitOfPresentation>
+				<manufacturer>
+					<reference value="Organization/pfizergermany" />
+				</manufacturer>
+			</ManufacturedItemDefinition>
+		</resource>
+	</entry>
+	<entry>
+        <fullUrl value="PackagedProductDefinition/inlyta-1mg-bottle" />
+        <resource>
+            <PackagedProductDefinition>
+                <id value="inlyta-1mg-bottle" />
+                <meta>
+                <profile
+                    value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+                </meta>
+                <identifier>
+                    <use value="official" />
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+                </identifier>
+                <name value="Bottle of 180 tablets" />
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000155527" />
+                        <display value="Chemical Medicinal Product" />
+                    </coding>
+                </type>
+                <packageFor>
+                    <reference value="MedicinalProductDefinition/inlyta-1mg" />
+                </packageFor>
+                <status>
+                    <coding>
+                        <system value="http://hl7.org/fhir/publication-status" />
+                        <code value="active" />
+                        <display value="Active" />
+                    </coding>
+                </status>
+                <statusDate value="2023-02-17T00:00:00Z" />
+                <containedItemQuantity>
+                    <value value="1" />
+                    <system value="http://unitsofmeasure.org" />
+                    <code value="1" />
+                </containedItemQuantity>
+                <description value="Inlyta 1 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “1 XNB” on 
+				the other. Inlyta 1 mg is available in bottles of 180 tablets and blisters of 14 tablets. Each blister pack
+				contains 28 tablets or 56 tablets." />
+                <manufacturer>
+                    <reference value="Organization/pfizergermany" />
+                </manufacturer>
+                <packaging>
+                    <identifier>
+                        <system value="https://spor.ema.europa.eu/pmswi" />
+                        <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                    </identifier>
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/rmswi" />
+                            <code value="100000073497" />
+                            <display value="Bottle" />
+                        </coding>
+                    </type>
+                    <quantity value="1" />
+                    <material>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/rmswi" />
+                            <code value="200000003215" />
+                            <display value="High Density PolyEthylene" />
+                        </coding>
+                    </material>
+                    <containedItem>
+                        <item>
+                            <reference>
+                                <reference value="ManufacturedItemDefinition/inlyta1mg" />
+                            </reference>
+                        </item>
+                        <amount>
+                            <value value="1" />
+                            <unit value="mm" />
+                            <system value="http://unitsofmeasure.org" />
+                            <code value="mg" />
+                        </amount>
+                    </containedItem>
+                </packaging>
+            </PackagedProductDefinition>
+        </resource>
+    </entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-3mg-bottle" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-3mg-bottle" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Bottle of 60 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-3mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 3 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “3 XNB” on the other. Inlyta 3 mg is available in bottles of 60 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Bottle" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta3mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="3" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-5mg-bottle" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-5mg-bottle" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Bottle of 60 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-5mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 5 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “5 XNB” on the other. Inlyta 5 mg is available in bottles of 60 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Bottle" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta5mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="5" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-7mg-bottle" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-7mg-bottle" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Bottle of 60 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-7mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 7 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “7 XNB” on the other. Inlyta 7 mg is available in bottles of 60 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Bottle" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta7mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="7" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-1mg-blister-28" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-1mg-blister-28" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 28 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-1mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 1 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “1 XNB” on the other. Inlyta 1 mg is available in blisters of 28 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta1mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-1mg-blister-56" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-1mg-blister-56" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 56 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-1mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 1 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “1 XNB” on the other. Inlyta 1 mg is available in blisters of 56 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta1mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-3mg-blister-28" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-3mg-blister-28" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 28 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-3mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 3 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “3 XNB” on the other. Inlyta 3 mg is available in blisters of 28 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta3mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-3mg-blister-56" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-3mg-blister-56" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 56 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-3mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 3 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “3 XNB” on the other. Inlyta 3 mg is available in blisters of 56 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta3mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-5mg-blister-28" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-5mg-blister-28" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 28 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-5mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 5 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “5 XNB” on the other. Inlyta 5 mg is available in blisters of 28 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta5mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-5mg-blister-56" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-5mg-blister-56" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 56 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-5mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 5 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “5 XNB” on the other. Inlyta 5 mg is available in blisters of 56 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta5mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="RegulatedAuthorization/authorization1mg" />
+    <resource>
+        <RegulatedAuthorization>
+            <id value="authorization1mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+            </identifier>
+            <subject>
+                <reference value="MedicinalProductDefinition/inlyta-1mg" />
+            </subject>
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="220000000061" />
+                    <display value="Marketing Authorisation" />
+                </coding>
+            </type>
+            <region>
+                <coding>
+                    <system value="urn:iso:std:iso:3166" />
+                    <code value="EU" />
+                    <display value="European Union" />
+                </coding>
+            </region>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <holder>
+                <reference value="Organization/PfizerEuropeMAEEIG" />
+            </holder>
+        </RegulatedAuthorization>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="RegulatedAuthorization/authorization3mg" />
+    <resource>
+        <RegulatedAuthorization>
+            <id value="authorization3mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+            </identifier>
+            <subject>
+                <reference value="MedicinalProductDefinition/inlyta-3mg" />
+            </subject>
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="220000000061" />
+                    <display value="Marketing Authorisation" />
+                </coding>
+            </type>
+            <region>
+                <coding>
+                    <system value="urn:iso:std:iso:3166" />
+                    <code value="EU" />
+                    <display value="European Union" />
+                </coding>
+            </region>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <holder>
+                <reference value="Organization/PfizerEuropeMAEEIG" />
+            </holder>
+        </RegulatedAuthorization>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="RegulatedAuthorization/authorization5mg" />
+    <resource>
+        <RegulatedAuthorization>
+            <id value="authorization5mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+            </identifier>
+            <subject>
+                <reference value="MedicinalProductDefinition/inlyta-5mg" />
+            </subject>
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="220000000061" />
+                    <display value="Marketing Authorisation" />
+                </coding>
+            </type>
+            <region>
+                <coding>
+                    <system value="urn:iso:std:iso:3166" />
+                    <code value="EU" />
+                    <display value="European Union" />
+                </coding>
+            </region>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <holder>
+                <reference value="Organization/PfizerEuropeMAEEIG" />
+            </holder>
+        </RegulatedAuthorization>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="RegulatedAuthorization/authorization7mg" />
+    <resource>
+        <RegulatedAuthorization>
+            <id value="authorization7mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="6ae5b5d9-7372-494c-874b-7dc67d386d2e" />
+            </identifier>
+            <subject>
+                <reference value="MedicinalProductDefinition/inlyta-7mg" />
+            </subject>
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="220000000061" />
+                    <display value="Marketing Authorisation" />
+                </coding>
+            </type>
+            <region>
+                <coding>
+                    <system value="urn:iso:std:iso:3166" />
+                    <code value="EU" />
+                    <display value="European Union" />
+                </coding>
+            </region>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <holder>
+                <reference value="Organization/PfizerEuropeMAEEIG" />
+            </holder>
+        </RegulatedAuthorization>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-7mg-blister-28" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-7mg-blister-28" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 28 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-7mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 7 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “7 XNB” on the other. Inlyta 7 mg is available in blisters of 28 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta7mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="PackagedProductDefinition/inlyta-7mg-blister-56" />
+    <resource>
+        <PackagedProductDefinition>
+            <id value="inlyta-7mg-blister-56" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <use value="official" />
+                <system value="https://spor.ema.europa.eu/pmswi" />
+                <value value="b42ab299-e84b-4be3-bdbb-a66cd4c8c6ab" />
+            </identifier>
+            <name value="Blister of 56 tablets" />
+            <type>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000155527" />
+                    <display value="Chemical Medicinal Product" />
+                </coding>
+            </type>
+            <packageFor>
+                <reference value="MedicinalProductDefinition/inlyta-7mg" />
+            </packageFor>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="Active" />
+                </coding>
+            </status>
+            <statusDate value="2023-02-17T00:00:00Z" />
+            <containedItemQuantity>
+                <value value="1" />
+                <system value="http://unitsofmeasure.org" />
+                <code value="1" />
+            </containedItemQuantity>
+            <description value="Inlyta 7 mg film-coated tablets are red, oval and debossed with “Pfizer” on one side and “7 XNB” on the other. Inlyta 7 mg is available in blisters of 56 tablets." />
+            <manufacturer>
+                <reference value="Organization/pfizergermany" />
+            </manufacturer>
+            <packaging>
+                <identifier>
+                    <system value="https://spor.ema.europa.eu/pmswi" />
+                    <value value="5913fadd-6172-4282-ad02-19ab9d063b66" />
+                </identifier>
+                <type>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="100000073497" />
+                        <display value="Blister" />
+                    </coding>
+                </type>
+                <quantity value="1" />
+                <material>
+                    <coding>
+                        <system value="https://spor.ema.europa.eu/rmswi" />
+                        <code value="200000003215" />
+                        <display value="High Density PolyEthylene" />
+                    </coding>
+                </material>
+                <containedItem>
+                    <item>
+                        <reference>
+                            <reference value="ManufacturedItemDefinition/inlyta7mg" />
+                        </reference>
+                    </item>
+                    <amount>
+                        <value value="1" />
+                        <unit value="mm" />
+                        <system value="http://unitsofmeasure.org" />
+                        <code value="mg" />
+                    </amount>
+                </containedItem>
+            </packaging>
+        </PackagedProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="MedicinalProductDefinition/inlyta-1mg" />
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="inlyta-1mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <system value="http://ema.europa.eu/fhir/epiDocument" />
+                <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+            </identifier>
+            <type>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-type" />
+                    <code value="MedicinalProduct" />
+                    <display value="Medicinal Product" />
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-domain" />
+                    <code value="Human" />
+                    <display value="Human use" />
+                </coding>
+            </domain>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="active" />
+                </coding>
+            </status>
+            <legalStatusOfSupply>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000072084" />
+                    <display value="Medicinal product subject to medical prescription" />
+                </coding>
+            </legalStatusOfSupply>
+            <name>
+                <productName value="Inlyta® (axitinib) 1 mg film-coated tablets" />
+                <part>
+                    <part value="Inlyta" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000002" />
+                            <display value="Invented name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Axitinib" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000003" />
+                            <display value="Scientific name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="1 mg" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000004" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Film-coated tablets" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000005" />
+                            <display value="Pharmaceutical dose form part" />
+                        </coding>
+                    </type>
+                </part>
+                <usage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </country>
+                    <jurisdiction>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </jurisdiction>
+                    <language>
+                        <coding>
+                            <system value="urn:ietf:bcp:47" />
+                            <code value="en" />
+                            <display value="English" />
+                        </coding>
+                    </language>
+                </usage>
+            </name>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="MedicinalProductDefinition/inlyta-3mg" />
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="inlyta-3mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <system value="http://ema.europa.eu/fhir/epiDocument" />
+                <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+            </identifier>
+            <type>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-type" />
+                    <code value="MedicinalProduct" />
+                    <display value="Medicinal Product" />
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-domain" />
+                    <code value="Human" />
+                    <display value="Human use" />
+                </coding>
+            </domain>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="active" />
+                </coding>
+            </status>
+            <legalStatusOfSupply>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000072084" />
+                    <display value="Medicinal product subject to medical prescription" />
+                </coding>
+            </legalStatusOfSupply>
+            <name>
+                <productName value="Inlyta® (axitinib) 3 mg film-coated tablets" />
+                <part>
+                    <part value="Inlyta" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000002" />
+                            <display value="Invented name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Axitinib" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000003" />
+                            <display value="Scientific name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="3 mg" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000004" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Film-coated tablets" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000005" />
+                            <display value="Pharmaceutical dose form part" />
+                        </coding>
+                    </type>
+                </part>
+                <usage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </country>
+                    <jurisdiction>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </jurisdiction>
+                    <language>
+                        <coding>
+                            <system value="urn:ietf:bcp:47" />
+                            <code value="en" />
+                            <display value="English" />
+                        </coding>
+                    </language>
+                </usage>
+            </name>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="MedicinalProductDefinition/inlyta-5mg" />
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="inlyta-5mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <system value="http://ema.europa.eu/fhir/epiDocument" />
+                <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+            </identifier>
+            <type>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-type" />
+                    <code value="MedicinalProduct" />
+                    <display value="Medicinal Product" />
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-domain" />
+                    <code value="Human" />
+                    <display value="Human use" />
+                </coding>
+            </domain>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="active" />
+                </coding>
+            </status>
+            <legalStatusOfSupply>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000072084" />
+                    <display value="Medicinal product subject to medical prescription" />
+                </coding>
+            </legalStatusOfSupply>
+            <name>
+                <productName value="Inlyta® (axitinib) 5 mg film-coated tablets" />
+                <part>
+                    <part value="Inlyta" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000002" />
+                            <display value="Invented name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Axitinib" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000003" />
+                            <display value="Scientific name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="5 mg" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000004" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Film-coated tablets" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000005" />
+                            <display value="Pharmaceutical dose form part" />
+                        </coding>
+                    </type>
+                </part>
+                <usage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </country>
+                    <jurisdiction>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </jurisdiction>
+                    <language>
+                        <coding>
+                            <system value="urn:ietf:bcp:47" />
+                            <code value="en" />
+                            <display value="English" />
+                        </coding>
+                    </language>
+                </usage>
+            </name>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+
+<entry>
+    <fullUrl value="MedicinalProductDefinition/inlyta-7mg" />
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="inlyta-7mg" />
+            <meta>
+                <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
+            </meta>
+            <identifier>
+                <system value="http://ema.europa.eu/fhir/epiDocument" />
+                <value value="471bb15-7f52-4fcd-b615-8674ce6eb91e" />
+            </identifier>
+            <type>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-type" />
+                    <code value="MedicinalProduct" />
+                    <display value="Medicinal Product" />
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://hl7.org/fhir/medicinal-product-domain" />
+                    <code value="Human" />
+                    <display value="Human use" />
+                </coding>
+            </domain>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status" />
+                    <code value="active" />
+                    <display value="active" />
+                </coding>
+            </status>
+            <legalStatusOfSupply>
+                <coding>
+                    <system value="https://spor.ema.europa.eu/rmswi" />
+                    <code value="100000072084" />
+                    <display value="Medicinal product subject to medical prescription" />
+                </coding>
+            </legalStatusOfSupply>
+            <name>
+                <productName value="Inlyta® (axitinib) 7 mg film-coated tablets" />
+                <part>
+                    <part value="Inlyta" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000002" />
+                            <display value="Invented name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Axitinib" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000003" />
+                            <display value="Scientific name part" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="7 mg" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000004" />
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="Film-coated tablets" />
+                    <type>
+                        <coding>
+                            <system value="https://spor.ema.europa.eu/lists/220000000000" />
+                            <code value="220000000005" />
+                            <display value="Pharmaceutical dose form part" />
+                        </coding>
+                    </type>
+                </part>
+                <usage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </country>
+                    <jurisdiction>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166" />
+                            <code value="EU" />
+                            <display value="European Union" />
+                        </coding>
+                    </jurisdiction>
+                    <language>
+                        <coding>
+                            <system value="urn:ietf:bcp:47" />
+                            <code value="en" />
+                            <display value="English" />
+                        </coding>
+                    </language>
+                </usage>
+            </name>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+</Bundle>
