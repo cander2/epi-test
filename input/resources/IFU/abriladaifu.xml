@@ -21,6 +21,12 @@
                             <display value="Instructions for Use"/>
                         </coding>
                     </code>
+                    <text>
+                        <status value="generated"/>
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                            <p>Provides detailed instructions on how to use the product.</p>
+                        </div>
+                    </text>
                     <section>
                         <title value="Product Name"/>
                         <code>
@@ -30,6 +36,12 @@
                                 <display value="Product Name"/>
                             </coding>
                         </code>
+                        <text>
+                            <status value="generated"/>
+                            <div xmlns="http://www.w3.org/1999/xhtml">
+                                <p>This section describes the name of the product.</p>
+                            </div>
+                        </text>
                     </section>
                     <section>
                         <title value="Storage Information"/>
@@ -40,6 +52,12 @@
                                 <display value="Storage Information"/>
                             </coding>
                         </code>
+                        <text>
+                            <status value="generated"/>
+                            <div xmlns="http://www.w3.org/1999/xhtml">
+                                <p>Details on how to store the product correctly.</p>
+                            </div>
+                        </text>
                     </section>
                     <section>
                         <title value="Instructions"/>
@@ -50,6 +68,12 @@
                                 <display value="Instructions"/>
                             </coding>
                         </code>
+                        <text>
+                            <status value="generated"/>
+                            <div xmlns="http://www.w3.org/1999/xhtml">
+                                <p>Step-by-step guide on using the product.</p>
+                            </div>
+                        </text>
                         <section>
                             <title value="Step 1: Supplies you need"/>
                             <code>
@@ -59,6 +83,12 @@
                                     <display value="Step 1: Supplies you need"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>List of necessary supplies for the procedure.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 2: Getting ready"/>
@@ -69,6 +99,12 @@
                                     <display value="Step 2: Getting ready"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Preparation steps before starting the procedure.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 3: Check"/>
@@ -79,6 +115,12 @@
                                     <display value="Step 3: Check"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Checks to perform before proceeding.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 4: Check your medicine and expiration date"/>
@@ -89,6 +131,12 @@
                                     <display value="Step 4: Check your medicine and expiration date"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Verification of medicine and its expiry.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 5: Choose and prepare the injection site"/>
@@ -99,6 +147,12 @@
                                     <display value="Step 5: Choose and prepare the injection site"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Guidance on selecting and preparing the injection site.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 6: Remove the cap"/>
@@ -109,6 +163,12 @@
                                     <display value="Step 6: Remove the cap"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Instructions for removing the cap from the pen.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 7: Insert the needle"/>
@@ -119,6 +179,12 @@
                                     <display value="Step 7: Insert the needle"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>How to correctly insert the needle.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 8: Inject your medicine"/>
@@ -129,6 +195,12 @@
                                     <display value="Step 8: Inject your medicine"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Steps to administer the medicine.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 9: Check the window"/>
@@ -139,6 +211,12 @@
                                     <display value="Step 9: Check the window"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Checking the injection window for proper dosage.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 10: Remove the pen"/>
@@ -149,6 +227,12 @@
                                     <display value="Step 10: Remove the pen"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Instructions for removing the pen after injection.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Step 11: Dispose of used pen"/>
@@ -159,6 +243,12 @@
                                     <display value="Step 11: Dispose of used pen"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Proper disposal methods for used pens.</p>
+                                </div>
+                            </text>
                         </section>
                     </section>
                     <section>
@@ -170,6 +260,12 @@
                                 <display value="Questions and Answers"/>
                             </coding>
                         </code>
+                        <text>
+                            <status value="generated"/>
+                            <div xmlns="http://www.w3.org/1999/xhtml">
+                                <p>Common questions and their answers about the product use.</p>
+                            </div>
+                        </text>
                         <section>
                             <title value="What should I do with my pen if it has been dropped?"/>
                             <code>
@@ -179,6 +275,12 @@
                                     <display value="What should I do with my pen if it has been dropped?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Guidance on handling a dropped pen.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Can I use my pen straight from the refrigerator?"/>
@@ -189,6 +291,12 @@
                                     <display value="Can I use my pen straight from the refrigerator?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Information on using the pen after refrigeration.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="What should I do if I need to travel?"/>
@@ -199,6 +307,12 @@
                                     <display value="What should I do if I need to travel?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Advice for traveling with the pen.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Is it okay to shake my pen before I use it?"/>
@@ -209,6 +323,12 @@
                                     <display value="Is it okay to shake my pen before I use it?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Whether shaking the pen is acceptable before use.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Do I need to remove any air bubbles before using my pen?"/>
@@ -219,6 +339,12 @@
                                     <display value="Do I need to remove any air bubbles before using my pen?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Handling air bubbles in the pen.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Drops of medicine have appeared at the needle tip. Is this okay?"/>
@@ -229,6 +355,12 @@
                                     <display value="Drops of medicine have appeared at the needle tip. Is this okay?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>What to do if medicine drops appear at the needle tip.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Can I re-insert the needle if I change my mind where I want to inject?"/>
@@ -239,6 +371,12 @@
                                     <display value="Can I re-insert the needle if I change my mind where I want to inject?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Whether it's safe to re-insert the needle.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="I pushed my pen against the skin but could not press the button down. What should I do?"/>
@@ -249,6 +387,12 @@
                                     <display value="I pushed my pen against the skin but could not press the button down. What should I do?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>What to do if the button doesn't depress.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Can I pinch or stretch the skin at the injection area?"/>
@@ -259,6 +403,12 @@
                                     <display value="Can I pinch or stretch the skin at the injection area?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Techniques for skin manipulation during injection.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="Do I need to keep my finger pressed on the injection button for the whole injection?"/>
@@ -269,6 +419,12 @@
                                     <display value="Do I need to keep my finger pressed on the injection button for the whole injection?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Instructions on button management during injection.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="How long will the injection take?"/>
@@ -279,6 +435,12 @@
                                     <display value="How long will the injection take?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Expected duration of the injection process.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="What should I do if I see more than a small drop of medicine on the skin after giving my injection?"/>
@@ -289,6 +451,12 @@
                                     <display value="What should I do if I see more than a small drop of medicine on the skin after giving my injection?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Steps to take if excess medicine is observed post-injection.</p>
+                                </div>
+                            </text>
                         </section>
                         <section>
                             <title value="What should I do if I have any questions about my ABRILADA pen or medicine?"/>
@@ -299,6 +467,12 @@
                                     <display value="What should I do if I have any questions about my ABRILADA pen or medicine?"/>
                                 </coding>
                             </code>
+                            <text>
+                                <status value="generated"/>
+                                <div xmlns="http://www.w3.org/1999/xhtml">
+                                    <p>Contact information and advice for additional questions.</p>
+                                </div>
+                            </text>
                         </section>
                     </section>
                 </section>
