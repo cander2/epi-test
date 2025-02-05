@@ -1,1 +1,308 @@
-test
+<?xml version="1.0" encoding="UTF-8"?>
+<Bundle xmlns="http://hl7.org/fhir">
+    <type value="document"/>
+    <entry>
+        <resource>
+            <Composition>
+                <status value="final"/>
+                <type>
+                    <coding>
+                        <system value="http://loinc.org"/>
+                        <code value="11502-2"/>
+                        <display value="Instructions for Use"/>
+                    </coding>
+                </type>
+                <section>
+                    <title value="Instructions for Use"/>
+                    <code>
+                        <coding>
+                            <system value="http://snomed.info/sct"/>
+                            <code value="385436006"/>
+                            <display value="Instructions for Use"/>
+                        </coding>
+                    </code>
+                    <section>
+                        <title value="Product Name"/>
+                        <code>
+                            <coding>
+                                <system value="http://snomed.info/sct"/>
+                                <code value="705748001"/>
+                                <display value="Product Name"/>
+                            </coding>
+                        </code>
+                    </section>
+                    <section>
+                        <title value="Storage Information"/>
+                        <code>
+                            <coding>
+                                <system value="http://snomed.info/sct"/>
+                                <code value="339997002"/>
+                                <display value="Storage Information"/>
+                            </coding>
+                        </code>
+                    </section>
+                    <section>
+                        <title value="Instructions"/>
+                        <code>
+                            <coding>
+                                <system value="http://snomed.info/sct"/>
+                                <code value="44632000"/>
+                                <display value="Instructions"/>
+                            </coding>
+                        </code>
+                        <section>
+                            <title value="Step 1: Supplies you need"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713167003"/>
+                                    <display value="Step 1: Supplies you need"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 2: Getting ready"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713168008"/>
+                                    <display value="Step 2: Getting ready"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 3: Check"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713169000"/>
+                                    <display value="Step 3: Check"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 4: Check your medicine and expiration date"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713170004"/>
+                                    <display value="Step 4: Check your medicine and expiration date"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 5: Choose and prepare the injection site"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713171000"/>
+                                    <display value="Step 5: Choose and prepare the injection site"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 6: Remove the cap"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713172007"/>
+                                    <display value="Step 6: Remove the cap"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 7: Insert the needle"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713173002"/>
+                                    <display value="Step 7: Insert the needle"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 8: Inject your medicine"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713174008"/>
+                                    <display value="Step 8: Inject your medicine"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 9: Check the window"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713175009"/>
+                                    <display value="Step 9: Check the window"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 10: Remove the pen"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713176005"/>
+                                    <display value="Step 10: Remove the pen"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Step 11: Dispose of used pen"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713177001"/>
+                                    <display value="Step 11: Dispose of used pen"/>
+                                </coding>
+                            </code>
+                        </section>
+                    </section>
+                    <section>
+                        <title value="Questions and Answers"/>
+                        <code>
+                            <coding>
+                                <system value="http://snomed.info/sct"/>
+                                <code value="371632008"/>
+                                <display value="Questions and Answers"/>
+                            </coding>
+                        </code>
+                        <section>
+                            <title value="What should I do with my pen if it has been dropped?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713178006"/>
+                                    <display value="What should I do with my pen if it has been dropped?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Can I use my pen straight from the refrigerator?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713179003"/>
+                                    <display value="Can I use my pen straight from the refrigerator?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="What should I do if I need to travel?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713180002"/>
+                                    <display value="What should I do if I need to travel?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Is it okay to shake my pen before I use it?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713181003"/>
+                                    <display value="Is it okay to shake my pen before I use it?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Do I need to remove any air bubbles before using my pen?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713182005"/>
+                                    <display value="Do I need to remove any air bubbles before using my pen?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Drops of medicine have appeared at the needle tip. Is this okay?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713183000"/>
+                                    <display value="Drops of medicine have appeared at the needle tip. Is this okay?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Can I re-insert the needle if I change my mind where I want to inject?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713184006"/>
+                                    <display value="Can I re-insert the needle if I change my mind where I want to inject?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="I pushed my pen against the skin but could not press the button down. What should I do?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713185007"/>
+                                    <display value="I pushed my pen against the skin but could not press the button down. What should I do?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Can I pinch or stretch the skin at the injection area?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713186008"/>
+                                    <display value="Can I pinch or stretch the skin at the injection area?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="Do I need to keep my finger pressed on the injection button for the whole injection?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713187004"/>
+                                    <display value="Do I need to keep my finger pressed on the injection button for the whole injection?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="How long will the injection take?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713188009"/>
+                                    <display value="How long will the injection take?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="What should I do if I see more than a small drop of medicine on the skin after giving my injection?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713189001"/>
+                                    <display value="What should I do if I see more than a small drop of medicine on the skin after giving my injection?"/>
+                                </coding>
+                            </code>
+                        </section>
+                        <section>
+                            <title value="What should I do if I have any questions about my ABRILADA pen or medicine?"/>
+                            <code>
+                                <coding>
+                                    <system value="http://snomed.info/sct"/>
+                                    <code value="713190005"/>
+                                    <display value="What should I do if I have any questions about my ABRILADA pen or medicine?"/>
+                                </coding>
+                            </code>
+                        </section>
+                    </section>
+                </section>
+            </Composition>
+        </resource>
+    </entry>
+</Bundle>
