@@ -22,9 +22,10 @@
                 <language value="en" />
                 <text>
                     <status value="generated" />
-                    <div xmlns="http://www.w3.org/1999/xhtml">These highlights do not include all the information needed
-                        to use IBRANCE safely and effectively. See full prescribing information for IBRANCE. <br />
-                        <br />IBRANCE<sup>®</sup> (palbociclib) capsules, for oral use <br />Initial U.S. Approval: 2015
+                    <div xmlns="http://www.w3.org/1999/xhtml">
+                        <p>These highlights do not include all the information needed to use IBRANCE safely and effectively. See full prescribing information for IBRANCE. </p>
+                        <p>IBRANCE<sup>®</sup> (palbociclib) capsules, for oral use </p>
+                        <p>Initial U.S. Approval: 2015</p>
                     </div>
                 </text>
                 <version value="16" />
@@ -133,11 +134,13 @@
                     <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                         <valueString value="ID_9e4d1989-7184-46ce-a222-1b221d893f7d" />
                     </extension>
-                    <code><coding>
+                    <code>
+                        <coding>
 							<system value="http://loinc.org"/>
 							<code value="43683-2"/>
 							<display value="RECENT MAJOR CHANGES SECTION"/>
-						</coding></code>
+						</coding>
+                    </code>
                     <text>
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -220,11 +223,13 @@
                         <valueString value="S2" />
                     </extension>
                     <title value="2 DOSAGE AND ADMINISTRATION" />
-                    <code><coding>
+                    <code>
+                        <coding>
 							<system value="http://loinc.org"/>
 							<code value="34068-7"/>
 							<display value="DOSAGE &amp; ADMINISTRATION SECTION"/>
-						</coding></code>
+						</coding>
+                    </code>
                     <text>
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -247,7 +252,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S2.1" />
                         </extension>
-                        <title value="2.1Recommended Dose and Schedule" />
+                        <title value="2.1 Recommended Dose and Schedule" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -292,7 +297,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S2.2" />
                         </extension>
-                        <title value="2.2Dose Modification" />
+                        <title value="2.2 Dose Modification" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -628,10 +633,10 @@
                             <div style="narrative">
                                 <p>125 mg capsules: opaque, hard gelatin capsules, size 0, with caramel cap and body,
                                     printed with white ink "Pfizer" on the cap, "PBC 125" on the body.</p>
-                                <p><a id="del01" class="DeleteStart" />100 mg capsules: opaque,
+                                <p>100 mg capsules: opaque,
                                     hard gelatin capsules, size 1, with caramel cap and light
                                     orange body, printed with white ink "Pfizer" on the cap, "PBC 100" on the
-                                    body.<a href="#del01" class="DeleteEnd" /></p>
+                                    body.</p>
                                 <p>75 mg capsules: opaque, hard gelatin capsules, size 2, with light orange cap and
                                     body, printed with white ink "Pfizer" on the cap, "PBC 75" on the body.</p>
                             </div>
@@ -646,11 +651,13 @@
                         <valueString value="S4" />
                     </extension>
                     <title value="4 CONTRAINDICATIONS" />
-                    <code><coding>
+                    <code>
+                        <coding>
 							<system value="http://loinc.org"/>
 							<code value="34070-3"/>
 							<display value="CONTRAINDICATIONS SECTION"/>
-						</coding></code>
+						</coding>
+                    </code>
                     <text>
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -705,7 +712,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S5.1" />
                         </extension>
-                        <title value="5.1Neutropenia" />
+                        <title value="5.1 Neutropenia" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -781,7 +788,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S5.3" />
                         </extension>
-                        <title value="5.3Embryo-Fetal Toxicity" />
+                        <title value="5.3 Embryo-Fetal Toxicity" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -852,7 +859,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S6.1" />
                         </extension>
-                        <title value="6.1Clinical Studies Experience" />
+                        <title value="6.1 Clinical Studies Experience" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -898,11 +905,13 @@
                                 <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                                     <valueString value="ID_efd4058c-cf03-44c0-b548-6910f3cbe691" />
                                 </extension>
-                                <code><coding>
+                                <code>
+                                    <coding>
 										<system value="http://loinc.org"/>
 										<code value="42229-5"/>
 										<display value="SPL UNCLASSIFIED SECTION"/>
-									</coding></code>
+									</coding>
+                                </code>
                                 <text>
                                     <status value="additional" />
                                     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -2881,7 +2890,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S6.2" />
                         </extension>
-                        <title value="6.2Postmarketing Experience" />
+                        <title value="6.2 Postmarketing Experience" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -2972,7 +2981,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S7.1" />
                         </extension>
-                        <title value="7.1Agents That May Increase Palbociclib Plasma Concentrations" />
+                        <title value="7.1 Agents That May Increase Palbociclib Plasma Concentrations" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -3019,7 +3028,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S7.2" />
                         </extension>
-                        <title value="7.2Agents That May Decrease Palbociclib Plasma Concentrations" />
+                        <title value="7.2 Agents That May Decrease Palbociclib Plasma Concentrations" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -3061,7 +3070,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S7.3" />
                         </extension>
-                        <title value="7.3Drugs That May Have Their Plasma Concentrations Altered by Palbociclib" />
+                        <title value="7.3 Drugs That May Have Their Plasma Concentrations Altered by Palbociclib" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -3507,7 +3516,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S8.6" />
                         </extension>
-                        <title value="8.6Hepatic Impairment" />
+                        <title value="8.6 Hepatic Impairment" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -3545,7 +3554,7 @@
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                             <valueString value="S8.7" />
                         </extension>
-                        <title value="8.7Renal Impairment" />
+                        <title value="8.7 Renal Impairment" />
                         <code><coding>
 								<system value="http://loinc.org"/>
 								<code value="42229-5"/>
@@ -3640,11 +3649,13 @@
                         <valueString value="S12" />
                     </extension>
                     <title value="12 CLINICAL PHARMACOLOGY" />
-                    <code><coding>
+                    <code>
+                        <coding>
 							<system value="http://loinc.org"/>
 							<code value="34090-1"/>
 							<display value="CLINICAL PHARMACOLOGY SECTION"/>
-						</coding></code>
+						</coding>
+                    </code>
                     <section id="d20291d2-96c9-4e20-91df-fd4812dab1f7">
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                             <valueDateTime value="2022-12-16" />
@@ -4142,11 +4153,13 @@
                                 <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
                                     <valueString value="ID_3f1b74de-b2f9-4e5f-86ba-66f52fcd7435" />
                                 </extension>
-                                <code><coding>
+                                <code>
+                                    <coding>
 										<system value="http://loinc.org"/>
 										<code value="42229-5"/>
 										<display value="SPL UNCLASSIFIED SECTION"/>
-									</coding></code>
+									</coding>
+                                </code>
                                 <text>
                                     <status value="additional" />
                                     <div xmlns="http://www.w3.org/1999/xhtml">
@@ -5500,9 +5513,9 @@
                         <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <b> IBRANCE <sup>®</sup> (EYE-brans) <br /> (palbociclib) </b>
-                                <br />
-                                Capsules
+                                <p><b>IBRANCE <sup>®</sup> (EYE-brans)</b></p> 
+                                <p><b>(palbociclib)</b></p>
+                                <p>Capsules</p>
                             </div>
                         </text>
                     </section>
@@ -5555,7 +5568,7 @@
                                     IBRANCE completely if your symptoms are severe.
                                 </p>
                                 <p>
-                                    <b> See <a href="">"What are the possible side effects of
+                                    <b> See <a href="#What are the possible side effects of IBRANCE?">"What are the possible side effects of
                                             IBRANCE?"</a> for more information about side effects. </b>
                                 </p>
                             </div>
@@ -5600,7 +5613,7 @@
                             <valueDateTime value="2023-09-13" />
                         </extension>
                         <title
-                            value="Before taking IBRANCE, tell your healthcare provider about all of your medical conditions, including if you:" />
+                            value="What should I tell my healthcare provider before taking IBRANCE?" />
                         <code>
 							<coding>
 								<system value="http://loinc.org"/>
@@ -5611,6 +5624,7 @@
                         <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
+                                <p>Before taking IBRANCE, tell your healthcare provider about all of your medical conditions, including if you:</p>
                                 <ul>
                                     <li>have fever, chills, or any other signs or symptoms of
                                         infection.</li>
@@ -5619,12 +5633,12 @@
                                         your unborn baby.</li>
                                     <li>
                                         <ul>
-                                            <li>Females who are able to become pregnant should use
+                                            <li><b>Females</b> who are able to become pregnant should use
                                                 effective birth control during treatment and for at
                                                 least 3 weeks after the last dose of IBRANCE. Your
                                                 healthcare provider may ask you to take a pregnancy
                                                 test before you start treatment with IBRANCE.</li>
-                                            <li>Males with female partners who can become pregnant
+                                            <li><b>Males</b> with female partners who can become pregnant
                                                 should use effective birth control during treatment
                                                 with IBRANCE for at least 3 months after the last
                                                 dose of IBRANCE.</li>
@@ -5699,7 +5713,7 @@
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
                                 <p>
-                                    <b> IBRANCE may cause serious side effects. See <a href="">"What
+                                    <b> IBRANCE may cause serious side effects. See <a href="#82a5a3bb-c2d4-4a6f-b911-abe9bc1a7c81">"What
                                             is the most important information I should know about
                                             IBRANCE?"</a>
                                     </b>
@@ -5711,7 +5725,8 @@
                                 <ul>
                                     <li> Low red blood cell counts and low platelet counts are
                                         common with IBRANCE. Call your healthcare provider right
-                                        away if you develop any of these symptoms during treatment: <ul>
+                                        away if you develop any of these symptoms during treatment: 
+                                        <ul>
                                             <li>dizziness</li>
                                             <li>shortness of breath</li>
                                             <li>weakness</li>
@@ -5836,8 +5851,7 @@
                                 </p>
                                 <p>
                                     For more information, go to <a href="http://www.pfizer.com">WWW.PFIZER.COM</a>. or
-                                    call
-                                    1-800-438-1985.
+                                    call 1-800-438-1985.
                                 </p>
 
                             </div>
