@@ -1,0 +1,2189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Composition xmlns="http://hl7.org/fhir">
+    <id value="ibrance-spl-composition" />
+    <meta>
+        <versionId value="8" /> <!-- Matches SPL versionNumber -->
+        <lastUpdated value="2024-12-27T00:00:00Z" /> <!-- Matches SPL effectiveTime -->
+    </meta>
+    <identifier>
+        <system value="urn:ietf:rfc:3986" />
+        <value value="urn:uuid:34bc3595-f976-42cb-96a3-d178e5e67eba" /> <!-- Matches SPL id root -->
+    </identifier>
+    <status value="final" />
+    <type>
+        <coding>
+            <system value="http://loinc.org" />
+            <code value="34391-3" />
+            <display value="HUMAN PRESCRIPTION DRUG LABEL" /> <!-- Matches SPL code -->
+        </coding>
+    </type>
+    <category>
+        <coding>
+            <system value="http://hl7.org/fhir/ValueSet/document-classcodes" />
+            <code value="prescription-drug-labeling" />
+            <display value="Prescription Drug Labeling" />
+        </coding>
+    </category>
+    <subject>
+        <reference value="Medication/ibrance-palbociclib" />
+        <display value="IBRANCE (palbociclib)" />
+    </subject>
+    <date value="2024-12-27T00:00:00Z" /> <!-- Matches SPL effectiveTime -->
+    <author>
+        <reference value="Organization/pfizer" />
+        <display value="Pfizer Laboratories Div Pfizer Inc" /> <!-- Matches SPL author -->
+    </author>
+    <title value="IBRANCE (palbociclib) Tablets - Full Prescribing Information" />
+    <confidentiality value="N" />
+
+    <!-- 1 INDICATIONS AND USAGE -->
+    <section>
+        <title value="1 INDICATIONS AND USAGE" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34067-9" />
+                <display value="INDICATIONS &amp; USAGE SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>IBRANCE is indicated for the treatment of adult patients with hormone receptor
+                    (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced
+                    or metastatic breast cancer in combination with:</p>
+                <ul>
+                    <li>an aromatase inhibitor as initial endocrine-based therapy; or</li>
+                    <li>fulvestrant in patients with disease progression following endocrine
+                        therapy.</li>
+                </ul>
+            </div>
+        </text>
+    </section>
+
+    <!-- 2 DOSAGE AND ADMINISTRATION -->
+    <section>
+        <title value="2 DOSAGE AND ADMINISTRATION" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34068-7" />
+                <display value="DOSAGE &amp; ADMINISTRATION SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>2.1 Recommended Dose and Schedule</h3>
+                <p>The recommended dose of IBRANCE is a 125 mg tablet taken orally once daily for 21
+                    consecutive days followed by 7 days off treatment to comprise a complete cycle
+                    of 28 days. IBRANCE tablet may be taken with or without food <i>[see <a
+                            href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+                <p>Administer the recommended dose of an aromatase inhibitor when given with
+                    IBRANCE. Please refer to the Full Prescribing Information for the aromatase
+                    inhibitor being used.</p>
+                <p>When given with IBRANCE, the recommended dose of fulvestrant is 500 mg
+                    administered on Days 1, 15, 29, and once monthly thereafter. Please refer to the
+                    Full Prescribing Information of fulvestrant.</p>
+                <p>Patients should be encouraged to take their dose of IBRANCE at approximately the
+                    same time each day.</p>
+                <p>If the patient vomits or misses a dose, an additional dose should not be taken.
+                    The next prescribed dose should be taken at the usual time. IBRANCE tablets
+                    should be swallowed whole (do not chew, crush, or split them prior to
+                    swallowing). Tablets should not be ingested if they are broken, cracked, or
+                    otherwise not intact.</p>
+                <p>Pre/perimenopausal women treated with the combination IBRANCE plus an aromatase
+                    inhibitor or fulvestrant therapy should also be treated with luteinizing
+                    hormone-releasing hormone (LHRH) agonists according to current clinical practice
+                    standards.</p>
+                <p>For men treated with combination IBRANCE plus aromatase inhibitor therapy,
+                    consider treatment with an LHRH agonist according to current clinical practice
+                    standards.</p>
+
+                <h3>2.2 Dose Modification</h3>
+                <p>The recommended dose modifications for adverse reactions are listed in Tables 1,
+                    2, and 3.</p>
+
+                <table>
+                    <caption>Table 1. Recommended Dose Modification for Adverse Reactions</caption>
+                    <thead>
+                        <tr>
+                            <th>Dose Level</th>
+                            <th>Dose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Recommended starting dose</td>
+                            <td>125 mg/day</td>
+                        </tr>
+                        <tr>
+                            <td>First dose reduction</td>
+                            <td>100 mg/day</td>
+                        </tr>
+                        <tr>
+                            <td>Second dose reduction</td>
+                            <td>75 mg/day<sup>*</sup></td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2"><sup>*</sup> If further dose reduction below 75 mg/day
+                                is required, discontinue.</td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <table>
+                    <caption>Table 2. Dose Modification and Management – Hematologic Toxicities<sup>
+                        *</sup></caption>
+                    <thead>
+                        <tr>
+                            <th>CTCAE Grade</th>
+                            <th>Dose Modifications</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="2">
+                                <p>Monitor complete blood counts prior to the start of IBRANCE
+                                    therapy and at the beginning of each cycle, as well as on Day 15
+                                    of the first 2 cycles, and as clinically indicated.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p>For patients who experience a maximum of Grade 1 or 2 neutropenia
+                                    in the first 6 cycles, monitor complete blood counts for
+                                    subsequent cycles every 3 months, prior to the beginning of a
+                                    cycle and as clinically indicated.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Grade 1 or 2</td>
+                            <td>No dose adjustment is required.</td>
+                        </tr>
+                        <tr>
+                            <td>Grade 3</td>
+                            <td>
+                                <p><u>Day 1 of cycle:</u><br />Withhold IBRANCE, repeat complete
+                                    blood count monitoring within 1 week. When recovered to Grade
+                                    ≤2, start the next cycle at the <i>same dose</i>.</p>
+                                <p><u>Day 15 of first 2 cycles:</u><br />If Grade 3 on Day 15,
+                                    continue IBRANCE at current dose to complete cycle and repeat
+                                    complete blood count on Day 22.<br />If Grade 4 on Day 22, see <a
+                                        href="#Grade4">Grade 4</a> dose modification guidelines
+                                    below.<br />Consider dose reduction in cases of prolonged (>1
+                                    week) recovery from Grade 3 neutropenia or recurrent Grade 3
+                                    neutropenia on Day 1 of subsequent cycles.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Grade 3 neutropenia<sup>†</sup> with fever ≥38.5 °C and/or infection</td>
+                            <td>
+                                <p><u>At any time:</u><br />Withhold IBRANCE until recovery to Grade
+                                    ≤2.<br />Resume at the <i>next lower dose</i>.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="Grade4">Grade 4</td>
+                            <td>
+                                <p><u>At any time:</u><br />Withhold IBRANCE until recovery to Grade
+                                    ≤2.<br />Resume at the <i>next lower dose</i>.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2">
+                                <p>Grading according to CTCAE 4.0.<br />CTCAE=Common Terminology
+                                    Criteria for Adverse Events; LLN=lower limit of normal.</p>
+                                <p><sup>*</sup> Table applies to all hematologic adverse reactions
+                                    except lymphopenia (unless associated with clinical events,
+                                    e.g., opportunistic infections).</p>
+                                <p><sup>†</sup> Absolute neutrophil count (ANC): Grade 1: ANC &lt;
+                                    LLN – 1500/mm<sup>3</sup>; Grade 2: ANC 1000 – &lt;1500/mm<sup>3</sup>;
+                                    Grade 3: ANC 500 – &lt;1000/mm<sup>3</sup>; Grade 4: ANC
+                                    &lt;500/mm<sup>3</sup>.</p>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <table>
+                    <caption>Table 3. Dose Modification and Management – Non-Hematologic Toxicities</caption>
+                    <thead>
+                        <tr>
+                            <th>CTCAE Grade</th>
+                            <th>Dose Modifications</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Grade 1 or 2</td>
+                            <td>No dose adjustment is required.</td>
+                        </tr>
+                        <tr>
+                            <td>Grade ≥3 non-hematologic toxicity (if persisting despite optimal
+                                medical treatment)</td>
+                            <td>
+                                <p>Withhold until symptoms resolve to:</p>
+                                <ul>
+                                    <li>Grade ≤1;</li>
+                                    <li>Grade ≤2 (if not considered a safety risk for the patient)</li>
+                                </ul>
+                                <p>Resume at the <i>next lower dose</i>.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2">Grading according to CTCAE 4.0.<br />CTCAE=Common
+                                Terminology Criteria for Adverse Events.</td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <p>Permanently discontinue IBRANCE in patients with severe interstitial lung disease
+                    (ILD)/pneumonitis.</p>
+                <p>Refer to the Full Prescribing Information for coadministered endocrine therapy
+                    dose adjustment guidelines in the event of toxicity and other relevant safety
+                    information or contraindications.</p>
+
+                <h4>Dose Modifications for Use With Strong CYP3A Inhibitors</h4>
+                <p>Avoid concomitant use of strong CYP3A inhibitors and consider an alternative
+                    concomitant medication with no or minimal CYP3A inhibition. If patients must be
+                    coadministered a strong CYP3A inhibitor, reduce the IBRANCE dose to 75 mg once
+                    daily. If the strong inhibitor is discontinued, increase the IBRANCE dose (after
+                    3 to 5 half-lives of the inhibitor) to the dose used prior to the initiation of
+                    the strong CYP3A inhibitor <i>[see <a href="#S7.1">DRUG INTERACTIONS (7.1)</a>
+                    and <a href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+
+                <h4>Dose Modifications for Hepatic Impairment</h4>
+                <p>No dose adjustment is required for patients with mild or moderate hepatic
+                    impairment (Child-Pugh classes A and B). For patients with severe hepatic
+                    impairment (Child-Pugh class C), the recommended dose of IBRANCE is 75 mg once
+                    daily for 21 consecutive days followed by 7 days off treatment to comprise a
+                    complete cycle of 28 days <i>[see <a href="#S8.6">USE IN SPECIFIC POPULATIONS
+                    (8.6)</a> and <a href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+            </div>
+            </div>
+        </text>
+    </section>
+
+    <!-- 3 DOSAGE FORMS AND STRENGTHS -->
+    <section>
+        <title value="3 DOSAGE FORMS AND STRENGTHS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="43678-2" />
+                <display value="DOSAGE FORMS &amp; STRENGTHS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>125 mg tablets: Oval, light purple, film-coated tablets debossed with "Pfizer" on
+                    one side and "PBC 125" on the other side.</p>
+                <p>100 mg tablets: Oval, green, film-coated tablets debossed with "Pfizer" on one
+                    side and "PBC 100" on the other side.</p>
+                <p>75 mg tablets: Round, light purple, film-coated tablets debossed with "Pfizer" on
+                    one side and "PBC 75" on the other side.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 4 CONTRAINDICATIONS -->
+    <section>
+        <title value="4 CONTRAINDICATIONS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34070-3" />
+                <display value="CONTRAINDICATIONS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>None.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 5 WARNINGS AND PRECAUTIONS -->
+    <section>
+        <title value="5 WARNINGS AND PRECAUTIONS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="43685-7" />
+                <display value="WARNINGS AND PRECAUTIONS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>5.1 Neutropenia</h3>
+                <p>Neutropenia was the most frequently reported adverse reaction in PALOMA-2 with an
+                    incidence of 80% and PALOMA-3 with an incidence of 83%. A Grade ≥3 decrease in
+                    neutrophil counts was reported in 66% of patients receiving IBRANCE plus
+                    letrozole in PALOMA-2 and 66% of patients receiving IBRANCE plus fulvestrant in
+                    PALOMA-3. In PALOMA-2 and PALOMA-3, the median time to first episode of any
+                    grade neutropenia was 15 days and the median duration of Grade ≥3 neutropenia
+                    was 7 days <i>[see <a href="#S6.1">ADVERSE REACTIONS (6.1)</a>]</i>.</p>
+                <p>Monitor complete blood counts prior to starting IBRANCE therapy and at the
+                    beginning of each cycle, as well as on Day 15 of the first 2 cycles, and as
+                    clinically indicated. Dose interruption, dose reduction, or delay in starting
+                    treatment cycles is recommended for patients who develop Grade 3 or 4
+                    neutropenia <i>[see <a href="#S2.2">DOSAGE AND ADMINISTRATION (2.2)</a>]</i>.</p>
+                <p>Febrile neutropenia has been reported in 1.8% of patients exposed to IBRANCE
+                    across PALOMA-2 and PALOMA-3. One death due to neutropenic sepsis was observed
+                    in PALOMA-3. Physicians should inform patients to promptly report any episodes
+                    of fever <i>[see <a href="#S17">PATIENT COUNSELING INFORMATION (17)</a>]</i>.</p>
+
+                <h3>5.2 Interstitial Lung Disease (ILD)/Pneumonitis</h3>
+                <p>Severe, life-threatening, or fatal interstitial lung disease (ILD) and/or
+                    pneumonitis can occur in patients treated with cyclin-dependent kinase 4/6
+                    (CDK4/6) inhibitors, including IBRANCE when taken in combination with endocrine
+                    therapy.</p>
+                <p>Across clinical trials (PALOMA-1, PALOMA-2, PALOMA-3), 1.0% of IBRANCE-treated
+                    patients had ILD/pneumonitis of any grade, 0.1% had Grade 3 or 4 and no fatal
+                    cases were reported. Additional cases of ILD/pneumonitis have been observed in
+                    the postmarketing setting, with fatalities reported <i>[see <a href="#S6.2">ADVERSE
+                    REACTIONS (6.2)</a>]</i>.</p>
+                <p>Monitor patients for pulmonary symptoms indicative of ILD/pneumonitis (e.g.
+                    hypoxia, cough, dyspnea). In patients who have new or worsening respiratory
+                    symptoms and are suspected to have developed pneumonitis, interrupt IBRANCE
+                    immediately and evaluate the patient. Permanently discontinue IBRANCE in
+                    patients with severe ILD or pneumonitis <i>[see <a href="#S2.2">DOSAGE AND
+                    ADMINISTRATION (2.2)</a>]</i>.</p>
+
+                <h3>5.3 Embryo-Fetal Toxicity</h3>
+                <p>Based on findings from animal studies and its mechanism of action, IBRANCE can
+                    cause fetal harm when administered to a pregnant woman. In animal reproduction
+                    studies, administration of palbociclib to pregnant rats and rabbits during
+                    organogenesis resulted in embryo-fetal toxicity at maternal exposures that were
+                    ≥4 times the human clinical exposure based on area under the curve (AUC). Advise
+                    pregnant women of the potential risk to a fetus. Advise females of reproductive
+                    potential to use effective contraception during treatment with IBRANCE and for
+                    at least 3 weeks after the last dose <i>[see <a href="#S8.1">USE IN SPECIFIC
+                    POPULATIONS (8.1</a> and <a href="#S8.3">8.3)</a> and <a href="#S12.1">CLINICAL
+                    PHARMACOLOGY (12.1)</a>]</i>.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 6 ADVERSE REACTIONS -->
+    <section>
+        <title value="6 ADVERSE REACTIONS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34084-4" />
+                <display value="ADVERSE REACTIONS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>The following clinically significant adverse reactions are described elsewhere in
+                    the labeling:</p>
+                <ul>
+                    <li>Neutropenia <i>[see <a href="#S5.1">WARNINGS AND PRECAUTIONS (5.1)</a>]</i></li>
+                    <li>ILD/Pneumonitis <i>[see <a href="#S5.2">WARNINGS AND PRECAUTIONS (5.2)</a>]</i></li>
+                </ul>
+
+                <h3>6.1 Clinical Studies Experience</h3>
+                <p>Because clinical trials are conducted under varying conditions, the adverse
+                    reaction rates observed cannot be directly compared to rates in other trials and
+                    may not reflect the rates observed in clinical practice.</p>
+
+                <h4>PALOMA-2: IBRANCE plus Letrozole</h4>
+                <h5>Patients with estrogen receptor (ER)-positive, HER2-negative advanced or
+                    metastatic breast cancer for initial endocrine based therapy</h5>
+                <p>The safety of IBRANCE (125 mg/day) plus letrozole (2.5 mg/day) versus placebo
+                    plus letrozole was evaluated in PALOMA-2. The data described below reflect
+                    exposure to IBRANCE in 444 out of 666 patients with ER-positive, HER2-negative
+                    advanced breast cancer who received at least 1 dose of IBRANCE plus letrozole in
+                    PALOMA-2. The median duration of treatment for IBRANCE plus letrozole was 19.8
+                    months while the median duration of treatment for placebo plus letrozole arm was
+                    13.8 months.</p>
+                <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of
+                    patients receiving IBRANCE plus letrozole. No dose reduction was allowed for
+                    letrozole in PALOMA-2.</p>
+                <p>Permanent discontinuation associated with an adverse reaction occurred in 43 of
+                    444 (9.7%) patients receiving IBRANCE plus letrozole and in 13 of 222 (5.9%)
+                    patients receiving placebo plus letrozole. Adverse reactions leading to
+                    permanent discontinuation for patients receiving IBRANCE plus letrozole included
+                    neutropenia (1.1%) and alanine aminotransferase increase (0.7%).</p>
+                <p>The most common adverse reactions (≥10%) of any grade reported in patients in the
+                    IBRANCE plus letrozole arm by descending frequency were neutropenia, infections,
+                    leukopenia, fatigue, nausea, alopecia, stomatitis, diarrhea, anemia, rash,
+                    asthenia, thrombocytopenia, vomiting, decreased appetite, dry skin, pyrexia, and
+                    dysgeusia.</p>
+                <p>The most frequently reported Grade ≥3 adverse reactions (≥5%) in patients
+                    receiving IBRANCE plus letrozole by descending frequency were neutropenia,
+                    leukopenia, infections, and anemia.</p>
+                <p>Adverse reactions (≥10%) reported in patients who received IBRANCE plus letrozole
+                    or placebo plus letrozole in PALOMA-2 are listed in Table 4.</p>
+
+                <table>
+                    <caption>Table 4. Adverse Reactions (≥10%) in PALOMA-2</caption>
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Adverse Reaction</th>
+                            <th colspan="3">IBRANCE plus Letrozole (N=444)</th>
+                            <th colspan="3">Placebo plus Letrozole (N=222)</th>
+                        </tr>
+                        <tr>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="7">
+                                <b>Infections and infestations</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Infections<sup>*</sup></td>
+                            <td>60<sup>†</sup></td>
+                            <td>6</td>
+                            <td>1</td>
+                            <td>42</td>
+                            <td>3</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Blood and lymphatic system disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Neutropenia</td>
+                            <td>80</td>
+                            <td>56</td>
+                            <td>10</td>
+                            <td>6</td>
+                            <td>1</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Leukopenia</td>
+                            <td>39</td>
+                            <td>24</td>
+                            <td>1</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Anemia</td>
+                            <td>24</td>
+                            <td>5</td>
+                            <td>&lt;1</td>
+                            <td>9</td>
+                            <td>2</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Thrombocytopenia</td>
+                            <td>16</td>
+                            <td>1</td>
+                            <td>&lt;1</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Metabolism and nutrition disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Decreased appetite</td>
+                            <td>15</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>9</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Nervous system disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Dysgeusia</td>
+                            <td>10</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>5</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Gastrointestinal disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Stomatitis<sup>‡</sup></td>
+                            <td>30</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>14</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Nausea</td>
+                            <td>35</td>
+                            <td>&lt;1</td>
+                            <td>0</td>
+                            <td>26</td>
+                            <td>2</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Diarrhea</td>
+                            <td>26</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>19</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Vomiting</td>
+                            <td>16</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>17</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Skin and subcutaneous tissue disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Alopecia</td>
+                            <td>33<sup>§</sup></td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>16<sup>¶</sup></td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Rash<sup>#</sup></td>
+                            <td>18</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>12</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Dry skin</td>
+                            <td>12</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>General disorders and administration site conditions</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Fatigue</td>
+                            <td>37</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>28</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Asthenia</td>
+                            <td>17</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>12</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Pyrexia</td>
+                            <td>12</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>9</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="7">
+                                <p>Grading according to CTCAE 4.0.<br />CTCAE=Common Terminology
+                                    Criteria for Adverse Events; N=number of patients; N/A=not
+                                    applicable;</p>
+                                <p><sup>*</sup> Infections includes all reported preferred terms
+                                    (PTs) that are part of the System Organ Class Infections and
+                                    infestations.</p>
+                                <p><sup>†</sup> Most common infections (≥1%) include:
+                                    nasopharyngitis, upper respiratory tract infection, urinary
+                                    tract infection, oral herpes, sinusitis, rhinitis, bronchitis,
+                                    influenza, pneumonia, gastroenteritis, conjunctivitis, herpes
+                                    zoster, pharyngitis, cellulitis, cystitis, lower respiratory
+                                    tract infection, tooth infection, gingivitis, skin infection,
+                                    gastroenteritis viral, respiratory tract infection, respiratory
+                                    tract infection viral, and folliculitis.</p>
+                                <p><sup>‡</sup> Stomatitis includes: aphthous stomatitis, cheilitis,
+                                    glossitis, glossodynia, mouth ulceration, mucosal inflammation,
+                                    oral pain, oral discomfort, oropharyngeal pain, and stomatitis.</p>
+                                <p><sup>§</sup> Grade 1 events – 30%; Grade 2 events – 3%.</p>
+                                <p><sup>¶</sup> Grade 1 events – 15%; Grade 2 events – 1%.</p>
+                                <p><sup>#</sup> Rash includes the following PTs: rash, rash
+                                    maculo-papular, rash pruritic, rash erythematous, rash papular,
+                                    dermatitis, dermatitis acneiform, and toxic skin eruption.</p>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <p>Additional adverse reactions occurring at an overall incidence of &lt;10.0% of
+                    patients receiving IBRANCE plus letrozole in PALOMA-2 included alanine
+                    aminotransferase increased (9.9%), aspartate aminotransferase increased (9.7%),
+                    epistaxis (9.2%), lacrimation increased (5.6%), dry eye (4.1%), vision blurred
+                    (3.6%), and febrile neutropenia (2.5%).</p>
+
+                <table>
+                    <caption>Table 5. Laboratory Abnormalities in PALOMA-2</caption>
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Laboratory Abnormality</th>
+                            <th colspan="3">IBRANCE plus Letrozole (N=444)</th>
+                            <th colspan="3">Placebo plus Letrozole (N=222)</th>
+                        </tr>
+                        <tr>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>WBC decreased</td>
+                            <td>97</td>
+                            <td>35</td>
+                            <td>1</td>
+                            <td>25</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Neutrophils decreased</td>
+                            <td>95</td>
+                            <td>56</td>
+                            <td>12</td>
+                            <td>20</td>
+                            <td>1</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Anemia</td>
+                            <td>78</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>42</td>
+                            <td>2</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Platelets decreased</td>
+                            <td>63</td>
+                            <td>1</td>
+                            <td>1</td>
+                            <td>14</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Aspartate aminotransferase increased</td>
+                            <td>52</td>
+                            <td>3</td>
+                            <td>0</td>
+                            <td>34</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Alanine aminotransferase increased</td>
+                            <td>43</td>
+                            <td>2</td>
+                            <td>&lt;1</td>
+                            <td>30</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="7">N=number of patients; WBC=white blood cells.</td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <h4>PALOMA-3: IBRANCE plus Fulvestrant</h4>
+                <h5>Patients with HR-positive, HER2-negative advanced or metastatic breast cancer
+                    who have had disease progression on or after prior adjuvant or metastatic
+                    endocrine therapy</h5>
+                <p>The safety of IBRANCE (125 mg/day) plus fulvestrant (500 mg) versus placebo plus
+                    fulvestrant was evaluated in PALOMA-3. The data described below reflect exposure
+                    to IBRANCE in 345 out of 517 patients with HR-positive, HER2-negative advanced
+                    or metastatic breast cancer who received at least 1 dose of IBRANCE plus
+                    fulvestrant in PALOMA-3. The median duration of treatment for IBRANCE plus
+                    fulvestrant was 10.8 months while the median duration of treatment for placebo
+                    plus fulvestrant arm was 4.8 months.</p>
+                <p>Dose reductions due to an adverse reaction of any grade occurred in 36% of
+                    patients receiving IBRANCE plus fulvestrant. No dose reduction was allowed for
+                    fulvestrant in PALOMA-3.</p>
+                <p>Permanent discontinuation associated with an adverse reaction occurred in 19 of
+                    345 (6%) patients receiving IBRANCE plus fulvestrant, and in 6 of 172 (3%)
+                    patients receiving placebo plus fulvestrant. Adverse reactions leading to
+                    discontinuation for those patients receiving IBRANCE plus fulvestrant included
+                    fatigue (0.6%), infections (0.6%), and thrombocytopenia (0.6%).</p>
+                <p>The most common adverse reactions (≥10%) of any grade reported in patients in the
+                    IBRANCE plus fulvestrant arm by descending frequency were neutropenia,
+                    leukopenia, infections, fatigue, nausea, anemia, stomatitis, diarrhea,
+                    thrombocytopenia, vomiting, alopecia, rash, decreased appetite, and pyrexia.</p>
+                <p>The most frequently reported Grade ≥3 adverse reactions (≥5%) in patients
+                    receiving IBRANCE plus fulvestrant in descending frequency were neutropenia and
+                    leukopenia.</p>
+                <p>Adverse reactions (≥10%) reported in patients who received IBRANCE plus
+                    fulvestrant or placebo plus fulvestrant in PALOMA-3 are listed in Table 6.</p>
+
+                <table>
+                    <caption>Table 6. Adverse Reactions (≥10%) in PALOMA-3</caption>
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Adverse Reaction</th>
+                            <th colspan="3">IBRANCE plus Fulvestrant (N=345)</th>
+                            <th colspan="3">Placebo plus Fulvestrant (N=172)</th>
+                        </tr>
+                        <tr>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="7">
+                                <b>Infections and infestations</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Infections<sup>*</sup></td>
+                            <td>47<sup>†</sup></td>
+                            <td>3</td>
+                            <td>1</td>
+                            <td>31</td>
+                            <td>3</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Blood and lymphatic system disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Neutropenia</td>
+                            <td>83</td>
+                            <td>55</td>
+                            <td>11</td>
+                            <td>4</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Leukopenia</td>
+                            <td>53</td>
+                            <td>30</td>
+                            <td>1</td>
+                            <td>5</td>
+                            <td>1</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Anemia</td>
+                            <td>30</td>
+                            <td>4</td>
+                            <td>0</td>
+                            <td>13</td>
+                            <td>2</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Thrombocytopenia</td>
+                            <td>23</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Metabolism and nutrition disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Decreased appetite</td>
+                            <td>16</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>8</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Gastrointestinal disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Nausea</td>
+                            <td>34</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>28</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Stomatitis<sup>‡</sup></td>
+                            <td>28</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>13</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Diarrhea</td>
+                            <td>24</td>
+                            <td>0</td>
+                            <td>0</td>
+                            <td>19</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Vomiting</td>
+                            <td>19</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>15</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>Skin and subcutaneous tissue disorders</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Alopecia</td>
+                            <td>18<sup>§</sup></td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                            <td>6<sup>¶</sup></td>
+                            <td>N/A</td>
+                            <td>N/A</td>
+                        </tr>
+                        <tr>
+                            <td>Rash<sup>#</sup></td>
+                            <td>17</td>
+                            <td>1</td>
+                            <td>0</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td colspan="7">
+                                <b>General disorders and administration site conditions</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Fatigue</td>
+                            <td>41</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>29</td>
+                            <td>1</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Pyrexia</td>
+                            <td>13</td>
+                            <td>&lt;1</td>
+                            <td>0</td>
+                            <td>5</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="7">
+                                <p>Grading according to CTCAE 4.0.<br />CTCAE=Common Terminology
+                                    Criteria for Adverse Events; N=number of patients; N/A=not
+                                    applicable.</p>
+                                <p><sup>*</sup> Infections includes all reported preferred terms
+                                    (PTs) that are part of the System Organ Class Infections and
+                                    infestations.</p>
+                                <p><sup>†</sup> Most common infections (≥1%) include:
+                                    nasopharyngitis, upper respiratory infection, urinary tract
+                                    infection, bronchitis, rhinitis, influenza, conjunctivitis,
+                                    sinusitis, pneumonia, cystitis, oral herpes, respiratory tract
+                                    infection, gastroenteritis, tooth infection, pharyngitis, eye
+                                    infection, herpes simplex, and paronychia.</p>
+                                <p><sup>‡</sup> Stomatitis includes: aphthous stomatitis, cheilitis,
+                                    glossitis, glossodynia, mouth ulceration, mucosal inflammation,
+                                    oral pain, oropharyngeal discomfort, oropharyngeal pain,
+                                    stomatitis.</p>
+                                <p><sup>§</sup> Grade 1 events – 17%; Grade 2 events – 1%.</p>
+                                <p><sup>¶</sup> Grade 1 events – 6%.</p>
+                                <p><sup>#</sup> Rash includes: rash, rash maculo-papular, rash
+                                    pruritic, rash erythematous, rash papular, dermatitis,
+                                    dermatitis acneiform, toxic skin eruption.</p>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <p>Additional adverse reactions occurring at an overall incidence of &lt;10.0% of
+                    patients receiving IBRANCE plus fulvestrant in PALOMA-3 included asthenia
+                    (7.5%), aspartate aminotransferase increased (7.5%), dysgeusia (6.7%), epistaxis
+                    (6.7%), lacrimation increased (6.4%), dry skin (6.1%), alanine aminotransferase
+                    increased (5.8%), vision blurred (5.8%), dry eye (3.8%), and febrile neutropenia
+                    (0.9%).</p>
+
+                <table>
+                    <caption>Table 7. Laboratory Abnormalities in PALOMA-3</caption>
+                    <thead>
+                        <tr>
+                            <th rowspan="2">Laboratory Abnormality</th>
+                            <th colspan="3">IBRANCE plus Fulvestrant (N=345)</th>
+                            <th colspan="3">Placebo plus Fulvestrant (N=172)</th>
+                        </tr>
+                        <tr>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                            <th>All Grades %</th>
+                            <th>Grade 3 %</th>
+                            <th>Grade 4 %</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>WBC decreased</td>
+                            <td>99</td>
+                            <td>45</td>
+                            <td>1</td>
+                            <td>26</td>
+                            <td>0</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Neutrophils decreased</td>
+                            <td>96</td>
+                            <td>56</td>
+                            <td>11</td>
+                            <td>14</td>
+                            <td>0</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Anemia</td>
+                            <td>78</td>
+                            <td>3</td>
+                            <td>0</td>
+                            <td>40</td>
+                            <td>2</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Platelets decreased</td>
+                            <td>62</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>10</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Aspartate aminotransferase increased</td>
+                            <td>43</td>
+                            <td>4</td>
+                            <td>0</td>
+                            <td>48</td>
+                            <td>4</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Alanine aminotransferase increased</td>
+                            <td>36</td>
+                            <td>2</td>
+                            <td>0</td>
+                            <td>34</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="7">N=number of patients; WBC=white blood cells.</td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <h5>Other Clinical Trials Experience</h5>
+                <p>The following adverse reaction has been reported following administration of
+                    IBRANCE: venous thromboembolism.</p>
+
+                <h3>6.2 Postmarketing Experience</h3>
+                <p>The following adverse reactions have been identified during post-approval use of
+                    IBRANCE. Because these reactions are reported voluntarily from a population of
+                    uncertain size, it is not always possible to reliably estimate their frequency
+                    or establish a causal relationship to drug exposure.</p>
+                <p><i>Respiratory Disorders:</i> Interstitial lung disease (ILD)/non-infectious
+                    pneumonitis</p>
+                <p><i>Skin and Subcutaneous Tissue Disorders:</i> Palmar-plantar erythrodysesthesia
+                    syndrome (PPES)</p>
+
+                <h5>Male patients with HR-positive, HER2-negative advanced or metastatic breast
+                    cancer</h5>
+                <p>Based on limited data from postmarketing reports and electronic health records,
+                    the safety profile for men treated with IBRANCE is consistent with the safety
+                    profile in women treated with IBRANCE.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 7 DRUG INTERACTIONS -->
+    <section>
+        <title value="7 DRUG INTERACTIONS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34073-7" />
+                <display value="DRUG INTERACTIONS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Palbociclib is primarily metabolized by CYP3A and sulfotransferase (SULT) enzyme
+                    SULT2A1. In vivo, palbociclib is a time-dependent inhibitor of CYP3A.</p>
+
+                <h3>7.1 Agents That May Increase Palbociclib Plasma Concentrations</h3>
+                <h4>Effect of CYP3A Inhibitors</h4>
+                <p>Coadministration of a strong CYP3A inhibitor (itraconazole) increased the plasma
+                    exposure of palbociclib in healthy subjects by 87%. Avoid concomitant use of
+                    strong CYP3A inhibitors (e.g., clarithromycin, indinavir, itraconazole,
+                    ketoconazole, lopinavir/ritonavir, nefazodone, nelfinavir, posaconazole,
+                    ritonavir, saquinavir, telaprevir, telithromycin, and voriconazole). Avoid
+                    grapefruit or grapefruit juice during IBRANCE treatment. If coadministration of
+                    IBRANCE with a strong CYP3A inhibitor cannot be avoided, reduce the dose of
+                    IBRANCE <i>[see <a href="#S2.2">DOSAGE AND ADMINISTRATION (2.2)</a> and <a
+                            href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+
+                <h3>7.2 Agents That May Decrease Palbociclib Plasma Concentrations</h3>
+                <h4>Effect of CYP3A Inducers</h4>
+                <p>Coadministration of a strong CYP3A inducer (rifampin) decreased the plasma
+                    exposure of palbociclib in healthy subjects by 85%. Avoid concomitant use of
+                    strong CYP3A inducers (e.g., phenytoin, rifampin, carbamazepine, enzalutamide,
+                    and St John's Wort) <i>[see <a href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>
+                    .</p>
+
+                <h3>7.3 Drugs That May Have Their Plasma Concentrations Altered by Palbociclib</h3>
+                <p>Coadministration of midazolam with multiple doses of IBRANCE increased the
+                    midazolam plasma exposure by 61%, in healthy subjects, compared to
+                    administration of midazolam alone. The dose of the sensitive CYP3A substrate
+                    with a narrow therapeutic index (e.g., alfentanil, cyclosporine,
+                    dihydroergotamine, ergotamine, everolimus, fentanyl, pimozide, quinidine,
+                    sirolimus, and tacrolimus) may need to be reduced, as IBRANCE may increase its
+                    exposure <i>[see <a href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 8 USE IN SPECIFIC POPULATIONS -->
+    <section>
+        <title value="8 USE IN SPECIFIC POPULATIONS" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="43684-0" />
+                <display value="USE IN SPECIFIC POPULATIONS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>8.1 Pregnancy</h3>
+                <h4>Risk Summary</h4>
+                <p>Based on findings from animal studies and its mechanism of action, IBRANCE can
+                    cause fetal harm when administered to a pregnant woman <i>[see <a href="#S12.1">CLINICAL
+                    PHARMACOLOGY (12.1)</a>]</i>. There are no available data in pregnant women to
+                    inform the drug-associated risk. In animal reproduction studies, administration
+                    of palbociclib to pregnant rats and rabbits during organogenesis resulted in
+                    embryo-fetal toxicity at maternal exposures that were ≥4 times the human
+                    clinical exposure based on AUC <i>(see <a href="#Data">DATA</a>)</i>. Advise
+                    pregnant women of the potential risk to a fetus.</p>
+                <p>The estimated background risk of major birth defects and miscarriage for the
+                    indicated population is unknown. In the U.S. general population, the estimated
+                    background risk of major birth defects and miscarriage in clinically recognized
+                    pregnancies is 2%–4% and 15%–20%, respectively.</p>
+
+                <h4 id="Data">Data</h4>
+                <h5>Animal Data</h5>
+                <p>In a fertility and early embryonic development study in female rats, palbociclib
+                    was administered orally for 15 days before mating through to Day 7 of pregnancy,
+                    which did not cause embryo toxicity at doses up to 300 mg/kg/day with maternal
+                    systemic exposures approximately 4 times the human exposure (AUC) at the
+                    recommended dose.</p>
+                <p>In embryo-fetal development studies in rats and rabbits, pregnant animals
+                    received oral doses of palbociclib up to 300 mg/kg/day and 20 mg/kg/day,
+                    respectively, during the period of organogenesis. The maternally toxic dose of
+                    300 mg/kg/day was fetotoxic in rats, resulting in reduced fetal body weights. At
+                    doses ≥100 mg/kg/day in rats, there was an increased incidence of a skeletal
+                    variation (increased incidence of a rib present at the seventh cervical
+                    vertebra). At the maternally toxic dose of 20 mg/kg/day in rabbits, there was an
+                    increased incidence of skeletal variations, including small phalanges in the
+                    forelimb. At 300 mg/kg/day in rats and 20 mg/kg/day in rabbits, the maternal
+                    systemic exposures were approximately 4 and 9 times the human exposure (AUC) at
+                    the recommended dose, respectively.</p>
+                <p>CDK4/6 double knockout mice have been reported to die in late stages of fetal
+                    development (gestation Day 14.5 until birth) due to severe anemia. However,
+                    knockout mouse data may not be predictive of effects in humans due to
+                    differences in degree of target inhibition.</p>
+
+                <h3>8.2 Lactation</h3>
+                <h4>Risk Summary</h4>
+                <p>There is no information regarding the presence of palbociclib in human milk, its
+                    effects on milk production, or the breastfed infant. Because of the potential
+                    for serious adverse reactions in breastfed infants from IBRANCE, advise a
+                    lactating woman not to breastfeed during treatment with IBRANCE and for 3 weeks
+                    after the last dose.</p>
+
+                <h3>8.3 Females and Males of Reproductive Potential</h3>
+                <h4>Pregnancy Testing</h4>
+                <p>Based on animal studies, IBRANCE can cause fetal harm when administered to a
+                    pregnant woman <i>[see <a href="#S8.1">USE IN SPECIFIC POPULATIONS (8.1)</a>]</i>.
+                    Females of reproductive potential should have a pregnancy test prior to starting
+                    treatment with IBRANCE.</p>
+
+                <h4>Contraception</h4>
+                <h5>Females</h5>
+                <p>IBRANCE can cause fetal harm when administered to a pregnant woman <i>[see <a
+                            href="#S8.1">USE IN SPECIFIC POPULATIONS (8.1)</a>]</i>. Advise females
+                    of reproductive potential to use effective contraception during treatment with
+                    IBRANCE and for at least 3 weeks after the last dose.</p>
+                <h5>Males</h5>
+                <p>Because of the potential for genotoxicity, advise male patients with female
+                    partners of reproductive potential to use effective contraception during
+                    treatment with IBRANCE and for 3 months after the last dose <i>[see <a
+                            href="#S13.1">NONCLINICAL TOXICOLOGY (13.1)</a>]</i>.</p>
+
+                <h4>Infertility</h4>
+                <h5>Males</h5>
+                <p>Based on animal studies, IBRANCE may impair fertility in males of reproductive
+                    potential <i>[see <a href="#S13.1">NONCLINICAL TOXICOLOGY (13.1)</a>]</i>.</p>
+
+                <h3>8.4 Pediatric Use</h3>
+                <p>The safety and efficacy of IBRANCE in pediatric patients have not been studied.</p>
+                <p>Altered glucose metabolism (glycosuria, hyperglycemia, decreased insulin)
+                    associated with changes in the pancreas (islet cell vacuolation), eye
+                    (cataracts, lens degeneration), kidney (tubule vacuolation, chronic progressive
+                    nephropathy) and adipose tissue (atrophy) were identified in a 27 week
+                    repeat-dose toxicology study in rats that were immature at the beginning of the
+                    studies and were most prevalent in males at oral palbociclib doses ≥30 mg/kg/day
+                    (approximately 11 times the adult human exposure [AUC] at the recommended dose).
+                    Some of these findings (glycosuria/hyperglycemia, pancreatic islet cell
+                    vacuolation, and kidney tubule vacuolation) were present with lower incidence
+                    and severity in a 15 week repeat-dose toxicology study in immature rats. Altered
+                    glucose metabolism or associated changes in the pancreas, eye, kidney and
+                    adipose tissue were not identified in a 27-week repeat-dose toxicology study in
+                    rats that were mature at the beginning of the study and in dogs in repeat-dose
+                    toxicology studies up to 39 weeks duration.</p>
+                <p>Toxicities in teeth independent of altered glucose metabolism were observed in
+                    rats. Administration of 100 mg/kg palbociclib for 27 weeks (approximately 15
+                    times the adult human exposure [AUC] at the recommended dose) resulted in
+                    abnormalities in growing incisor teeth (discolored, ameloblast
+                    degeneration/necrosis, mononuclear cell infiltrate). Other toxicities of
+                    potential concern to pediatric patients have not been evaluated in juvenile
+                    animals.</p>
+
+                <h3>8.5 Geriatric Use</h3>
+                <p>Of 444 patients who received IBRANCE in PALOMA-2, 181 patients (41%) were ≥65
+                    years of age and 48 patients (11%) were ≥75 years of age. Of 347 patients who
+                    received IBRANCE in PALOMA-3, 86 patients (25%) were ≥65 years of age and 27
+                    patients (8%) were ≥75 years of age. No overall differences in safety or
+                    effectiveness of IBRANCE were observed between these patients and younger
+                    patients.</p>
+
+                <h3>8.6 Hepatic Impairment</h3>
+                <p>No dose adjustment is required in patients with mild or moderate hepatic
+                    impairment (Child-Pugh classes A and B). For patients with severe hepatic
+                    impairment (Child-Pugh class C), the recommended dose of IBRANCE is 75 mg once
+                    daily for 21 consecutive days followed by 7 days off treatment to comprise a
+                    complete cycle of 28 days <i>[see <a href="#S2.2">DOSAGE AND ADMINISTRATION
+                            (2.2)</a>]</i>. Based on a pharmacokinetic trial in subjects with
+                    varying degrees of hepatic function, the palbociclib unbound exposure (unbound
+                    AUC<sub>
+                        INF</sub>) decreased by 17% in subjects with mild hepatic impairment
+                    (Child-Pugh class A), and increased by 34% and 77% in subjects with moderate
+                    (Child-Pugh class B) and severe (Child-Pugh class C) hepatic impairment,
+                    respectively, relative to subjects with normal hepatic function. Peak
+                    palbociclib unbound exposure (unbound C<sub>max</sub>) increased by 7%, 38% and
+                    72% for mild, moderate and severe hepatic impairment, respectively, relative to
+                    subjects with normal hepatic function <i>[see <a href="#S12.3">CLINICAL
+                    PHARMACOLOGY (12.3)</a> ]</i>.</p>
+                <p>Review the Full Prescribing Information for the aromatase inhibitor or
+                    fulvestrant for dose modifications related to hepatic impairment.</p>
+
+                <h3>8.7 Renal Impairment</h3>
+                <p>No dose adjustment is required in patients with mild, moderate, or severe renal
+                    impairment (CrCl >15 mL/min).</p>
+                <p>Based on a pharmacokinetic trial in subjects with varying degrees of renal
+                    function, the total palbociclib exposure (AUC<sub>INF</sub>) increased by 39%,
+                    42%, and 31% with mild (60 mL/min ≤ CrCl <90 mL/min), moderate (30 mL/min ≤ CrCl <60 mL/min), and severe (CrCl <30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%,
+                    12%, and 15% for mild, moderate, and severe renal impairment, respectively,
+                    relative to subjects with normal renal function.</p>
+                <p>The pharmacokinetics of palbociclib have not been studied in patients requiring
+                    hemodialysis <i>[see <a href="#S12.3">CLINICAL PHARMACOLOGY (12.3)</a>]</i>.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 10 OVERDOSAGE -->
+    <section>
+        <title value="10 OVERDOSAGE" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34088-5" />
+                <display value="OVERDOSAGE SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>There is no known antidote for IBRANCE. The treatment of overdose of IBRANCE
+                    should consist of general supportive measures.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 11 DESCRIPTION -->
+    <section>
+        <title value="11 DESCRIPTION" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34089-3" />
+                <display value="DESCRIPTION SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>IBRANCE tablets for oral administration contain 125 mg, 100 mg, or 75 mg of
+                    palbociclib, a kinase inhibitor. The molecular formula for palbociclib is C<sub>
+                    24</sub>H<sub>29</sub>N<sub>7</sub>O<sub>2</sub> . The molecular weight is
+                    447.54 daltons. The chemical name is
+                    6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-<i>
+                    d</i>]pyrimidin-7(8<i>H</i>)-one, and its structural formula is:</p>
+                <p>
+                    <b>Chemical Structure</b>
+                </p>
+                <img src="ibrance-01.jpg" alt="Chemical Structure of Palbociclib" />
+                <p>Palbociclib is a yellow to orange powder. At or below pH 4, palbociclib behaves
+                    as a high-solubility compound. Above pH 4, the solubility of the drug substance
+                    reduces significantly.</p>
+                <p><i>Inactive Ingredients:</i> Microcrystalline cellulose, colloidal silicon
+                    dioxide, crospovidone, magnesium stearate, succinic acid, HPMC
+                    2910/hypromellose, titanium dioxide, triacetin, and FD&C Blue #2/Indigo Carmine
+                    Aluminum Lake. In addition, the 75 mg and 125 mg tablets contain red iron oxide
+                    and the 100 mg tablets contain yellow iron oxide.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 12 CLINICAL PHARMACOLOGY -->
+    <section>
+        <title value="12 CLINICAL PHARMACOLOGY" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34090-1" />
+                <display value="CLINICAL PHARMACOLOGY SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>12.1 Mechanism of Action</h3>
+                <p>Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1
+                    and CDK4/6 are downstream of signaling pathways which lead to cellular
+                    proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen
+                    receptor (ER)-positive breast cancer cell lines by blocking progression of the
+                    cell from G1 into S phase of the cell cycle. Treatment of breast cancer cell
+                    lines with the combination of palbociclib and antiestrogens leads to decreased
+                    retinoblastoma (Rb) protein phosphorylation resulting in reduced E2F expression
+                    and signaling, and increased growth arrest compared to treatment with each drug
+                    alone. In vitro treatment of ER-positive breast cancer cell lines with the
+                    combination of palbociclib and antiestrogens led to increased cell senescence
+                    compared to each drug alone, which was sustained for up to 6 days following
+                    palbociclib removal and was greater if antiestrogen treatment was continued. In
+                    vivo studies using a patient-derived ER-positive breast cancer xenograft model
+                    demonstrated that the combination of palbociclib and letrozole increased the
+                    inhibition of Rb phosphorylation, downstream signaling, and tumor growth
+                    compared to each drug alone.</p>
+                <p>Human bone marrow mononuclear cells treated with palbociclib in the presence or
+                    absence of an anti-estrogen in vitro did not become senescent and resumed
+                    proliferation following palbociclib withdrawal.</p>
+
+                <h3>12.2 Pharmacodynamics</h3>
+                <h4>Cardiac Electrophysiology</h4>
+                <p>The effect of palbociclib on the QT interval corrected for heart rate (QTc) was
+                    evaluated using time-matched electrocardiograms (ECGs) evaluating the change
+                    from baseline and corresponding pharmacokinetic data in 77 patients with breast
+                    cancer. Palbociclib had no large effect on QTc (i.e., >20 ms) at 125 mg once
+                    daily for 21 consecutive days followed by 7 days off treatment to comprise a
+                    complete cycle of 28 days.</p>
+
+                <h3>12.3 Pharmacokinetics</h3>
+                <p>The pharmacokinetics (PK) of palbociclib were characterized in patients with
+                    solid tumors including advanced breast cancer and in healthy subjects.</p>
+
+                <h4>Absorption</h4>
+                <p>The maximum observed concentration (C<sub>max</sub>) of palbociclib is generally
+                    observed between 4 to 12 hours (time to reach maximum concentration, T<sub>max</sub>)
+                    following oral administration of IBRANCE tablets. The mean absolute
+                    bioavailability of IBRANCE after an oral 125 mg dose is 46%. In the dosing range
+                    of 25 mg to 225 mg, the AUC and C<sub>max</sub> increased proportionally with
+                    dose in general. Steady state was achieved within 8 days following repeated once
+                    daily dosing. With repeated once daily administration, palbociclib accumulated
+                    with a median accumulation ratio of 2.4 (range 1.5 to 4.2).</p>
+                <h5>Food Effect</h5>
+                <p>The area under the concentration-time curve from zero to infinity (AUC<sub>INF</sub>)
+                    and C<sub>max</sub> of palbociclib increased by 22% and 26%, respectively, when
+                    IBRANCE tablets were given with a high-fat, high-calorie meal (approximately 800
+                    to 1000 calories with 150, 250, and 500 to 600 calories from protein,
+                    carbohydrate, and fat, respectively), and by 9% and 10%, respectively, when
+                    IBRANCE tablets were given with a moderate-fat, standard-calorie meal
+                    (approximately 500 to 700 calories with 75 to 105, 250 to 350 and 175 to 245
+                    calories from protein, carbohydrate, and fat, respectively), compared to IBRANCE
+                    tablets given under overnight fasted conditions.</p>
+
+                <h4>Distribution</h4>
+                <p>Binding of palbociclib to human plasma proteins in vitro was approximately 85%,
+                    with no concentration dependence over the concentration range of 500 ng/mL to
+                    5000 ng/mL. The mean fraction unbound (f<sub>u</sub>) of palbociclib in human
+                    plasma in vivo increased incrementally with worsening hepatic function. There
+                    was no obvious trend in the mean palbociclib f<sub>u</sub> in human plasma in
+                    vivo with worsening renal function. The geometric mean apparent volume of
+                    distribution (V<sub>z</sub>/F) was 2583 L with a coefficient of variation (CV)
+                    of 26%.</p>
+
+                <h4>Metabolism</h4>
+                <p>In vitro and in vivo studies indicated that palbociclib undergoes hepatic
+                    metabolism in humans. Following oral administration of a single 125 mg dose of [<sup>
+                    14</sup>C]palbociclib to humans, the primary metabolic pathways for palbociclib
+                    involved oxidation and sulfonation, with acylation and glucuronidation
+                    contributing as minor pathways. Palbociclib was the major circulating
+                    drug-derived entity in plasma (23%). The major circulating metabolite was a
+                    glucuronide conjugate of palbociclib, although it only represented 1.5% of the
+                    administered dose in the excreta. Palbociclib was extensively metabolized with
+                    unchanged drug accounting for 2.3% and 6.9% of radioactivity in feces and urine,
+                    respectively. In feces, the sulfamic acid conjugate of palbociclib was the major
+                    drug-related component, accounting for 26% of the administered dose. In vitro
+                    studies with human hepatocytes, liver cytosolic and S9 fractions, and
+                    recombinant SULT enzymes indicated that CYP3A and SULT2A1 are mainly involved in
+                    the metabolism of palbociclib.</p>
+
+                <h4>Elimination</h4>
+                <p>The geometric mean apparent oral clearance (CL/F) of palbociclib was 63.1 L/hr
+                    (29% CV), and the mean (± standard deviation) plasma elimination half-life was
+                    29 (±5) hours in patients with advanced breast cancer. In 6 healthy male
+                    subjects given a single oral dose of [<sup>14</sup>C]palbociclib, a median of
+                    91.6% of the total administered radioactive dose was recovered in 15 days; feces
+                    (74.1% of dose) was the major route of excretion, with 17.5% of the dose
+                    recovered in urine. The majority of the material was excreted as metabolites.</p>
+
+                <h4>Age, Gender, and Body Weight</h4>
+                <p>Based on a population pharmacokinetic analysis in 183 patients with cancer (50
+                    male and 133 female patients, age range from 22 to 89 years, and body weight
+                    range from 37.9 to 123 kg), gender had no effect on the exposure of palbociclib,
+                    and age and body weight had no clinically important effect on the exposure of
+                    palbociclib.</p>
+
+                <h4>Pediatric Population</h4>
+                <p>Pharmacokinetics of IBRANCE have not been evaluated in patients <18 years of age.</p>
+
+                <h4>Hepatic Impairment</h4>
+                <p>Data from a pharmacokinetic trial in subjects with varying degrees of hepatic
+                    impairment indicate that palbociclib unbound AUC<sub>INF</sub> decreased 17% in
+                    subjects with mild hepatic impairment (Child-Pugh class A), and increased by 34%
+                    and 77% in subjects with moderate (Child-Pugh class B) and severe (Child-Pugh
+                    class C) hepatic impairment, respectively, relative to subjects with normal
+                    hepatic function. Palbociclib unbound C<sub>max</sub> increased by 7%, 38% and
+                    72% for mild, moderate and severe hepatic impairment, respectively, relative to
+                    subjects with normal hepatic function. In addition, based on a population
+                    pharmacokinetic analysis that included 183 patients, where 40 patients had mild
+                    hepatic impairment based on National Cancer Institute (NCI) classification
+                    (total bilirubin ≤ ULN and AST > ULN, or total bilirubin >1.0 to 1.5 × ULN and
+                    any AST), mild hepatic impairment had no effect on the exposure of palbociclib,
+                    further supporting the findings from the dedicated hepatic impairment study.</p>
+
+                <h4>Renal Impairment</h4>
+                <p>Data from a pharmacokinetic trial in subjects with varying degrees of renal
+                    impairment indicate that palbociclib AUC<sub>INF</sub> increased by 39%, 42%,
+                    and 31% with mild (60 mL/min ≤ CrCl < 90 mL/min), moderate (30 mL/min ≤ CrCl <60 mL/min), and severe (CrCl <30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%, 12%,
+                    and 15% for mild, moderate, and severe renal impairment, respectively, relative
+                    to subjects with normal renal function. In addition, based on a population
+                    pharmacokinetic analysis that included 183 patients where 73 patients had mild
+                    renal impairment and 29 patients had moderate renal impairment, mild and
+                    moderate renal impairment had no effect on the exposure of palbociclib. The
+                    pharmacokinetics of palbociclib have not been studied in patients requiring
+                    hemodialysis.</p>
+
+                <h4>Drug Interactions</h4>
+                <p>In vitro data indicate that CYP3A and SULT enzyme SULT2A1 are mainly involved in
+                    the metabolism of palbociclib. Palbociclib is a weak time-dependent inhibitor of
+                    CYP3A following daily 125 mg dosing to steady state in humans. In vitro,
+                    palbociclib is not an inhibitor of CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, and 2D6,
+                    and is not an inducer of CYP1A2, 2B6, 2C8, and 3A4 at clinically relevant
+                    concentrations.</p>
+                <h5>CYP3A Inhibitors</h5>
+                <p>Data from a drug interaction trial in healthy subjects (N=12) indicate that
+                    coadministration of multiple 200 mg daily doses of itraconazole with a single
+                    125 mg IBRANCE dose increased palbociclib AUC<sub>INF</sub> and the C<sub>max</sub>
+                    by approximately 87% and 34%, respectively, relative to a single 125 mg IBRANCE
+                    dose given alone <i>[see <a href="#S7.1">DRUG INTERACTIONS (7.1)</a>]</i>.</p>
+                <h5>CYP3A Inducers</h5>
+                <p>Data from a drug interaction trial in healthy subjects (N=15) indicate that
+                    coadministration of multiple 600 mg daily doses of rifampin, a strong CYP3A
+                    inducer, with a single 125 mg IBRANCE dose decreased palbociclib AUC<sub>INF</sub>
+                    and C<sub>max</sub> by 85% and 70%, respectively, relative to a single 125 mg
+                    IBRANCE dose given alone. Data from a drug interaction trial in healthy subjects
+                    (N=14) indicate that coadministration of multiple 400 mg daily doses of
+                    modafinil, a moderate CYP3A inducer, with a single 125 mg IBRANCE dose decreased
+                    palbociclib AUC<sub>INF</sub> and C<sub>max</sub> by 32% and 11%, respectively,
+                    relative to a single 125 mg IBRANCE dose given alone <i>[see <a href="#S7.2">DRUG
+                    INTERACTIONS (7.2)</a>]</i>.</p>
+                <h5>CYP3A Substrates</h5>
+                <p>Palbociclib is a weak time-dependent inhibitor of CYP3A following daily 125 mg
+                    dosing to steady state in humans. In a drug interaction trial in healthy
+                    subjects (N=26), coadministration of midazolam with multiple doses of IBRANCE
+                    increased the midazolam AUC<sub>INF</sub> and the C<sub>max</sub> values by 61%
+                    and 37%, respectively, as compared to administration of midazolam alone <i>[see <a
+                            href="#S7.3">DRUG INTERACTIONS (7.3)</a>]</i>.</p>
+                <h5>Gastric pH Elevating Medications</h5>
+                <p>In a drug interaction trial in healthy subjects, coadministration of a single 125
+                    mg IBRANCE tablet with multiple doses of the proton pump inhibitor (PPI)
+                    rabeprazole under overnight fasted conditions had no effect on the rate and
+                    extent of absorption of palbociclib when compared to a single 125 mg IBRANCE
+                    tablet administered alone. Given the reduced effect on gastric pH of H2-receptor
+                    antagonists and local antacids compared to PPIs, an effect of these classes of
+                    acid reducing agents on palbociclib exposure is not expected.</p>
+                <h5>Letrozole</h5>
+                <p>Data from a clinical trial in patients with breast cancer showed that there was
+                    no drug interaction between palbociclib and letrozole when the 2 drugs were
+                    coadministered.</p>
+                <h5>Fulvestrant</h5>
+                <p>Data from a clinical trial in patients with breast cancer showed that there was
+                    no clinically relevant drug interaction between palbociclib and fulvestrant when
+                    the 2 drugs were coadministered.</p>
+                <h5>Goserelin</h5>
+                <p>Data from a clinical trial in patients with breast cancer showed that there was
+                    no clinically relevant drug interaction between palbociclib and goserelin when
+                    the 2 drugs were coadministered.</p>
+                <h5>Anastrozole or Exemestane</h5>
+                <p>No clinical data are available to evaluate drug interactions between anastrozole
+                    or exemestane and palbociclib. A clinically significant drug interaction between
+                    anastrozole or exemestane and palbociclib is not expected based on analyses of
+                    the effects of anastrozole, exemestane and palbociclib on or by metabolic
+                    pathways or transporter systems.</p>
+                <h5>Effect of Palbociclib on Transporters</h5>
+                <p>In vitro evaluations indicated that palbociclib has a low potential to inhibit
+                    the activities of drug transporters organic anion transporter (OAT)1, OAT3,
+                    organic cation transporter (OCT)2, and organic anion transporting polypeptide
+                    (OATP)1B1, OATP1B3 at clinically relevant concentrations. In vitro, palbociclib
+                    has the potential to inhibit OCT1 at clinically relevant concentrations, as well
+                    as the potential to inhibit P-glycoprotein (P-gp) or breast cancer resistance
+                    protein (BCRP) in the gastrointestinal tract at the proposed dose.</p>
+                <h5>Effect of Transporters on Palbociclib</h5>
+                <p>Based on in vitro data, P-gp and BCRP mediated transport are unlikely to affect
+                    the extent of oral absorption of palbociclib at therapeutic doses.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 13 NONCLINICAL TOXICOLOGY -->
+    <section>
+        <title value="13 NONCLINICAL TOXICOLOGY" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="43680-8" />
+                <display value="NONCLINICAL TOXICOLOGY SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</h3>
+                <p>Palbociclib was assessed for carcinogenicity in a 6-month transgenic mouse study
+                    and in a 2-year rat study. Oral administration of palbociclib for 2 years
+                    resulted in an increased incidence of microglial cell tumors in the central
+                    nervous system of male rats at a dose of 30 mg/kg/day (approximately 8 times the
+                    human clinical exposure based on AUC). There were no neoplastic findings in
+                    female rats at doses up to 200 mg/kg/day (approximately 5 times the human
+                    clinical exposure based on AUC). Oral administration of palbociclib to male and
+                    female rasH2 transgenic mice for 6 months did not result in increased incidence
+                    of neoplasms at doses up to 60 mg/kg/day.</p>
+                <p>Palbociclib was aneugenic in Chinese Hamster Ovary cells in vitro and in the bone
+                    marrow of male rats at doses ≥100 mg/kg/day for 3 weeks. Palbociclib was not
+                    mutagenic in an in vitro bacterial reverse mutation (Ames) assay and was not
+                    clastogenic in the in vitro human lymphocyte chromosome aberration assay.</p>
+                <p>In a fertility study in female rats, palbociclib did not affect mating or
+                    fertility at any dose up to 300 mg/kg/day (approximately 4 times human clinical
+                    exposure based on AUC) and no adverse effects were observed in the female
+                    reproductive tissues in repeat-dose toxicity studies up to 300 mg/kg/day in the
+                    rat and 3 mg/kg/day in the dog (approximately 6 times and similar to human
+                    exposure [AUC], at the recommended dose, respectively).</p>
+                <p>The adverse effects of palbociclib on male reproductive function and fertility
+                    were observed in the repeat-dose toxicology studies in rats and dogs and a male
+                    fertility study in rats. In repeat-dose toxicology studies, palbociclib-related
+                    findings in the testis, epididymis, prostate, and seminal vesicle at ≥30
+                    mg/kg/day in rats and ≥0.2 mg/kg/day in dogs included decreased organ weight,
+                    atrophy or degeneration, hypospermia, intratubular cellular debris, and
+                    decreased secretion. Partial reversibility of male reproductive organ effects
+                    was observed in the rat and dog following a 4- and 12-week non-dosing period,
+                    respectively. These doses in rats and dogs resulted in approximately ≥10 and 0.1
+                    times, respectively, the exposure [AUC] in humans at the recommended dose. In
+                    the fertility and early embryonic development study in male rats, palbociclib
+                    caused no effects on mating but resulted in a slight decrease in fertility in
+                    association with lower sperm motility and density at 100 mg/kg/day with
+                    projected exposure levels [AUC] of 20 times the exposure in humans at the
+                    recommended dose.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 14 CLINICAL STUDIES -->
+    <section>
+        <title value="14 CLINICAL STUDIES" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34092-7" />
+                <display value="CLINICAL STUDIES SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <h3>PALOMA-2: IBRANCE plus Letrozole</h3>
+                <h4>Patients with ER-positive, HER2-negative advanced or metastatic breast cancer
+                    for initial endocrine based therapy</h4>
+                <p>PALOMA-2 was an international, randomized, double-blind, parallel-group,
+                    multicenter study of IBRANCE plus letrozole versus placebo plus letrozole
+                    conducted in postmenopausal women with ER-positive, HER2-negative advanced
+                    breast cancer who had not received previous systemic treatment for their
+                    advanced disease. A total of 666 patients were randomized 2:1 to IBRANCE plus
+                    letrozole or placebo plus letrozole. Randomization was stratified by disease
+                    site (visceral versus non-visceral), disease-free interval (de novo metastatic
+                    versus ≤12 months from the end of adjuvant treatment to disease recurrence
+                    versus >12 months from the end of adjuvant treatment to disease recurrence), and
+                    nature of prior (neo)adjuvant anticancer therapies (prior hormonal therapies
+                    versus no prior hormonal therapy). IBRANCE was given orally at a dose of 125 mg
+                    daily for 21 consecutive days followed by 7 days off treatment. Patients
+                    received study treatment until objective disease progression, symptomatic
+                    deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever
+                    occurred first. The major efficacy outcome of the study was
+                    investigator-assessed progression-free survival (PFS) evaluated according to
+                    Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST). Additional
+                    efficacy outcome measures were confirmed overall response rate (ORR) as assessed
+                    by the investigator according to RECIST Version 1.1 and overall survival (OS).</p>
+                <p>Patients enrolled in this study had a median age of 62 years (range 28 to 89).
+                    The majority of patients were White (78%), and most patients had an Eastern
+                    Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1 (98%).
+                    Forty-eight percent of patients had received chemotherapy and 56% had received
+                    antihormonal therapy in the neoadjuvant or adjuvant setting prior to their
+                    diagnosis of advanced breast cancer. Thirty-seven percent of patients had no
+                    prior systemic therapy in the neoadjuvant or adjuvant setting. The majority of
+                    patients (97%) had metastatic disease. Twenty-three percent of patients had bone
+                    only disease, and 49% of patients had visceral disease.</p>
+                <p>Major efficacy results from PALOMA-2 are summarized in Table 8 and Figure 1.
+                    Consistent results were observed across patient subgroups of disease-free
+                    interval (DFI), disease site, and prior therapy. The treatment effect of the
+                    combination on PFS was also supported by an independent review of radiographs.
+                    Based on the prespecified final OS analysis conducted after 435 events, OS was
+                    not statistically significant.</p>
+
+                <table>
+                    <caption>Table 8. Efficacy Results – PALOMA-2</caption>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>IBRANCE plus Letrozole</th>
+                            <th>Placebo plus Letrozole</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                <b>Progression-free survival for ITT (investigator assessment)</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=444</td>
+                            <td>N=222</td>
+                        </tr>
+                        <tr>
+                            <td>Number of PFS events (%)</td>
+                            <td>194 (43.7)</td>
+                            <td>137 (61.7)</td>
+                        </tr>
+                        <tr>
+                            <td>Median progression-free survival (months, 95% CI)</td>
+                            <td>24.8 (22.1, NE)</td>
+                            <td>14.5 (12.9, 17.1)</td>
+                        </tr>
+                        <tr>
+                            <td>Hazard ratio (95% CI) and p-value</td>
+                            <td colspan="2">0.576 (0.463, 0.718)*, p<0.0001†</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <b>Objective Response for patients with measurable disease
+                                    (investigator assessment)</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=338</td>
+                            <td>N=171</td>
+                        </tr>
+                        <tr>
+                            <td>Objective response rate‡ (%, 95% CI)</td>
+                            <td>55.3 (49.9, 60.7)</td>
+                            <td>44.4 (36.9, 52.2)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <b>Overall survival for ITT</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=444</td>
+                            <td>N=222</td>
+                        </tr>
+                        <tr>
+                            <td>Number of OS events (%)</td>
+                            <td>287 (64.6)</td>
+                            <td>148 (66.7)</td>
+                        </tr>
+                        <tr>
+                            <td>Median OS (months, 95% CI)</td>
+                            <td>53.8 (49.8, 59.2)</td>
+                            <td>49.8 (42.3, 56.4)</td>
+                        </tr>
+                        <tr>
+                            <td>Hazard ratio (95% CI) and p-value</td>
+                            <td colspan="2">0.921 (0.755, 1.124)*, p=0.2087†</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="3">
+                                <p>CI=confidence interval; ITT=Intent-to-Treat; N=number of
+                                    patients; NE=not estimable; OS=Overall survival;
+                                    PFS=Progression‑free survival.</p>
+                                <p><sup>*</sup> Cox proportional hazards model stratified by disease
+                                    site (visceral vs. non-visceral) per randomization.</p>
+                                <p><sup>†</sup> Stratified log-rank test one-sided p-value.</p>
+                                <p><sup>‡</sup> Response is based on confirmed responses.</p>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <p>
+                    <b>Figure 1. Kaplan-Meier Plot of Progression-Free Survival – PALOMA-2
+                        (Investigator Assessment, Intent-to-Treat Population)</b>
+                </p>
+                <img src="paloma-2-pfs.jpg"
+                    alt="Kaplan-Meier Plot of Progression-Free Survival – PALOMA-2" />
+                <p>LET=letrozole; PAL=palbociclib; PBO=placebo.</p>
+
+                <h3>PALOMA-3: IBRANCE plus Fulvestrant</h3>
+                <h4>Patients with HR-positive, HER2-negative advanced or metastatic breast cancer
+                    who have had disease progression on or after prior adjuvant or metastatic
+                    endocrine therapy</h4>
+                <p>PALOMA-3 was an international, randomized, double-blind, parallel group,
+                    multicenter study of IBRANCE plus fulvestrant versus placebo plus fulvestrant
+                    conducted in women with HR-positive, HER2-negative advanced breast cancer,
+                    regardless of their menopausal status, whose disease progressed on or after
+                    prior endocrine therapy. A total of 521 pre/postmenopausal women were randomized
+                    2:1 to IBRANCE plus fulvestrant or placebo plus fulvestrant and stratified by
+                    documented sensitivity to prior hormonal therapy, menopausal status at study
+                    entry (pre/peri versus postmenopausal), and presence of visceral metastases.
+                    IBRANCE was given orally at a dose of 125 mg daily for 21 consecutive days
+                    followed by 7 days off treatment. Pre/perimenopausal women were enrolled in the
+                    study and received the LHRH agonist goserelin for at least 4 weeks prior to and
+                    for the duration of PALOMA-3. Patients continued to receive assigned treatment
+                    until objective disease progression, symptomatic deterioration, unacceptable
+                    toxicity, death, or withdrawal of consent, whichever occurred first. The major
+                    efficacy outcome of the study was investigator-assessed PFS evaluated according
+                    to RECIST 1.1.</p>
+                <p>Patients enrolled in this study had a median age of 57 years (range 29 to 88).
+                    The majority of patients on study were White (74%), all patients had an ECOG PS
+                    of 0 or 1, and 80% were postmenopausal. All patients had received prior systemic
+                    therapy, and 75% of patients had received a previous chemotherapy regimen.
+                    Twenty-five percent of patients had received no prior therapy in the metastatic
+                    disease setting, 60% had visceral metastases, and 23% had bone only disease.</p>
+                <p>The results from the investigator-assessed PFS and final OS from PALOMA-3 are
+                    summarized in Table 9. The relevant Kaplan-Meier plots are shown in Figures 2
+                    and 3, respectively. Consistent PFS results were observed across patient
+                    subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal
+                    status. After a median follow-up time of 45 months, the final OS results were
+                    not statistically significant.</p>
+
+                <table>
+                    <caption>Table 9. Efficacy Results – PALOMA-3</caption>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>IBRANCE plus Fulvestrant</th>
+                            <th>Placebo plus Fulvestrant</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                <b>Progression-free survival for ITT (investigator assessment)</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=347</td>
+                            <td>N=174</td>
+                        </tr>
+                        <tr>
+                            <td>Number of PFS events (%)</td>
+                            <td>145 (41.8)</td>
+                            <td>114 (65.5)</td>
+                        </tr>
+                        <tr>
+                            <td>Median PFS (months, 95% CI)</td>
+                            <td>9.5 (9.2, 11.0)</td>
+                            <td>4.6 (3.5, 5.6)</td>
+                        </tr>
+                        <tr>
+                            <td>Hazard ratio (95% CI) and p-value</td>
+                            <td colspan="2">0.461 (0.360, 0.591), p<0.0001</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <b>Objective Response for patients with measurable disease
+                                    (investigator assessment)</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=267</td>
+                            <td>N=138</td>
+                        </tr>
+                        <tr>
+                            <td>Objective response rate* (%, 95% CI)</td>
+                            <td>24.6 (19.6, 30.2)</td>
+                            <td>10.9 (6.2, 17.3)</td>
+                        </tr>
+                        <tr>
+                            <td colspan="3">
+                                <b>Overall survival for ITT</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>N=347</td>
+                            <td>N=174</td>
+                        </tr>
+                        <tr>
+                            <td>Number of OS events (%)</td>
+                            <td>201 (57.9)</td>
+                            <td>109 (62.6)</td>
+                        </tr>
+                        <tr>
+                            <td>Median OS (months, 95% CI)</td>
+                            <td>34.9 (28.8, 40.0)</td>
+                            <td>28.0 (23.6, 34.6)</td>
+                        </tr>
+                        <tr>
+                            <td>Hazard ratio (95% CI) and p-value</td>
+                            <td colspan="2">0.814 (0.644, 1.029), p=0.0857†‡</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="3">
+                                <p>CI=confidence interval; ITT=Intent-to-Treat; N=number of
+                                    patients; OS=overall survival; PFS=progression-free survival.</p>
+                                <p><sup>*</sup> Responses are based on confirmed responses.</p>
+                                <p><sup>†</sup> Not statistically significant at the pre-specified
+                                    2-sided alpha level of 0.047.</p>
+                                <p><sup>‡</sup> 2-sided p-value from the log-rank test stratified by
+                                    the presence of visceral metastases and sensitivity to prior
+                                    endocrine therapy per randomization.</p>
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+
+                <p>
+                    <b>Figure 2. Kaplan-Meier Plot of Progression-Free Survival – PALOMA-3
+                        (Investigator Assessment, Intent-to-Treat Population)</b>
+                </p>
+                <img src="paloma-3-pfs.jpg"
+                    alt="Kaplan-Meier Plot of Progression-Free Survival – PALOMA-3" />
+                <p>FUL=fulvestrant; PAL=palbociclib; PBO=placebo.</p>
+
+                <p>
+                    <b>Figure 3. Kaplan-Meier Plot of Overall Survival (Intent-to-Treat Population)
+                        – PALOMA-3</b>
+                </p>
+                <img src="paloma-3-os.jpg" alt="Kaplan-Meier Plot of Overall Survival – PALOMA-3" />
+                <p>FUL=fulvestrant; PAL=palbociclib; PBO=placebo.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 16 HOW SUPPLIED/STORAGE AND HANDLING -->
+    <section>
+        <title value="16 HOW SUPPLIED/STORAGE AND HANDLING" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34069-5" />
+                <display value="HOW SUPPLIED SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>IBRANCE is supplied in the following strengths and package configurations:</p>
+
+                <table>
+                    <caption>IBRANCE Tablets</caption>
+                    <thead>
+                        <tr>
+                            <th>Package Configuration</th>
+                            <th>Tablet Strength (mg)</th>
+                            <th>NDC</th>
+                            <th>Tablet Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Monthly box containing 3 weekly blister packs of 7 tablets each (21
+                                tablets total)</td>
+                            <td>125</td>
+                            <td>NDC 0069-0688-03</td>
+                            <td>Oval, light purple, film-coated tablets debossed with "Pfizer" on
+                                one side and "PBC 125" on the other side.</td>
+                        </tr>
+                        <tr>
+                            <td>Monthly box containing 3 weekly blister packs of 7 tablets each (21
+                                tablets total)</td>
+                            <td>100</td>
+                            <td>NDC 0069-0486-03</td>
+                            <td>Oval, green, film-coated tablets debossed with "Pfizer" on one side
+                                and "PBC 100" on the other side.</td>
+                        </tr>
+                        <tr>
+                            <td>Monthly box containing 3 weekly blister packs of 7 tablets each (21
+                                tablets total)</td>
+                            <td>75</td>
+                            <td>NDC 0069-0284-03</td>
+                            <td>Round, light purple, film-coated tablets debossed with "Pfizer" on
+                                one side and "PBC 75" on the other side.</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C
+                    (59°F to 86°F) <i>[see USP Controlled Room Temperature]</i>. Store in the
+                    original blister pack.</p>
+            </div>
+        </text>
+    </section>
+
+    <!-- 17 PATIENT COUNSELING INFORMATION -->
+    <section>
+        <title value="17 PATIENT COUNSELING INFORMATION" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="34076-0" />
+                <display value="INFORMATION FOR PATIENTS SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>Advise the patient to read the FDA-approved patient labeling (Patient
+                    Information).</p>
+
+                <h3>Myelosuppression/Infection</h3>
+                <ul>
+                    <li>Advise patients to immediately report any signs or symptoms of
+                        myelosuppression or infection, such as fever, chills, dizziness, shortness
+                        of breath, weakness, or any increased tendency to bleed and/or to bruise <i>
+                        [see <a href="#S5.1">WARNINGS AND PRECAUTIONS (5.1)</a>]</i>.</li>
+                </ul>
+
+                <h3>Interstitial Lung Disease/Pneumonitis</h3>
+                <ul>
+                    <li>Advise patients to immediately report new or worsening respiratory symptoms <i>
+                        [see <a href="#S5.2">WARNINGS AND PRECAUTIONS (5.2)</a>]</i>.</li>
+                </ul>
+
+                <h3>Drug Interactions</h3>
+                <ul>
+                    <li>Grapefruit may interact with IBRANCE. Patients should not consume grapefruit
+                        products while on treatment with IBRANCE.</li>
+                    <li>Inform patients to avoid strong CYP3A inhibitors and strong CYP3A inducers.</li>
+                    <li>Advise patients to inform their healthcare providers of all concomitant
+                        medications, including prescription medicines, over-the-counter drugs,
+                        vitamins, and herbal products <i>[see <a href="#S7">DRUG INTERACTIONS (7)</a>
+                        ]</i>.</li>
+                </ul>
+
+                <h3>Dosing and Administration</h3>
+                <ul>
+                    <li>Inform patients that IBRANCE tablets may be taken with or without food.</li>
+                    <li>If the patient vomits or misses a dose, an additional dose should not be
+                        taken. The next prescribed dose should be taken at the usual time. IBRANCE
+                        tablets should be swallowed whole (do not chew, crush, or split them prior
+                        to swallowing). No tablet should be ingested if it is broken, cracked, or
+                        otherwise not intact.</li>
+                    <li>Pre/perimenopausal women treated with IBRANCE should also be treated with
+                        LHRH agonists <i>[see <a href="#S2.1">DOSAGE AND ADMINISTRATION (2.1)</a>]</i>
+                        .</li>
+                </ul>
+
+                <h3>Pregnancy, Lactation, and Infertility</h3>
+                <ul>
+                    <li>
+                        <b>Embryo-Fetal Toxicity</b>
+                        <ul>
+                            <li>Advise females of reproductive potential of the potential risk to a
+                                fetus and to use effective contraception during treatment with
+                                IBRANCE therapy and for at least 3 weeks after the last dose. Advise
+                                females to inform their healthcare provider of a known or suspected
+                                pregnancy <i>[see <a href="#S5.3">WARNINGS AND PRECAUTIONS (5.3)</a>
+                                and <a href="#S8.1">USE IN SPECIFIC POPULATIONS (8.1</a> and <a
+                                        href="#S8.3">8.3)</a>]</i>.</li>
+                            <li>Advise male patients with female partners of reproductive potential
+                                to use effective contraception during treatment with IBRANCE and for
+                                at least 3 months after the last dose <i>[see <a href="#S8.3">USE IN
+                                SPECIFIC POPULATIONS (8.3)</a>]</i>.</li>
+                        </ul>
+                    </li>
+                    <li><b>Lactation:</b> Advise women not to breastfeed during treatment with
+                        IBRANCE and for 3 weeks after the last dose <i>[see <a href="#S8.2">USE IN
+                        SPECIFIC POPULATIONS (8.2)</a>]</i>.</li>
+                    <li><b>Infertility:</b> Inform males of reproductive potential that IBRANCE may
+                        cause infertility and to consider sperm preservation before taking IBRANCE <i>
+                        [see <a href="#S8.3">USE IN SPECIFIC POPULATIONS (8.3)</a>]</i>.</li>
+                </ul>
+            </div>
+        </text>
+    </section>
+
+    <!-- SPL UNCLASSIFIED Section -->
+    <section>
+        <title value="SPL Unclassified Section" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="42230-3" />
+                <display value="SPL UNCLASSIFIED SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <p>This product's labeling may have been updated. For full prescribing information, please visit <a href="http://www.pfizer.com">WWW.PFIZER.COM</a>. For medical information about IBRANCE, please visit <a href="http://www.pfizermedinfo.com">WWW.PFIZERMEDINFO.COM</a> or call 1-800-438-1985.</p>
+  <p><img src="pfizer-logo-1.jpg" alt="Pfizer Logo"/> LAB-1371-4.0</p>
+</div>
+        </text>
+    </section>
+</Composition>
+
+    <!-- Patient Information as a Section -->
+    <section>
+        <title value="Patient Information" />
+        <code>
+            <coding>
+                <system value="http://loinc.org" />
+                <code value="42230-3" />
+                <display value="SPL PATIENT PACKAGE INSERT SECTION" />
+            </coding>
+        </code>
+        <text>
+            <status value="generated" />
+            <div xmlns="http://www.w3.org/1999/xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <p>This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: December 2024</p>
+
+  <h2>PATIENT INFORMATION</h2>
+  <h1>IBRANCE<sup>®</sup> (EYE-brans)</h1>
+  <p>(palbociclib)</p>
+  <p>Tablets</p>
+
+  <h3 id="important">What is the most important information I should know about IBRANCE?</h3>
+  <p><b>IBRANCE may cause serious side effects, including:</b></p>
+  <p><b>Low white blood cell counts (neutropenia).</b> Low white blood cell counts are very common when taking IBRANCE and may cause serious infections that can lead to death. Your healthcare provider should check your white blood cell counts before and during treatment.</p>
+  <p>If you develop low white blood cell counts during treatment with IBRANCE, your healthcare provider may stop your treatment, decrease your dose, or may tell you to wait to begin your treatment cycle. Tell your healthcare provider right away if you have signs and symptoms of low white blood cell counts or infections such as fever and chills.</p>
+  <p><b>Lung problems (pneumonitis).</b> IBRANCE may cause severe or life-threatening inflammation of the lungs during treatment that can lead to death. Tell your healthcare provider right away if you have any new or worsening symptoms, including:</p>
+  <ul>
+    <li>chest pain</li>
+    <li>cough with or without mucus</li>
+    <li>trouble breathing or shortness of breath</li>
+  </ul>
+  <p>Your healthcare provider may interrupt or stop treatment with IBRANCE completely if your symptoms are severe.</p>
+  <p><b>See "<a href="#What">What are the possible side effects of IBRANCE?</a>" for more information about side effects.</b></p>
+
+  <h3>What is IBRANCE?</h3>
+  <p>IBRANCE is a prescription medicine used in adults to treat hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative breast cancer that has spread to other parts of the body (metastatic) in combination with:</p>
+  <ul>
+    <li>an aromatase inhibitor as the first hormonal based therapy, or</li>
+    <li>fulvestrant in people with disease progression following hormonal therapy.</li>
+  </ul>
+  <p>It is not known if IBRANCE is safe and effective in children.</p>
+
+  <h3>What should I tell my healthcare provider before taking IBRANCE?</h3>
+  <p>Before taking IBRANCE, tell your healthcare provider about all of your medical conditions, including if you:</p>
+  <ul>
+    <li>have fever, chills, or any other signs or symptoms of infection.</li>
+    <li>have liver or kidney problems.</li>
+    <li>are pregnant, or plan to become pregnant. IBRANCE can harm your unborn baby.
+      <ul>
+        <li><b>Females</b> who are able to become pregnant should use effective birth control during treatment and for at least 3 weeks after the last dose of IBRANCE. Your healthcare provider may ask you to take a pregnancy test before you start treatment with IBRANCE.</li>
+        <li><b>Males</b> with female partners who can become pregnant should use effective birth control during treatment with IBRANCE for at least 3 months after the last dose of IBRANCE.</li>
+        <li>Talk to your healthcare provider about birth control methods that may be right for you during this time.</li>
+        <li>If you become pregnant or think you are pregnant, tell your healthcare provider right away.</li>
+      </ul>
+    </li>
+    <li>are breastfeeding or plan to breastfeed. It is not known if IBRANCE passes into your breast milk. Do not breastfeed during treatment with IBRANCE and for 3 weeks after the last dose.</li>
+  </ul>
+  <p><b>Tell your healthcare provider about all of the medicines you take, including</b> prescription and over-the-counter medicines, vitamins, and herbal supplements. IBRANCE and other medicines may affect each other causing side effects.</p>
+  <p>Know the medicines you take. Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.</p>
+
+  <h3>How should I take IBRANCE?</h3>
+  <ul>
+    <li>Take IBRANCE exactly as your healthcare provider tells you.</li>
+    <li>IBRANCE tablets may be taken with or without food.</li>
+    <li>IBRANCE should be taken at about the same time each day.</li>
+    <li>Swallow IBRANCE tablets whole. Do not chew, crush or split IBRANCE tablets before swallowing them.</li>
+    <li>Do not take any IBRANCE tablets that are broken, cracked, or that look damaged.</li>
+    <li>Avoid grapefruit and grapefruit products during treatment with IBRANCE. Grapefruit may increase the amount of IBRANCE in your blood.</li>
+    <li>Do not change your dose or stop taking IBRANCE unless your healthcare provider tells you.</li>
+    <li>If you miss a dose of IBRANCE or vomit after taking a dose of IBRANCE, do not take another dose on that day. Take your next dose at your regular time.</li>
+    <li>If you take too much IBRANCE, call your healthcare provider right away or go to the nearest hospital emergency room.</li>
+  </ul>
+
+  <h3 id="What">What are the possible side effects of IBRANCE?</h3>
+  <p><b>IBRANCE may cause serious side effects. See "<a href="#important">What is the most important information I should know about IBRANCE?</a>"</b></p>
+  <p><b>The most common side effects of IBRANCE when used with either letrozole or fulvestrant include:</b></p>
+  <ul>
+    <li>Low red blood cell counts and low platelet counts are common with IBRANCE. Call your healthcare provider right away if you develop any of these symptoms during treatment:
+      <ul>
+        <li>dizziness</li>
+        <li>shortness of breath</li>
+        <li>weakness</li>
+        <li>bleeding or bruising more easily</li>
+        <li>nosebleeds</li>
+      </ul>
+    </li>
+    <li>infections (see "<a href="#important">What is the most important information I should know about IBRANCE?</a>")</li>
+    <li>tiredness</li>
+    <li>nausea</li>
+    <li>sore mouth</li>
+    <li>abnormalities in liver blood tests</li>
+    <li>diarrhea</li>
+    <li>hair thinning or hair loss</li>
+    <li>vomiting</li>
+    <li>rash</li>
+    <li>loss of appetite</li>
+  </ul>
+  <p>IBRANCE may cause fertility problems in males. This may affect your ability to father a child. Talk to your healthcare provider about family planning options before starting IBRANCE if this is a concern for you.</p>
+  <p>Tell your healthcare provider if you have any side effect that bothers you or that does not go away.</p>
+  <p>These are not all of the possible side effects of IBRANCE.</p>
+  <p>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</p>
+
+  <h3>How should I store IBRANCE?</h3>
+  <ul>
+    <li>Store IBRANCE at 68 °F to 77 °F (20 °C to 25 °C) in the original blister pack.</li>
+  </ul>
+  <p><b>Keep IBRANCE and all medicines out of the reach of children.</b></p>
+
+  <h3>General information about the safe and effective use of IBRANCE</h3>
+  <p>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use IBRANCE for a condition for which it was not prescribed. Do not give IBRANCE to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for more information about IBRANCE that is written for health professionals.</p>
+
+  <h3>What are the ingredients in IBRANCE?</h3>
+  <p>Active ingredient: palbociclib</p>
+  <p>Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, crospovidone, magnesium stearate, succinic acid, HPMC 2910/hypromellose, titanium dioxide, triacetin, and FD&C Blue #2/Indigo Carmine Aluminum Lake. In addition, the 75 mg and 125 mg tablets contain red iron oxide and the 100 mg tablets contain yellow iron oxide.</p>
+  <p>This product’s labeling may have been updated. For the most recent prescribing information, please visit <a href="http://www.pfizer.com">www.pfizer.com</a>.</p>
+  <p><img src="ibrance-06.jpg" alt="Pfizer Logo 2"/> LAB-1372-4.0</p>
+  <p>For more information, go to <a href="http://www.pfizer.com">www.pfizer.com</a> or call 1-800-438-1985.</p>
+
+  <p>This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: December 2024</p>
+</div>
+        </text>
+    </section>
+</Composition>
