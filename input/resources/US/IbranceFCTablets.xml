@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bundle xmlns="http://hl7.org/fhir">
-    <id value="bundle-ibrance75-100-125" />
+    <id value="15820229-1604-43f0-b709-73be302f779d" />
     <meta>
     <profile value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Bundle-uv-epi" />
     </meta>
@@ -11,10 +11,10 @@
     <type value="document" />
     <timestamp value="2024-12-27T00:00:00Z" />
     <entry>
-        <fullUrl value="Composition/compositionusen" />
+        <fullUrl value="urn:uuid:8ae0bba7-6d69-4f7e-9670-10b91f59ae56" />
         <resource>
             <Composition>
-                <id value="compositionusen" />
+                <id value="8ae0bba7-6d69-4f7e-9670-10b91f59ae56" />
                 <meta>
                 <profile
                     value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
@@ -146,13 +146,13 @@
                     </coding>
                 </type>
                 <subject>
-                    <reference value="urn:uuid/MPDPALBOCICLIB75" />
+                    <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3" />
                 </subject>
                 <subject>
-                    <reference value="urn:uuid/MPDPALBOCICLIB100" />
+                    <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4" />
                 </subject>
                 <subject>
-                    <reference value="urn:uuid/MPDPALBOCICLIB125" />
+                    <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5" />
                 </subject>
                 <date value="2024-12-27T00:00:00Z" />
                 <author>
@@ -6124,13 +6124,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6166,13 +6166,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6208,13 +6208,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6250,10 +6250,10 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6289,13 +6289,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6331,13 +6331,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6373,13 +6373,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6415,13 +6415,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6457,13 +6457,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6499,13 +6499,13 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -6541,7 +6541,7 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <role>
                 <coding>
@@ -6577,7 +6577,7 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB75"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </for>
             <role>
                 <coding>
@@ -6624,7 +6624,7 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB100"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </for>
             <role>
                 <coding>
@@ -6672,7 +6672,7 @@
             </identifier>
             <status value="active"/>
             <for>
-                <reference value="urn:uuid/MID-PALBOCICLIB125"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </for>
             <role>
                 <coding>
@@ -7028,257 +7028,6 @@
     </resource>
 </entry>
 <entry>
-    <fullUrl value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
-    <resource>
-        <ManufacturedItemDefinition>
-            <id value="d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
-            <identifier>
-                <system value="http://hl7.org/fhir/sid/ndc"/>
-                <value value="0069-0284-03"/>
-            </identifier>
-            <manufacturedDoseForm>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C42998"/>
-                    <display value="TABLET, FILM COATED"/>
-                </coding>
-            </manufacturedDoseForm>
-            <unitOfPresentation>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C48542"/>
-                    <display value="TABLET"/>
-                </coding>
-            </unitOfPresentation>
-            <manufacturer>
-                <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
-            </manufacturer>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48556"/>
-                        <display value="Structured Product Labeling Color"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48327"/>
-                        <display value="PURPLE"/>
-                    </coding>
-                    <text value="light purple"/>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48557"/>
-                        <display value="Structured Product Labeling Shape"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48348"/>
-                        <display value="ROUND"/>
-                    </coding>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLIMPRINT"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="Pfizer;PBC;75"/>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLSCORE"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="no score"/>
-                </valueCodeableConcept>
-            </property>
-        </ManufacturedItemDefinition>
-    </resource>
-</entry>
-<entry>
-    <fullUrl value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
-    <resource>
-        <ManufacturedItemDefinition>
-            <id value="e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
-            <identifier>
-                <system value="http://hl7.org/fhir/sid/ndc"/>
-                <value value="0069-0486-03"/>
-            </identifier>
-            <manufacturedDoseForm>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C42998"/>
-                    <display value="TABLET, FILM COATED"/>
-                </coding>
-            </manufacturedDoseForm>
-            <unitOfPresentation>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C48542"/>
-                    <display value="TABLET"/>
-                </coding>
-            </unitOfPresentation>
-            <manufacturer>
-                <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
-            </manufacturer>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48556"/>
-                        <display value="Structured Product Labeling Color"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48329"/>
-                        <display value="GREEN"/>
-                    </coding>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48557"/>
-                        <display value="Structured Product Labeling Shape"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48345"/>
-                        <display value="OVAL"/>
-                    </coding>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLIMPRINT"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="Pfizer;PBC;100"/>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLSCORE"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="no score"/>
-                </valueCodeableConcept>
-            </property>
-        </ManufacturedItemDefinition>
-    </resource>
-</entry>
-<entry>
-    <fullUrl value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
-    <resource>
-        <ManufacturedItemDefinition>
-            <id value="f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
-            <identifier>
-                <system value="http://hl7.org/fhir/sid/ndc"/>
-                <value value="0069-0688-03"/>
-            </identifier>
-            <manufacturedDoseForm>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C42998"/>
-                    <display value="TABLET, FILM COATED"/>
-                </coding>
-            </manufacturedDoseForm>
-            <unitOfPresentation>
-                <coding>
-                    <system value="http://ncit.nci.nih.gov"/>
-                    <code value="C48542"/>
-                    <display value="TABLET"/>
-                </coding>
-            </unitOfPresentation>
-            <manufacturer>
-                <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
-            </manufacturer>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48556"/>
-                        <display value="Structured Product Labeling Color"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48327"/>
-                        <display value="PURPLE"/>
-                    </coding>
-                    <text value="light purple"/>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48557"/>
-                        <display value="Structured Product Labeling Shape"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <coding>
-                        <system value="http://ncit.nci.nih.gov"/>
-                        <code value="C48345"/>
-                        <display value="OVAL"/>
-                    </coding>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLIMPRINT"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="Pfizer;PBC;125"/>
-                </valueCodeableConcept>
-            </property>
-            <property>
-                <type>
-                    <coding>
-                        <system value="urn:oid:2.16.840.1.113883.1.11.19255"/>
-                        <code value="SPLSCORE"/>
-                    </coding>
-                </type>
-                <valueCodeableConcept>
-                    <text value="no score"/>
-                </valueCodeableConcept>
-            </property>
-        </ManufacturedItemDefinition>
-    </resource>
-</entry>
-<entry>
     <fullUrl value="urn:uuid:j1k2l3m4-5n6o-77p8-q9r0-s1t2u3v4w5x6"/>
     <resource>
         <AdministrableProductDefinition xmlns="http://hl7.org/fhir">
@@ -7288,7 +7037,7 @@
                 <value value="0069-0284-03"/>
             </identifier>
             <subject>
-                <reference value="urn:uuid/d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <administrableDoseForm>
                 <coding>
@@ -7305,7 +7054,7 @@
                 </coding>
             </unitOfPresentation>
             <producedFrom>
-                <reference value="urn:uuid/d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
+                <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
             </producedFrom>
             <property>
                 <type>
@@ -7399,7 +7148,7 @@
                 <value value="0069-0486-03"/>
             </identifier>
             <subject>
-                <reference value="urn:uuid/e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <administrableDoseForm>
                 <coding>
@@ -7416,7 +7165,7 @@
                 </coding>
             </unitOfPresentation>
             <producedFrom>
-                <reference value="urn:uuid/e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
+                <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
             </producedFrom>
             <property>
                 <type>
@@ -7510,7 +7259,7 @@
                 <value value="0069-0688-03"/>
             </identifier>
             <subject>
-                <reference value="urn:uuid/f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <administrableDoseForm>
                 <coding>
@@ -7527,7 +7276,7 @@
                 </coding>
             </unitOfPresentation>
             <producedFrom>
-                <reference value="urn:uuid/f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
+                <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
             </producedFrom>
             <property>
                 <type>
@@ -7611,6 +7360,569 @@
         </AdministrableProductDefinition>
     </resource>
 </entry>
+<!-- MedicinalProductDefinition for Palbociclib 75 mg Tablet -->
+<entry>
+    <fullUrl value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+            <identifier>
+                <system value="http://hl7.org/fhir/sid/ndc"/>
+                <value value="0069-0284-03"/>
+            </identifier>
+            <route>
+                <coding>
+                    <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                    <code value="C38288"/>
+                    <display value="ORAL"/>
+                </coding>
+            </route>
+            <marketingStatus>
+                <status>
+                    <coding>
+                        <system value="http://hl7.org/fhir/us/spl/CodeSystem/codesystem-splMarketingStatuses"/>
+                        <code value="active"/>
+                    </coding>
+                </status>
+                <dateRange>
+                    <start value="2020-03-30"/>
+                </dateRange>
+            </marketingStatus>
+            <type>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C121840"/>
+                    <display value="Approved for Human Use Product"/>
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C14225"/>
+                    <display value="Human"/>
+                </coding>
+            </domain>
+            <version value="1"/>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status"/>
+                    <code value="active"/>
+                    <display value="Active"/>
+                </coding>
+            </status>
+            <statusDate value="2020-03-30"/>
+            <name>
+                <productName value="IBRANCE® (palbociclib) Tablets - 75 mg"/>
+                <part>
+                    <part value="IBRANCE"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C71898"/>
+                            <display value="Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="palbociclib"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C3273150"/>
+                            <display value="Non-Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="75 mg"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="220000000004"/>
+                            <display value="Strength part"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="TABLET"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C48542"/>
+                            <display value="Pharmaceutical dose form part"/>
+                        </coding>
+                    </type>
+                </part>
+                <countryLanguage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166"/>
+                            <code value="US"/>
+                            <display value="United States of America"/>
+                        </coding>
+                    </country>
+                    <language>
+                        <coding>
+                            <system value="urn:iso:std:iso:639"/>
+                            <code value="EN"/>
+                            <display value="English"/>
+                        </coding>
+                    </language>
+                </countryLanguage>
+            </name>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C25391"/>
+                            <display value="ANALYSIS"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C43360"/>
+                            <display value="MANUFACTURE"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84731"/>
+                            <display value="PACK"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84732"/>
+                            <display value="LABEL"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:bb65e7f7-296e-4d9c-a27d-029512d00c61"/>
+                </organization>
+            </operation>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+
+<!-- MedicinalProductDefinition for Palbociclib 100 mg Tablet -->
+<entry>
+    <fullUrl value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+            <identifier>
+                <system value="http://hl7.org/fhir/sid/ndc"/>
+                <value value="0069-0486-03"/>
+            </identifier>
+            <route>
+                <coding>
+                    <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                    <code value="C38288"/>
+                    <display value="ORAL"/>
+                </coding>
+            </route>
+            <marketingStatus>
+                <status>
+                    <coding>
+                        <system value="http://hl7.org/fhir/us/spl/CodeSystem/codesystem-splMarketingStatuses"/>
+                        <code value="active"/>
+                    </coding>
+                </status>
+                <dateRange>
+                    <start value="2020-03-30"/>
+                </dateRange>
+            </marketingStatus>
+            <type>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C121840"/>
+                    <display value="Approved for Human Use Product"/>
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C14225"/>
+                    <display value="Human"/>
+                </coding>
+            </domain>
+            <version value="1"/>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status"/>
+                    <code value="active"/>
+                    <display value="Active"/>
+                </coding>
+            </status>
+            <statusDate value="2020-03-30"/>
+            <name>
+                <productName value="IBRANCE® (palbociclib) Tablets - 100 mg"/>
+                <part>
+                    <part value="IBRANCE"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C71898"/>
+                            <display value="Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="palbociclib"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C3273150"/>
+                            <display value="Non-Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="100 mg"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="220000000004"/>
+                            <display value="Strength part"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="TABLET"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C48542"/>
+                            <display value="Pharmaceutical dose form part"/>
+                        </coding>
+                    </type>
+                </part>
+                <countryLanguage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166"/>
+                            <code value="US"/>
+                            <display value="United States of America"/>
+                        </coding>
+                    </country>
+                    <language>
+                        <coding>
+                            <system value="urn:iso:std:iso:639"/>
+                            <code value="EN"/>
+                            <display value="English"/>
+                        </coding>
+                    </language>
+                </countryLanguage>
+            </name>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C25391"/>
+                            <display value="ANALYSIS"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C43360"/>
+                            <display value="MANUFACTURE"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84731"/>
+                            <display value="PACK"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84732"/>
+                            <display value="LABEL"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:bb65e7f7-296e-4d9c-a27d-029512d00c61"/>
+                </organization>
+            </operation>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
+
+<!-- MedicinalProductDefinition for Palbociclib 125 mg Tablet -->
+<entry>
+    <fullUrl value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+    <resource>
+        <MedicinalProductDefinition>
+            <id value="i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+            <identifier>
+                <system value="http://hl7.org/fhir/sid/ndc"/>
+                <value value="0069-0688-03"/>
+            </identifier>
+            <route>
+                <coding>
+                    <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                    <code value="C38288"/>
+                    <display value="ORAL"/>
+                </coding>
+            </route>
+            <marketingStatus>
+                <status>
+                    <coding>
+                        <system value="http://hl7.org/fhir/us/spl/CodeSystem/codesystem-splMarketingStatuses"/>
+                        <code value="active"/>
+                    </coding>
+                </status>
+                <dateRange>
+                    <start value="2020-03-30"/>
+                </dateRange>
+            </marketingStatus>
+            <type>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C121840"/>
+                    <display value="Approved for Human Use Product"/>
+                </coding>
+            </type>
+            <domain>
+                <coding>
+                    <system value="http://ncit.nci.nih.gov"/>
+                    <code value="C14225"/>
+                    <display value="Human"/>
+                </coding>
+            </domain>
+            <version value="1"/>
+            <status>
+                <coding>
+                    <system value="http://hl7.org/fhir/publication-status"/>
+                    <code value="active"/>
+                    <display value="Active"/>
+                </coding>
+            </status>
+            <statusDate value="2020-03-30"/>
+            <name>
+                <productName value="IBRANCE® (palbociclib) Tablets - 125 mg"/>
+                <part>
+                    <part value="IBRANCE"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C71898"/>
+                            <display value="Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="palbociclib"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C3273150"/>
+                            <display value="Non-Proprietary Name"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="125 mg"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="220000000004"/>
+                            <display value="Strength part"/>
+                        </coding>
+                    </type>
+                </part>
+                <part>
+                    <part value="TABLET"/>
+                    <type>
+                        <coding>
+                            <system value="http://ncit.nci.nih.gov"/>
+                            <code value="C48542"/>
+                            <display value="Pharmaceutical dose form part"/>
+                        </coding>
+                    </type>
+                </part>
+                <countryLanguage>
+                    <country>
+                        <coding>
+                            <system value="urn:iso:std:iso:3166"/>
+                            <code value="US"/>
+                            <display value="United States of America"/>
+                        </coding>
+                    </country>
+                    <language>
+                        <coding>
+                            <system value="urn:iso:std:iso:639"/>
+                            <code value="EN"/>
+                            <display value="English"/>
+                        </coding>
+                    </language>
+                </countryLanguage>
+            </name>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C25391"/>
+                            <display value="ANALYSIS"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C43360"/>
+                            <display value="MANUFACTURE"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:854e2f27-d1ce-4494-8d6b-ebd93896d24b"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:c402e61a-cd45-4014-8593-ced75f3d54a5"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84731"/>
+                            <display value="PACK"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="Organization/618054084"/>
+                </organization>
+                <organization>
+                    <reference value="urn:uuid:fb93da7c-9616-4b8c-804d-cb0c5efa8c71"/>
+                </organization>
+            </operation>
+            <operation>
+                <type>
+                    <concept>
+                        <coding>
+                            <system value="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl"/>
+                            <code value="C84732"/>
+                            <display value="LABEL"/>
+                        </coding>
+                    </concept>
+                </type>
+                <organization>
+                    <reference value="urn:uuid:bb65e7f7-296e-4d9c-a27d-029512d00c61"/>
+                </organization>
+            </operation>
+        </MedicinalProductDefinition>
+    </resource>
+</entry>
 <!-- PackagedProductDefinition for Palbociclib 75 mg Tablet (21 Tablets Bottle) -->
 <entry>
     <fullUrl value="urn:uuid:a5b6c7d8-9e0f-11g2-h3i4-j5k6l7m8n9o0"/>
@@ -7630,7 +7942,7 @@
                 </coding>
             </type>
             <packageFor>
-                <reference value="MedicinalProductDefinition/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </packageFor>
             <marketingStatus>
                 <status>
@@ -7694,7 +8006,7 @@
                 </property>
                 <containedItem>
                     <item>
-                        <reference value="urn:uuid/d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
+                        <reference value="urn:uuid:d5e6f7g8-9h0i-11j2-k3l4-m5n6o7p8q9r0"/>
                     </item>
                     <amount>
                         <value value="21"/>
@@ -7726,7 +8038,7 @@
                 </coding>
             </type>
             <packageFor>
-                <reference value="MedicinalProductDefinition/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </packageFor>
             <marketingStatus>
                 <status>
@@ -7790,7 +8102,7 @@
                 </property>
                 <containedItem>
                     <item>
-                        <reference value="urn:uuid/e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
+                        <reference value="urn:uuid:e6f7g8h9-0i1j-22k3-l4m5-n6o7p8q9r0s1"/>
                     </item>
                     <amount>
                         <value value="21"/>
@@ -7822,7 +8134,7 @@
                 </coding>
             </type>
             <packageFor>
-                <reference value="MedicinalProductDefinition/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </packageFor>
             <marketingStatus>
                 <status>
@@ -7886,7 +8198,7 @@
                 </property>
                 <containedItem>
                     <item>
-                        <reference value="urn:uuid/f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
+                        <reference value="urn:uuid:f7g8h9i0-1j2k-33l4-m5n6-o7p8q9r0s1t2"/>
                     </item>
                     <amount>
                         <value value="21"/>
@@ -7910,7 +8222,7 @@
                 <value value="0069-0284-03"/>
             </identifier>
             <subject>
-                <reference value="MedicinalProductDefinition/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <type>
                 <coding>
@@ -7956,7 +8268,7 @@
                 <value value="0069-0486-03"/>
             </identifier>
             <subject>
-                <reference value="MedicinalProductDefinition/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <type>
                 <coding>
@@ -8002,7 +8314,7 @@
                 <value value="0069-0688-03"/>
             </identifier>
             <subject>
-                <reference value="MedicinalProductDefinition/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <type>
                 <coding>
@@ -8051,13 +8363,13 @@
             </identifier>
             <type value="interaction"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <interaction>
                 <interactant>
@@ -8090,13 +8402,13 @@
             </identifier>
             <type value="interaction"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <interaction>
                 <interactant>
@@ -8129,13 +8441,13 @@
             </identifier>
             <type value="interaction"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <interaction>
                 <interactant>
@@ -8167,13 +8479,13 @@
             </identifier>
             <type value="indication"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <indication>
                 <code>
@@ -8203,13 +8515,13 @@
             </identifier>
             <type value="warning"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <warning>
                 <code>
@@ -8239,13 +8551,13 @@
             </identifier>
             <type value="warning"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <warning>
                 <code>
@@ -8275,13 +8587,13 @@
             </identifier>
             <type value="warning"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <warning>
                 <code>
@@ -8311,13 +8623,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
@@ -8347,13 +8659,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
@@ -8383,13 +8695,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
@@ -8426,13 +8738,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
@@ -8469,13 +8781,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
@@ -8512,13 +8824,13 @@
             </identifier>
             <type value="undesirable-effect"/>
             <subject>
-                <reference value="urn:uuid/g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
+                <reference value="urn:uuid:g8h9i0j1-2k3l-44m5-n6o7-p8q9r0s1t2u3"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
+                <reference value="urn:uuid:h9i0j1k2-3l4m-55n6-o7p8-q9r0s1t2u3v4"/>
             </subject>
             <subject>
-                <reference value="urn:uuid/i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
+                <reference value="urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"/>
             </subject>
             <undesirableEffect>
                 <classification>
