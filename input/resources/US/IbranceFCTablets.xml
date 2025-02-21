@@ -1446,7 +1446,7 @@
                         
                             </section>
                         </section>
-                    </section>
+                    
                     <section id="8ff1743c-7716-4dfd-9c7a-f8aeb81d29db">
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                             <valueDateTime value="2023-09-13" />
@@ -1482,7 +1482,7 @@
                             </div>
                         </text>
                     </section>
-                </section>
+                
                 <section id="80ba5b55-6f05-4ac8-81a7-630988341a5d">
                     <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                         <valueDateTime value="2022-12-16" />
@@ -1821,7 +1821,7 @@
                             </text>
                         </section>
                         </section>
-                    </section>
+                    
                     <section id="eb6f21a3-6662-4d0d-a39a-c6d4835af455">
                         <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                             <valueDateTime value="2022-12-16" />
@@ -1949,10 +1949,10 @@
                             <div xmlns="http://www.w3.org/1999/xhtml">
                                 <div style="narrative">
                 <p>No dose adjustment is required in patients with mild, moderate, or severe renal
-                    impairment (CrCl >15 mL/min).</p>
+                    impairment (CrCl &gt;15 mL/min).</p>
                 <p>Based on a pharmacokinetic trial in subjects with varying degrees of renal
                     function, the total palbociclib exposure (AUC<sub>INF</sub>) increased by 39%,
-                    42%, and 31% with mild (60 mL/min ≤ CrCl <90 mL/min), moderate (30 mL/min ≤ CrCl <60 mL/min), and severe (CrCl <30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%,
+                    42%, and 31% with mild (60 mL/min ≤ CrCl &lt;90 mL/min), moderate (30 mL/min ≤ CrCl &lt;60 mL/min), and severe (CrCl &lt;30 mL/min) renal impairment, respectively, relative to subjects with normal renal function. Peak palbociclib exposure (C<sub>max</sub>) increased by 17%,
                     12%, and 15% for mild, moderate, and severe renal impairment, respectively,
                     relative to subjects with normal renal function.</p>
                 <p>The pharmacokinetics of palbociclib have not been studied in patients requiring
@@ -1961,7 +1961,7 @@
                             </div>
                         </text>
                     </section>
-                </section>
+                
                 <section id="309b85d0-8834-4f8f-a1d0-9f94ed229fea">
                     <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                         <valueDateTime value="2022-12-16" />
@@ -2017,7 +2017,7 @@
                     reduces significantly.</p>
                 <p><i>Inactive Ingredients:</i> Microcrystalline cellulose, colloidal silicon
                     dioxide, crospovidone, magnesium stearate, succinic acid, HPMC
-                    2910/hypromellose, titanium dioxide, triacetin, and FD&C Blue #2/Indigo Carmine
+                    2910/hypromellose, titanium dioxide, triacetin, and FD&amp;C Blue #2/Indigo Carmine
                     Aluminum Lake. In addition, the 75 mg and 125 mg tablets contain red iron oxide
                     and the 100 mg tablets contain yellow iron oxide.</p>
                             </div>
@@ -2206,7 +2206,7 @@
                     palbociclib.</p>
 
                 <h4>Pediatric Population</h4>
-                <p>Pharmacokinetics of IBRANCE have not been evaluated in patients <18 years of age.</p>
+                <p>Pharmacokinetics of IBRANCE have not been evaluated in patients &lt;18 years of age.</p>
 
                 <h4>Hepatic Impairment</h4>
                 <p>Data from a pharmacokinetic trial in subjects with varying degrees of hepatic
@@ -2308,7 +2308,7 @@
                         </text>
                         </section>
                     </section>
-                </section>
+                
                 <section id="4228e56f-b41d-4fe2-8557-7ad91e941225">
                     <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                         <valueDateTime value="2022-12-16" />
@@ -2478,7 +2478,7 @@
                         </tr>
                         <tr>
                             <td>Hazard ratio (95% CI) and p-value</td>
-                            <td colspan="2">0.576 (0.463, 0.718)*, p<0.0001†</td>
+                            <td colspan="2">0.576 (0.463, 0.718)*, p&lt;0.0001†</td>
                         </tr>
                         <tr>
                             <td colspan="3">
@@ -2609,7 +2609,7 @@
                         </tr>
                         <tr>
                             <td>Hazard ratio (95% CI) and p-value</td>
-                            <td colspan="2">0.461 (0.360, 0.591), p<0.0001</td>
+                            <td colspan="2">0.461 (0.360, 0.591), p&lt;0.0001</td>
                         </tr>
                         <tr>
                             <td colspan="3">
@@ -2687,9 +2687,9 @@
                         </text>
                         </section>
                     </section>
-                        </section>
-                    </section>
-                </section>
+                        
+                    
+                
                 <section id="8fcab495-04e5-4543-b37c-72343608324b">
                     <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
                         <valueDateTime value="2022-12-16" />
@@ -3098,7 +3098,7 @@
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
   <p>Active ingredient: palbociclib</p>
-  <p>Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, crospovidone, magnesium stearate, succinic acid, HPMC 2910/hypromellose, titanium dioxide, triacetin, and FD&C Blue #2/Indigo Carmine Aluminum Lake. In addition, the 75 mg and 125 mg tablets contain red iron oxide and the 100 mg tablets contain yellow iron oxide.</p>
+  <p>Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, crospovidone, magnesium stearate, succinic acid, HPMC 2910/hypromellose, titanium dioxide, triacetin, and FD&amp;C Blue #2/Indigo Carmine Aluminum Lake. In addition, the 75 mg and 125 mg tablets contain red iron oxide and the 100 mg tablets contain yellow iron oxide.</p>
   <p>This product’s labeling may have been updated. For the most recent prescribing information, please visit <a href="http://www.pfizer.com">www.pfizer.com</a>.</p>
   <p><img src="ibrance-06.jpg" alt="Pfizer Logo 2"/> LAB-1372-4.0</p>
   <p>For more information, go to <a href="http://www.pfizer.com">www.pfizer.com</a> or call 1-800-438-1985.</p>
@@ -3127,27 +3127,29 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="narrative">
-                                <p>NDC 0069-0187-21</p>
-                                <p>
-                                    <strong>
-                                        <em>Pfizer</em>
-                                    </strong>
-                                </p>
-                                <p>
-                                    <strong>Ibrance</strong>
-                                    <sup>®</sup>
-                                    <br />
-                                    <strong>(palbociclib)</strong>
-                                    <br />
-                                    <strong>capsules</strong>
-                                </p>
-                                <p>
-                                    <strong>75 mg</strong>
-                                </p>
-                                <p>21 Capsules</p>
-                                <p>
-                                    <strong>Rx only</strong>
-                                </p>
+<div xmlns="http://www.w3.org/1999/xhtml">
+  <p>Your Monthly Box</p>
+  <p>Includes 3 weekly packs of <strong>IBRANCE® (palbociclib)</strong> medication.</p>
+  <p>Fill in the dates below to help track your treatment cycle.</p>
+
+  <p>Treatment Cycle</p>
+  <p>Week 1 Week 2  Week 3</p>
+  <p>IBRANCE</p>
+  <p>Week 4</p>
+  <p>No IBRANCE</p>
+
+  <p>My Treatment Cycle Tracker</p>
+  <p>I start my Week 1</p>
+  <p>treatment cycle on:</p> 
+  <p><u>________ / ______</u></p>
+  <p>    MONTH      DAY</p>
+  <p>After Week 4, I will start my</p>
+  <p>next treatment cycle on:</p>
+  <p><u>________ / ______</u></p>
+<p>      MONTH       DAY</p>
+
+  <p>PAA119239</p>
+</div>
                                 <img src="#ibrance-07" alt="PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label" />
                             </div>
                         </div>
@@ -3170,27 +3172,15 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="narrative">
-                                <p>NDC 0069-0188-21</p>
-                                <p>
-                                    <strong>
-                                        <em>Pfizer</em>
-                                    </strong>
-                                </p>
-                                <p>
-                                    <strong>Ibrance</strong>
-                                    <sup>®</sup>
-                                    <br />
-                                    <strong>(palbociclib)</strong>
-                                    <br />
-                                    <strong>capsules</strong>
-                                </p>
-                                <p>
-                                    <strong>100 mg</strong>
-                                </p>
-                                <p>21 Capsules</p>
-                                <p>
-                                    <strong>Rx only</strong>
-                                </p>
+  <p>Pfizer</p>
+  <p>NDC 0069-0284-07</p>
+  <p>IBRANCE®</p>
+  <p>(palbociclib)</p>
+  <p>tablets</p>
+  <p>75 mg per tablet</p>
+  <p>This weekly pack contains:</p>
+  <p>7 tablets</p>
+  <p>Rx only</p>
                                 <img src="#ibrance-08" alt="PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label" />
                             </div>
                         </div>
@@ -3213,27 +3203,136 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="narrative">
-                                <p>NDC 0069-0189-21</p>
-                                <p>
-                                    <strong>
-                                        <em>Pfizer</em>
-                                    </strong>
-                                </p>
-                                <p>
-                                    <strong>Ibrance</strong>
-                                    <sup>®</sup>
-                                    <br />
-                                    <strong>(palbociclib)</strong>
-                                    <br />
-                                    <strong>capsules</strong>
-                                </p>
-                                <p>
-                                    <strong>125 mg</strong>
-                                </p>
-                                <p>21 Capsules</p>
-                                <p>
-                                    <strong>Rx only</strong>
-                                </p>
+  <p>Pfizer</p>
+  <p>NDC 0069-0284-03</p>
+  <p>IBRANCE®</p> 
+  <p>(palbociclib)</p>
+  <p>tablets</p>
+  <p>75 mg</p>
+  <p>21 tablets</p>
+  <p>Monthly Box Contains: 3 individual weekly packs. Each pack contains 7 IBRANCE tablets (75 mg per tablet).</p>
+  <p>Rx only</p>
+  <p>Safety Label</p>
+                                <img src="#ibrance-09" alt="PRINCIPAL DISPLAY PANEL - 125 mg Capsule Bottle Label" />
+                            </div>
+                        </div>
+                    </text>
+                </section>
+                <section id="16ca776c-296c-4ab0-a135-70ac4105e8d7">
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
+                        <valueDateTime value="2022-12-16" />
+                    </extension>
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
+                        <valueString value="ID_be3ad5ad-6e4b-4f17-82a4-0da5214ef7d1" />
+                    </extension>
+                    <title value="PRINCIPAL DISPLAY PANEL - 100 mg TABLET DOSE PACK" />
+                    <code><coding>
+							<system value="http://loinc.org"/>
+							<code value="51945-4"/>
+							<display value="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+						</coding></code>
+                    <text>
+                        <status value="additional" />
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                            <div style="narrative">
+  <p>Pfizer</p>
+  <p>NDC 0069-0486-07</p>
+  <p>IBRANCE® (palbociclib)</p>
+  <p>tablets</p>
+  <p>100 mg per tablet</p>
+  <p>This weekly pack contains: 7 tablets</p>
+  <p>Rx only</p>
+                                <img src="#ibrance-09" alt="PRINCIPAL DISPLAY PANEL - 125 mg Capsule Bottle Label" />
+                            </div>
+                        </div>
+                    </text>
+                </section>
+                <section id="9dc5125f-7d2c-4670-b666-e25eee5196ab">
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
+                        <valueDateTime value="2022-12-16" />
+                    </extension>
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
+                        <valueString value="ID_ada632f8-2d54-475f-b4ac-a3099cec3636" />
+                    </extension>
+                    <title value="PRINCIPAL DISPLAY PANEL - 100 MG TABLET DOSE PACK CARTON" />
+                    <code><coding>
+							<system value="http://loinc.org"/>
+							<code value="51945-4"/>
+							<display value="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+						</coding></code>
+                    <text>
+                        <status value="additional" />
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                            <div style="narrative">
+  <p>Pfizer</p>
+  <p>NDC 0069-0486-03</p>
+  <p>IBRANCE® (palbociclib)</p>
+  <p>tablets</p>
+  <p>100 mg</p>
+  <p>21 tablets</p>
+  <p>Monthly Box Contains: 3 individual weekly packs. Each pack contains 7 IBRANCE tablets (100 mg per tablet).</p>
+  <p>Rx only</p>
+  <p>Safety Label</p>
+                                <img src="#ibrance-09" alt="PRINCIPAL DISPLAY PANEL - 125 mg Capsule Bottle Label" />
+                            </div>
+                        </div>
+                    </text>
+                </section>
+                <section id="33d516f5-f9d5-4ed8-a055-b160443f11be">
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
+                        <valueDateTime value="2022-12-16" />
+                    </extension>
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
+                        <valueString value="ID_728810b2-e5c9-4ef8-aa7a-080795d63169" />
+                    </extension>
+                    <title value="PRINCIPAL DISPLAY PANEL - 125 MG TABLET DOSE PACK" />
+                    <code><coding>
+							<system value="http://loinc.org"/>
+							<code value="51945-4"/>
+							<display value="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+						</coding></code>
+                    <text>
+                        <status value="additional" />
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                            <div style="narrative">
+  <p>Pfizer</p>
+  <p>NDC 0069-0688-07</p>
+  <p>IBRANCE® (palbociclib)</p>
+  <p>tablets</p>
+  <p>125 mg per tablet</p>
+  <p>This weekly pack contains: 7 tablets</p>
+  <p>Rx only</p>
+                                <img src="#ibrance-09" alt="PRINCIPAL DISPLAY PANEL - 125 mg Capsule Bottle Label" />
+                            </div>
+                        </div>
+                    </text>
+                </section>
+                <section id="bdcba748-5b43-417c-8dfa-950a134464fe">
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionEffectiveTime">
+                        <valueDateTime value="2022-12-16" />
+                    </extension>
+                    <extension url="http://hl7.org/fhir/us/spl/StructureDefinition/sectionLinkId">
+                        <valueString value="ID_13a04c09-0d39-46ed-941e-b54a1839c93c" />
+                    </extension>
+                    <title value="PRINCIPAL DISPLAY PANEL - 125 MG TABLET DOSE PACK CARTON" />
+                    <code><coding>
+							<system value="http://loinc.org"/>
+							<code value="51945-4"/>
+							<display value="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+						</coding></code>
+                    <text>
+                        <status value="additional" />
+                        <div xmlns="http://www.w3.org/1999/xhtml">
+                            <div style="narrative">
+  <p>Pfizer</p>
+  <p>NDC 0069-0688-03</p>
+  <p>IBRANCE® (palbociclib)</p>
+  <p>tablets</p>
+  <p>125 mg</p>
+  <p>21 tablets</p>
+  <p>Monthly Box Contains: 3 individual weekly packs. Each pack contains 7 IBRANCE tablets (125 mg per tablet).</p>
+  <p>Rx only</p>
+  <p>Safety Label</p>
                                 <img src="#ibrance-09" alt="PRINCIPAL DISPLAY PANEL - 125 mg Capsule Bottle Label" />
                             </div>
                         </div>
