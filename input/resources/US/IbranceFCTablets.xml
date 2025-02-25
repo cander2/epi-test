@@ -224,11 +224,11 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
-                                <p>IBRANCE is a kinase inhibitor indicated for the treatment of adult patients with
-                                    hormone receptor (HR)-positive, human epidermal growth factor receptor 2
-                                    (HER2)-negative advanced or metastatic breast cancer in combination with:</p>
+                                <p>IBRANCE is indicated for the treatment of adult patients with hormone receptor
+                     (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic
+                     breast cancer in combination with:</p>
                                 <ul>
-                                    <li>an aromatase inhibitor as initial endocrine-based therapy (<a
+                                    <li>an aromatase inhibitor as initial endocrine-based therapy; or(<a
                                             href="#ID_RefS1">1</a>); or</li>
                                     <li>fulvestrant in patients with disease progression following endocrine therapy.
                                         (<a href="#ID_RefS1">1</a>)</li>
@@ -266,13 +266,13 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
-                                <p>IBRANCE capsules are taken orally with food in combination with an aromatase
-                                    inhibitor or fulvestrant. (<a href="#S2.2">2</a>)</p>
+                                <p>IBRANCE tablets are taken orally with or without food in combination with an
+                           aromatase inhibitor or fulvestrant. (<a href="#S2.2">2</a>)</p>
                                 <ul>
-                                    <li>Recommended starting dose: 125 mg once daily taken with food for 21 days
-                                        followed by 7 days off treatment. (<a href="#ID_RefS2.1">2.1</a>)</li>
-                                    <li>Dosing interruption and/or dose reductions are recommended based on individual
-                                        safety and tolerability. (<a href="#ID_RefS2.2">2.2</a>)</li>
+                                    <li>Recommended starting dose: 125 mg once daily taken with or without
+                              food for 21 days followed by 7 days off treatment. (<a href="#ID_RefS2.1">2.1</a>)</li>
+                                    <li>Dosing interruption and/or dose reductions are recommended based on
+                              individual safety and tolerability. (<a href="#ID_RefS2.2">2.2</a>)</li>
                                 </ul>
                             </div>
                         </div>
@@ -527,7 +527,7 @@
                         <status value="additional" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
-                                <p>Capsules: 125 mg, 100 mg, and 75 mg. (<a href="#ID_RefS3">3</a>)</p>
+                                <p>Tablets: 125 mg, 100 mg, and 75 mg. (<a href="#ID_RefS3">3</a>)</p>
                             </div>
                             <div style="narrative">
                 <p>125 mg tablets: Oval, light purple, film-coated tablets debossed with "Pfizer" on
@@ -585,17 +585,16 @@
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
                                 <ul>
-                                    <li>Neutropenia: Monitor complete blood count prior to start of IBRANCE therapy and
-                                        at the beginning of each cycle, as well as on Day 15 of the first 2 cycles, and
-                                        as clinically indicated. (<a href="#ID_RefS2.2">2.2</a>, <a
+                                    <li>Neutropenia: Monitor complete blood count prior to start of IBRANCE
+                              therapy and at the beginning of each cycle, as well as on Day 15 of the first 2 cycles,
+                              and as clinically indicated. (<a href="#ID_RefS2.2">2.2</a>, <a
                                             href="#ID_RefS5.1">5.1</a>)</li>
                                     <li>Interstitial Lung Disease (ILD)/Pneumonitis: Severe and fatal cases of
-                                        ILD/pneumonitis have been reported. Monitor for pulmonary symptoms of
-                                        ILD/pneumonitis. Interrupt IBRANCE immediately in patients with suspected
-                                        ILD/pneumonitis. Permanently discontinue IBRANCE if severe ILD/pneumonitis
-                                        occurs. (<a href="#ID_RefS5.2">5.2</a>)</li>
-                                    <li>Embryo-Fetal Toxicity: IBRANCE can cause fetal harm. Advise patients of
-                                        potential risk to a fetus and to use effective contraception. (<a
+                              ILD/pneumonitis have been reported. Monitor for pulmonary symptoms of ILD/pneumonitis.
+                              Interrupt IBRANCE immediately in patients with suspected ILD/pneumonitis. Permanently
+                              discontinue IBRANCE if severe ILD/pneumonitis occurs. (<a href="#ID_RefS5.2">5.2</a>)</li>
+                                    <li>Embryo-Fetal Toxicity: IBRANCE can cause fetal harm. Advise patients
+                              of potential risk to a fetus and to use effective contraception. (<a
                                             href="#ID_RefS5.3">5.3</a>, <a href="#ID_RefS8.1">8.1</a>, <a
                                             href="#ID_RefS8.3">8.3</a>)</li>
                                 </ul>
@@ -725,12 +724,12 @@
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
                                 <p>Most common adverse reactions (incidence ≥10%) were neutropenia, infections,
-                                    leukopenia, fatigue, nausea, stomatitis, anemia, alopecia, diarrhea,
-                                    thrombocytopenia, rash, vomiting, decreased appetite, asthenia, and pyrexia. (<a
+                           leukopenia, fatigue, nausea, stomatitis, anemia, alopecia, diarrhea, thrombocytopenia, rash,
+                           vomiting, decreased appetite, asthenia, and pyrexia. (<a
                                         href="#S6.2">6</a>)</p>
                                 <p>
-                                    <strong>To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc at 1-800-438-1985
-                                        or FDA at 1-800-FDA-1088 or <a
+                                    <strong>To report SUSPECTED ADVERSE REACTIONS, contact Pfizer Inc at
+                              1-800-438-1985 or FDA at 1-800-FDA-1088 or <a
                                             href="https://www.fda.gov/medwatch">www.fda.gov/medwatch</a>.</strong>
                                 </p>
                             </div>
@@ -1501,13 +1500,14 @@
                         <div xmlns="http://www.w3.org/1999/xhtml">
                             <div style="highlight">
                                 <ul>
-                                    <li>CYP3A Inhibitors: Avoid concurrent use of IBRANCE with strong CYP3A inhibitors.
-                                        If the strong inhibitor cannot be avoided, reduce the IBRANCE dose. (<a
+                                    <li>CYP3A Inhibitors: Avoid concurrent use of IBRANCE with strong CYP3A
+                              inhibitors. If the strong inhibitor cannot be avoided, reduce the IBRANCE dose. (<a
                                             href="#ID_RefS2.2">2.2</a>, <a href="#ID_RefS7.1">7.1</a>) </li>
-                                    <li>CYP3A Inducers: Avoid concurrent use of IBRANCE with strong CYP3A inducers. (<a
+                                    <li>CYP3A Inducers: Avoid concurrent use of IBRANCE with strong CYP3A
+                              inducers. (<a
                                             href="#S7.2">7.2</a>)</li>
                                     <li>CYP3A Substrates: The dose of sensitive CYP3A4 substrates with narrow
-                                        therapeutic indices may need to be reduced when given concurrently with IBRANCE.
+                              therapeutic indices may need to be reduced when given concurrently with IBRANCE.
                                         (<a href="#ID_RefS7.3">7.3</a>)</li>
                                 </ul>
                             </div>
