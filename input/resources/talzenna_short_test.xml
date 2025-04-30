@@ -16,10 +16,10 @@
   <type value="document" />
   <timestamp value="2024-04-11T00:00:00Z" />
   <entry>
-    <fullUrl value="Composition/compositionuken" />
+    <fullUrl value="urn:uuid:5147b175-7d3e-4d61-becc-1cbe3457644e" />
     <resource>
       <Composition>
-        <id value="compositionuken" />
+        <id value="5147b175-7d3e-4d61-becc-1cbe3457644e" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Composition-uv-epi" />
@@ -749,10 +749,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/talazoparib01mg" />
+    <fullUrl value="urn:uuid:61666c5e-65a9-44e8-9dc9-5f9cdc485d25" />
     <resource>
       <Ingredient>
-        <id value="talazoparib01mg" />
+        <id value="61666c5e-65a9-44e8-9dc9-5f9cdc485d25" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -802,10 +802,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Ingredient/ingredientsmcc" />
+    <fullUrl value="urn:uuid:f8fc2c18-d7b9-4829-a500-f205bbb3f80d" />
     <resource>
       <Ingredient>
-        <id value="ingredientsmcc" />
+        <id value="f8fc2c18-d7b9-4829-a500-f205bbb3f80d" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Ingredient-uv-epi" />
@@ -848,10 +848,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="SubstanceDefinition/substancetalazoparib" />
+    <fullUrl value="urn:uuid:a65ab338-6078-4a5d-8af5-deccee24a201" />
     <resource>
       <SubstanceDefinition>
-        <id value="substancetalazoparib" />
+        <id value="a65ab338-6078-4a5d-8af5-deccee24a201" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/SubstanceDefinition-uv-epi" />
@@ -895,10 +895,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ManufacturedItemDefinition/mid01mg" />
+    <fullUrl value="urn:uuid:48ec4d68-b0ba-4b49-93f7-5bf68d19c808" />
     <resource>
       <ManufacturedItemDefinition>
-        <id value="mid01mg" />
+        <id value="48ec4d68-b0ba-4b49-93f7-5bf68d19c808" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ManufacturedItemDefinition-uv-epi" />
@@ -930,10 +930,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="AdministrableProductDefinition/ap01mg" />
+    <fullUrl value="urn:uuid:46750383-ffaf-44fb-b74c-890836380afc" />
     <resource>
       <AdministrableProductDefinition>
-        <id value="ap01mg" />
+        <id value="46750383-ffaf-44fb-b74c-890836380afc" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/AdministrableProductDefinition-uv-epi" />
@@ -985,10 +985,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="RegulatedAuthorization/authorization01mg" />
+    <fullUrl value="urn:uuid:712d636d-3d0e-4a19-881b-51f247e695ba" />
     <resource>
       <RegulatedAuthorization>
-        <id value="authorization01mg" />
+        <id value="712d636d-3d0e-4a19-881b-51f247e695ba" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/RegulatedAuthorization-uv-epi" />
@@ -1030,10 +1030,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="Organization/orgpfizerukltd" />
+    <fullUrl value="urn:uuid:f386ead1-0416-46a9-a529-2acc14b85e1c" />
     <resource>
       <Organization>
-        <id value="orgpfizerukltd" />
+        <id value="f386ead1-0416-46a9-a529-2acc14b85e1c" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/Organization-uv-epi" />
@@ -1067,10 +1067,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="PackagedProductDefinition/ppd01mgbottle30" />
+    <fullUrl value="0654fe86-9bbb-49a0-b8f5-cd9d4bcaec19" />
     <resource>
       <PackagedProductDefinition>
-        <id value="ppd01mgbottle30" />
+        <id value="0654fe86-9bbb-49a0-b8f5-cd9d4bcaec19" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/PackagedProductDefinition-uv-epi" />
@@ -1132,10 +1132,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="MedicinalProductDefinition/mp01mg" />
+    <fullUrl value="urn:uuid:969524b6-f402-4257-805f-38875d0f1cde" />
     <resource>
       <MedicinalProductDefinition>
-        <id value="mp01mg" />
+        <id value="969524b6-f402-4257-805f-38875d0f1cde" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/MedicinalProductDefinition-uv-epi" />
@@ -1249,10 +1249,10 @@
     </resource>
   </entry>
   <entry>
-    <fullUrl value="ClinicalUseDefinition/interactionAmiodarone" />
+    <fullUrl value="urn:uuid:1b0f9dce-5bc9-450a-bab4-3c58f2969ab7" />
     <resource>
       <ClinicalUseDefinition>
-        <id value="36fdf79a-1b9c-11ee-be56-0242ac120002" />
+        <id value="1b0f9dce-5bc9-450a-bab4-3c58f2969ab7" />
         <meta>
           <profile
             value="http://hl7.org/fhir/uv/emedicinal-product-info/StructureDefinition/ClinicalUseDefinition-interaction-uv-epi" />
