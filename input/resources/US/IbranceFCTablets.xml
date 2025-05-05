@@ -4044,6 +4044,13 @@
                         <display value="Validated (UNII)" />
                     </coding>
                 </status>
+                <classification>
+                    <coding>
+                        <system value="https://evs.nci.nih.gov/ftp1/MED-RT/MEDRT.txt" />
+                        <code value="N0000175082" />
+                        <display value="Kinase Inhibitors" />
+                    </coding>
+                </classification>
                 <name>
                     <name value="palbociclib" />
                 </name>
