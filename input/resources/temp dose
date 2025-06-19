@@ -1,0 +1,230 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "ibrance-dosage",
+  "meta": {
+    "profile": [
+      "http://example.org/fhir/StructureDefinition/EPIDosageClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicinalProductDefinition/ibrance-125mg"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "254837009",
+          "display": "Malignant tumor of breast"
+        }
+      ]
+    }
+  },
+  "dosage": [
+    {
+      "sequence": 1,
+      "text": "Take one 125 mg tablet orally once daily for 21 days, followed by 7 days off treatment, to complete a 28-day cycle",
+      "patientInstruction": "Swallow one 125 mg tablet whole once a day for 21 days with or without food, then stop for 7 days. Repeat every 28 days.",
+      "additionalInstruction": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "311504000",
+              "display": "Swallow whole"
+            }
+          ]
+        },
+        {
+          "text": "May be taken with or without food"
+        }
+      ],
+      "timing": {
+        "repeat": {
+          "frequency": 1,
+          "period": 1,
+          "periodUnit": "d",
+          "duration": 21,
+          "durationUnit": "d",
+          "countPerPeriod": 21,
+          "period": 28,
+          "periodUnit": "d"
+        }
+      },
+      "route": {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "26643006",
+            "display": "Oral"
+          }
+        ]
+      },
+      "doseAndRate": [
+        {
+          "doseQuantity": {
+            "value": 1,
+            "unit": "tablet",
+            "system": "http://snomed.info/sct",
+            "code": "428673006"
+          }
+        }
+      ]
+    },
+    {
+      "sequence": 2,
+      "text": "Take one 100 mg tablet orally once daily for 21 days, followed by 7 days off treatment, to complete a 28-day cycle, if dose reduction is needed due to adverse reactions",
+      "patientInstruction": "Swallow one 100 mg tablet whole once a day for 21 days with or without food, then stop for 7 days. Repeat every 28 days. Use this dose if your doctor reduces it due to side effects like low blood counts.",
+      "additionalInstruction": [
+        {
+          "text": "Use for first dose reduction due to Grade 3 neutropenia with fever ≥38.5°C, Grade 4 neutropenia, or Grade ≥3 non-hematologic toxicity"
+        },
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "311504000",
+              "display": "Swallow whole"
+            }
+          ]
+        },
+        {
+          "text": "May be taken with or without food"
+        }
+      ],
+      "timing": {
+        "repeat": {
+          "frequency": 1,
+          "period": 1,
+          "periodUnit": "d",
+          "duration": 21,
+          "durationUnit": "d",
+          "countPerPeriod": 21,
+          "period": 28,
+          "periodUnit": "d"
+        }
+      },
+      "route": {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "26643006",
+            "display": "Oral"
+          }
+        ]
+      },
+      "doseAndRate": [
+        {
+          "doseQuantity": {
+            "value": 1,
+            "unit": "tablet",
+            "system": "http://snomed.info/sct",
+            "code": "428673006"
+          }
+        }
+      ]
+    },
+    {
+      "sequence": 3,
+      "text": "Take one 75 mg tablet orally once daily for 21 days, followed by 7 days off treatment, to complete a 28-day cycle, if further dose reduction is needed or for specific conditions",
+      "patientInstruction": "Swallow one 75 mg tablet whole once a day for 21 days with or without food, then stop for 7 days. Repeat every 28 days. Use this dose if your doctor further reduces it due to side effects or if you have severe liver problems or are taking certain other medicines.",
+      "additionalInstruction": [
+        {
+          "text": "Use for second dose reduction due to persistent adverse reactions, or for patients with severe hepatic impairment (Child-Pugh class C), or with concomitant strong CYP3A inhibitors"
+        },
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "311504000",
+              "display": "Swallow whole"
+            }
+          ]
+        },
+        {
+          "text": "May be taken with or without food"
+        }
+      ],
+      "timing": {
+        "repeat": {
+          "frequency": 1,
+          "period": 1,
+          "periodUnit": "d",
+          "duration": 21,
+          "durationUnit": "d",
+          "countPerPeriod": 21,
+          "period": 28,
+          "periodUnit": "d"
+        }
+      },
+      "route": {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "26643006",
+            "display": "Oral"
+          }
+        ]
+      },
+      "doseAndRate": [
+        {
+          "doseQuantity": {
+            "value": 1,
+            "unit": "tablet",
+            "system": "http://snomed.info/sct",
+            "code": "428673006"
+          }
+        }
+      ]
+    },
+    {
+      "sequence": 4,
+      "text": "Withhold IBRANCE until recovery to Grade ≤2 for Grade 4 neutropenia, then resume at the next lower dose",
+      "patientInstruction": "Stop taking IBRANCE if your doctor detects very low white blood cell counts (Grade 4 neutropenia). Do not take any doses until your doctor confirms your blood counts have improved to a safe level (Grade 2 or better), then resume with a lower dose (100 mg or 75 mg) as directed.",
+      "additionalInstruction": [
+        {
+          "text": "Withhold IBRANCE for Grade 4 neutropenia (CTCAE); monitor complete blood counts weekly until recovery to Grade ≤2, then resume at the next lower dose (100 mg if previously 125 mg, or 75 mg if previously 100 mg)"
+        },
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "273870008",
+              "display": "Neutropenia"
+            }
+          ]
+        }
+      ],
+      "timing": {
+        "event": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "system": "http://hl7.org/fhir/v3/ActCode",
+                  "code": "HOLD",
+                  "display": "Hold"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "asNeededFor": [
+        {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "273870008",
+              "display": "Neutropenia"
+            }
+          ],
+          "text": "Grade 4 neutropenia per CTCAE"
+        }
+      ]
+    }
+  ]
+}
