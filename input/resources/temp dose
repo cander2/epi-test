@@ -49,9 +49,11 @@
           "periodUnit": "d",
           "duration": 21,
           "durationUnit": "d",
-          "countPerPeriod": 21,
-          "period": 28,
-          "periodUnit": "d"
+          "count": 21
+        },
+        "boundsPeriod": {
+          "start": "2025-06-19",
+          "end": "2025-07-16"
         }
       },
       "route": {
@@ -102,9 +104,11 @@
           "periodUnit": "d",
           "duration": 21,
           "durationUnit": "d",
-          "countPerPeriod": 21,
-          "period": 28,
-          "periodUnit": "d"
+          "count": 21
+        },
+        "boundsPeriod": {
+          "start": "2025-06-19",
+          "end": "2025-07-16"
         }
       },
       "route": {
@@ -155,9 +159,11 @@
           "periodUnit": "d",
           "duration": 21,
           "durationUnit": "d",
-          "countPerPeriod": 21,
-          "period": 28,
-          "periodUnit": "d"
+          "count": 21
+        },
+        "boundsPeriod": {
+          "start": "2025-06-19",
+          "end": "2025-07-16"
         }
       },
       "route": {
