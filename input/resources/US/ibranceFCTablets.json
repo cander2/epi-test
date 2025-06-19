@@ -3729,36 +3729,39 @@
                                         }
                                     ]
                                 }
-                            },
-                            {
-                                "usage":
-                                    {
-                                        "country": {
-                                            "system": "urn:iso:std:iso:3166",
-                                            "code": "us",
-                                            "display": "United States of America"
-                                        }
-                                    },
-                                    "jurisdiction": {
+                            }
+                        ],
+                        "usage":[
+                                {
+                                    "country": {
                                         "coding": [
                                             {
                                                 "system": "urn:iso:std:iso:3166",
-                                                "code": "us",
+                                                "code": "US",
                                                 "display": "United States of America"
                                             }
                                         ]
-                                    },                                 
-                                        "language": {
-                                            "coding": [
-                                                {
-                                                    "system": "urn:ietf:bcp:47",
-                                                    "code": "en",
-                                                    "display": "English"
-                                                }
-                                            ]
+                                    },
+                                "jurisdiction": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:iso:std:iso:3166",
+                                            "code": "US",
+                                            "display": "United States of America"
                                         }
-                                }
-                        ]
+                                    ]
+                                },                                 
+                                    "language": {
+                                        "coding": [
+                                            {
+                                                "system": "urn:ietf:bcp:47",
+                                                "code": "en",
+                                                "display": "English"
+                                            }
+                                        ]
+                                    }
+                                }  
+                           ]
                     }
                 ],
                 "operation": [
@@ -3971,36 +3974,39 @@
                                         }
                                     ]
                                 }
-                            },
-                            {
-                                "usage":
-                                    {
-                                        "country": {
-                                            "system": "urn:iso:std:iso:3166",
-                                            "code": "us",
-                                            "display": "United States of America"
-                                        }
-                                    },
-                                    "jurisdiction": {
+                            }                            
+                        ],
+                        "usage":[
+                                {
+                                    "country": {
                                         "coding": [
                                             {
                                                 "system": "urn:iso:std:iso:3166",
-                                                "code": "us",
+                                                "code": "US",
                                                 "display": "United States of America"
                                             }
                                         ]
-                                    },                                 
-                                        "language": {
-                                            "coding": [
-                                                {
-                                                    "system": "urn:ietf:bcp:47",
-                                                    "code": "en",
-                                                    "display": "English"
-                                                }
-                                            ]
+                                    },
+                                "jurisdiction": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:iso:std:iso:3166",
+                                            "code": "US",
+                                            "display": "United States of America"
                                         }
-                                }
-                        ]
+                                    ]
+                                },                                 
+                                    "language": {
+                                        "coding": [
+                                            {
+                                                "system": "urn:ietf:bcp:47",
+                                                "code": "en",
+                                                "display": "English"
+                                            }
+                                        ]
+                                    }
+                                }  
+                           ]
                     }
                 ],
                 "operation": [
