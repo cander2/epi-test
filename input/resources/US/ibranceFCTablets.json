@@ -2670,7 +2670,7 @@
                         "valueCodeableConcept": {
                             "text": "no score"
                         }
-                    },                    
+                    },
                     {
                         "type": {
                             "coding": [
@@ -2808,19 +2808,19 @@
                     },
                     {
                         "type": {
-                            "coding":[
+                            "coding": [
                                 {
-                                    "system":"http://hl7.org/fhir/StructureDefinition/ManufacturedItemDefinition",
+                                    "system": "http://hl7.org/fhir/StructureDefinition/ManufacturedItemDefinition",
                                     "code": "image",
                                     "display": "Product Image"
                                 }
                             ]
-                        }, 
-                            "valueAttachment": {
-                                "contentType": "image/webp",
-                                "data": "UklGRjgDAABXRUJQVlA4WAoAAAAQAAAANwAAHgAAQUxQSAQCAAABmYzof0DWbWuGJGv/AsXuHtu2bfPRtm3PPNm2bdu2bdtWKiIKqYqICXDgNpIiOct8+AgI3BQvs6wySC2pIEpQ/PbFe6+88BqQUgrlVVBKHqkA23Qv3HLBeRcwsUmkgfpq8APueuegHfbgXMuit3aSALH02jILfOAKMdYgGIg1xXSjKJyVt1J2QEZv9baNk6bWA7KaZAiH5TOAvJbqyPaML5KQCPQ0l90jzAZk0iSmsLqiOKlAXQdYJPYFJddQE1kUcBswkX+Rwm6QbIpBLFL6RLJhJgCWbitArspOsRpuLKk+S02w+YP4gZCpufWATfVsI9FaLQHbuptLmkW6AA7VtEI6UvzVy3LAsaCx+pJgiZE+Am7Krpe2EovJfyvMcQ9wW2INNFJZgEvMSVts9gVwDDFtRxCBASC9SsopIreUnN7Mx64555jnAMAQIAAhQjBtMe9DMIzACAr89Q9IIausskovlSTi+WDMf7989tZzTz32DvBIBGEMXCRBEKKE6GhawijKw8PHz88vwANwgPDz8yIQRqP4SyNgGPOfQqFS6XQGhuEEgTPNrAgiKjIEBQQERJYoAgEco9Oo/jOlUqk0BgvLzGaRIAgPysPLIxJFEQgCBI4xGHQ6jU6nM5i2cIJ1xe5A8yWjawSCYABBAABCNI4TOMFyrvlIFyHm4xwTAHB+TABWUDggDgEAAHAHAJ0BKjgAHwA+hTSVR6UjIiEz+Z1QoBCJZwDNSmwJUD3qw++eU2kTHNE2jmPHQumR0SYEoOAZpn/bcZljONSg+/YAAP75bVvhck/N9w3W1zu7pUiUekwBBfAKhHMsH36La+ibEGmQ8rKMxdGYYnfx02Tg7bGBFabdclrZT9ZvBcitfiZvnohcwXk4FfrTiXlCoGIKT4LuNxzFVEVXzkEN50kQ0l7b6HiRBYrFA2j0EpgFJeOlaHMSyY7AKX2VZP+OQ7g5iSDS5WYzk4+lOh98UdoFl1i5jS+TPJS/c4iv8AtChhrhjgDxdoC7IwZYdbnTMYEWdsizoE5H+iHkUPnb0tm///ZG8y4r+TAAAA==",
-                                "title": "Ibrance 100 mg film-coated tablet"
-                            }
+                        },
+                        "valueAttachment": {
+                            "contentType": "image/webp",
+                            "data": "UklGRjgDAABXRUJQVlA4WAoAAAAQAAAANwAAHgAAQUxQSAQCAAABmYzof0DWbWuGJGv/AsXuHtu2bfPRtm3PPNm2bdu2bdtWKiIKqYqICXDgNpIiOct8+AgI3BQvs6wySC2pIEpQ/PbFe6+88BqQUgrlVVBKHqkA23Qv3HLBeRcwsUmkgfpq8APueuegHfbgXMuit3aSALH02jILfOAKMdYgGIg1xXSjKJyVt1J2QEZv9baNk6bWA7KaZAiH5TOAvJbqyPaML5KQCPQ0l90jzAZk0iSmsLqiOKlAXQdYJPYFJddQE1kUcBswkX+Rwm6QbIpBLFL6RLJhJgCWbitArspOsRpuLKk+S02w+YP4gZCpufWATfVsI9FaLQHbuptLmkW6AA7VtEI6UvzVy3LAsaCx+pJgiZE+Am7Krpe2EovJfyvMcQ9wW2INNFJZgEvMSVts9gVwDDFtRxCBASC9SsopIreUnN7Mx64555jnAMAQIAAhQjBtMe9DMIzACAr89Q9IIausskovlSTi+WDMf7989tZzTz32DvBIBGEMXCRBEKKE6GhawijKw8PHz88vwANwgPDz8yIQRqP4SyNgGPOfQqFS6XQGhuEEgTPNrAgiKjIEBQQERJYoAgEco9Oo/jOlUqk0BgvLzGaRIAgPysPLIxJFEQgCBI4xGHQ6jU6nM5i2cIJ1xe5A8yWjawSCYABBAABCNI4TOMFyrvlIFyHm4xwTAHB+TABWUDggDgEAAHAHAJ0BKjgAHwA+hTSVR6UjIiEz+Z1QoBCJZwDNSmwJUD3qw++eU2kTHNE2jmPHQumR0SYEoOAZpn/bcZljONSg+/YAAP75bVvhck/N9w3W1zu7pUiUekwBBfAKhHMsH36La+ibEGmQ8rKMxdGYYnfx02Tg7bGBFabdclrZT9ZvBcitfiZvnohcwXk4FfrTiXlCoGIKT4LuNxzFVEVXzkEN50kQ0l7b6HiRBYrFA2j0EpgFJeOlaHMSyY7AKX2VZP+OQ7g5iSDS5WYzk4+lOh98UdoFl1i5jS+TPJS/c4iv8AtChhrhjgDxdoC7IwZYdbnTMYEWdsizoE5H+iHkUPnb0tm///ZG8y4r+TAAAA==",
+                            "title": "Ibrance 100 mg film-coated tablet"
+                        }
                     }
                 ]
             }
@@ -2943,7 +2943,7 @@
                     },
                     {
                         "type": {
-                            "coding":[
+                            "coding": [
                                 {
                                     "system": "http://hl7.org/fhir/StructureDefinition/ManufacturedItemDefinition",
                                     "code": "image",
@@ -3486,17 +3486,17 @@
                                 }
                             }
                         ],
-                        "usage":[
-                                {
-                                    "country": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:iso:std:iso:3166",
-                                                "code": "US",
-                                                "display": "United States of America"
-                                            }
-                                        ]
-                                    },
+                        "usage": [
+                            {
+                                "country": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:iso:std:iso:3166",
+                                            "code": "US",
+                                            "display": "United States of America"
+                                        }
+                                    ]
+                                },
                                 "jurisdiction": {
                                     "coding": [
                                         {
@@ -3505,18 +3505,18 @@
                                             "display": "United States of America"
                                         }
                                     ]
-                                },                                 
-                                    "language": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:ietf:bcp:47",
-                                                "code": "en",
-                                                "display": "English"
-                                            }
-                                        ]
-                                    }
-                                }  
-                           ]
+                                },
+                                "language": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:ietf:bcp:47",
+                                            "code": "en",
+                                            "display": "English"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
                     }
                 ],
                 "operation": [
@@ -3731,17 +3731,17 @@
                                 }
                             }
                         ],
-                        "usage":[
-                                {
-                                    "country": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:iso:std:iso:3166",
-                                                "code": "US",
-                                                "display": "United States of America"
-                                            }
-                                        ]
-                                    },
+                        "usage": [
+                            {
+                                "country": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:iso:std:iso:3166",
+                                            "code": "US",
+                                            "display": "United States of America"
+                                        }
+                                    ]
+                                },
                                 "jurisdiction": {
                                     "coding": [
                                         {
@@ -3750,18 +3750,18 @@
                                             "display": "United States of America"
                                         }
                                     ]
-                                },                                 
-                                    "language": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:ietf:bcp:47",
-                                                "code": "en",
-                                                "display": "English"
-                                            }
-                                        ]
-                                    }
-                                }  
-                           ]
+                                },
+                                "language": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:ietf:bcp:47",
+                                            "code": "en",
+                                            "display": "English"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
                     }
                 ],
                 "operation": [
@@ -3974,19 +3974,19 @@
                                         }
                                     ]
                                 }
-                            }                            
+                            }
                         ],
-                        "usage":[
-                                {
-                                    "country": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:iso:std:iso:3166",
-                                                "code": "US",
-                                                "display": "United States of America"
-                                            }
-                                        ]
-                                    },
+                        "usage": [
+                            {
+                                "country": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:iso:std:iso:3166",
+                                            "code": "US",
+                                            "display": "United States of America"
+                                        }
+                                    ]
+                                },
                                 "jurisdiction": {
                                     "coding": [
                                         {
@@ -3995,18 +3995,18 @@
                                             "display": "United States of America"
                                         }
                                     ]
-                                },                                 
-                                    "language": {
-                                        "coding": [
-                                            {
-                                                "system": "urn:ietf:bcp:47",
-                                                "code": "en",
-                                                "display": "English"
-                                            }
-                                        ]
-                                    }
-                                }  
-                           ]
+                                },
+                                "language": {
+                                    "coding": [
+                                        {
+                                            "system": "urn:ietf:bcp:47",
+                                            "code": "en",
+                                            "display": "English"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
                     }
                 ],
                 "operation": [
@@ -4789,7 +4789,18 @@
                     {
                         "reference": "urn:uuid:i0j1k2l3-4m5n-66o7-p8q9-r0s1t2u3v4w5"
                     }
-                ]
+                ],
+                "indication": {
+                    "diseaseSymptomProcedure": {
+                        "coding": [
+                            {
+                                "system": "http://snomed.info/sct",
+                                "code": "254837009",
+                                "display": "Malignant tumor of breast"
+                            }
+                        ]
+                    }
+                }
             }
         },
         {
