@@ -6,7 +6,7 @@
     <lastUpdated value="2024-04-11T00:00:00Z" />
     <profile value="http://ema.europa.eu/fhir/StructureDefinition/EUEpiBundle" />
     </meta>
-    <language value="en" />
+    <language value="EN" />
     <identifier>
         <system value="http://ema.europa.eu/fhir/epiDocument" />
         <value value="0d94c96e-094d-4a22-a9f2-0aa396c1079d" />
@@ -24,7 +24,7 @@
                 <profile
                     value="http://ema.europa.eu/fhir/StructureDefinition/EUQRD-CAP-template-new-Package-Leaflet-en" />
                 </meta>
-                <language value="en" />
+                <language value="EN" />
                 <text>
                     <status value="generated" />
                     <div xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">electronic Product Information
@@ -39,9 +39,9 @@
                 <type>
                     <coding>
                         <system value="http://ema.europa.eu/fhir/CodeSystem/100000155531" />
-                        <code value="100000155538" />
+                        <code value="200000029894" />
+                        <display value="PACKAGE LEAFLET" />
                     </coding>
-                    <text value="Package Leaflet" />
                 </type>
                 <date value="2024-04-11" />
                 <author>
@@ -50,15 +50,16 @@
                     </identifier>
                 </author>
                 <title value="Talzenna® (talazoparib) 0.1 mg, 0.25 mg and 1 mg hard capsules" />
-                <section id="99538ef5-c8e5-427a-b1cb-227f708a20ac">
+                <section id="8274fa64-3fa5-40e6-9727-373bec35e483">
                     <title value="PACKAGE LEAFLET" />
                     <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029894" />
-              <display value="PACKAGE LEAFLET" />
-            </coding>
-          </code>
+                      <coding>
+                        
+                        <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                        <code value="200000029894" />
+                        <display value="PACKAGE LEAFLET" />
+                      </coding>
+                    </code>
                     <text>
                         <status value="generated" />
                         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -86,695 +87,383 @@
                                     may harm them, even if their signs of illness are the same as yours.</li>
                                 <li>If you get any side effects, talk to your doctor, pharmacist or nurse. This
                                     includes any possible side effects not listed in this leaflet. See <a
-                                        href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>.</li>
+                                        href="#id-7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>.</li>
                             </ul>
+                            <ol>
+                                <li><a href="#id-5a34d358-e830-4308-8d86-cb1dc8b1ee8c">What Talzenna is and what it is
+                                        used for</a></li>
+                                <li><a href="#id-a2f089b4-fef4-497e-81bd-251cd9c7571f">What you need to know before you
+                                        take Talzenna</a></li>
+                                <li><a href="#id-958ed385-b409-41d8-a868-fa5ec1fbaba4">How to take Talzenna</a></li>
+                                <li><a href="#id-7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">Possible side effects</a></li>
+                                <li><a href="#id-eb80ccf5-f971-4361-b25c-b8d86c457a00">How to store Talzenna</a></li>
+                                <li><a href="#id-2531776f-f478-40bc-a19d-6970524b8793">Contents of the pack and other
+                                        information</a></li>
+                            </ol>
                         </div>
                     </text>
-                    <section>
-                        <title value="What is in this leaflet" />
+                    <section id="7c4f5a60-0d4e-ee11-be6e-000d3aaa06fe">                        
+                        <title value="1. What ProductX CompanyY is and what it is used for" />
                         <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="100000155538" />
-                <display value="What is in this leaflet" />
-              </coding>              
-            </code>
+                          <coding>
+                            
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029895" />
+                            <display value="1. What X is and what it is used for" />
+                          </coding>
+                        </code>
                         <text>
+                          <status value="generated" />
+                          <div xmlns="http://www.w3.org/1999/xhtml">
+                            
+                          </div>
+                        </text>
+                      </section>
+                      <section id="844f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                        <title value="2. What you need to know before you take ProductX CompanyY" />
+                        <code>
+                          <coding>
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029896" />
+                            <display value="2. What you need to know before you [take] [use] X" />
+                          </coding>
+                        </code>
+                        <text>
+                          <status value="generated" />
+                          <div xmlns="http://www.w3.org/1999/xhtml">
+                            
+                          </div>
+                        </text>
+                        <section id="8c4f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Do not take ProductX CompanyY" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029897" />
+                              <display value="Do not [take] [use] X" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <ol>
-                                    <li><a href="#5a34d358-e830-4308-8d86-cb1dc8b1ee8c">What Talzenna is and what it is
-                                            used for</a></li>
-                                    <li><a href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">What you need to know before you
-                                            take Talzenna</a></li>
-                                    <li><a href="#958ed385-b409-41d8-a868-fa5ec1fbaba4">How to take Talzenna</a></li>
-                                    <li><a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">Possible side effects</a></li>
-                                    <li><a href="#eb80ccf5-f971-4361-b25c-b8d86c457a00">How to store Talzenna</a></li>
-                                    <li><a href="#2531776f-f478-40bc-a19d-6970524b8793">Contents of the pack and other
-                                            information</a></li>
-                                </ol>
+                                
                             </div>
-                        </text>
-                    </section>
-                </section>
-                <section id="5a34d358-e830-4308-8d86-cb1dc8b1ee8c">
-                    <title value="1. What Talzenna is and what it is used for" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029895" />
-              <display value="1. What X is and what it is used for" />
-            </coding>            
-          </code>
-                    <text>
-                        <status value="generated" />
-                        <div xmlns="http://www.w3.org/1999/xhtml">
-                            <p>
-                                <b>What Talzenna is and how it works</b>
-                            </p>
-                            <p>Talzenna contains the active substance talazoparib. It is a type of anticancer
-                                medicine known as a ‘PARP (poly-ADP ribose polymerase) inhibitor’.</p>
-                            <p>Talzenna works by blocking PARP, which is an enzyme that
-                                repairs damaged DNA in certain cancer cells. As a result, the cancer cells can no
-                                longer repair themselves and they die.</p>
-                            <p>
-                                <b>What Talzenna is used for</b>
-                            </p>
-                            <p>Talzenna is a medicine used </p>
-                            <ul>
-                                <li>
-                                    <p class="breastCancer">alone to treat adults with breast cancer of a type
-                                        known as HER2-negative breast cancer who have an abnormal inherited BRCA gene.
-                                        Your healthcare provider will perform a test to make sure that Talzenna is right
-                                        for you. </p>
-                                </li>
-                                <li>
-                                    <p class="prostateCancer">in combination with a medicine called enzalutamide, to
-                                        treat adults with prostate cancer who no longer respond to a hormone therapy or
-                                        surgical treatment to lower testosterone.</p>
-                                </li>
-                            </ul>
-                            <p>Talzenna is used when the cancer has spread beyond the original tumour or to other
-                                parts of the body.</p>
-                            <p>If you have any questions about how Talzenna works or why this medicine has been
-                                prescribed for you, ask your doctor.</p>
-                        </div>
-                    </text>
-                </section>
-                <section id="a2f089b4-fef4-497e-81bd-251cd9c7571f">
-                    <title value="2. What you need to know before you take Talzenna" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029896" />
-              <display value="2. What you need to know before you take X" />
-            </coding>            
-          </code>
-                    <section>
-                        <title value="Do not take Talzenna" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029897" />
-                <display value="Do not &amp;lt;take&amp;gt;; &amp;lt;use&amp;gt; X" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="954f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Warnings and precautions" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029898" />
+                              <display value="Warnings and precautions" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <ul>
-                                    <li class="allergen">
-                                        <p>If you are allergic to talazoparib or any of the other ingredients of this
-                                            medicine (listed in section 6).</p>
-                                    </li>
-                                    <li class="breastFeeding">
-                                        <p>If you are breast-feeding.</p>
-                                    </li>
-                                </ul>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Warnings and precautions" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029898" />
-                <display value="Warnings and precautions" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="a54f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Other medicines and ProductX CompanyY" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029900" />
+                              <display value="Other medicines and X" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Talk to your doctor, pharmacist or nurse before taking Talzenna and during your
-                                    treatment if you experience signs or symptoms described in this section.</p>
-                                <p>
-                                    <span style="text-decoration: underline;">Low blood cell counts</span>
-                                </p>
-                                <p>Talzenna lowers your blood cell counts, such as your red blood cell count
-                                    (anaemia), white blood cell count (neutropenia), or blood platelet count
-                                    (thrombocytopenia). Signs and symptoms you need to look out for include:</p>
-                                <ul>
-                                    <li>
-                                        <p><b>Anaemia: </b>Being short of breath, feeling very tired, pale skin, or fast
-                                            heartbeat – these may be signs of a low red blood cell count.</p>
-                                    </li>
-                                    <li>
-                                        <p><b>Neutropenia: </b>Infection, developing chills or shivering, or fever –
-                                            these may be signs of a low white blood cell count.</p>
-                                    </li>
-                                    <li>
-                                        <p><b>Thrombocytopenia: </b>Bruising or bleeding for longer than usual if you
-                                            hurt yourself – these may be signs of a low blood platelet count.</p>
-                                    </li>
-                                </ul>
-                                <p>You will have regular blood tests during treatment with Talzenna to check your
-                                    blood cells (white blood cells, red blood cells, and platelets).</p>
-                                <p>
-                                    <span style="text-decoration: underline;">Serious problems with the bone marrow</span>
-                                </p>
-                                <p>Rarely, low blood cell counts may be a sign of more serious problems with the
-                                    bone marrow such as myelodysplastic syndrome (MDS) or acute myeloid leukaemia
-                                    (AML). Your doctor may want to test your bone marrow to check for these problems.
-                                </p>
-                                <p><span style="text-decoration: underline;">Blood clots</span></p>
-                                <p>Talzenna may cause blood clots in the veins. Tell your doctor, pharmacist or nurse if
-                                    you experience signs or symptoms of blood clots in the veins such as pain or
-                                    stiffness, swelling and redness in the affected leg (or arm), chest pain, shortness
-                                    of breath or lightheadedness.</p>
-                                <p>
-                                    <span style="text-decoration: underline;">Male and female contraception</span>
-                                </p>
-                                <p class="Adolescent Adult Elderly">Women who can become pregnant and men with
-                                    partners who are or can become pregnant should use effective contraception.</p>
-                                <p class="Adolescent Adult Elderly">Please see section <a
-                                        href="#698cd895-3954-4de6-80f1-f65fcc40288f">“Male and female
-                                        contraception”</a> below.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Children and adolescents" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029899" />
-                <display value="Children and adolescents" />
-              </coding>              
-            </code>
-                        <text>
-                            <status value="generated" />
-                            <div xmlns="http://www.w3.org/1999/xhtml" class="Under18">
-                                <p>Talzenna is not to be used in children or adolescents (under 18 years of age).</p>
-                            </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Other medicines and Talzenna" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029900" />
-                <display value="Other medicines and Talzenna" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="b04f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Pregnancy, breast-feeding and fertility" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029902" />
+                              <display value="Pregnancy [and] [,] breast-feeding [and fertility]" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Tell your doctor, pharmacist or nurse if you are taking, have recently taken or
-                                    might take any other medicines. This includes medicines obtained without a
-                                    prescription and herbal medicines. This is because Talzenna can affect the way
-                                    some other medicines work. Also some medicines can affect the way Talzenna works.
-                                </p>
-                                <p
-                                    class="Amiodarone carvedilol dronedarone propafenone quinidine ranolazine verapamil Clarithromycin erythromycin Itraconazole ketoconazole Cobicistat darunavir indinavir lopinavir ritonavir saquinavir telaprevir tipranavir Ciclosporin Curcumin turmericRoot">
-                                    In
-                                    particular, the following may increase the risk of side effects with Talzenna:</p>
-                                <ul>
-                                    <li
-                                        class="Amiodarone carvedilol dronedarone propafenone quinidine ranolazine verapamil">
-                                        <p>Amiodarone, carvedilol, dronedarone, propafenone, quinidine, ranolazine and
-                                            verapamil – generally used to treat heart problems.</p>
-                                    </li>
-                                    <li class="Clarithromycin erythromycin">
-                                        <p>Clarithromycin and erythromycin antibiotics – used to treat bacterial
-                                            infections.</p>
-                                    </li>
-                                    <li class="Itraconazole ketoconazole">
-                                        <p>Itraconazole and ketoconazole – used to treat fungal infections.</p>
-                                    </li>
-                                    <li
-                                        class="Cobicistat darunavir indinavir lopinavir ritonavir saquinavir telaprevir tipranavir">
-                                        <p>Cobicistat, darunavir, indinavir, lopinavir, ritonavir, saquinavir,
-                                            telaprevir and tipranavir used to treat HIV infections/AIDS.</p>
-                                    </li>
-                                    <li class="Ciclosporin">
-                                        <p>Ciclosporin – used in organ transplantation to prevent rejection.</p>
-                                    </li>
-                                    <li class="Lapatinib">
-                                        <p>Lapatinib – used to treat patients with certain types of breast cancer.</p>
-                                    </li>
-                                    <li class="Curcumin turmericRoot">
-                                        <p>Curcumin (e.g. found in turmeric root) in some medicines (see also section
-                                            Talzenna with food and drink below).</p>
-                                    </li>
-                                </ul>
-                                <p class="Carbamazepine phenytoin StJohnsWort">The following medicines may reduce
-                                    the effect of Talzenna:</p>
-                                <ul>
-                                    <li class="Carbamazepine phenytoin">
-                                        <p>Carbamazepine and phenytoin – anti-epileptics used to treat seizures or fits.
-                                        </p>
-                                    </li>
-                                    <li class="StJohnsWort">
-                                        <p>St. John’s wort (<i>Hypericum perforatum</i>) – a herbal remedy used to treat
-                                            mild depression and anxiety.</p>
-                                    </li>
-                                </ul>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Talzenna with food and drink" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029901" />
-                <display
-                value="X with &amp;lt;food&amp;gt; &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; &amp;lt;drink&amp;gt; &amp;lt;and&amp;gt; &amp;lt;alcohol&amp;gt;" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="b94f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Driving and using machines" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029903" />
+                              <display value="Driving and using machines" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Do not use curcumin in food supplements while you are taking Talzenna as it may
-                                    increase Talzenna’s side effects. Curcumin is found in turmeric root and you
-                                    should not use large amounts of turmeric root, but using spices in food is not
-                                    likely to cause a problem.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Pregnancy" />
+                          </text>
+                        </section>
+                      </section>
+                      <section id="ca4f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                        <title value="3. How to take ProductX CompanyY" />
                         <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029902" />
-                <display
-                value="Pregnancy &amp;lt;and&amp;gt; &amp;lt;,&amp;gt; breast-feeding &amp;lt;and fertility&amp;gt;" />
-              </coding>              
-            </code>
+                          <coding>
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029905" />
+                            <display value="3. How to [take] [use] X" />
+                          </coding>
+                        </code>
                         <text>
+                          <status value="generated" />
+                          <div xmlns="http://www.w3.org/1999/xhtml">
+                            
+                          </div>
+                        </text>
+                        <section id="50505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="How much ProductX CompanyY to take" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Talzenna could harm an unborn baby. <span class="Female">If you are pregnant or
-                                        breast-feeding, think you may be pregnant or are planning to have a baby, ask
-                                        your
-                                        doctor or pharmacist for advice before taking this medicine. Your doctor will
-                                        perform a pregnancy test prior to starting Talzenna.</span></p>
-                                <ul>
-                                    <li class="Pregnant">
-                                        <p>You should not use Talzenna if you are pregnant.</p>
-                                    </li>
-                                    <li class="Female">
-                                        <p>You should not become pregnant while taking Talzenna.</p>
-                                    </li>
-                                    <li>
-                                        <p>Discuss contraception with your doctor if there is any possibility that you
-                                            or your partner may become pregnant.</p>
-                                    </li>
-                                </ul>
-                                <p id="698cd895-3954-4de6-80f1-f65fcc40288f">
-                                    <b>Male and female contraception</b>
-                                </p>
-                                <p class="Female"><b>Women </b>who are able to become pregnant should use effective
-                                    birth control (contraception) during treatment with Talzenna and for at least 7
-                                    months after the last dose of Talzenna. Since the use of hormonal contraception is
-                                    not recommended if you have breast cancer, you should use two non-hormonal
-                                    contraception methods.</p>
-                                <p class="Female">Talk to your healthcare provider about birth control methods that
-                                    may be right for you.</p>
-                                <p class="Male"><b>Men </b>with female partners who are pregnant or able to become
-                                    pregnant should use effective birth control (contraception), even after a
-                                    vasectomy, during treatment with Talzenna and for at least 4 months after the last
-                                    dose.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Breast-feeding" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029902" />
-                <display value="Breast-feeding" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="55505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Use in children and adolescents" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p class="breastFeeding">You should not breast-feed while taking Talzenna and for at
-                                    least 1 month after the last dose. It is not known if Talzenna passes into breast
-                                    milk.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Fertility" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029902" />
-                <display value="Fertility" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="5b505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="When and how to take ProductX CompanyY" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p class="Male">Talazoparib may reduce fertility in men.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Driving and using machines" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029903" />
-                <display value="Driving and using machines" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="60505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="How long to take ProductX CompanyY" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Talzenna may have a minor influence on the ability to drive and use machines. If
-                                    you feel dizzy, weak, or tired (these are very common side effects of Talzenna),
-                                    you should not drive or use machines.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                </section>
-                <section id="958ed385-b409-41d8-a868-fa5ec1fbaba4">
-                    <title value="3. How to take Talzenna" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029905" />
-              <display value="3. How to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
-            </coding>            
-          </code>
-                    <text>
-                        <status value="generated" />
-                        <div xmlns="http://www.w3.org/1999/xhtml">
-                            <p>Always take this medicine exactly as your doctor or pharmacist has told you. Check
-                                with your doctor or pharmacist if you are not sure.</p>
-                            <p>
-                                <b>How much to take</b>
-                            </p>
-                            <p>Talzenna is taken by mouth once daily. The recommended dose is:</p>
-                            <ul>
-                                <li>
-                                    <p class="breastCancer">for breast cancer: one 1 mg capsule of Talzenna.</p>
-                                </li>
-                                <li>
-                                    <p class="prostateCancer">for prostate cancer: Talzenna is taken with a medicine
-                                        called enzalutamide. The usual dose of Talzenna is 0.5 mg (two 0.25 mg
-                                        capsules).</p>
-                                </li>
-                            </ul>
-                            <p>If you get certain side effects while you are taking Talzenna alone or in combination
-                                with enzalutamide (see <a href="#7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">section 4</a>),
-                                your doctor may lower your dose or stop treatment, either temporarily or permanently.
-                                Take Talzenna and enzalutamide exactly as your doctor has told you. </p>
-                            <p>Swallow the capsule whole with a glass of water. Do not chew or crush the capsules. You
-                                can take Talzenna with food or between meals. Do not open the capsules. Contact with the
-                                capsule content should be avoided.</p>
-                        </div>
-                    </text>
-                    <section>
-                        <title value="If you take more Talzenna than you should" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029907" />
-                <display value="If you &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; more X than you should" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="68505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="If you take more ProductX CompanyY than you should" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>If you have taken more Talzenna than your normal dose, contact your doctor or
-                                    nearest hospital right away. Urgent treatment may be necessary.</p>
-                                <p>Take the carton and this leaflet so that the doctor knows what you have been
-                                    taking.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="If you forget to take Talzenna" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029908" />
-                <display value="If you forget to &amp;lt;take&amp;gt; &amp;lt;use&amp;gt; X" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="6d505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="If you forget to take ProductX CompanyY" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000044346" />
+                              <display value="Code for custom sub-sections (level 3)" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>If you miss a dose or vomit, take your next dose as scheduled. Do not take a
-                                    double dose to make up for the forgotten or vomited capsules.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="If you stop taking Talzenna" />
+                          </text>
+                        </section>
+                      </section>
+                      <section id="f24f5a60-0d4e-ee11-be6e-000d3aaa06fe">
+                        <title value="4. Possible side effects" />
                         <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029909" />
-                <display value="If you stop &amp;lt;taking&amp;gt; &amp;lt;using&amp;gt; X" />
-              </coding>              
-            </code>
+                          <coding>
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029910" />
+                            <display value="4. Possible side effects" />
+                          </coding>
+                        </code>
                         <text>
+                          <status value="generated" />
+                          <div xmlns="http://www.w3.org/1999/xhtml">
+
+                          </div>
+                        </text>
+                        <section id="06505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Reporting of side effects" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029912" />
+                              <display value="Reporting of side effects" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Do not stop taking Talzenna unless your doctor tells you to.</p>
-                                <p>If you have any further questions on the use of this medicine, ask your doctor or
-                                    pharmacist or nurse.</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                </section>
-                <section id="7a996bcf-6f26-4e0e-ba8b-cb1c23c286b8">
-                    <title value="4. Possible side effects" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029910" />
-              <display value="4. Possible side effects" />
-            </coding>            
-          </code>
-                    <text>
-                        <status value="generated" />
-                        <div xmlns="http://www.w3.org/1999/xhtml">
-                            <p>Like all medicines, this medicine can cause side effects, although not everybody
-                                gets them.</p>
-                            <p>
-                                <b>Tell your doctor straight away if you notice any of the following symptoms which
-                                    could be a sign of serious blood disorder:</b>
-                            </p>
-                            <p><b>Very common</b> (may affect more than 1 in 10 people)</p>
-                            <ul>
-                                <li>Being short of breath, feeling very tired, having pale skin, or fast heartbeat –
-                                    these may be signs of a low red blood cell count (anaemia).</li>
-                                <li>Infection, developing chills or shivering, or fever or feeling hot – these may
-                                    be signs of a low white blood cell count (neutropenia).</li>
-                                <li>Bruising or bleeding for longer than usual if you hurt yourself – these may be
-                                    signs of a low blood platelet count (thrombocytopenia).</li>
-                            </ul>
-                            <p>
-                                <b>Talk to your doctor if you get any other side effects. These can include:</b>
-                            </p>
-                            <p><b>Very common</b> (may affect more than 1 in 10 people)</p>
-                            <ul>
-                                <li>Low counts of white blood cells, red blood cells, and blood platelets</li>
-                                <li>Decreased appetite</li>
-                                <li>Feeling dizzy</li>
-                                <li>Headache</li>
-                                <li>Feeling sick (nausea)</li>
-                                <li>Being sick (vomiting)</li>
-                                <li>Diarrhoea</li>
-                                <li>Pain in the abdomen</li>
-                                <li>Hair loss</li>
-                            </ul>
-                            <p><b>Common</b> (may affect up to 1 in 10 people)</p>
-                            <ul>
-                                <li>Alteration in taste (dysgeusia)</li>
-                                <li>Painful swollen leg, chest pain, shortness of breath, rapid breathing or rapid heart
-                                    rate as these can be signs of blood clots in the vein</li>
-                                <li>Indigestion</li>
-                                <li>Mouth inflammation</li>
-                            </ul>
-                            <p><b>Uncommon</b> (may affect up to 1 in 100 people)</p>
-                            <ul>
-                                <li>Abnormal blood cell counts due to serious problems with bone marrow (myelodysplastic
-                                    syndrome or acute myeloid leukaemia). See Warnings and precautions in <a
-                                        href="#a2f089b4-fef4-497e-81bd-251cd9c7571f">Section 2</a></li>
-                            </ul>
-                        </div>
-                    </text>
-                    <section>
-                        <title value="Reporting of side effects" />
+                          </text>
+                        </section>
+                      </section>
+                      <section id="0d505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                        <title value="5. How to store ProductX CompanyY" />
                         <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029912" />
-                <display value="Reporting of side effects" />
-              </coding>              
-            </code>
+                          <coding>
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029913" />
+                            <display value="5. How to store X" />
+                          </coding>
+                        </code>
                         <text>
+                          <status value="generated" />
+                          <div xmlns="http://www.w3.org/1999/xhtml">
+                            
+                          </div>
+                        </text>
+                      </section>
+                      <section id="16505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                        <title value="6. Contents of the pack and other information" />
+                        <code>
+                          <coding>
+                            <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                            <code value="200000029914" />
+                            <display value="6. Contents of the pack and other information" />
+                          </coding>
+                        </code>
+                        <section id="20505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="What ProductX CompanyY contains" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029915" />
+                              <display value="What X contains" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>If you get any side effects, talk to your doctor, pharmacist or nurse. This
-                                    includes any possible side effects not listed in this leaflet. You can also report
-                                    side effects directly via the Yellow Card Scheme at: <a
-                                        href="http://ema.europa.eu/fhir/CodeSystem/200000029659yellowcard">www.mhra.gov.uk/yellowcard</a> or
-                                    search for MHRA Yellow Card in the Google Play or Apple App Store. By reporting
-                                    side effects you can help provide more information on the safety of this medicine.
-                                </p>
+                                
                             </div>
-                        </text>
-                    </section>
-                </section>
-                <section id="eb80ccf5-f971-4361-b25c-b8d86c457a00">
-                    <title value="5. How to store Talzenna" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029913" />
-              <display value="5. How to store X" />
-            </coding>            
-          </code>
-                    <text>
-                        <status value="generated" />
-                        <div xmlns="http://www.w3.org/1999/xhtml">
-                            <p>Keep this medicine out of the sight and reach of children.</p>
-                            <p>Do not use this medicine after the expiry date which is stated on the carton and
-                                the bottle or blister after EXP. The expiry date refers to the last day of that
-                                month.</p>
-                            <p>This medicine does not require any special storage conditions.</p>
-                            <p>Do not use this medicine if the pack is damaged or shows signs of tampering.</p>
-                            <p>Do not throw away any medicines via wastewater or household waste. Ask your
-                                pharmacist how to throw away medicines you no longer use. These measures will help
-                                protect the environment.</p>
-                        </div>
-                    </text>
-                </section>
-                <section id="2531776f-f478-40bc-a19d-6970524b8793">
-                    <title value="6. Contents of the pack and other information" />
-                    <code>
-            <coding>
-              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-              <code value="200000029914" />
-              <display value="6. Contents of the pack and other information" />
-            </coding>            
-          </code>
-                    <section>
-                        <title value="What Talzenna contains" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029915" />
-                <display value="What X contains" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="26505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="What ProductX CompanyY looks like and contents of the pack" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029916" />
+                              <display value="What X looks like and contents of the pack" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
                             <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>The active substance is talazoparib. Talzenna hard capsules come in different
-                                    strengths.</p>
-                                <ul>
-                                    <li>Talzenna 0.1 mg hard capsules: each capsule contains talazoparib
-                                        tosylate equivalent to 0.1 mg talazoparib.</li>
-                                    <li>
-                                        <p>Talzenna 0.25 mg hard capsules: each capsule contains talazoparib tosylate
-                                            equivalent to 0.25 mg talazoparib.</p>
-                                    </li>
-                                    <li>
-                                        <p>Talzenna 1 mg hard capsules: each capsule contains talazoparib tosylate
-                                            equivalent to 1 mg talazoparib.</p>
-                                    </li>
-                                </ul>
-                                <p>The other ingredients are:</p>
-                                <ul>
-                                    <li>
-                                        <p>Capsule content: silicified microcrystalline cellulose (microcrystalline
-                                            cellulose and silicone dioxide).</p>
-                                    </li>
-                                    <li>0.1 mg capsule shell: hypromellose and titanium dioxide (E171).
-                                    </li>
-                                    <li>
-                                        <p>0.25 mg capsule shell: hypromellose, yellow iron oxide (E172), and
-                                            titanium dioxide (E171)</p>
-                                    </li>
-                                    <li>
-                                        <p>1 mg capsule shell: hypromellose, yellow iron oxide (E172), titanium
-                                            dioxide (E171), and red iron oxide (E172)</p>
-                                    </li>
-                                </ul>
-                                <p>Printing ink: shellac (E904), propylene glycol (E1520), ammonium hydroxide
-                                    (E527), black iron oxide (E172), and potassium hydroxide (E525).</p>
+                                
                             </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="What Talzenna looks like and contents of the pack" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029916" />
-                <display value="What X looks like and contents of the pack" />
-              </coding>              
-            </code>
-                        <text>
+                          </text>
+                        </section>
+                        <section id="2d505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Marketing Authorisation Holder" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029917" />
+                              <display value="Marketing Authorisation Holder and Manufacturer" />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
-                            <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p> Talzenna 0.1 mg is supplied as opaque, approximately 14 mm x 5 mm hard
-                                    capsule with a white cap (printed with “Pfizer” in black) and a white body (printed
-                                    with “TLZ 0.1” in black).</p>
-                                <p>Talzenna 0.25 mg is supplied as opaque, approximately 14 mm x
-                                    5 mm hard capsule with an ivory cap (printed with “Pfizer” in black) and a
-                                    white body (printed with “TLZ 0.25” in black).</p>
-                                <p>Talzenna 1 mg is supplied as opaque, approximately 14 mm x 5
-                                    mm hard capsule with a light red cap (printed with “Pfizer” in black) and a white
-                                    body (printed with “TLZ 1” in black).</p>
-                                <p>Talzenna 0.1 mg is available in plastic bottles of 30 hard capsules.
-                                </p>
-                                <p>Talzenna 0.25 mg is available in perforated unit dose blister
-                                    packs of 30, or 60, or 90 hard capsules and in plastic bottles of 30 hard
-                                    capsules.</p>
-                                <p>Talzenna 1 mg is available in perforated unit dose blister packs of
-                                    30 hard capsules and in plastic bottles of 30 hard capsules.</p>
-                                <p>Not all pack sizes may be marketed.</p>
-                            </div>
-                        </text>
-                    </section>
-                    <section>
-                        <title value="Marketing Authorization Holder and Manufacturer" />
-                        <code>
-              <coding>
-                <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
-                <code value="200000029917" />
-                <display value="Marketing Authorization Holder and Manufacturer" />
-              </coding>              
-            </code>
-                        <text>
+                            <div xmlns="http://www.w3.org/1999/xhtml"></div>
+                          </text>
+                        </section>
+                        <section id="36505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="This leaflet was last revised in" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029919" />
+                              <display value="This leaflet was last revised in [{MM/YYYY}][{month YYYY}]." />
+                            </coding>
+                          </code>
+                          <text>
                             <status value="generated" />
-                            <div xmlns="http://www.w3.org/1999/xhtml">
-                                <p>Pfizer Limited</p>
-                                <p>Ramsgate Road</p>
-                                <p>Sandwich</p>
-                                <p>Kent</p>
-                                <p>CT13 9NJ</p>
-                                <p>United Kingdom</p>
-                                <p>
-                                    <b>Manufacturer</b>
-                                </p>
-                                <p>Excella GmbH &amp; Co. KG</p>
-                                <p>Nürnberger Strasse 12</p>
-                                <p>90537 Feucht</p>
-                                <p>Germany</p>
-                                <p>For any information about this medicine, please contact:</p>
-                                <p>Medical Information, Pfizer Ltd, Walton Oaks, Dorking Road, Tadworth, Surrey,
-                                    KT20 7NS.</p>
-                                <p>Telephone 01304 616161</p>
-                                <p>
-                                    <b>This leaflet was last revised in 03/2024</b>
-                                </p>
-                            </div>
-                        </text>
+                            <div xmlns="http://www.w3.org/1999/xhtml">[Date of revision]</div>
+                          </text>
+                        </section>
+                        <section id="3d505a60-0d4e-ee11-be6e-000d3aaa06fe">
+                          <title value="Other sources of information" />
+                          <code>
+                            <coding>
+                              <system value="http://ema.europa.eu/fhir/CodeSystem/200000029659" />
+                              <code value="200000029920" />
+                              <display value="Other sources of information" />
+                            </coding>
+                          </code>
+                          <text>
+                            <status value="generated" />
+                            <div xmlns="http://www.w3.org/1999/xhtml"></div>
+                          </text>
+                        </section>
+                      </section>
                     </section>
+                  </Composition>
+                </resource>
+              </entry>
+
                 </section>
             </Composition>
         </resource>
