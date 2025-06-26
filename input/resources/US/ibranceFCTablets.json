@@ -4792,13 +4792,15 @@
                 ],
                 "indication": {
                     "diseaseSymptomProcedure": {
-                        "coding": [
+                        "concept": {
+                            "coding": [
                             {
                                 "system": "http://snomed.info/sct",
                                 "code": "254837009",
                                 "display": "Malignant tumor of breast"
                             }
                         ]
+                        }                        
                     }
                 }
             }
