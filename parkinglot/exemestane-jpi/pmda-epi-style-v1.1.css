@@ -1,0 +1,146 @@
+/* PMDA ePI Stylesheet v1.1 for Japanese aesthetic with enhanced 3D effect */
+body {
+    font-family: 'Noto Sans JP', 'Yu Gothic', 'Hiragino Kaku Gothic Pro', sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    color: #333;
+    background-color: #fefefe;
+    margin: 0;
+    padding: 30px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    margin: 30px 0;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #4682b4;
+    color: #2a2a2a;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 700;
+    margin: 20px 0 10px;
+    text-align: left;
+    color: #2a2a2a;
+    border-left: 4px solid #4682b4;
+    padding-left: 8px;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 15px 0 8px;
+    padding-left: 12px;
+    text-align: left;
+    color: #2a2a2a;
+}
+
+p {
+    margin: 8px 0;
+    text-align: left;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 12px;
+    background: linear-gradient(to bottom, #f5f7fa, #f9fafb);
+    border: 1px solid #a1b5d2;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+section:hover {
+    background: linear-gradient(to bottom, #f0f4f8, #f5f7fa);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+section.warning {
+    border: 2px solid #b22222;
+    padding: 12px;
+    margin: 20px 0;
+    background-color: #fff5f5;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+section.warning h2 {
+    margin-top: 0;
+    color: #b22222;
+}
+
+ul, ol {
+    margin: 8px 0 12px 24px;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0 20px;
+    font-size: 13px;
+    border: 1px solid #b0c4de;
+    background-color: #f9fafb;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
+    border-radius: 6px;
+}
+
+th, td {
+    border: 1px solid #b0c4de;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: #e6f0fa;
+    font-weight: 700;
+    color: #2a2a2a;
+}
+
+th[colspan="2"] {
+    background: linear-gradient(to bottom, #dfe4ea, #e6f0fa);
+    font-size: 14px;
+    text-align: center;
+    padding: 12px;
+    border-bottom: 2px solid #4682b4;
+}
+
+td {
+    background-color: #fff;
+}
+
+th[scope="row"] {
+    width: 35%;
+    font-weight: 600;
+}
+
+tr:hover td {
+    background-color: #f0f4f8;
+}
+
+p, div, li, th, td {
+    word-break: break-all;
+    white-space: normal;
+}
+
+footer {
+    font-size: 11px;
+    margin-top: 20px;
+    border-top: 1px solid #b0c4de;
+    padding-top: 10px;
+    text-align: left;
+    color: #555;
+}
