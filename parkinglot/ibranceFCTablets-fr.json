@@ -3737,8 +3737,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "FR",
+                                            "display": "France"
                                         }
                                     ]
                                 },
@@ -3746,8 +3746,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "FR",
+                                            "display": "France"
                                         }
                                     ]
                                 },
@@ -3755,8 +3755,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:ietf:bcp:47",
-                                            "code": "en",
-                                            "display": "English"
+                                            "code": "fr",
+                                            "display": "French"
                                         }
                                     ]
                                 }
@@ -3982,8 +3982,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "FR",
+                                            "display": "France"
                                         }
                                     ]
                                 },
@@ -3991,8 +3991,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "FR",
+                                            "display": "France"
                                         }
                                     ]
                                 },
@@ -4000,8 +4000,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:ietf:bcp:47",
-                                            "code": "en",
-                                            "display": "English"
+                                            "code": "fr",
+                                            "display": "French"
                                         }
                                     ]
                                 }

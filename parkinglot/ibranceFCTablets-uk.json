@@ -3737,8 +3737,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "UK",
+                                            "display": "United Kingdom"
                                         }
                                     ]
                                 },
@@ -3746,8 +3746,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "UK",
+                                            "display": "United Kingdom"
                                         }
                                     ]
                                 },
@@ -3982,8 +3982,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "UK",
+                                            "display": "United Kingdom"
                                         }
                                     ]
                                 },
@@ -3991,8 +3991,8 @@
                                     "coding": [
                                         {
                                             "system": "urn:iso:std:iso:3166",
-                                            "code": "US",
-                                            "display": "United States of America"
+                                            "code": "UK",
+                                            "display": "United Kingdom"
                                         }
                                     ]
                                 },
